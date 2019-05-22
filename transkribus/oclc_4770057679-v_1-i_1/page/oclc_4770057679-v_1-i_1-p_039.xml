@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.529+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.529+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_039.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مطبوعات ومخطوطات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مداواة النفوس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ل  ابن حزم  الأندلسي  تآليف كثيرة ضاع أكثرها بما لقيه من أضداده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في حياته على ما يتمثل لك من ترجمته. وقد ظفر بعض رجال العلم في المكتبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الظاهرية بدمشق بنسخة من كتاب له في الأخلاق سماه مداواة النفوس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وتهذيب الأخلاق والزهد في الرذائل فانتدب إلى طبعه الغيور محمد أفندي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هاشم الكتبي فكانت من بعض ما أحيي بالطبع من مآثر السلف الصالح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في هذا العصر. اقتبست منه صفحات قليلة في باب الصحف المنسية وعسى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن يتدارك الناشر بعض ما وقع فيه من الأغلاط في الطبعة الثانية. جمع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المؤلف في كتابه هذا معاني كثيرة أفاده إياها واهب التمييز تعالى بمرور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأيام وتعاقب الأحوال والإشراف على أحوال الزمان وآثر تقييدها على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جميع اللذات وعلى الازدياد من فضول المال وذم كل ما سبر من ذلك وأتعب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نفسه وأجهدها ليكون ذلك أفضل له من كنوز المال وعقد الأملاك. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وكتب الأخلاق مما ينبغي الحرص عليه اليوم وما أجمل ما قاله  أبو محمد علي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ابن أحمد  في الأخلاق: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إنما العقل أسا  س فوقه الأخلاق سور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فحلي العقل بالع  لم وإلا فهو نور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جاهل الأشياء أع  مى لا يرى كيف يدور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وتمام العلم بالعد  ل وإلا فهو زور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وزمام العدل بالج  ود وإلا فيجور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ مطبوعات ومخطوطات 
+
+ مداواة النفوس 
+ ل  ابن حزم  الأندلسي  تآليف كثيرة ضاع أكثرها بما لقيه من أضداده 
+ في حياته على ما يتمثل لك من ترجمته. وقد ظفر بعض رجال العلم في المكتبة 
+ الظاهرية بدمشق بنسخة من كتاب له في الأخلاق سماه مداواة النفوس 
+ وتهذيب الأخلاق والزهد في الرذائل فانتدب إلى طبعه الغيور محمد أفندي 
+ هاشم الكتبي فكانت من بعض ما أحيي بالطبع من مآثر السلف الصالح 
+ في هذا العصر. اقتبست منه صفحات قليلة في باب الصحف المنسية وعسى 
+ أن يتدارك الناشر بعض ما وقع فيه من الأغلاط في الطبعة الثانية. جمع 
+ المؤلف في كتابه هذا معاني كثيرة أفاده إياها واهب التمييز تعالى بمرور 
+ الأيام وتعاقب الأحوال والإشراف على أحوال الزمان وآثر تقييدها على 
+ جميع اللذات وعلى الازدياد من فضول المال وذم كل ما سبر من ذلك وأتعب 
+ نفسه وأجهدها ليكون ذلك أفضل له من كنوز المال وعقد الأملاك. 
+ وكتب الأخلاق مما ينبغي الحرص عليه اليوم وما أجمل ما قاله  أبو محمد علي 
+ ابن أحمد  في الأخلاق: 
+ إنما العقل أسا  س فوقه الأخلاق سور 
+ فحلي العقل بالع  لم وإلا فهو نور 
+ جاهل الأشياء أع  مى لا يرى كيف يدور 
+ وتمام العلم بالعد  ل وإلا فهو زور 
+ وزمام العدل بالج  ود وإلا فيجور </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

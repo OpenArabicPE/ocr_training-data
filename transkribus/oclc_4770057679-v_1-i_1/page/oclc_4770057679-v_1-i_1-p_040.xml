@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.597+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.597+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_040.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وملاك الجود بالنج  دة والجبن غرور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عف إن كنت غيو  راً ما زنى قط غيور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وكمال الكل بالتق  وى وقول الحق نور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذي أصول الفضل عنه  احدثت بعد النذور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومما ختم به ابن حزم رسالته وهو مما يقتضي أن يكون دستور العمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في كل علم وعمل قوله: وإذا ورد عليك خطاب بلسان أو هجمت على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كلام في كتاب فإياك تقابله مقابلة المغاضبة الباعثة على المبالغة قبل أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تتبين بطلانه ببرهان قاطع. وأيضاً فلا تقبل عليه  إقبال المصدق به المستحسن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> له قبل علمك فتظلم في كلا الوجهين جميعاً ولكن إقبال من يريد حظ نفسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في فهم ما سمع ورأى فالتزيد به علماً وقبوله إن كان حسناً أو رده إن كان خطأ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فمضمون لك إن فعلت ذلك الأجر الجزيل والحمد الكثير والفضل العميم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> منشآت الوهراني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كتاب مخطوط في  تسعة  كراريس ظفرت به في بعض خزائن الكتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا أريد أن أدلَّ عليه إذ ما كل ما كتب تنبغي العناية بنشره. الكتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جد في قالب هزل وعلم على مثال جهل وحقيقة في طرز خيال، تصفحته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تصفح متفكه مستفيد فما رأيته خلواً من شاردة تنقل ونكتة تؤثر. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كاتبه ركن الدين أبو عبد الله محمد الوهراني الجزائري من كتبة الرسائل والإنشاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في دمشق ومصر على عهد صلاح الدين يوسف وكان كما ترجمه ابن خلكان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أحد  الظرفاء قدم من بلاده إلى الديار المصرية في أيام السلطان صلاح الدين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وفنه الذي يمت به صناعة الإنشاء فلما دخل البلاد ورأى بها القاضي الفاضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وعماد الدين الأصبهاني الكاتب وتلك الحلبة علم من نفسه أنه ليس من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ وملاك الجود بالنج  دة والجبن غرور 
+ عف إن كنت غيو  راً ما زنى قط غيور 
+ وكمال الكل بالتق  وى وقول الحق نور 
+ ذي أصول الفضل عنه  احدثت بعد النذور 
+ ومما ختم به ابن حزم رسالته وهو مما يقتضي أن يكون دستور العمل 
+ في كل علم وعمل قوله: وإذا ورد عليك خطاب بلسان أو هجمت على 
+ كلام في كتاب فإياك تقابله مقابلة المغاضبة الباعثة على المبالغة قبل أن 
+ تتبين بطلانه ببرهان قاطع. وأيضاً فلا تقبل عليه  إقبال المصدق به المستحسن 
+ له قبل علمك فتظلم في كلا الوجهين جميعاً ولكن إقبال من يريد حظ نفسه 
+ في فهم ما سمع ورأى فالتزيد به علماً وقبوله إن كان حسناً أو رده إن كان خطأ 
+ فمضمون لك إن فعلت ذلك الأجر الجزيل والحمد الكثير والفضل العميم. 
+
+ منشآت الوهراني 
+ كتاب مخطوط في  تسعة  كراريس ظفرت به في بعض خزائن الكتب 
+ ولا أريد أن أدلَّ عليه إذ ما كل ما كتب تنبغي العناية بنشره. الكتاب 
+ جد في قالب هزل وعلم على مثال جهل وحقيقة في طرز خيال، تصفحته 
+ تصفح متفكه مستفيد فما رأيته خلواً من شاردة تنقل ونكتة تؤثر. 
+ كاتبه ركن الدين أبو عبد الله محمد الوهراني الجزائري من كتبة الرسائل والإنشاء 
+ في دمشق ومصر على عهد صلاح الدين يوسف وكان كما ترجمه ابن خلكان 
+ أحد  الظرفاء قدم من بلاده إلى الديار المصرية في أيام السلطان صلاح الدين 
+ وفنه الذي يمت به صناعة الإنشاء فلما دخل البلاد ورأى بها القاضي الفاضل 
+ وعماد الدين الأصبهاني الكاتب وتلك الحلبة علم من نفسه أنه ليس من </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

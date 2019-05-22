@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.663+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.663+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_041.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> طبقتهم ولا تنفق سلعته مع وجودهم فعدل عن طريق الجد وسلك طريق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الهزل وعمل المنامات والرسائل المشهورة به والمنسوبة إليه وفيها دلالة على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خفة روحه ورقة حاشيته وكمال ظرفه. وقد تولى الوهراني الخطابة بداريا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إحدى  أمهات قرى الغوطة بدمشق وتوفي بها  سنة  ٥٧٥  هـ. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هذا هو المؤلف ومصنفه أنموذج يقول بأن الرقاعة ارتقت في ذاك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العصر كما ارتقت البلاغة وأن الدولة الصلاحية بما اشتهر عنها من الانطلاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وانتشار المعارف ا  تسع  صدرها لمثل الوهراني اتساعه لأمثال البيساني للتين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قوم وللجميز أقوام وكلام المؤلف على خلطه وخبطه يضحك العبوس وقلما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تنقبض منه النفوس إلا لدن سماع بعض الألفاظ السخيفة التي تنبو عنها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأذواق السليمة في هذا العصر. وقد رأى القارئ أمثلة من كتابته ورقاعته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في باب الصحف المنسية وهذا المؤلف أشبه بموليير ورابلي من شعراء  الفرنسيس  الفرنسيين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في النكات والأضاحيك ولكل أمة رجالها والناس كأسنان المشط في الاستواء. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نصائح للعملة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هو كتاب ألفه بالفرنسية  أحد  كتاب الفرنسيين  المسيو  بارو توخى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> البحث في إيجاد السبل لتحسين حال العملة فحاز استحسان الخاصة والعامة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حتى منحه المجمع العلمي الباريسي  جائزة الإجادة وتدارسه بعض الراغبين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في النهوض. وقد كتبه بعبارة بسيطة ليفهمه طبقات القراء كافة ويتدبروه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كل التدبر يقصد المؤلف مما كتب طبقة العملة خاصة من الصناع والزراع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولكن مصنفه البديع يستفيد به كل طالع محكمة بل كل عامل في الأرض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> موعظة حسنة. فيتناول منه عملة بولاق وترع النيل وسائر مزارعي أرياف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> طبقتهم ولا تنفق سلعته مع وجودهم فعدل عن طريق الجد وسلك طريق 
+ الهزل وعمل المنامات والرسائل المشهورة به والمنسوبة إليه وفيها دلالة على 
+ خفة روحه ورقة حاشيته وكمال ظرفه. وقد تولى الوهراني الخطابة بداريا 
+ إحدى  أمهات قرى الغوطة بدمشق وتوفي بها  سنة  ٥٧٥  هـ. 
+ هذا هو المؤلف ومصنفه أنموذج يقول بأن الرقاعة ارتقت في ذاك 
+ العصر كما ارتقت البلاغة وأن الدولة الصلاحية بما اشتهر عنها من الانطلاق 
+ وانتشار المعارف ا  تسع  صدرها لمثل الوهراني اتساعه لأمثال البيساني للتين 
+ قوم وللجميز أقوام وكلام المؤلف على خلطه وخبطه يضحك العبوس وقلما 
+ تنقبض منه النفوس إلا لدن سماع بعض الألفاظ السخيفة التي تنبو عنها 
+ الأذواق السليمة في هذا العصر. وقد رأى القارئ أمثلة من كتابته ورقاعته 
+ في باب الصحف المنسية وهذا المؤلف أشبه بموليير ورابلي من شعراء  الفرنسيس  الفرنسيين 
+ في النكات والأضاحيك ولكل أمة رجالها والناس كأسنان المشط في الاستواء. 
+
+ نصائح للعملة 
+ هو كتاب ألفه بالفرنسية  أحد  كتاب الفرنسيين  المسيو  بارو توخى 
+ البحث في إيجاد السبل لتحسين حال العملة فحاز استحسان الخاصة والعامة 
+ حتى منحه المجمع العلمي الباريسي  جائزة الإجادة وتدارسه بعض الراغبين 
+ في النهوض. وقد كتبه بعبارة بسيطة ليفهمه طبقات القراء كافة ويتدبروه 
+ كل التدبر يقصد المؤلف مما كتب طبقة العملة خاصة من الصناع والزراع 
+ ولكن مصنفه البديع يستفيد به كل طالع محكمة بل كل عامل في الأرض 
+ موعظة حسنة. فيتناول منه عملة بولاق وترع النيل وسائر مزارعي أرياف </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

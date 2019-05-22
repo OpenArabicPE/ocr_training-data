@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.803+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.803+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_030.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كيفياته ويلبسه صفاته فترى الفاضل يودُّ لو كان الناس فضلاء وترى كل من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذكر شيئاً يحض عليه بقول أو فعل أمراً مداوماً وكل ذي مذهب يود لو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كان الناس موافقين له وترى ذلك في الغياض إذا أحال بعضها على بعض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أحاله إلى نوعيته وترى ذلك في تركيب الشجر وفي تغذي النبات والشجر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والماء ورطوبة الأرض وإحالتها ذلك إلى نوعيتها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نكات الوهراني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كتب الوهراني على لسان بغلته إلى الأمير عز الدين موسك فقال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المملوكة ريحانة بغلة الوهراني تقبل الأرض بين يدي المولى عز الدين حسام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أمير المؤمنين، نجاه الله من حر نار السعير، وعطر بذكره قوافل العير، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ورزقه من القرط والتبن والشعير، وسق  مائة  ألف  بعير، واستجاب فيه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> صالح الأدعية من الجم الغفير، من الخيل والبغال والحمير، وتنهي كل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما تقاسيه من مواصلة الصيام، وسوء القيام، والتعب في الليل والدواب نيام، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قد أشرفت مملوكته على التلف، وصاحبها لا يحتمل الكلف، ولا يوقن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالخلف، ولا يحل به البلاء العظيم، إلا في وقت حاجتي إلى القضيم، لأنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في بيته مثل المسك والعبير. . . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فشعيره أبعد من الشعرى العبور، لا وصول إليه ولا عبور، وقرطه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أعزُّ من قرط مارية، لا يخرجه بيع ولا هبة ولا عارية، والتبن أحبُّ إليه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الابن، والجلبان، أعز من دهن البان، والقضيم، بمنزلة الدر النظيم، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والفصة، أجمل من سبائك الفضة، وأما الفول، فمن دونه  ألف  باب مقفول، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فما يهون عليه أن يعلف الدواب، إلا بعيون الآداب، والفقه اللباب، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> كيفياته ويلبسه صفاته فترى الفاضل يودُّ لو كان الناس فضلاء وترى كل من 
+ ذكر شيئاً يحض عليه بقول أو فعل أمراً مداوماً وكل ذي مذهب يود لو 
+ كان الناس موافقين له وترى ذلك في الغياض إذا أحال بعضها على بعض 
+ أحاله إلى نوعيته وترى ذلك في تركيب الشجر وفي تغذي النبات والشجر 
+ والماء ورطوبة الأرض وإحالتها ذلك إلى نوعيتها. 
+
+ نكات الوهراني 
+ كتب الوهراني على لسان بغلته إلى الأمير عز الدين موسك فقال: 
+ المملوكة ريحانة بغلة الوهراني تقبل الأرض بين يدي المولى عز الدين حسام 
+ أمير المؤمنين، نجاه الله من حر نار السعير، وعطر بذكره قوافل العير، 
+ ورزقه من القرط والتبن والشعير، وسق  مائة  ألف  بعير، واستجاب فيه 
+ صالح الأدعية من الجم الغفير، من الخيل والبغال والحمير، وتنهي كل 
+ ما تقاسيه من مواصلة الصيام، وسوء القيام، والتعب في الليل والدواب نيام، 
+ قد أشرفت مملوكته على التلف، وصاحبها لا يحتمل الكلف، ولا يوقن 
+ بالخلف، ولا يحل به البلاء العظيم، إلا في وقت حاجتي إلى القضيم، لأنه 
+ في بيته مثل المسك والعبير. . . 
+ فشعيره أبعد من الشعرى العبور، لا وصول إليه ولا عبور، وقرطه 
+ أعزُّ من قرط مارية، لا يخرجه بيع ولا هبة ولا عارية، والتبن أحبُّ إليه 
+ من الابن، والجلبان، أعز من دهن البان، والقضيم، بمنزلة الدر النظيم، 
+ والفصة، أجمل من سبائك الفضة، وأما الفول، فمن دونه  ألف  باب مقفول، 
+ فما يهون عليه أن يعلف الدواب، إلا بعيون الآداب، والفقه اللباب، </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

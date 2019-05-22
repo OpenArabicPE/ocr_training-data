@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.897+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.897+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_044.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ثلاثة آلاف  فرنك وباع دماغه بخمسين  ألف  فرنك قبض بعضها من  أحد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الباحثين ليفحص دماغه بعد موته وأوصى إذا هلك في إنكلترا أن يحزَّ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رأسه للحال ويحنط ويبعث به إلى أميركا. ويقال أن دماغه يزيد نحو  ثلثمائة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> غرام عن دماغ كوفيه الذي حاز الأولية في كبر الأدمغة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> السل في القرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يقولون أن السل ينتشر بين سكان القرى والريف انتشاره في الأمصار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والمدن وسببه الغبار والكحول وفساد المعيشة وإنهاك القوى والفحش </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا سبيل إلى تلافي ذلك الخطب إلا بأن تجعل الحكومات فئة من أطبائها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يختلفون إلى الأرياف فيعزلون السقيم عن السليم ويقيمون للمسلولين مستشفيات. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> دجاجة حاضنة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جرت حتى اليوم تجارب كثيرة بين أجناس الحيوانات في أمر التناسل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولكنه لم يعهد في حوادث التاريخ الطبيعي أن حضنت دجاجة أجراء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كلاباً صغيرة  فقد خطر لأحدهم في بلاد الإنكليز أن يستعيض عن البيض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الذي تحضنه الدجاجة بصغار الكلاب فطاوعته الدجاجة وبذل لها ولما تحضنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من هذه الرضع عنايته كأن يسقيها بإبريق ذي زمولة  مصاصة  وغير ذلك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من ضروب العناية فأفلح في تجربته. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقاية الكتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لما احترقت  مكتبة  تورين  في  إيطاليا  في العهد الأخير وذهب فيها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أمهات الكتب العظيمة ما طالت له حسرة العلم والعلماء قام جمهور من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رجال الغرب يفكرون في إيجاد طريقة تحفظ بها ثمرات العقول ولا تسطو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> ثلاثة آلاف  فرنك وباع دماغه بخمسين  ألف  فرنك قبض بعضها من  أحد 
+ الباحثين ليفحص دماغه بعد موته وأوصى إذا هلك في إنكلترا أن يحزَّ 
+ رأسه للحال ويحنط ويبعث به إلى أميركا. ويقال أن دماغه يزيد نحو  ثلثمائة 
+ غرام عن دماغ كوفيه الذي حاز الأولية في كبر الأدمغة. 
+
+ السل في القرى 
+ يقولون أن السل ينتشر بين سكان القرى والريف انتشاره في الأمصار 
+ والمدن وسببه الغبار والكحول وفساد المعيشة وإنهاك القوى والفحش 
+ ولا سبيل إلى تلافي ذلك الخطب إلا بأن تجعل الحكومات فئة من أطبائها 
+ يختلفون إلى الأرياف فيعزلون السقيم عن السليم ويقيمون للمسلولين مستشفيات. 
+
+ دجاجة حاضنة 
+ جرت حتى اليوم تجارب كثيرة بين أجناس الحيوانات في أمر التناسل 
+ ولكنه لم يعهد في حوادث التاريخ الطبيعي أن حضنت دجاجة أجراء 
+ كلاباً صغيرة  فقد خطر لأحدهم في بلاد الإنكليز أن يستعيض عن البيض 
+ الذي تحضنه الدجاجة بصغار الكلاب فطاوعته الدجاجة وبذل لها ولما تحضنه 
+ من هذه الرضع عنايته كأن يسقيها بإبريق ذي زمولة  مصاصة  وغير ذلك 
+ من ضروب العناية فأفلح في تجربته. 
+
+ وقاية الكتب 
+ لما احترقت  مكتبة  تورين  في  إيطاليا  في العهد الأخير وذهب فيها 
+ من أمهات الكتب العظيمة ما طالت له حسرة العلم والعلماء قام جمهور من 
+ رجال الغرب يفكرون في إيجاد طريقة تحفظ بها ثمرات العقول ولا تسطو </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

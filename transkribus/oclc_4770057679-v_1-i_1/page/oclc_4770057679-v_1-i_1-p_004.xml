@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:30.986+03:00</Created>
+        <LastChange>2019-05-22T11:11:30.986+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_004.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومال أولاً به النظر في الفقه إلى رأي محمد بن إدريس الشافعي رحمه الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وناضل عن  مذهبه، وانحرف عن مذهب سواه، حتى وُسم به، ونسب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إليه، فاستهدف بذلك لكثير من الفقهاء، وعيب بالشذوذ، ثم عدل في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الآخر إلى قول أصحاب الظاهر مذهب داود بن علي ومن اتبعه من فقهاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمصار، فنقحه ونهجه، وجادل عنه، ووضع الكتب في بسطه، وثبت عليه، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إلى أن مضى لسبيله رحمه الله. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وكان يحمل علمه هذا ويجادل من خالفه فيه على استرسال في طباعه، ومذل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إفشاء  بأسراره، واستناد إلى العهد الذي أخذه الله على العلماء من عباده، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليبيننه للناس ولا يكتمونه. فلم يكُ يلطف صدعه، بما عنده، بتعريض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا يزنه بتدريج، بل يصك به معارضه صكّ الجندل، وينشقه متلقنه انتشاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الخردل، فينفر عنه القلوب، ويوقع به الندوب، حتى استهدف إلى فقهاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقته فتمالؤوا على بغضه، وردوا أقواله، وأجمعوا على تضليله، وشنعوا عليه، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وحذروا سلاطينهم من فتنه، ونهوا عوامهم عن الدنو إليه، والأخذ عنه، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فطفق الملوك يقصونه عن قربهم، ويسيرونه عن بلادهم، إلى أن انتهوا به </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> منقطع أثره بتربة بلده من بادية لبلة وبها توفي رحمه الله سنة  ست  و  خمسين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> و  أربعمائة  وهو في ذلك غير مرتدع، ولا راجع إلى ما أرادوا به. يبث علمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في من ينتابه بباديته تلك من عامة المقتبسين منهم من أصاغر الطلبة الذين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا يخشون فيه الملامة يحدثهم ويفقههم، ويدارسهم، ولا يدع المثابرة على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التعليم  والمواظبة على التأليف والإكثار من التصنيف، حتى كمل من مصنفاته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في فنون من العلم وقر بعير لم يعدُ أكثرها عتبة باديته بتزهيد الفقهاء وطلاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العلم فيها، حتى حرق بعضها باشبيلية، ومزقت علانية، لا يزيد مؤلفها في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ ومال أولاً به النظر في الفقه إلى رأي محمد بن إدريس الشافعي رحمه الله 
+ وناضل عن  مذهبه، وانحرف عن مذهب سواه، حتى وُسم به، ونسب 
+ إليه، فاستهدف بذلك لكثير من الفقهاء، وعيب بالشذوذ، ثم عدل في 
+ الآخر إلى قول أصحاب الظاهر مذهب داود بن علي ومن اتبعه من فقهاء 
+ الأمصار، فنقحه ونهجه، وجادل عنه، ووضع الكتب في بسطه، وثبت عليه، 
+ إلى أن مضى لسبيله رحمه الله. 
+ وكان يحمل علمه هذا ويجادل من خالفه فيه على استرسال في طباعه، ومذل 
+ إفشاء  بأسراره، واستناد إلى العهد الذي أخذه الله على العلماء من عباده، 
+ ليبيننه للناس ولا يكتمونه. فلم يكُ يلطف صدعه، بما عنده، بتعريض 
+ ولا يزنه بتدريج، بل يصك به معارضه صكّ الجندل، وينشقه متلقنه انتشاق 
+ الخردل، فينفر عنه القلوب، ويوقع به الندوب، حتى استهدف إلى فقهاء 
+ وقته فتمالؤوا على بغضه، وردوا أقواله، وأجمعوا على تضليله، وشنعوا عليه، 
+ وحذروا سلاطينهم من فتنه، ونهوا عوامهم عن الدنو إليه، والأخذ عنه، 
+ فطفق الملوك يقصونه عن قربهم، ويسيرونه عن بلادهم، إلى أن انتهوا به 
+ منقطع أثره بتربة بلده من بادية لبلة وبها توفي رحمه الله سنة  ست  و  خمسين 
+ و  أربعمائة  وهو في ذلك غير مرتدع، ولا راجع إلى ما أرادوا به. يبث علمه 
+ في من ينتابه بباديته تلك من عامة المقتبسين منهم من أصاغر الطلبة الذين 
+ لا يخشون فيه الملامة يحدثهم ويفقههم، ويدارسهم، ولا يدع المثابرة على 
+ التعليم  والمواظبة على التأليف والإكثار من التصنيف، حتى كمل من مصنفاته 
+ في فنون من العلم وقر بعير لم يعدُ أكثرها عتبة باديته بتزهيد الفقهاء وطلاب 
+ العلم فيها، حتى حرق بعضها باشبيلية، ومزقت علانية، لا يزيد مؤلفها في </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.029+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.029+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_033.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> السنة ما فيه من المزايا الجمة، والفوائد المهمة، والأسرار التأويلية، لما معها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من تلك المواضع الاعتزالية، لا بل يستفيد محاسن ما فيه، ويترك ما وراء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذلك مما لا يرتضيه، ولذلك عكف عليه المحصلون، واعتنى بخدمته العلماء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العاملون، بل عدّ في مناقب بعض علماء السنة السنية، أنه عكف عليه أحقاباً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مديدة من الدهر، وصرف عليه مدة طويلة من العمر، اغتناماً لما فيه من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العلم النافع، ولم يتركوه من أجل تلك المواضع، ومصداق ذلك ما ورد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أن الحكمة ضالة المؤمن يلتقطها حيث وجدها فهو أولى بها كما قيل: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إن العلوم كأثمار على شجر  فاجن الثمار وخلّ العود للنار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مثاله رجل وجد في طريقه عقداً نفيساً فيه جوهر عظيم وفي أثنائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شيء من الخرز فإن كان فيه مسكة من العقل وذرة من التمييز أخذ العقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فانتفع بما فيه من الجوهر وما عليه مما في أثنائه من الخرز وإن كان أحمق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سيئ النظر فاسد الرأي تركه لما في أثنائه من الخرز. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الغزل المصري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من  الجزء الثالث  من  ديوان الرافعي  الذي يصدر بعد أشهر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في التحول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تقول أما ترضى مع الحب والجفا  بأنك حيٌّ والحياةُ كثيرُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وكل الذي أبقاه مني غرامها  بقيةُ نوم في الجفون تطيرُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كأنيَ من غاز الإنارة في الهوى  فبينا يرى غازاً إذا هو نورُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الرضا بعد مجلس العتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حبيب يرينا قلبه ذا قساوة  ويتبعها خوفاً علينا بلينه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> السنة ما فيه من المزايا الجمة، والفوائد المهمة، والأسرار التأويلية، لما معها 
+ من تلك المواضع الاعتزالية، لا بل يستفيد محاسن ما فيه، ويترك ما وراء 
+ ذلك مما لا يرتضيه، ولذلك عكف عليه المحصلون، واعتنى بخدمته العلماء 
+ العاملون، بل عدّ في مناقب بعض علماء السنة السنية، أنه عكف عليه أحقاباً 
+ مديدة من الدهر، وصرف عليه مدة طويلة من العمر، اغتناماً لما فيه من 
+ العلم النافع، ولم يتركوه من أجل تلك المواضع، ومصداق ذلك ما ورد 
+ من أن الحكمة ضالة المؤمن يلتقطها حيث وجدها فهو أولى بها كما قيل: 
+ إن العلوم كأثمار على شجر  فاجن الثمار وخلّ العود للنار 
+
+ مثاله رجل وجد في طريقه عقداً نفيساً فيه جوهر عظيم وفي أثنائه 
+ شيء من الخرز فإن كان فيه مسكة من العقل وذرة من التمييز أخذ العقد 
+ فانتفع بما فيه من الجوهر وما عليه مما في أثنائه من الخرز وإن كان أحمق 
+ سيئ النظر فاسد الرأي تركه لما في أثنائه من الخرز. 
+
+ الغزل المصري 
+ من  الجزء الثالث  من  ديوان الرافعي  الذي يصدر بعد أشهر 
+
+ في التحول 
+ تقول أما ترضى مع الحب والجفا  بأنك حيٌّ والحياةُ كثيرُ 
+ وكل الذي أبقاه مني غرامها  بقيةُ نوم في الجفون تطيرُ 
+ كأنيَ من غاز الإنارة في الهوى  فبينا يرى غازاً إذا هو نورُ 
+
+ في الرضا بعد مجلس العتاب 
+ حبيب يرينا قلبه ذا قساوة  ويتبعها خوفاً علينا بلينه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

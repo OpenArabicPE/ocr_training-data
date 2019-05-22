@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.813+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.813+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_043.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الرجل فليجعلها كما يشاء. والذنب على الهيئة الاجتماعية لأنها ترى كل تلك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمور ولا تمديدها للمرأة وتساويها بالرجل في كل شيء فإنه عار على عصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العلم والمدنية والحرية والفلسفة أن تبقى فيه المرأة تفجر لتأكل . . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وفي الرواية من دلائل الإقدام ما لا يستغرب ممن تعلموا العلم المدني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الصحيح وتشبعوا بآداب العصر الحاضر فكان لهم من علمهم وتربيتهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما يدفع بهم إلى قول الحق ولو أمر في بعض الأذواق. وإنا لنحمد الله على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن رأينا في الناشئة المصرية أمثال الكاتب الموما إليه ممن يضعون الهناء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مواضع النقب ولا يحفلون بالفقاقيع الفارغة في خدمة العلم والأدب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سيرة العلم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سفينة جديدة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اخترع  أحد  الأمريكان باخرة تسير بمحرك كهربائي تقطع  أربع  عقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الساعة ولها  ست  عشرة  آلة دافعة تجعل في مؤخر السفينة وجناحها. وقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ثبتت صحة دعواه بالتجربة وستجتاز هذه الباخرة المسافة بين أوربا وأميركا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في  ثلاثة  أيام بعد أن كانت تقطعها في  عشرة  وزيادة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أكبر دماغ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في شبان الإنكليز اليوم شاب في ال  ثلاثين  من عمره اسمه دانا يعجب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الإنكليز والأمريكان بقوة ذاكرته. وقال العلماء أن ذاكرته فريدة في العالم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقد أكثر من إجهادها حتى صرح أهل الأخصاء بأنه لا يعمر أكثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من  خمس  و  ثلاثين  سنة. ولذلك أخذ يتدارك الأمر وهو يربح في الأسبوع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> الرجل فليجعلها كما يشاء. والذنب على الهيئة الاجتماعية لأنها ترى كل تلك 
+ الأمور ولا تمديدها للمرأة وتساويها بالرجل في كل شيء فإنه عار على عصر 
+ العلم والمدنية والحرية والفلسفة أن تبقى فيه المرأة تفجر لتأكل . . 
+ وفي الرواية من دلائل الإقدام ما لا يستغرب ممن تعلموا العلم المدني 
+ الصحيح وتشبعوا بآداب العصر الحاضر فكان لهم من علمهم وتربيتهم 
+ ما يدفع بهم إلى قول الحق ولو أمر في بعض الأذواق. وإنا لنحمد الله على 
+ أن رأينا في الناشئة المصرية أمثال الكاتب الموما إليه ممن يضعون الهناء 
+ مواضع النقب ولا يحفلون بالفقاقيع الفارغة في خدمة العلم والأدب. 
+
+ سيرة العلم 
+
+ سفينة جديدة 
+ اخترع  أحد  الأمريكان باخرة تسير بمحرك كهربائي تقطع  أربع  عقد 
+ في الساعة ولها  ست  عشرة  آلة دافعة تجعل في مؤخر السفينة وجناحها. وقد 
+ ثبتت صحة دعواه بالتجربة وستجتاز هذه الباخرة المسافة بين أوربا وأميركا 
+ في  ثلاثة  أيام بعد أن كانت تقطعها في  عشرة  وزيادة. 
+
+ أكبر دماغ 
+ في شبان الإنكليز اليوم شاب في ال  ثلاثين  من عمره اسمه دانا يعجب 
+ الإنكليز والأمريكان بقوة ذاكرته. وقال العلماء أن ذاكرته فريدة في العالم. 
+ وقد أكثر من إجهادها حتى صرح أهل الأخصاء بأنه لا يعمر أكثر 
+ من  خمس  و  ثلاثين  سنة. ولذلك أخذ يتدارك الأمر وهو يربح في الأسبوع </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

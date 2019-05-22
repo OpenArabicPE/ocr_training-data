@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.148+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.148+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_006.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فوا راحتي إن كان زادي مقدماً  ويا نصيبي إن كنت لم أتزود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويا لبدائع هذا الحبر عليّ وغرره ما أوضحها على كثرة الدافنين لها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والطامسين لمحاسنها وعلى ذلك فليس ببدع فيما أضيع منه فأزهد الناس في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عالم أهله. وقبله رُدي العلماء بتبريزهم على من يقصر عنهم والحسد داء لا دواء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> له — انتهى كلام ابن حيان في خبره. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قلت أنا  ابن بسام  ولعمري ما عقه، ولا بخسه حقه، وقال ابن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بشكوال: كان أبو محمد أجمع أهل الأندلس قاطبة لعلوم الإسلام وأوسعهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> معرفة على توسعه في علم اللسان ووفور حظه من البلاغة والشعر والمعرفة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالسير والأخبار. وسننشر طرفاً صالحاً من جيد شعره. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمية والكتاتيب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليس في التاريخ ما يصح الاعتماد عليه في حال الأمية في الصدر الأول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اللهم إلا بضعة سطور مبعثرة في تضاعيف الأسفار. وغاية ما استخلصته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن الكتابة والقراءة والحساب انتشرت بين أهل الإسلام على الزمن ولم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يكن تعليمها الناس إلزامياً حتماً بل كان اختيارياً على نحو ما أمر الرسول عليه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> السلام اسارى أصحابه في  إحدى  الوقائع أن يفتدوا أنفسهم إذا لم يكن لهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مال بتعليم  عشرة  من أولاد المسلمين القراءة والكتابة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والأُميّ والأُمان من لا يكتب أو من على خلقة الأمة لم يتعلم الكتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهو باقٍ على جبلته كما جاء في القاموس وزاد في التاج إنا أمة أمية لا نكتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا نحسب أراد أنه على أصل ولادة أمهم لم يتعلموا الكتابة والحساب فهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على جبلتهم الأولى. وقال بعضهم ومجاز الأميّ على  ثلاثة  وجوه قولهم أميّ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ فوا راحتي إن كان زادي مقدماً  ويا نصيبي إن كنت لم أتزود 
+ ويا لبدائع هذا الحبر عليّ وغرره ما أوضحها على كثرة الدافنين لها 
+ والطامسين لمحاسنها وعلى ذلك فليس ببدع فيما أضيع منه فأزهد الناس في 
+ عالم أهله. وقبله رُدي العلماء بتبريزهم على من يقصر عنهم والحسد داء لا دواء 
+ له — انتهى كلام ابن حيان في خبره. 
+ قلت أنا  ابن بسام  ولعمري ما عقه، ولا بخسه حقه، وقال ابن 
+ بشكوال: كان أبو محمد أجمع أهل الأندلس قاطبة لعلوم الإسلام وأوسعهم 
+ معرفة على توسعه في علم اللسان ووفور حظه من البلاغة والشعر والمعرفة 
+ بالسير والأخبار. وسننشر طرفاً صالحاً من جيد شعره. 
+
+ الأمية والكتاتيب 
+ ليس في التاريخ ما يصح الاعتماد عليه في حال الأمية في الصدر الأول 
+ اللهم إلا بضعة سطور مبعثرة في تضاعيف الأسفار. وغاية ما استخلصته 
+ أن الكتابة والقراءة والحساب انتشرت بين أهل الإسلام على الزمن ولم 
+ يكن تعليمها الناس إلزامياً حتماً بل كان اختيارياً على نحو ما أمر الرسول عليه 
+ السلام اسارى أصحابه في  إحدى  الوقائع أن يفتدوا أنفسهم إذا لم يكن لهم 
+ مال بتعليم  عشرة  من أولاد المسلمين القراءة والكتابة. 
+ والأُميّ والأُمان من لا يكتب أو من على خلقة الأمة لم يتعلم الكتاب 
+ وهو باقٍ على جبلته كما جاء في القاموس وزاد في التاج إنا أمة أمية لا نكتب 
+ ولا نحسب أراد أنه على أصل ولادة أمهم لم يتعلموا الكتابة والحساب فهم 
+ على جبلتهم الأولى. وقال بعضهم ومجاز الأميّ على  ثلاثة  وجوه قولهم أميّ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

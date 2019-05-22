@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.584+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.584+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_012.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خمسة  من ال  مائة  يموتون في مستشفيات باريس من فعل الكحول. وأوربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سواء في استعمال الخمور اللهم إلا الأقاليم الشمالية الباردة والرطبة منها مثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> روسيا والسويد ونروج وبلجيكا فإن شرب الكحول مألوف فيها كل الألفة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويفرط السكان في تناوله وخصوصاً طبقات العملة منهم. فقد أصاب الفرد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في فرنسا  سنة  ١٨٧٦  أربعة  ليترات من الكحول في السنة وأصاب الفرد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في ألمانيا  خمسة  وفي إنكلترا  ستة  وفي روسيا  عشرة  إلى  اثنتي  عشرة  عشر  إلى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عشرين  لتراً بحسب الولايات والصناعات. ولم يجد فرنسا إكثارها من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وضع الضرائب على الكحول إذ لم ينقص شاربوه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والتسمم بالمسكرات أخف وطأة في البلاد التي تجود فيها الكروم مثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إسبانيا وإيطاليا والبرتغال وجنوبي فرنسا وقلما يصيب الفرد فيها غير لتر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> و  احد  أو لترين في السنة. واختلفت بلاد الغرب في وضع قوانين لبيع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المشروبات فاكتفى بعضها بالاحتكار وبعضها بضرب الضرائب الفاحشة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ونشأت فيها عدة جمعيات تحض الناس على الامتناع عن المسكرات. وهذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الجمعيات تعظم فائدتها كلما كثرت في كل صقع وناد وساعدتها الإرادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الشخصية. وقد زاد عددها في إنكلترا ونورمنديا وسويسرا والسويد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يعرف القائمون بأعبائها بني قومهم بمضار الكحول الطبيعية والأدبية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والعقلية. وأن الحكومات لتحسن صنعاً إذا أرادت معلمي المدارس على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن يقرئوا الأطفال شيئاً في قواعد الصحة ويدلوهم على ما تحدثه الكحول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من سوء الأثر في الجسم وما ينتج الامتناع عنها من سعادة المرء والأسرة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> خمسة  من ال  مائة  يموتون في مستشفيات باريس من فعل الكحول. وأوربا 
+ سواء في استعمال الخمور اللهم إلا الأقاليم الشمالية الباردة والرطبة منها مثل 
+ روسيا والسويد ونروج وبلجيكا فإن شرب الكحول مألوف فيها كل الألفة 
+ ويفرط السكان في تناوله وخصوصاً طبقات العملة منهم. فقد أصاب الفرد 
+ في فرنسا  سنة  ١٨٧٦  أربعة  ليترات من الكحول في السنة وأصاب الفرد 
+ في ألمانيا  خمسة  وفي إنكلترا  ستة  وفي روسيا  عشرة  إلى  اثنتي  عشرة  عشر  إلى 
+ عشرين  لتراً بحسب الولايات والصناعات. ولم يجد فرنسا إكثارها من 
+ وضع الضرائب على الكحول إذ لم ينقص شاربوه. 
+ والتسمم بالمسكرات أخف وطأة في البلاد التي تجود فيها الكروم مثل 
+ إسبانيا وإيطاليا والبرتغال وجنوبي فرنسا وقلما يصيب الفرد فيها غير لتر 
+ و  احد  أو لترين في السنة. واختلفت بلاد الغرب في وضع قوانين لبيع 
+ المشروبات فاكتفى بعضها بالاحتكار وبعضها بضرب الضرائب الفاحشة. 
+ ونشأت فيها عدة جمعيات تحض الناس على الامتناع عن المسكرات. وهذه 
+ الجمعيات تعظم فائدتها كلما كثرت في كل صقع وناد وساعدتها الإرادة 
+ الشخصية. وقد زاد عددها في إنكلترا ونورمنديا وسويسرا والسويد 
+ يعرف القائمون بأعبائها بني قومهم بمضار الكحول الطبيعية والأدبية 
+ والعقلية. وأن الحكومات لتحسن صنعاً إذا أرادت معلمي المدارس على 
+ أن يقرئوا الأطفال شيئاً في قواعد الصحة ويدلوهم على ما تحدثه الكحول 
+ من سوء الأثر في الجسم وما ينتج الامتناع عنها من سعادة المرء والأسرة. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

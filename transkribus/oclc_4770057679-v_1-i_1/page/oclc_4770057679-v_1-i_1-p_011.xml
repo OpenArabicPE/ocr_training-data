@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.517+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.517+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_011.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بتعدد الحمل والرضاع وممن أصابتهم خطوب وأهاويل واستولى عليهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أرق متتابع. بل ويصاب به أيضاً من صرفوا أوقاتهم منذ طفولتهم في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> استعمال قواهم العقلية بما لا تسمح به تراكيبهم ولا يعوض الغذاء ما يصرفونه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من دقائق الدماغ على نحو ما ترى شباناً أنجزوا دروسهم ولم يستطيعوا التغلب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على مصاعب الحياة فخانتهم قواهم وجهادهم فأضاعوا الثقة بأنفسهم وظنوها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عجزت عن الغلبة على ما صادفوه في طريق حياتهم من المشاق فسدت قلة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> القوة الحيوية في وجوههم سبل الأعمال، وقلبت لهم تقلبات الزمن ظهر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المجن، فأمسوا ولا يرون الأمور إلا من وجهتها التي لا ينبغي أن ينظر إليها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيحدث عندهم كل ما يرتاح إليه نظراؤهم كدراً ولهفاً. وتختلف أعراض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هذا الداء حتى في الشخص الواحد في كل دور من أدواره ويكثر شيوعه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بكثرة الشقاء الاجتماعي وتعدد أسباب الجهاد في الحياة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومن أمراض هذا القرن ابتلاء بعضهم بالحقن بالمورفين تخفيفاً لبعض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> آلام تصيبهم أو تفادياً من تصور عوارض يخشون الوقوع بها وقد ابتليت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المدنية الغربية بهذه الوصمة كما ابتليت المدنية الشرقية في الهند والصين وتركيا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بوصمة التخدر بالأفيون. ومعظم من  يخدرون حواسهم بالمورفين تسكيناً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للآلام والأوصاب هم أهل العقول الكبيرة وربما كانوا ممن يعجب الناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بمواهبهم العلمية. و  ثلث  المصابين به من الأطباء. وفيهم قادة الجيوش </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ورجال السياسة. وقد أقيمت مستشفيات في إنكلترا وألمانيا وفرنسا  وأميركا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليقلع الداخلون إليها عن عادة استعمال هذا المخدر بالوسائط العلمية والعملية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومن مفسدات الجنس البشري في هذا القرن التسمم بالكحول فقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> زاد صرف المشروبات الروحية في النصف الأخير منه حتى قدر أحدهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> بتعدد الحمل والرضاع وممن أصابتهم خطوب وأهاويل واستولى عليهم 
+ أرق متتابع. بل ويصاب به أيضاً من صرفوا أوقاتهم منذ طفولتهم في 
+ استعمال قواهم العقلية بما لا تسمح به تراكيبهم ولا يعوض الغذاء ما يصرفونه 
+ من دقائق الدماغ على نحو ما ترى شباناً أنجزوا دروسهم ولم يستطيعوا التغلب 
+ على مصاعب الحياة فخانتهم قواهم وجهادهم فأضاعوا الثقة بأنفسهم وظنوها 
+ عجزت عن الغلبة على ما صادفوه في طريق حياتهم من المشاق فسدت قلة 
+ القوة الحيوية في وجوههم سبل الأعمال، وقلبت لهم تقلبات الزمن ظهر 
+ المجن، فأمسوا ولا يرون الأمور إلا من وجهتها التي لا ينبغي أن ينظر إليها 
+ فيحدث عندهم كل ما يرتاح إليه نظراؤهم كدراً ولهفاً. وتختلف أعراض 
+ هذا الداء حتى في الشخص الواحد في كل دور من أدواره ويكثر شيوعه 
+ بكثرة الشقاء الاجتماعي وتعدد أسباب الجهاد في الحياة. 
+ ومن أمراض هذا القرن ابتلاء بعضهم بالحقن بالمورفين تخفيفاً لبعض 
+ آلام تصيبهم أو تفادياً من تصور عوارض يخشون الوقوع بها وقد ابتليت 
+ المدنية الغربية بهذه الوصمة كما ابتليت المدنية الشرقية في الهند والصين وتركيا 
+ بوصمة التخدر بالأفيون. ومعظم من  يخدرون حواسهم بالمورفين تسكيناً 
+ للآلام والأوصاب هم أهل العقول الكبيرة وربما كانوا ممن يعجب الناس 
+ بمواهبهم العلمية. و  ثلث  المصابين به من الأطباء. وفيهم قادة الجيوش 
+ ورجال السياسة. وقد أقيمت مستشفيات في إنكلترا وألمانيا وفرنسا  وأميركا 
+ ليقلع الداخلون إليها عن عادة استعمال هذا المخدر بالوسائط العلمية والعملية. 
+ ومن مفسدات الجنس البشري في هذا القرن التسمم بالكحول فقد 
+ زاد صرف المشروبات الروحية في النصف الأخير منه حتى قدر أحدهم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

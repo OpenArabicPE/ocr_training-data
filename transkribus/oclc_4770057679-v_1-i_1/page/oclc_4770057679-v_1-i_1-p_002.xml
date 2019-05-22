@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:30.787+03:00</Created>
+        <LastChange>2019-05-22T11:11:30.787+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_002.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فليتفضل من أوتوا حظاً من العلم فكان همهم نفع الإنسان من حيث </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هو إنسان، وخدمة المعارف لأنها مشاعة في الأمم نافعة للعمران، ويمنوا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عليها من فيض قرائحهم وثمرات أبحاثهم بما تتألف منه ندوة علمية حافلة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالمطالب الممتعة الموجزة، ومجلس علم يختلف إليه العالم والمتعلم فيعود كل منهما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ببغيته منه، ومعرض حكمة تعرض في أصونته ما يلائم أذواق أهل كل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جيل وأفق من ضروب البضائع والأعلاق، وديوان إخوان تسوده أقلام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المنوّرين والمفكرين، وتقرهم عليه طائفة العالمين والعاملين. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والله المسؤول أن يربأ بهذا المقتبس عن أن يكون جعبة مشاغبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأهواء، وصحيفة تبجح ورياء، وأن يبرئه من آفات التطويل والتكرار، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويدفع عنه عوادي المعايب والمعاير، ويجعله خير ذخر إذا الصحف نشرت، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يوم تبيض وجوه وتسود وجوه سبحانه وسعدانه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> صدور المشارقة والمغاربة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ابن حزم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولد  سنة  ٣٨٤  وتوفي  سنة  ٤٥٦  هـ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الناس من يفادون بنفوسهم حباً بنفع يرجون أن يجنيه أهلهم وعشيرتهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويتعزون عن ذلك بما يصيبونه من مغنم ديني أو دنيوي ومن هذه الفئة  ابن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حزم الأندلسي  . فقد ترك وزارة المستظهر بالله اختياراً لما آنس من نفسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الغناء في العلم، وأقبل على القراءة وتقييد الآثار والسنن، فنال من ذلك ما لم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ينله  أحد  قبله ب  الأندلس  حتى عد قريع دهره، ووحيد قطره، و  ألف  من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ فليتفضل من أوتوا حظاً من العلم فكان همهم نفع الإنسان من حيث 
+ هو إنسان، وخدمة المعارف لأنها مشاعة في الأمم نافعة للعمران، ويمنوا 
+ عليها من فيض قرائحهم وثمرات أبحاثهم بما تتألف منه ندوة علمية حافلة 
+ بالمطالب الممتعة الموجزة، ومجلس علم يختلف إليه العالم والمتعلم فيعود كل منهما 
+ ببغيته منه، ومعرض حكمة تعرض في أصونته ما يلائم أذواق أهل كل 
+ جيل وأفق من ضروب البضائع والأعلاق، وديوان إخوان تسوده أقلام 
+ المنوّرين والمفكرين، وتقرهم عليه طائفة العالمين والعاملين. 
+ والله المسؤول أن يربأ بهذا المقتبس عن أن يكون جعبة مشاغبة 
+ وأهواء، وصحيفة تبجح ورياء، وأن يبرئه من آفات التطويل والتكرار، 
+ ويدفع عنه عوادي المعايب والمعاير، ويجعله خير ذخر إذا الصحف نشرت، 
+ يوم تبيض وجوه وتسود وجوه سبحانه وسعدانه. 
+
+ صدور المشارقة والمغاربة 
+
+ ابن حزم 
+ ولد  سنة  ٣٨٤  وتوفي  سنة  ٤٥٦  هـ 
+ في الناس من يفادون بنفوسهم حباً بنفع يرجون أن يجنيه أهلهم وعشيرتهم 
+ ويتعزون عن ذلك بما يصيبونه من مغنم ديني أو دنيوي ومن هذه الفئة  ابن 
+ حزم الأندلسي  . فقد ترك وزارة المستظهر بالله اختياراً لما آنس من نفسه 
+ الغناء في العلم، وأقبل على القراءة وتقييد الآثار والسنن، فنال من ذلك ما لم 
+ ينله  أحد  قبله ب  الأندلس  حتى عد قريع دهره، ووحيد قطره، و  ألف  من </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

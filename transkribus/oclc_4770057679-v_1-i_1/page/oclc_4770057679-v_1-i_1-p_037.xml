@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.362+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.362+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_037.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إذ أن البداءة بالعمل حوالي الساعة التاسعة صباحاً وجعل فاصلة فيه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قدر ساعتين لتناول طعام الظهر ثم معاودة العمل إلى الساعة السابعة مما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا فائدة فيه كما هو الحال في طريقة الإنكليز فحبذا لو تقيلنا مثالهم ونسجنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على منوالهم في طعامهم وشرابهم وأعمالهم. أما نحن فنقول أننا معاشر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المشارقة لو نظرنا في أحسن ما اعتاده زعماء الحضارة من الأمم في أمور معاشهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> واخترنا أنفعه لنا وأمسه بحاجتنا مع تعديل يوافق كل قطر واعتدال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ينطبق على مقتضيات العصر إذاً لأحسنا صنعاً وزدنا عائدة ونفعاً. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تدبير المنزل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> استعمال السكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لنا كل يوم ممن يعنون بتدبير المنازل وراحة أهلها شكل جديد في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تدبير الصحة فتجد فئة لا ترى غير أكل اللحوم وفئة تمتنع عنها وتكتفي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالبقول وفئة تؤثر استعمال السكر. فقد قال بعضهم أن السكر خبز الفقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وخمره. وقال غيره أن السكر هو جل ما ينتفع به المحاويج من الأدوية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقد أكد بعضهم أن أهالي غربي الهند يستعملون قصب السكر كثيراً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولذلك تجد لهم أسناناً ناصعة البياض وكل من يستعمل القصب تأمن أسنانه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العطب. والإنكليز والأمير كان أكثر الأمم استعمالاً للسكر ولذلك كانوا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ممتعين بأسنان بيضاء صافية سالمة في الغالب. فالسكر هو بمثابة فحم تحمى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> به الأعصاب وتستعيد به الصحة قواها بعد العناء. وقد جرب استعماله مدة في  عشرين  جندياً في ألمانيا فكان من استعملوه أسمن وأحسن ممن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> إذ أن البداءة بالعمل حوالي الساعة التاسعة صباحاً وجعل فاصلة فيه 
+ قدر ساعتين لتناول طعام الظهر ثم معاودة العمل إلى الساعة السابعة مما 
+ لا فائدة فيه كما هو الحال في طريقة الإنكليز فحبذا لو تقيلنا مثالهم ونسجنا 
+ على منوالهم في طعامهم وشرابهم وأعمالهم. أما نحن فنقول أننا معاشر 
+ المشارقة لو نظرنا في أحسن ما اعتاده زعماء الحضارة من الأمم في أمور معاشهم 
+ واخترنا أنفعه لنا وأمسه بحاجتنا مع تعديل يوافق كل قطر واعتدال 
+ ينطبق على مقتضيات العصر إذاً لأحسنا صنعاً وزدنا عائدة ونفعاً. 
+
+ تدبير المنزل 
+
+ استعمال السكر 
+ لنا كل يوم ممن يعنون بتدبير المنازل وراحة أهلها شكل جديد في 
+ تدبير الصحة فتجد فئة لا ترى غير أكل اللحوم وفئة تمتنع عنها وتكتفي 
+ بالبقول وفئة تؤثر استعمال السكر. فقد قال بعضهم أن السكر خبز الفقير 
+ وخمره. وقال غيره أن السكر هو جل ما ينتفع به المحاويج من الأدوية. 
+ وقد أكد بعضهم أن أهالي غربي الهند يستعملون قصب السكر كثيراً 
+ ولذلك تجد لهم أسناناً ناصعة البياض وكل من يستعمل القصب تأمن أسنانه 
+ العطب. والإنكليز والأمير كان أكثر الأمم استعمالاً للسكر ولذلك كانوا 
+ ممتعين بأسنان بيضاء صافية سالمة في الغالب. فالسكر هو بمثابة فحم تحمى 
+ به الأعصاب وتستعيد به الصحة قواها بعد العناء. وقد جرب استعماله مدة في  عشرين  جندياً في ألمانيا فكان من استعملوه أسمن وأحسن ممن </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

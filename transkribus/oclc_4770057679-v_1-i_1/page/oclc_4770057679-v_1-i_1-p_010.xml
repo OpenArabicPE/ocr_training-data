@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.454+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.454+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_010.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من خبال الشيخوخة، والبلاهة والتغفل والجنون كما قالوا فنون ويكون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جنون الخبل ناتجاً من تعاطي الكحول فإن المدمنين للشراب ما برحوا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ينمون نمواً عجيباً. وإنكلترا أكثر البلاد التي زاد فيها الجنون في هذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأثناء. فقد كان عدد المعتوهين فيها  سنة  ١٨٦٦  -  ٥٣  ألفاً فصار  سنة  ١٨٩٧  - </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ٩٩  ألفاً فالمعتوهون الآن و  احد  في كل  ٢٩٣  بإنكلترا. وقد ثبت لدى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أدباء بريطانيا أن مجانينهم كثروا بكثرة انهماك القوم في تناول الأشربة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الروحية فإن  ٣٣  في ال  مائة  من المعتوهين هم ممن يتعاطون المسكرات عندهم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقد نشر حديثاً  أحد  نُطس الأطباء بحثاً دقيقاً في الجنون بالولايات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المتحدة فثبت عنده بالإحصاء أن أكثر الولايات عرضة للجنون هي التي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كثر تعاطي الأعمال الصناعية فيها في جنوبي البلاد. أما البلاد الزراعية فإن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المصابين بها أقل من ذلك فتجد في مقاطعة الماساشوست مجنوناً في كل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ٣٤٨  ساكناً على أنك لا تجد غير مجنون و  احد  في كل  ٩٣٥  من مقاطعة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأركانساس. والجنون بين السود أقل انتشاراً منه بين البيض. ومادام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الزنوج نازلين في الأرياف فهم في مأمن من ضياع العقل ولكن متى نزلوا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الحواضر وأخذوا في مجاراة البيض ومجاذبتهم حبل الجهاد الاجتماعي يكثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيهم هذا الداء فيملؤون البيمارستانات والمستشفيات. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومن أمراض هذا القرن ما عرفه أطباء الأمريكان من مرض دعوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نوراستينا أو ضعف المجموع العصبي. مرض يكثر انتشاره في البلاد التي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تزدحم فيها أقدام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> السكان. ولم يعرفه قدماء الأطباء فخلطه بعضهم بفقر الدم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وبعضهم بالهستيريا ومعظم المصابين به ممن صرفوا قبل الوقت قواهم العصبية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الإفراط بالشهوات من الرجال وممن ضعف تركيبهن النامي من النساء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> من خبال الشيخوخة، والبلاهة والتغفل والجنون كما قالوا فنون ويكون 
+ جنون الخبل ناتجاً من تعاطي الكحول فإن المدمنين للشراب ما برحوا 
+ ينمون نمواً عجيباً. وإنكلترا أكثر البلاد التي زاد فيها الجنون في هذه 
+ الأثناء. فقد كان عدد المعتوهين فيها  سنة  ١٨٦٦  -  ٥٣  ألفاً فصار  سنة  ١٨٩٧  - 
+ ٩٩  ألفاً فالمعتوهون الآن و  احد  في كل  ٢٩٣  بإنكلترا. وقد ثبت لدى 
+ أدباء بريطانيا أن مجانينهم كثروا بكثرة انهماك القوم في تناول الأشربة 
+ الروحية فإن  ٣٣  في ال  مائة  من المعتوهين هم ممن يتعاطون المسكرات عندهم. 
+ وقد نشر حديثاً  أحد  نُطس الأطباء بحثاً دقيقاً في الجنون بالولايات 
+ المتحدة فثبت عنده بالإحصاء أن أكثر الولايات عرضة للجنون هي التي 
+ كثر تعاطي الأعمال الصناعية فيها في جنوبي البلاد. أما البلاد الزراعية فإن 
+ المصابين بها أقل من ذلك فتجد في مقاطعة الماساشوست مجنوناً في كل 
+ ٣٤٨  ساكناً على أنك لا تجد غير مجنون و  احد  في كل  ٩٣٥  من مقاطعة 
+ الأركانساس. والجنون بين السود أقل انتشاراً منه بين البيض. ومادام 
+ الزنوج نازلين في الأرياف فهم في مأمن من ضياع العقل ولكن متى نزلوا 
+ الحواضر وأخذوا في مجاراة البيض ومجاذبتهم حبل الجهاد الاجتماعي يكثر 
+ فيهم هذا الداء فيملؤون البيمارستانات والمستشفيات. 
+ ومن أمراض هذا القرن ما عرفه أطباء الأمريكان من مرض دعوه 
+ نوراستينا أو ضعف المجموع العصبي. مرض يكثر انتشاره في البلاد التي 
+ تزدحم فيها أقدام 
+ السكان. ولم يعرفه قدماء الأطباء فخلطه بعضهم بفقر الدم 
+ وبعضهم بالهستيريا ومعظم المصابين به ممن صرفوا قبل الوقت قواهم العصبية 
+ في الإفراط بالشهوات من الرجال وممن ضعف تركيبهن النامي من النساء </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

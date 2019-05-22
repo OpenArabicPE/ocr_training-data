@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.210+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.210+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_007.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> منسوب إلى أمة رسول الله  ص  ويقال رجل أمي إذا كان من أم القرى أي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مكة والنبي الأُمي إنما أراد الذي لا يقرأ ولا يكتب والأمية في النبي فضيلة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لأنها أدل على صدق ما جاء به. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قال  صديق حسن خان  : في تفسير قوله تعالى ومنهم أميون لا  يقرأون  يعلمون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الكتاب إلا أماني أي من اليهود. والأمي المنسوب إلى الأمة الأمية التي هي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على أصل ولادتها من أمهاتها لم تتعلم الكتابة ولا تحسن قراءة المكتوب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومن حديث إنا أمة أمية لا نكتب ولا نحسب. وقال أبو عبيدة: إنما قيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لهم أميون لنزول الكتاب عليهم كأنهم نسبوا إلى أم الكتاب فكأنه قال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومنهم أهل كتاب وقيل هم نصارى العرب وقيل هم قوم كانوا أهل كتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فرفع كتابهم لذنوب ارتكبوها وقيل هم المجوس حكاه المهدوي وقيل غير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذلك والراجح الأول وقيل أميون أي عوام. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على أن الكتابة العربية لم تنتشر في جزيرة العرب قبل الإسلام بكثير. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأول من كتب فيها مرامرة بن مرة من أهل الأنبار. قال الأصمعي: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذكروا أن قريشاً سئلوا من أين لكم الكتابة فقالوا من الحيرة وقيل لأهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الحيرة من أين لكم الكتابة فقالوا من الأنبار. والناقل لهذه الكتابة كما في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رواية بعض المؤرخين حرب بن أمية القرشي الأموي والغالب أن واضعها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مرامرة المشار إليه. هكذا شاعت الكتابة قبيل الإسلام كما نقل العرب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الحساب عن الهند. وكانت لحمير على ما روى ابن خلكان كتابة تسمى المسند </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وحروفها منفصلة غير متصلة وكانوا يمنعون العامة من تعلمها فلا يتعاطاها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أحد  إلا بإذنهم فجاءت ملة الإسلام وليس في  جميع اليمن من يقرأ ويكتب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قلت: وليس هذا شأن اليمانيين وحدهم في منع عامتهم من تعلم الكتابة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> منسوب إلى أمة رسول الله  ص  ويقال رجل أمي إذا كان من أم القرى أي 
+ مكة والنبي الأُمي إنما أراد الذي لا يقرأ ولا يكتب والأمية في النبي فضيلة 
+ لأنها أدل على صدق ما جاء به. 
+ قال  صديق حسن خان  : في تفسير قوله تعالى ومنهم أميون لا  يقرأون  يعلمون 
+ الكتاب إلا أماني أي من اليهود. والأمي المنسوب إلى الأمة الأمية التي هي 
+ على أصل ولادتها من أمهاتها لم تتعلم الكتابة ولا تحسن قراءة المكتوب. 
+ ومن حديث إنا أمة أمية لا نكتب ولا نحسب. وقال أبو عبيدة: إنما قيل 
+ لهم أميون لنزول الكتاب عليهم كأنهم نسبوا إلى أم الكتاب فكأنه قال: 
+ ومنهم أهل كتاب وقيل هم نصارى العرب وقيل هم قوم كانوا أهل كتاب 
+ فرفع كتابهم لذنوب ارتكبوها وقيل هم المجوس حكاه المهدوي وقيل غير 
+ ذلك والراجح الأول وقيل أميون أي عوام. 
+ على أن الكتابة العربية لم تنتشر في جزيرة العرب قبل الإسلام بكثير. 
+ وأول من كتب فيها مرامرة بن مرة من أهل الأنبار. قال الأصمعي: 
+ ذكروا أن قريشاً سئلوا من أين لكم الكتابة فقالوا من الحيرة وقيل لأهل 
+ الحيرة من أين لكم الكتابة فقالوا من الأنبار. والناقل لهذه الكتابة كما في 
+ رواية بعض المؤرخين حرب بن أمية القرشي الأموي والغالب أن واضعها 
+ مرامرة المشار إليه. هكذا شاعت الكتابة قبيل الإسلام كما نقل العرب 
+ الحساب عن الهند. وكانت لحمير على ما روى ابن خلكان كتابة تسمى المسند 
+ وحروفها منفصلة غير متصلة وكانوا يمنعون العامة من تعلمها فلا يتعاطاها 
+ أحد  إلا بإذنهم فجاءت ملة الإسلام وليس في  جميع اليمن من يقرأ ويكتب. 
+ قلت: وليس هذا شأن اليمانيين وحدهم في منع عامتهم من تعلم الكتابة </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

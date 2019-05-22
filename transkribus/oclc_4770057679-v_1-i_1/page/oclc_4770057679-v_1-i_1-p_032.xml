@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.956+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.956+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_032.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وصف الجرائد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مقتبس من فصل للمرحوم  عبد الله  باشا  فكري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا يذهب عليك أن مثل هذه الصحف الخبرية وأوراق الحوادث </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الدورية، ليس من شأنها أن تختص بأمة معلومة من الناس، على رأي و  احد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الاعتقاد، في بقعة مخصوصة من الأرض، حتى يتيسر لصاحبها أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يتقيد بعوائدهم، ويبني على قواعدهم، ويراعي ما يكون موافقاً لعقائدهم، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بل الشأن فيها أن تنتقل من بلد إلى بلد، وتتداول من يد إلى يد، بين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أقوام مختلفي الطباع، متبايني الأوضاع، متخالفين في العقائد، غير متفقين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في العوائد، فالإتيان بما يوافق جميع الآراء، ويطابق عامة الأهواء، توفيق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بين الأضداد، وأصعب من خرط القتاد، وإنما هي كالمطر ينزل على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأرض الطيبة والخبيثة، ثم تنبت كل بحسب طينتها، وكالمغني يقول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما ينطق به لسانه، وينبعث إليه خاطره، ثم كل سامع يذهب فيه مذهبه، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويأخذه على حسب ما عنده، ويتوجه منه إلى ما قصده، ويوجهه لما أراده، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على وفق غرضه وهواه، وعلى حسب نظره ومرماه، وكالبضاعة المعرضة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للبيع المعروضة على أنظار العامة، يأخذ منها كل و  احد  ما يعجبه ويستحسنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نظره، فربما كان الشيء الواحد مستحسناً عند و  احد  من الناس لوجه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مخصوص مذموماً عند آخر لا يذمه إلا لذلك الوجه الذي استحسنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> به الأول. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والعاقل الكيس يستفيد من كل كتاب يراه ما يرضاه ويدع ما وراءه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مما يجده خلاف ما يعتقده ولا يدع كثيراً ينفعه لقليل لا يضره. هذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تفسير الكشاف فيه مواضع من الاعتزال أفيترك اللبيب المحصل من أهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ وصف الجرائد 
+ مقتبس من فصل للمرحوم  عبد الله  باشا  فكري 
+ لا يذهب عليك أن مثل هذه الصحف الخبرية وأوراق الحوادث 
+ الدورية، ليس من شأنها أن تختص بأمة معلومة من الناس، على رأي و  احد 
+ من الاعتقاد، في بقعة مخصوصة من الأرض، حتى يتيسر لصاحبها أن 
+ يتقيد بعوائدهم، ويبني على قواعدهم، ويراعي ما يكون موافقاً لعقائدهم، 
+ بل الشأن فيها أن تنتقل من بلد إلى بلد، وتتداول من يد إلى يد، بين 
+ أقوام مختلفي الطباع، متبايني الأوضاع، متخالفين في العقائد، غير متفقين 
+ في العوائد، فالإتيان بما يوافق جميع الآراء، ويطابق عامة الأهواء، توفيق 
+ بين الأضداد، وأصعب من خرط القتاد، وإنما هي كالمطر ينزل على 
+ الأرض الطيبة والخبيثة، ثم تنبت كل بحسب طينتها، وكالمغني يقول 
+ ما ينطق به لسانه، وينبعث إليه خاطره، ثم كل سامع يذهب فيه مذهبه، 
+ ويأخذه على حسب ما عنده، ويتوجه منه إلى ما قصده، ويوجهه لما أراده، 
+ على وفق غرضه وهواه، وعلى حسب نظره ومرماه، وكالبضاعة المعرضة 
+ للبيع المعروضة على أنظار العامة، يأخذ منها كل و  احد  ما يعجبه ويستحسنه 
+ نظره، فربما كان الشيء الواحد مستحسناً عند و  احد  من الناس لوجه 
+ مخصوص مذموماً عند آخر لا يذمه إلا لذلك الوجه الذي استحسنه 
+ به الأول. 
+ والعاقل الكيس يستفيد من كل كتاب يراه ما يرضاه ويدع ما وراءه 
+ مما يجده خلاف ما يعتقده ولا يدع كثيراً ينفعه لقليل لا يضره. هذا 
+ تفسير الكشاف فيه مواضع من الاعتزال أفيترك اللبيب المحصل من أهل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

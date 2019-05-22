@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.344+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.344+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_049.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المرأة الطليانية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كتبت  إحدى  كاتبات الطليان وهي من أعداء المرأة الأشداء قالت: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أنه لم يحدث في حال النسوة أقل ارتقاء حقيقي. وزعمت أن المرأة الطليانية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليس لها ما تأخذه عن الغريبات عن جنسها وذكرت بأنه ينبغي توفير العناية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بتعليم البنات في إيطاليا وغيرها من الممالك التعليم العالي. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> النوام أو مرض النوم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نشر الأميرالاي بروس الذي عهدت إليه الحكومة الإنكليزية منذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عام  ١٩٠٢  بالبحث عن أسباب مرض النوام ودواعي انتشاره في أواسط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إفريقية كتاباً قال فيه أنه لم يبق شك بأن هذا المرض ناتج من ذباب سام يتناول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> السم من دم الحيوان المصاب ويعض أو يقرص من هو عرضة له من الناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وتمتص الذبابة المادة المعروفة القتالة وتبقى في معدتها إلى أن تقذف بها بواسطة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خرطومها عندما تمس جزءاً من جسم الإنسان. واللدغة تكاد لا يشعر بها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بادئ بدءٍ حتى أن المرء لا يشعر بها في حينها إلا بعد مدة طويلة وربما بعد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن يمضي عليها حولان أو  ثلاثة  فتنسد الأوعية الدموية في الدماغ وتحرم جوهره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من المادة وتصاب به الغدد الليمفاوية خاصة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> علم ذلك من تجارب في هذا المعنى أجريت على القرود. وينتشر مرض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> النوام خاصة في أقاليم ذات بطائح على شاطئ الأنهار والبحيرات وذبابه قلما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يبتعد عن مقره أكثر من  مائة  متر ولكنه غزير جداً بحيث أنه هلك في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أوغندا من  سنة  ١٩٠١  إلى  سنة  ١٩٠٤  زهاء  مائة  ألف  نسمة من هذا المرض. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قال الباحث المشار إليه وسبب هذه الزيادة الهائلة أن أهل البلاد يحاذرون اتخاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأسباب الصحية ولا يعتقدون بخطر تلك اللدغة القتالة التي لا يشعرون بها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ المرأة الطليانية 
+ كتبت  إحدى  كاتبات الطليان وهي من أعداء المرأة الأشداء قالت: 
+ أنه لم يحدث في حال النسوة أقل ارتقاء حقيقي. وزعمت أن المرأة الطليانية 
+ ليس لها ما تأخذه عن الغريبات عن جنسها وذكرت بأنه ينبغي توفير العناية 
+ بتعليم البنات في إيطاليا وغيرها من الممالك التعليم العالي. 
+
+ النوام أو مرض النوم 
+ نشر الأميرالاي بروس الذي عهدت إليه الحكومة الإنكليزية منذ 
+ عام  ١٩٠٢  بالبحث عن أسباب مرض النوام ودواعي انتشاره في أواسط 
+ إفريقية كتاباً قال فيه أنه لم يبق شك بأن هذا المرض ناتج من ذباب سام يتناول 
+ السم من دم الحيوان المصاب ويعض أو يقرص من هو عرضة له من الناس 
+ وتمتص الذبابة المادة المعروفة القتالة وتبقى في معدتها إلى أن تقذف بها بواسطة 
+ خرطومها عندما تمس جزءاً من جسم الإنسان. واللدغة تكاد لا يشعر بها 
+ بادئ بدءٍ حتى أن المرء لا يشعر بها في حينها إلا بعد مدة طويلة وربما بعد 
+ أن يمضي عليها حولان أو  ثلاثة  فتنسد الأوعية الدموية في الدماغ وتحرم جوهره 
+ من المادة وتصاب به الغدد الليمفاوية خاصة. 
+ علم ذلك من تجارب في هذا المعنى أجريت على القرود. وينتشر مرض 
+ النوام خاصة في أقاليم ذات بطائح على شاطئ الأنهار والبحيرات وذبابه قلما 
+ يبتعد عن مقره أكثر من  مائة  متر ولكنه غزير جداً بحيث أنه هلك في 
+ أوغندا من  سنة  ١٩٠١  إلى  سنة  ١٩٠٤  زهاء  مائة  ألف  نسمة من هذا المرض. 
+ قال الباحث المشار إليه وسبب هذه الزيادة الهائلة أن أهل البلاد يحاذرون اتخاذ 
+ الأسباب الصحية ولا يعتقدون بخطر تلك اللدغة القتالة التي لا يشعرون بها </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

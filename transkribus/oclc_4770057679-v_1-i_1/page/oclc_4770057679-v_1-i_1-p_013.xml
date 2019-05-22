@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.650+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.650+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_013.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تعليم اللغات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إن تعليم اللغات على الطريقة التي جرى عليها الغربيون واقتبسها المشارقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قد تكون نظرية أكثر مما هي عملية فيطول أمرها ويصعب تناولها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولطالما رأينا من يترجم أشعار  شكسبير  الإنكليزي أو بوالو الفرنسي وإذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رمته الأقدار في شوارع لندن أو باريس لا يطاوعه لسانه أن يلفظ كلمات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يهتدي بها لوجه طريقه. ذلك لأن الطريقة في تعلمه تلك اللغة الأجنبية هي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عين الطريقة التي يستخدمها الأوربيون في تعليم الصم والبكم بل عين النهج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الذي ينهجه المغاربة في تعليم  إحدى  اللغات الميتة من لاتينية ويونانية أو  إحدى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اللغات الحية من إنكليزية وفرنسية وإيطالية وغيرها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إذ يكون تدريس النحو والصرف والترجمة من الكتب هو العدة في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إتقان اللغات ويسهل على المعلم أن يدرس تلميذه على هذا النحو وربما أخذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في تعليمه لغة وهو لا يحسن أن يؤلف بين جملتين صحيحتين في تلك اللغة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التي عهد إليه تدريسها ولم يجود التلفظ بها فكان شغله الشاغل تعليم تلامذته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أصول التصريف والإعراب والترجمة على حين قد ثبت أن الدارس قد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يستظهر قواعد لغة وقوانينها ولا يبرع في اللغة نفسها. وأسقم المذاهب في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تعلم لغة أن يتكلم المرء بلغته في خلال تعلمه لغة غيرها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أجل هذا قضت الحال أن تكون دراسة قواعد الإعراب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والتصريف بعد معرفة اللغة معرفة عملية لا نظرية ولا تفيد الترجمة والنقل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إلا إذا توفرت للطالب بادئ بدء معرفة الأساليب في اللغة الغريبة. فعلى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من رام أن يتكلم لغة ويكتب فيها أن يفكر في تلك اللغة ويكون شعوره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شعور أهلها فيها لا أن يصيغ تراجم وينقل جملاً. فتستدعي الأفكار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ تعليم اللغات 
+ إن تعليم اللغات على الطريقة التي جرى عليها الغربيون واقتبسها المشارقة 
+ قد تكون نظرية أكثر مما هي عملية فيطول أمرها ويصعب تناولها. 
+ ولطالما رأينا من يترجم أشعار  شكسبير  الإنكليزي أو بوالو الفرنسي وإذا 
+ رمته الأقدار في شوارع لندن أو باريس لا يطاوعه لسانه أن يلفظ كلمات 
+ يهتدي بها لوجه طريقه. ذلك لأن الطريقة في تعلمه تلك اللغة الأجنبية هي 
+ عين الطريقة التي يستخدمها الأوربيون في تعليم الصم والبكم بل عين النهج 
+ الذي ينهجه المغاربة في تعليم  إحدى  اللغات الميتة من لاتينية ويونانية أو  إحدى 
+ اللغات الحية من إنكليزية وفرنسية وإيطالية وغيرها. 
+ إذ يكون تدريس النحو والصرف والترجمة من الكتب هو العدة في 
+ إتقان اللغات ويسهل على المعلم أن يدرس تلميذه على هذا النحو وربما أخذ 
+ في تعليمه لغة وهو لا يحسن أن يؤلف بين جملتين صحيحتين في تلك اللغة 
+ التي عهد إليه تدريسها ولم يجود التلفظ بها فكان شغله الشاغل تعليم تلامذته 
+ أصول التصريف والإعراب والترجمة على حين قد ثبت أن الدارس قد 
+ يستظهر قواعد لغة وقوانينها ولا يبرع في اللغة نفسها. وأسقم المذاهب في 
+ تعلم لغة أن يتكلم المرء بلغته في خلال تعلمه لغة غيرها. 
+ من أجل هذا قضت الحال أن تكون دراسة قواعد الإعراب 
+ والتصريف بعد معرفة اللغة معرفة عملية لا نظرية ولا تفيد الترجمة والنقل 
+ إلا إذا توفرت للطالب بادئ بدء معرفة الأساليب في اللغة الغريبة. فعلى 
+ من رام أن يتكلم لغة ويكتب فيها أن يفكر في تلك اللغة ويكون شعوره 
+ شعور أهلها فيها لا أن يصيغ تراجم وينقل جملاً. فتستدعي الأفكار </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

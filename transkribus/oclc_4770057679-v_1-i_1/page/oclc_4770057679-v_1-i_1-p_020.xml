@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.065+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.065+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_020.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التمثيل في الإسلام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للتمثيل يدٌ في تربية الملكات وترقيق الشعور والإحساس يعده الغربيون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من العوامل في إنهاض الأمم، ويعده العامة من المسليات. وما هو إلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أُمثولات، ويراه فريق هزلاً، وما هو إلا عين الجد. وأيُّ نفس لا تتأثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالفضيلة والرذيلة. والسعادة والشقاء. والماضي والحاضر. والمفجع والمطرب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وكأن الغرب خُصَّ بمزية التمثيل كما اختص بكثير من المزايا ولم ترج سوقه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الشرق في عصر من العصور إلا في مملكة الشمس المشرقة بلاد يابان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فإن التمثيل فيها قديم كما نقل  أحد  الفرنجة وقد جاءت إلى بلاد الألمان ممثلة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يابانية منذ بضع سنين اسمها سادايا كو من أعظم الممثلات اليابانيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فأدهشت القوم بتمثيلها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وليس من حجة تاريخية يستأنس بها على وجود التمثيل عند العرب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> غير عبارة كنت قرأتها في بعض أسفار كمال بك الشهير وأظن في مقدمة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> روايته جلال الدين خوارزمشاه تشعر بأن عرب الأندلس عرفوا التمثيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> واشتغلوا به قليلاً. وما أدري على أي شيء بنى هذه الحادثة التاريخية على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حين يكاد يكون في حكم الإجماع اتفاق الباحثين في مدنية المسلمين على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أنهم ما عرفوا التمثيل على نحو ما كان عليه عند أمم الحضارة القديمة. قال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أحد  فضلاء الألمان أن التمثيل لم يشتغل به العرب بداعي غلظ حجاب النساء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عندهم والحظر عليهم في الخروج والتمثيل لا يتم بدون مثول النساء فيه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذاكرت مرة  أحد  الأئمة في معنى التمثيل عند المسلمين فقال أنه من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خصائص الجنس الآري وأن الجنس السامي ومنه العرب لا يعرف التمثيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا شغل نفسه به لأن حالته لا تقتضي ذلك. ولعل الفرس ألفوا كتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ التمثيل في الإسلام 
+ للتمثيل يدٌ في تربية الملكات وترقيق الشعور والإحساس يعده الغربيون 
+ من العوامل في إنهاض الأمم، ويعده العامة من المسليات. وما هو إلا 
+ أُمثولات، ويراه فريق هزلاً، وما هو إلا عين الجد. وأيُّ نفس لا تتأثر 
+ بالفضيلة والرذيلة. والسعادة والشقاء. والماضي والحاضر. والمفجع والمطرب. 
+ وكأن الغرب خُصَّ بمزية التمثيل كما اختص بكثير من المزايا ولم ترج سوقه 
+ في الشرق في عصر من العصور إلا في مملكة الشمس المشرقة بلاد يابان 
+ فإن التمثيل فيها قديم كما نقل  أحد  الفرنجة وقد جاءت إلى بلاد الألمان ممثلة 
+ يابانية منذ بضع سنين اسمها سادايا كو من أعظم الممثلات اليابانيات 
+ فأدهشت القوم بتمثيلها. 
+ وليس من حجة تاريخية يستأنس بها على وجود التمثيل عند العرب 
+ غير عبارة كنت قرأتها في بعض أسفار كمال بك الشهير وأظن في مقدمة 
+ روايته جلال الدين خوارزمشاه تشعر بأن عرب الأندلس عرفوا التمثيل 
+ واشتغلوا به قليلاً. وما أدري على أي شيء بنى هذه الحادثة التاريخية على 
+ حين يكاد يكون في حكم الإجماع اتفاق الباحثين في مدنية المسلمين على 
+ أنهم ما عرفوا التمثيل على نحو ما كان عليه عند أمم الحضارة القديمة. قال 
+ أحد  فضلاء الألمان أن التمثيل لم يشتغل به العرب بداعي غلظ حجاب النساء 
+ عندهم والحظر عليهم في الخروج والتمثيل لا يتم بدون مثول النساء فيه. 
+ ذاكرت مرة  أحد  الأئمة في معنى التمثيل عند المسلمين فقال أنه من 
+ خصائص الجنس الآري وأن الجنس السامي ومنه العرب لا يعرف التمثيل 
+ ولا شغل نفسه به لأن حالته لا تقتضي ذلك. ولعل الفرس ألفوا كتاب </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

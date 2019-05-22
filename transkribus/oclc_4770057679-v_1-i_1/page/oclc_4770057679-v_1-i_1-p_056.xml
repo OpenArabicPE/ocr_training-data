@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.844+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.844+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_056.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مولاي يا من له أياد  ليس إلى عدها سبيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومن إذا قلت العطايا  فجوده وافر جزيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إليه إن جارت الليالي  نأوي وفي ظله نقيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إن كميتي  ١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العتيق سناً  له حديث معي طويل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كان شرائي له فضولاً  فاعجب لما يجلب الفضول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ظننته حاملاً لرحلي  فخاب ظني به الجميل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولم أخل للشقاء أني  لثقل أعبائه حمول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فإن أكن عالياً عليه  فهو على كاهلي ثقيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ازحل كالبوم ليس فيه  خير كثير ولا قليل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليس له مخبر حميد  ولا له منظر جميل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهو حرون وفيه بطئ  ولا جواد ولا ذلول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا كفل معجب لراءٍ  إذا رآه ولا تليل  ٢ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مقصر إن مشى ولكن  إن حضر الأكل مستطيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يعجبه التبن والشعير ال  مغسول والقت  ٣  والقصيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إذا رأى عكرشا  ٤ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رأيت الل  عاب من شدقه يسيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وليس فيه من المعاني  شيء سوى أنه أكول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فهب له اليوم ما تسنى  وهبه من بعض ما تنييل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا تقل إن ذا قليل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ١ الكميت كزبير الذى خالط حمرته قنوء وهو سواد غير خالص ويكون ذلك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_25">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode>في الخيل والابلوغيرهما ٢ عنق ٣ القت العصفصة ٤ العكرش بالكسر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_26">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode>نبات منبسط على الارض له زهر دقيق وبزر كالجاورس — وهو حب يؤكل مثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_27">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode>الدهم ولعله الدخن — وطعم كالبقل انشد اعرابي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ مولاي يا من له أياد  ليس إلى عدها سبيل 
+ ومن إذا قلت العطايا  فجوده وافر جزيل 
+ إليه إن جارت الليالي  نأوي وفي ظله نقيل 
+ إن كميتي  ١ 
+ العتيق سناً  له حديث معي طويل 
+ كان شرائي له فضولاً  فاعجب لما يجلب الفضول 
+ ظننته حاملاً لرحلي  فخاب ظني به الجميل 
+ ولم أخل للشقاء أني  لثقل أعبائه حمول 
+ فإن أكن عالياً عليه  فهو على كاهلي ثقيل 
+ ازحل كالبوم ليس فيه  خير كثير ولا قليل 
+ ليس له مخبر حميد  ولا له منظر جميل 
+ وهو حرون وفيه بطئ  ولا جواد ولا ذلول 
+ لا كفل معجب لراءٍ  إذا رآه ولا تليل  ٢ 
+ مقصر إن مشى ولكن  إن حضر الأكل مستطيل 
+ يعجبه التبن والشعير ال  مغسول والقت  ٣  والقصيل 
+ إذا رأى عكرشا  ٤ 
+
+
+ رأيت الل  عاب من شدقه يسيل 
+ وليس فيه من المعاني  شيء سوى أنه أكول 
+ فهب له اليوم ما تسنى  وهبه من بعض ما تنييل 
+ ولا تقل إن ذا قليل 
+ ١ الكميت كزبير الذى خالط حمرته قنوء وهو سواد غير خالص ويكون ذلك 
+في الخيل والابلوغيرهما ٢ عنق ٣ القت العصفصة ٤ العكرش بالكسر 
+نبات منبسط على الارض له زهر دقيق وبزر كالجاورس — وهو حب يؤكل مثل 
+الدهم ولعله الدخن — وطعم كالبقل انشد اعرابي </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

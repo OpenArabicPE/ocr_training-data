@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.757+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.757+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_015.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اللغة شأن مصور لا يحتاج إلى إتقان العلوم الطبيعية والكيماوية ليصنع صوراً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شمسية بديعة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما اللغة في الحقيقة إلا صورة محكية من الحياة فاقتضى في تعلمها أن يسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الإنسان من نفس الحياة لا أن يعمد إلى أشكال من التعبير لا تمس ولا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تتحرك. وقلما تتلاءم الألفاظ وصور الأفكار بين لغة وأخرى كل التلاؤم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فالبداءة بالترجمة الحرفية من لغة إلى لغة يراد تعلمها إضاعة للوقت وإتعاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للذهن على غير طائل. ومن العسر المتعذر أن يرسم المرء صورتين رسماً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خفيفاً على حين لا يضع إحداهما على الأخرى وكذلك الحال في اللغات فقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> امتنع أن يحكم وضع لغتين بعضهما على بعض. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> واللغة بموجب هذه الأصول الجديدة عبارة عن محادثة دائمة باللغة الغريبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فكل ما يقع نظر التلميذ عليه مباشرة يكون له منه مادة درس وموضوع تعلم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وذلك بتربية الأذن والحواس الصوتية. فيلقن الأستاذ تلميذه حسن اللفظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وسرعة التركيب فيدرس الأفعال الأولى بالأعمال والحركات يقوم ويذهب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إلى اللوح الأسود فبكتب ويفتح الباب ويرفع الكتاب ويضعه ثم تعرض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على سمعه مشاهد الحياة اليومية فيسهل عليه تأليف جمل صغيرة يتزايد كل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يوم عددها بسرعة. فيكون للتلميذ بهذه الطريقة في تأليف الجملة ما يلزمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أوليات القواعد والروابط. والأمم بأسرها تتعلم لغاتها بالعمل أولاً ثم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالنظر. فيتعلم المتعلم ما تمس حاجته إليه إلى أن يكتب بدون غلط ويتعلم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التلميذ أولاً معاني الكلمات الغريبة ثم يلقن التمرينات  العديدة بعد معرفة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اللغة معرفة فطرية فمعرفة عقلية. ومن اللازم اللازب الاعتياد على الصور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قبل القواعد. ثم يبدأ المعلم بالسؤال فيجيبه المتعلم ولا يزالان ينتقلان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> اللغة شأن مصور لا يحتاج إلى إتقان العلوم الطبيعية والكيماوية ليصنع صوراً 
+ شمسية بديعة. 
+ ما اللغة في الحقيقة إلا صورة محكية من الحياة فاقتضى في تعلمها أن يسير 
+ الإنسان من نفس الحياة لا أن يعمد إلى أشكال من التعبير لا تمس ولا 
+ تتحرك. وقلما تتلاءم الألفاظ وصور الأفكار بين لغة وأخرى كل التلاؤم 
+ فالبداءة بالترجمة الحرفية من لغة إلى لغة يراد تعلمها إضاعة للوقت وإتعاب 
+ للذهن على غير طائل. ومن العسر المتعذر أن يرسم المرء صورتين رسماً 
+ خفيفاً على حين لا يضع إحداهما على الأخرى وكذلك الحال في اللغات فقد 
+ امتنع أن يحكم وضع لغتين بعضهما على بعض. 
+ واللغة بموجب هذه الأصول الجديدة عبارة عن محادثة دائمة باللغة الغريبة 
+ فكل ما يقع نظر التلميذ عليه مباشرة يكون له منه مادة درس وموضوع تعلم. 
+ وذلك بتربية الأذن والحواس الصوتية. فيلقن الأستاذ تلميذه حسن اللفظ 
+ وسرعة التركيب فيدرس الأفعال الأولى بالأعمال والحركات يقوم ويذهب 
+ إلى اللوح الأسود فبكتب ويفتح الباب ويرفع الكتاب ويضعه ثم تعرض 
+ على سمعه مشاهد الحياة اليومية فيسهل عليه تأليف جمل صغيرة يتزايد كل 
+ يوم عددها بسرعة. فيكون للتلميذ بهذه الطريقة في تأليف الجملة ما يلزمه 
+ من أوليات القواعد والروابط. والأمم بأسرها تتعلم لغاتها بالعمل أولاً ثم 
+ بالنظر. فيتعلم المتعلم ما تمس حاجته إليه إلى أن يكتب بدون غلط ويتعلم 
+ التلميذ أولاً معاني الكلمات الغريبة ثم يلقن التمرينات  العديدة بعد معرفة 
+ اللغة معرفة فطرية فمعرفة عقلية. ومن اللازم اللازب الاعتياد على الصور 
+ قبل القواعد. ثم يبدأ المعلم بالسؤال فيجيبه المتعلم ولا يزالان ينتقلان </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

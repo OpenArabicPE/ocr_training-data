@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.737+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.737+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_029.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهو يطمس الفضائل لأن صاحبه لا يكاد يفعل الخير حباً للخير لكن ليذكر به </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فواجب على المرء ترداد النصح رضي المنصوح أو سخط تأذى الناصح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بذلك أو لم يتأذ إذا نصحت فانصح سراً لا جهراً أو بتعريض لا تصريح إلا أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا يفهم المنصوح تعريضك فلابد من التصريح ولا تنصح على شرط القبول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> منك فإن تعديت هذه الوجوه فأنت ظالم لا ناصح وطالب طاعة وملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا مؤد حق ديانة وأخوة. . . لا تنقل إلى صديقك ما يؤلم نفسه ولا ينتفع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بمعرفته فهذا فعل الأرذال ولا تكتمه ما يستضر بجهله فهذا فعل الشر. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الناس في بعض أخلاقهم على  تسع  مراتب فطائفة تمدح في الوجه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وتذم في المغيب وهذه صفة أهل النفاق والعيابين. وهذا خلق فاش في الناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> غالب عليهم. وطائفة تذم في المشهد والمغيب وهذه صفة أهل السلاطة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والوقاحة من العيابين. وطائفة تمدح في الوجه والغيب  وهذه صفة أهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الملق والطمع. وطائفة تذم في المشهد وتمدح في المغيب وهذه صفة أهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> السخف والنواكة. وأما أهل الفضل فيمسكون عن المدح والذم في المشاهد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويثنون بالخير في المغيب أو يمسكون عن الذم وأما العيابون البراء من النفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والقحة فيمسكون عن المدح وعن الذم في المشهد والمغيب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مما ينجع في الوعظ الثناء بحضرة المسيء على من فعل خلاف فعله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فهذا داعية إلى عمل الخير وما أعلم لحب المدح فضلاً إلا هذا وحده وهو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن يقتدي به من يسمع الثناء ولهذا نوجب أن نؤرخ الفضائل والرذائل لينفر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سامعها عن القبيح المأثور عن غيره ويرغب في الحسن المنقول عمن تقدمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويتعظ بما سلف. وتأملت كل ما دون السماء وطالت فكرتي فوجدت كل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شيء فيه من حي وغير حي طبعه إن قوي أن يقلع عن غيره من الأنواع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ وهو يطمس الفضائل لأن صاحبه لا يكاد يفعل الخير حباً للخير لكن ليذكر به 
+ فواجب على المرء ترداد النصح رضي المنصوح أو سخط تأذى الناصح 
+ بذلك أو لم يتأذ إذا نصحت فانصح سراً لا جهراً أو بتعريض لا تصريح إلا أن 
+ لا يفهم المنصوح تعريضك فلابد من التصريح ولا تنصح على شرط القبول 
+ منك فإن تعديت هذه الوجوه فأنت ظالم لا ناصح وطالب طاعة وملك 
+ لا مؤد حق ديانة وأخوة. . . لا تنقل إلى صديقك ما يؤلم نفسه ولا ينتفع 
+ بمعرفته فهذا فعل الأرذال ولا تكتمه ما يستضر بجهله فهذا فعل الشر. 
+ الناس في بعض أخلاقهم على  تسع  مراتب فطائفة تمدح في الوجه 
+ وتذم في المغيب وهذه صفة أهل النفاق والعيابين. وهذا خلق فاش في الناس 
+ غالب عليهم. وطائفة تذم في المشهد والمغيب وهذه صفة أهل السلاطة 
+ والوقاحة من العيابين. وطائفة تمدح في الوجه والغيب  وهذه صفة أهل 
+ الملق والطمع. وطائفة تذم في المشهد وتمدح في المغيب وهذه صفة أهل 
+ السخف والنواكة. وأما أهل الفضل فيمسكون عن المدح والذم في المشاهد 
+ ويثنون بالخير في المغيب أو يمسكون عن الذم وأما العيابون البراء من النفاق 
+ والقحة فيمسكون عن المدح وعن الذم في المشهد والمغيب. 
+ مما ينجع في الوعظ الثناء بحضرة المسيء على من فعل خلاف فعله 
+ فهذا داعية إلى عمل الخير وما أعلم لحب المدح فضلاً إلا هذا وحده وهو 
+ أن يقتدي به من يسمع الثناء ولهذا نوجب أن نؤرخ الفضائل والرذائل لينفر 
+ سامعها عن القبيح المأثور عن غيره ويرغب في الحسن المنقول عمن تقدمه 
+ ويتعظ بما سلف. وتأملت كل ما دون السماء وطالت فكرتي فوجدت كل 
+ شيء فيه من حي وغير حي طبعه إن قوي أن يقلع عن غيره من الأنواع </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

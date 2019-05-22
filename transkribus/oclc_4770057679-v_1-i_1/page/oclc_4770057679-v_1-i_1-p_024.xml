@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.330+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.330+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_024.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العدد كثيرة الحصا وإن هلك بعض بنيهم صغاراً لقلة العناية بصحتهم ولعل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذلك قضى أن تكون حركة الجنس العربي على وتيرة واحدة لا قلب فيها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا إبدال. وجماع الأمم الغربية تتناسل تناسلاً غريباً ما خلا فرنسا التي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> منيت بقلة النسل وعقلاء أهلها في المقيم المقعد من سوء عاقبة ذلك. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التربية والتعليم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العمل والعملة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الحديث كلكم حارث وكلكم همام. والحارث الكارث واحتراث </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المال كسبه والإنسان لا يخلو الكسب طبعاً واختياراً. والهمام مشتق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من هم بالأمر يهم إذا عزم عليه. قال الراغب الأصفهاني: العمل  كل  كله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فعل يصدر من الحيوان يقصده فهو أخص من الفعل لأن الفعل قد ينسب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إلى الحيوانات التي يقع منها فعل بغير قصد وقد ينسب إلى الجمادات والعمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قلما ينسب إلى ذلك ولم يستعمل في الحيوانات إلا في قولهم الإبل والبقر العوامل. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قال علماء اللغة: واعمله استعمله واعتمل اضطرب في العمل وقيل عمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لغيره ورجل عمِل وعمول ذو عمل ورجل عمول كسوب. والعُمالة رزق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العامل الذي جعل له على ما قلد من العمل والعملة العاملون بأيديهم ضروباً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من العمل في طين أو حفر أو غيره. والعامل هو الذي يتولى أمور الرجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في ماله وملكه وعمله. واستعمل غيره إذا سأله أن يعمل له واعمله أعطاه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عمالته. قال باور: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يشكو بعض العملة من حظهم وسوء طالعهم ويقولون لو كان لنا من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> العدد كثيرة الحصا وإن هلك بعض بنيهم صغاراً لقلة العناية بصحتهم ولعل 
+ ذلك قضى أن تكون حركة الجنس العربي على وتيرة واحدة لا قلب فيها 
+ ولا إبدال. وجماع الأمم الغربية تتناسل تناسلاً غريباً ما خلا فرنسا التي 
+ منيت بقلة النسل وعقلاء أهلها في المقيم المقعد من سوء عاقبة ذلك. 
+
+ التربية والتعليم 
+
+ العمل والعملة 
+ في الحديث كلكم حارث وكلكم همام. والحارث الكارث واحتراث 
+ المال كسبه والإنسان لا يخلو الكسب طبعاً واختياراً. والهمام مشتق 
+ من هم بالأمر يهم إذا عزم عليه. قال الراغب الأصفهاني: العمل  كل  كله 
+ فعل يصدر من الحيوان يقصده فهو أخص من الفعل لأن الفعل قد ينسب 
+ إلى الحيوانات التي يقع منها فعل بغير قصد وقد ينسب إلى الجمادات والعمل 
+ قلما ينسب إلى ذلك ولم يستعمل في الحيوانات إلا في قولهم الإبل والبقر العوامل. 
+ قال علماء اللغة: واعمله استعمله واعتمل اضطرب في العمل وقيل عمل 
+ لغيره ورجل عمِل وعمول ذو عمل ورجل عمول كسوب. والعُمالة رزق 
+ العامل الذي جعل له على ما قلد من العمل والعملة العاملون بأيديهم ضروباً 
+ من العمل في طين أو حفر أو غيره. والعامل هو الذي يتولى أمور الرجل 
+ في ماله وملكه وعمله. واستعمل غيره إذا سأله أن يعمل له واعمله أعطاه 
+ عمالته. قال باور: 
+ يشكو بعض العملة من حظهم وسوء طالعهم ويقولون لو كان لنا من </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

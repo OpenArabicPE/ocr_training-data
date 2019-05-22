@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.805+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.805+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_016.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من البسيط إلى المركب ومن شرح المفردات إلى تفسير العبارات ويكون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كل ذلك باللغة التي يراد إتقانها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وللفظ في هذه الطريقة المقام الأعلى. ولم يكن يعنى بتقويمه من قبل. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والأساتذة الذين يحسنون التلفظ بلغة ما هم ممن تعلموها على الأسلوب الطبيعي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في طفوليتهم أو أتقنوها بمقامهم في البلاد التي تتكلم فيها تلك اللغة. وجودة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التلفظ هو روح اللغة على التحقيق. ولا تعد العبارة شيئاً مهما بلغت من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الضبط متى قبح اللفظ وتجلت الأعجمية فيه عياناً. ومن الهجنة أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التلفظ لا يكاد يصلح إذا فسد لأول أمره. وصعب على الإنسان ما لم يعود. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فالطريقة المشار إليها مغايرة لطريقة الترجمة المألوفة في الأغلب إذ كل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> معرفة يرشد إليها المتعلم على هذه الصورة لا تحسب ناقصة الجهاز مشوشة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأسلوب. وقلما تجد الألفاظ في لغة ما يقابلها في لغة ثانية ولكل لغة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اصطلاحاتها الخاصة بها ليس للترجمة مهما أتقنت أن تنقلها على أصلها إذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التصورات التي تمثلها لغة لا تتحد مع تصورات تمثلها ألفاظ لغة أخرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اتحاداً ذاتياً معنىً ومبنىً. كتب  أحد  الغرباء إلى فنيلون العالم الفرنسي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المشهور إن لي منك يا مولاي أمعاء والد يريد أن يقول قلب والد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقال الفونس الثاني  عشر  ملك إسبانيا وقد جاء قصره في يوم احتفال: أتود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن تتعب معي نحو النافذة يعني بذلك أن تقترب نحو النافذة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولو تعلم ذاك الكاتب وهذا الملك أن يتكلما الفرنسية على طريقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأستاذ برليتز إذاً لنجيا من هذا الغلط الشائن وكان شأنهما في سهولة التعبير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وجودة التصوير شأن أولئك التجار والسوقة ممن ينزلون بلاداً لا يحسنون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لغتها فما هو إلا قليل حتى يمرنوا على تكلمها زمناً فيحسنونها ولا إحسان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> من البسيط إلى المركب ومن شرح المفردات إلى تفسير العبارات ويكون 
+ كل ذلك باللغة التي يراد إتقانها. 
+ وللفظ في هذه الطريقة المقام الأعلى. ولم يكن يعنى بتقويمه من قبل. 
+ والأساتذة الذين يحسنون التلفظ بلغة ما هم ممن تعلموها على الأسلوب الطبيعي 
+ في طفوليتهم أو أتقنوها بمقامهم في البلاد التي تتكلم فيها تلك اللغة. وجودة 
+ التلفظ هو روح اللغة على التحقيق. ولا تعد العبارة شيئاً مهما بلغت من 
+ الضبط متى قبح اللفظ وتجلت الأعجمية فيه عياناً. ومن الهجنة أن 
+ التلفظ لا يكاد يصلح إذا فسد لأول أمره. وصعب على الإنسان ما لم يعود. 
+ فالطريقة المشار إليها مغايرة لطريقة الترجمة المألوفة في الأغلب إذ كل 
+ معرفة يرشد إليها المتعلم على هذه الصورة لا تحسب ناقصة الجهاز مشوشة 
+ الأسلوب. وقلما تجد الألفاظ في لغة ما يقابلها في لغة ثانية ولكل لغة 
+ اصطلاحاتها الخاصة بها ليس للترجمة مهما أتقنت أن تنقلها على أصلها إذ 
+ التصورات التي تمثلها لغة لا تتحد مع تصورات تمثلها ألفاظ لغة أخرى 
+ اتحاداً ذاتياً معنىً ومبنىً. كتب  أحد  الغرباء إلى فنيلون العالم الفرنسي 
+ المشهور إن لي منك يا مولاي أمعاء والد يريد أن يقول قلب والد 
+ وقال الفونس الثاني  عشر  ملك إسبانيا وقد جاء قصره في يوم احتفال: أتود 
+ أن تتعب معي نحو النافذة يعني بذلك أن تقترب نحو النافذة. 
+ ولو تعلم ذاك الكاتب وهذا الملك أن يتكلما الفرنسية على طريقة 
+ الأستاذ برليتز إذاً لنجيا من هذا الغلط الشائن وكان شأنهما في سهولة التعبير 
+ وجودة التصوير شأن أولئك التجار والسوقة ممن ينزلون بلاداً لا يحسنون 
+ لغتها فما هو إلا قليل حتى يمرنوا على تكلمها زمناً فيحسنونها ولا إحسان </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

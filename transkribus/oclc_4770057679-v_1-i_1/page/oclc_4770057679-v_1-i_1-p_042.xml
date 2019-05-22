@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.745+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.745+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_042.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مصر مثلاً كما يتناول منه العاقل أكثر من الجاهل والخاصي فضلاً عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العامي والكبير زيادة على الصغير في كل قطر ومصر. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقد بحث المؤلف فيما يحول دون العامل ونجاحه وسعادته من المصاعب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأن بيده التنكب عنها ووضع المبادئ التي تنتج له طريق الفلاح والسعادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وتطبيقها على أدوار العامل ال  ثلاثة  أي حالة كونه خريجاً وعاملاً مستقلاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومدير معمل وذكر في خلال تطبيقه لهذه الحالات ما يمكن أن يحدث </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للعامل من الأحوال النادرة الخاصة ويلم بما عساه يكون له من هذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأحوال من التأثير في حياته الخاصة وعلائقه مع عياله وبين الطرق التي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يتقي بها العامل عادية الأمراض ويقتصد جانباً من المال الذي يحصله بعرق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جبينه مشفوعاً ذلك بما هو شائع من الأوهام بشأن العملة ورفاهيتهم رفاهية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> متناسبة مع حالتهم لا رفاهية يتمتع بها الرؤساء والكبراء بل رفاهية نسبية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تتم لهم بها رغائبهم المشروعة التي أباح الله لهم الاستمتاع بها في هذه الحياة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وسأحصل بعض فصوله في باب التربية والتعليم لينتفع بتلاوتها بعض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أهل بلادنا كما انتفع به من  ألف  برسمهم ووسم باسمهم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في وادي الهموم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رواية حقيقية لا خيالية كمعظم ما ينشر هذه الأيام نسج بردها الكاتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأديب محمد لطفي أفندي جمعة  أحد  منشئي جريدة  الظاهر  الغراء وهي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تبحث في الشقاء الاجتماعي المستحوذ على بعض النساء قال: إني أعتقد بأن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المرأة تصلح لأن تكون ملكاً طاهراً أو ملكة عادلة أو أماً رحيمة أو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> زوجاً فاضلة أو مدبرة عاقلة أو بغياً ساقطة أو مجرمة قاتلة وكل ذلك في يد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> مصر مثلاً كما يتناول منه العاقل أكثر من الجاهل والخاصي فضلاً عن 
+ العامي والكبير زيادة على الصغير في كل قطر ومصر. 
+ وقد بحث المؤلف فيما يحول دون العامل ونجاحه وسعادته من المصاعب 
+ وأن بيده التنكب عنها ووضع المبادئ التي تنتج له طريق الفلاح والسعادة 
+ وتطبيقها على أدوار العامل ال  ثلاثة  أي حالة كونه خريجاً وعاملاً مستقلاً 
+ ومدير معمل وذكر في خلال تطبيقه لهذه الحالات ما يمكن أن يحدث 
+ للعامل من الأحوال النادرة الخاصة ويلم بما عساه يكون له من هذه 
+ الأحوال من التأثير في حياته الخاصة وعلائقه مع عياله وبين الطرق التي 
+ يتقي بها العامل عادية الأمراض ويقتصد جانباً من المال الذي يحصله بعرق 
+ جبينه مشفوعاً ذلك بما هو شائع من الأوهام بشأن العملة ورفاهيتهم رفاهية 
+ متناسبة مع حالتهم لا رفاهية يتمتع بها الرؤساء والكبراء بل رفاهية نسبية 
+ تتم لهم بها رغائبهم المشروعة التي أباح الله لهم الاستمتاع بها في هذه الحياة. 
+ وسأحصل بعض فصوله في باب التربية والتعليم لينتفع بتلاوتها بعض 
+ أهل بلادنا كما انتفع به من  ألف  برسمهم ووسم باسمهم. 
+
+ في وادي الهموم 
+ رواية حقيقية لا خيالية كمعظم ما ينشر هذه الأيام نسج بردها الكاتب 
+ الأديب محمد لطفي أفندي جمعة  أحد  منشئي جريدة  الظاهر  الغراء وهي 
+ تبحث في الشقاء الاجتماعي المستحوذ على بعض النساء قال: إني أعتقد بأن 
+ المرأة تصلح لأن تكون ملكاً طاهراً أو ملكة عادلة أو أماً رحيمة أو 
+ زوجاً فاضلة أو مدبرة عاقلة أو بغياً ساقطة أو مجرمة قاتلة وكل ذلك في يد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

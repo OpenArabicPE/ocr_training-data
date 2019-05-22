@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:30.891+03:00</Created>
+        <LastChange>2019-05-22T11:11:30.891+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_003.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كتب الأدب، والدين والنسب وغيرها، ما يبلغ نحو  أربعمائة  مجلد أو نحو  ثمانين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ألف  ورقة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كان  أبو محمد بن حزم  على كثرة علمه وعقله، شديد اللهجة، صعب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الطريقة، ولعل ذلك ناتج من العلة الشديدة  ١  التي كانت أصابته كما قال عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نفسه فولدت عليه ربواً في الطحال شديداً فولد ذلك عليه من الضجر، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وضيق الخلق، وقلة الصبر والنزق، أمراً جاشت نفسه فيه، إذ أنه أنكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تبدل خلقه، واشتد عجبه من مفارقته لطبعه، وصح عنده أن الطحال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> موضع الفرح: إذا فسد تولد ضده. قال، ولكل شيء فائدة، ولقد انتفعت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بمحك أهل الجهل منفعة عظيمة وهي أنه توقد طبعي، واحتدم خاطري، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وحيي فكري، وتهيج نشاطي، فكان ذلك سبباً إلى تواليف عظيمة النفع، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولولا استثارتهم ساكني، واقتداحهم كامني، ما انبعثت لتلك التواليف. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وما يشاهد إذاً في كتابه الملل والنحل من إفحاش الطعن على من خالفه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قد دفعه إليه مزاجه، وكان هو السبب الذي دعا إلى تألب خصومه عليه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في حياته. قال أبو مروان بن حيان مؤرخ  الأندلس  :  ٢ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كان أبو محمد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حافظاً فنوناً من حديث وفقه وجدل ونسب، وما يتعلق بأذيال الأدب، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مع المشاركة في كثير من أنواع التعاليم القديمة من المنطق والفلسفة. له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في بعض تلك الفنون كتب كثيرة غير أنه لم يخلُ فيها من غلط وسقط، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لجرأته في التسور على الفنون لاسيما المنطق، فإنهم زعموا أنه زلّ هنالك، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وضلّ في تلك المسالك، وخالف أرسطاطا ليس واضعه مخالفة من لم يفهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> غرضه، ولا أرتاض في كتبه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ١ مداواة النفوس ٢ الذخيرة لابن بسام وهو مخطوط بخط مغربي من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode>خزانة كتب العلامة الفاضل الشيخ طاهر الجزائري في دمشق</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> كتب الأدب، والدين والنسب وغيرها، ما يبلغ نحو  أربعمائة  مجلد أو نحو  ثمانين 
+ ألف  ورقة. 
+ كان  أبو محمد بن حزم  على كثرة علمه وعقله، شديد اللهجة، صعب 
+ الطريقة، ولعل ذلك ناتج من العلة الشديدة  ١  التي كانت أصابته كما قال عن 
+ نفسه فولدت عليه ربواً في الطحال شديداً فولد ذلك عليه من الضجر، 
+ وضيق الخلق، وقلة الصبر والنزق، أمراً جاشت نفسه فيه، إذ أنه أنكر 
+ تبدل خلقه، واشتد عجبه من مفارقته لطبعه، وصح عنده أن الطحال 
+ موضع الفرح: إذا فسد تولد ضده. قال، ولكل شيء فائدة، ولقد انتفعت 
+ بمحك أهل الجهل منفعة عظيمة وهي أنه توقد طبعي، واحتدم خاطري، 
+ وحيي فكري، وتهيج نشاطي، فكان ذلك سبباً إلى تواليف عظيمة النفع، 
+ ولولا استثارتهم ساكني، واقتداحهم كامني، ما انبعثت لتلك التواليف. 
+ وما يشاهد إذاً في كتابه الملل والنحل من إفحاش الطعن على من خالفه 
+ قد دفعه إليه مزاجه، وكان هو السبب الذي دعا إلى تألب خصومه عليه 
+ في حياته. قال أبو مروان بن حيان مؤرخ  الأندلس  :  ٢ 
+ كان أبو محمد 
+ حافظاً فنوناً من حديث وفقه وجدل ونسب، وما يتعلق بأذيال الأدب، 
+ مع المشاركة في كثير من أنواع التعاليم القديمة من المنطق والفلسفة. له 
+ في بعض تلك الفنون كتب كثيرة غير أنه لم يخلُ فيها من غلط وسقط، 
+ لجرأته في التسور على الفنون لاسيما المنطق، فإنهم زعموا أنه زلّ هنالك، 
+ وضلّ في تلك المسالك، وخالف أرسطاطا ليس واضعه مخالفة من لم يفهم 
+ غرضه، ولا أرتاض في كتبه. 
+ ١ مداواة النفوس ٢ الذخيرة لابن بسام وهو مخطوط بخط مغربي من 
+خزانة كتب العلامة الفاضل الشيخ طاهر الجزائري في دمشق</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

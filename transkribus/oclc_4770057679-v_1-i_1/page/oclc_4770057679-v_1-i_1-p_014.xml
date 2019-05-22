@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.702+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.702+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_014.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والانفعالات للحال ما يحتاج إليه الطالب من الألفاظ التي يعبر بها عنها فتصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اللغة التي يتعلمها لغة ثانية له ولا تكون الترجمة من لغته أو إليها إذا دعت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الحال حرفاً بحرف بل على طريقة تنقل بها الصورة إلى التعبير عنها. وقلما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يسمع المتعلم في معظم المدارس اليوم صدى اللغة التي يتعلمها ويقتضي له أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يربي عليها أذنه وذاكرته ما أمكن. وما أشبه المدرس وهو يشرح للدارس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> دروسه بلغته الأصلية الابام تود أن تعلم طفلها وهوالكن تمام قواعد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الفعل الماضي وتصريف الأفعال الشاذة بدلاً من أن تعنى بتعليمه أن يحسن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تلفظ الكلمات الأولى التي يحاول لفظها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وما فتئ تعلم اللغات يختلف باختلاف الاجتهاد في كل قوم ومعظمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> دائر في الغرب منذ  ثلاثين  سنة على طريقتين وهما إما أن يقيم المتعلم زمناً في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بلد اللغة التي يريد تعلمها أو أن يكون أهل الطفل في سعة من العيش </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيتخذون له مؤدباً أو مؤدبة يعلمه اللغة بالعمل بين ظهراني أهله وأسرته. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقد ابتدع الأستاذ برليتز الأميركاني طريقة سهلة لتعليم اللغات جرى عليها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بعضهم في أميركا وأوربا فأسفرت عن نجاح أكيد. وطريقته عبارة عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نظر عقلي وعلم عملي وبلفظ آخر نظرٌ في المحسوسات لا المجردات إذ اللغة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عبارة عن أصوات محكية لا عن إشارات مكتوبة. والتعليم سماعي أولاً ثم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نظري. ولا يعمد في طريقته إلى الترجمة ولا إلى النقل ولا يستخدم فيها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الطالب معجماً ولا يستصحب كتاب قواعد يل يتعلم الإنسان القوانين بعد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لإكمال المعرفة العملية على نحو ما يتعلم الطفل لغة أبيه وأمه. وليس في تعلم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> القواعد نفع حقيقي إلا متى عرف المرء اللغة فالقواعد تشرح اللغة شرحاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> علمياً فتبحث عن علل يتأتى الاستغناء عنها بادئ بدءٍ وقلما تنفع في تلقين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> والانفعالات للحال ما يحتاج إليه الطالب من الألفاظ التي يعبر بها عنها فتصير 
+ اللغة التي يتعلمها لغة ثانية له ولا تكون الترجمة من لغته أو إليها إذا دعت 
+ الحال حرفاً بحرف بل على طريقة تنقل بها الصورة إلى التعبير عنها. وقلما 
+ يسمع المتعلم في معظم المدارس اليوم صدى اللغة التي يتعلمها ويقتضي له أن 
+ يربي عليها أذنه وذاكرته ما أمكن. وما أشبه المدرس وهو يشرح للدارس 
+ دروسه بلغته الأصلية الابام تود أن تعلم طفلها وهوالكن تمام قواعد 
+ الفعل الماضي وتصريف الأفعال الشاذة بدلاً من أن تعنى بتعليمه أن يحسن 
+ تلفظ الكلمات الأولى التي يحاول لفظها. 
+ وما فتئ تعلم اللغات يختلف باختلاف الاجتهاد في كل قوم ومعظمه 
+ دائر في الغرب منذ  ثلاثين  سنة على طريقتين وهما إما أن يقيم المتعلم زمناً في 
+ بلد اللغة التي يريد تعلمها أو أن يكون أهل الطفل في سعة من العيش 
+ فيتخذون له مؤدباً أو مؤدبة يعلمه اللغة بالعمل بين ظهراني أهله وأسرته. 
+ وقد ابتدع الأستاذ برليتز الأميركاني طريقة سهلة لتعليم اللغات جرى عليها 
+ بعضهم في أميركا وأوربا فأسفرت عن نجاح أكيد. وطريقته عبارة عن 
+ نظر عقلي وعلم عملي وبلفظ آخر نظرٌ في المحسوسات لا المجردات إذ اللغة 
+ عبارة عن أصوات محكية لا عن إشارات مكتوبة. والتعليم سماعي أولاً ثم 
+ نظري. ولا يعمد في طريقته إلى الترجمة ولا إلى النقل ولا يستخدم فيها 
+ الطالب معجماً ولا يستصحب كتاب قواعد يل يتعلم الإنسان القوانين بعد 
+ لإكمال المعرفة العملية على نحو ما يتعلم الطفل لغة أبيه وأمه. وليس في تعلم 
+ القواعد نفع حقيقي إلا متى عرف المرء اللغة فالقواعد تشرح اللغة شرحاً 
+ علمياً فتبحث عن علل يتأتى الاستغناء عنها بادئ بدءٍ وقلما تنفع في تلقين </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

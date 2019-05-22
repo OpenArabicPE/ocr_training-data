@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.978+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.978+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_045.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عليها النار ولا غيرها من الآفات. وقد وفق  أحد  أساتذة مدرسة كاليفورنيا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الجامعة بأميركا إلى أن أنشئ بفضله في  الولايات المتحدة  مكتب يعمل على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ضم المنحس من الصحف المخطوطة وجعل أمهات للطوابع والنقود. وسيجعل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من هذه الدفاتر نسخ يتناولها العلماء والباحثون بأقل ما يمكن من الأثمان. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جزيرة مغمورة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تركت  إنكلترا  ل  ألمانيا  سنة  ١٨٩٠  جزيرة  ايليكولاندا  في  البحر الشمالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأخذت عوضاً عنها جزيرة  زنجبار  لكن تلك الجزيرة أخذت تغمرها المياه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فلم يبق منها غير ربعها على ما بذل من العناية في كفّ عادية المياه عنها ولا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تلبث  ايليكولاندا  أن تصبح في خبر كان يضمها اليمُّ إلى صدره ويدرجها في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قاعه وقعره. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولوع  اليابان  بالمحسوسات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليس  اليابان  في ولوعهم بالمحسوسات بأقل من الصينيين إذا صحَّ الحكم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على أخلاقهم من مطالعة الكتب التي تتداولها أيديهم وترغب في تصفحها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نفوسهم. ففي خزانة كتب طوكيو عاصمة الإمبراطورية اليابانية قلما يطالع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المختلفون إليها الروايات والقصص فقد يتداول القراء في السنة  ١٦  في ال  مائة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الكتب الدينية الموجودة في تلك المكتبة و  ٢١  في ال  مائة  من الكتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الرياضية وعلوم الطب و  ٢٠  في ال  مائة  من كتب الأدب و  ١٨  في ال  مائة  من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كتب الجغرافيا والرحلات. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أخلاق الأمريكان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نشر  أحد  أساتذة  هارفرد  الجامعة بأميركا كتاباً في علم النفس الأمريكية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذكر فيه ما أمتاز به الأمريكان على من سواهم وهو يرجع إلى  أربعة  فصول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> عليها النار ولا غيرها من الآفات. وقد وفق  أحد  أساتذة مدرسة كاليفورنيا 
+ الجامعة بأميركا إلى أن أنشئ بفضله في  الولايات المتحدة  مكتب يعمل على 
+ ضم المنحس من الصحف المخطوطة وجعل أمهات للطوابع والنقود. وسيجعل 
+ من هذه الدفاتر نسخ يتناولها العلماء والباحثون بأقل ما يمكن من الأثمان. 
+
+ جزيرة مغمورة 
+ تركت  إنكلترا  ل  ألمانيا  سنة  ١٨٩٠  جزيرة  ايليكولاندا  في  البحر الشمالي 
+ وأخذت عوضاً عنها جزيرة  زنجبار  لكن تلك الجزيرة أخذت تغمرها المياه 
+ فلم يبق منها غير ربعها على ما بذل من العناية في كفّ عادية المياه عنها ولا 
+ تلبث  ايليكولاندا  أن تصبح في خبر كان يضمها اليمُّ إلى صدره ويدرجها في 
+ قاعه وقعره. 
+
+ ولوع  اليابان  بالمحسوسات 
+ ليس  اليابان  في ولوعهم بالمحسوسات بأقل من الصينيين إذا صحَّ الحكم 
+ على أخلاقهم من مطالعة الكتب التي تتداولها أيديهم وترغب في تصفحها 
+ نفوسهم. ففي خزانة كتب طوكيو عاصمة الإمبراطورية اليابانية قلما يطالع 
+ المختلفون إليها الروايات والقصص فقد يتداول القراء في السنة  ١٦  في ال  مائة 
+ من الكتب الدينية الموجودة في تلك المكتبة و  ٢١  في ال  مائة  من الكتب 
+ الرياضية وعلوم الطب و  ٢٠  في ال  مائة  من كتب الأدب و  ١٨  في ال  مائة  من 
+ كتب الجغرافيا والرحلات. 
+
+ أخلاق الأمريكان 
+ نشر  أحد  أساتذة  هارفرد  الجامعة بأميركا كتاباً في علم النفس الأمريكية 
+ ذكر فيه ما أمتاز به الأمريكان على من سواهم وهو يرجع إلى  أربعة  فصول </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

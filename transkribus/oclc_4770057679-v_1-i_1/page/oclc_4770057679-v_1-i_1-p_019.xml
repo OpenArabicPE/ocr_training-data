@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.026+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.026+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_019.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأخلاق الفاضلة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نعمنْ بنفسي وأشقينني  فيا ليتهنَّ ويا ليتني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خلال نزلنْ بخصب النفو  س تروَّيتهن وأظمأنني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تعودنْ مني إباء الكريم  وصبر الحليم وتيه الغني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وعودتهنَّ نزال الخطوب  فما ينثنين وما أنثني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إذا ما لهوت بليل الشباب  أهبن بعزمي فنبهنني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فما زلت أمرح في قدهنَّ  ويمرحن مني بروض جني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إلى أن تولى زمان الشباب  وأوشك عودي أن ينحني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيا نفس إن كنت لا توقنين  بمعقود أمرك فاستيقني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فهذي الفضيلة سجن النفوس  وأنت الجديرة أن تسجني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فلا تسأليني متى تنقضي  ليالي الأمسار ولا تحزني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> القاهرة  حافظ  إبراهيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ماهية الحياة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للشاعر  بيلي  الإنكليزي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قدروا الحياة بأزمان وذا خطأٌ  إن الحياة هي الأعمال والفكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إن الحياة شعور لا يراد بها  وسم الضياء ولا أنفاس تنحصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لو فكروا جعلوها خفق أفئدةٍ  من التأثر لكن فاتهم نظر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأطول الناس أعماراً أسدهم  رأياً وحساً وأعمالاً لها خطر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بيروت  عبد الرحمن  شهبندر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ الأخلاق الفاضلة 
+ نعمنْ بنفسي وأشقينني  فيا ليتهنَّ ويا ليتني 
+ خلال نزلنْ بخصب النفو  س تروَّيتهن وأظمأنني 
+ تعودنْ مني إباء الكريم  وصبر الحليم وتيه الغني 
+ وعودتهنَّ نزال الخطوب  فما ينثنين وما أنثني 
+ إذا ما لهوت بليل الشباب  أهبن بعزمي فنبهنني 
+ فما زلت أمرح في قدهنَّ  ويمرحن مني بروض جني 
+ إلى أن تولى زمان الشباب  وأوشك عودي أن ينحني 
+ فيا نفس إن كنت لا توقنين  بمعقود أمرك فاستيقني 
+ فهذي الفضيلة سجن النفوس  وأنت الجديرة أن تسجني 
+ فلا تسأليني متى تنقضي  ليالي الأمسار ولا تحزني 
+ القاهرة  حافظ  إبراهيم 
+
+ ماهية الحياة 
+ للشاعر  بيلي  الإنكليزي 
+ قدروا الحياة بأزمان وذا خطأٌ  إن الحياة هي الأعمال والفكر 
+ إن الحياة شعور لا يراد بها  وسم الضياء ولا أنفاس تنحصر 
+ لو فكروا جعلوها خفق أفئدةٍ  من التأثر لكن فاتهم نظر 
+ وأطول الناس أعماراً أسدهم  رأياً وحساً وأعمالاً لها خطر 
+ بيروت  عبد الرحمن  شهبندر </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

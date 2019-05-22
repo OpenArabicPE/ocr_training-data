@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.657+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.657+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_053.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لمقاصد دينية ولإخضاع الشعب وتربيته ومن رأيه أن التمثيل قبل الإسلام لم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يكن اللهم إلا إذا اعتبر ما كان العرب يقومون به في الكعبة وحولها من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الطواف والرقص من قبيل التمثيل. وعدّ من التمثيل الديني ما يقوم به </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الشيعة من تمثيل مقتل الحسين كما عدّ ما يجربه بعض أرباب الطرق من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التمثيل الديني أيضاً. وقال أن أول من أدخل التمثيل بالعربية  مارون  النقاش </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أهل  بيروت  سنة  ١٨٥٥  أدخله إلى  بيروت  وعمه  سليم  النقاش  أول من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مثل الروايات العربية في  مصر  سنة  ١٨٦٧  . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اختلاف الشرائع وغرائبها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أنيس الجليس  — نقلت بحثاً عن صحيفة إفرنجية قالت فيه: من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأحكام المستغربة حكم أصدرته  إحدى  مدن إنكلترا تمنع به ثقب عيدان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الكبريت على حيطان المنازل في الشوارع وجعلت القصاص على من خالف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذلك غرامة وسجناً. وحرمت  إحدى  مقاطعات أميركا التدخين فمنعت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من حمله وعدت ذلك ذنباً عظيماً وهو حكم يذكر بأحكام القرون الماضية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إذ كان مدخن التبغ يجلد في إنكلترا أو سواها ويناله السجن والعذاب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومنعت  إحدى  مقاطعات أميركا تعاطي الشراب في الأندية الجامعة ولم تسمح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> به في المنازل إلا لواحد فقط مخافة أن يشربا فيعربدا. وأصدرت  إحدى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شركات السكك الحديدية بأميركا أمراً بمنع التقبيل في محطاتها لأنه يضيع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> به الوقت فتتأخر القطارات. وفي بعض ممالك أوربا يمنع البصق في الشوارع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومن مستغرب الأحكام في أميركا حكم يقضي على كل رجل وامرأة وغلام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بأن يذهب إلى الكنيسة  ثلاث  مرات على الأقل في الأسبوع. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> لمقاصد دينية ولإخضاع الشعب وتربيته ومن رأيه أن التمثيل قبل الإسلام لم 
+ يكن اللهم إلا إذا اعتبر ما كان العرب يقومون به في الكعبة وحولها من 
+ الطواف والرقص من قبيل التمثيل. وعدّ من التمثيل الديني ما يقوم به 
+ الشيعة من تمثيل مقتل الحسين كما عدّ ما يجربه بعض أرباب الطرق من 
+ التمثيل الديني أيضاً. وقال أن أول من أدخل التمثيل بالعربية  مارون  النقاش 
+ من أهل  بيروت  سنة  ١٨٥٥  أدخله إلى  بيروت  وعمه  سليم  النقاش  أول من 
+ مثل الروايات العربية في  مصر  سنة  ١٨٦٧  . 
+
+ اختلاف الشرائع وغرائبها 
+ أنيس الجليس  — نقلت بحثاً عن صحيفة إفرنجية قالت فيه: من 
+ الأحكام المستغربة حكم أصدرته  إحدى  مدن إنكلترا تمنع به ثقب عيدان 
+ الكبريت على حيطان المنازل في الشوارع وجعلت القصاص على من خالف 
+ ذلك غرامة وسجناً. وحرمت  إحدى  مقاطعات أميركا التدخين فمنعت 
+ من حمله وعدت ذلك ذنباً عظيماً وهو حكم يذكر بأحكام القرون الماضية 
+ إذ كان مدخن التبغ يجلد في إنكلترا أو سواها ويناله السجن والعذاب. 
+ ومنعت  إحدى  مقاطعات أميركا تعاطي الشراب في الأندية الجامعة ولم تسمح 
+ به في المنازل إلا لواحد فقط مخافة أن يشربا فيعربدا. وأصدرت  إحدى 
+ شركات السكك الحديدية بأميركا أمراً بمنع التقبيل في محطاتها لأنه يضيع 
+ به الوقت فتتأخر القطارات. وفي بعض ممالك أوربا يمنع البصق في الشوارع 
+ ومن مستغرب الأحكام في أميركا حكم يقضي على كل رجل وامرأة وغلام 
+ بأن يذهب إلى الكنيسة  ثلاث  مرات على الأقل في الأسبوع. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

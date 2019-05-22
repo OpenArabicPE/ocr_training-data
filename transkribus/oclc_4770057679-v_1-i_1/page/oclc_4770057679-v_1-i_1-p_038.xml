@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.444+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.444+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_038.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> انقطعوا عنه حتى أن المدمن له ليصعد العقبة الكؤود أسرع من كل من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ألف  التصعيد في الجبال والنجاد. ويحسن أن يذاب في الماء أو في شاي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خفيف ولا بأس باستعماله مع الليمون وإذا أذيب  ١٥٠  غراماً منه في لتر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الماء أو الشاي فينفع في الهضم ويدب النشاط في الجسم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حياة الفقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أفاض  أحد  المفكرين في تدبير مساكن العملة والطبقة الدنيا من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الناس فقال إنها تتطلب حسن تدبير الصحة والجري على قواعدها من حيطان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وسقوف يمكن غسلها وإزالة الأوساخ عنها ومن نوافذ كبيرة وماء على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما يحب وسرب  قبو  للمؤنة وهري أو أنبار لتنشيف الغسيل. ولعله اختار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن تكون النوافذ كبيرة حتى يتخلل المساكن الهواء والشمس فقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جاء في المثل الفرنسي يدخل الطبيب حيث لا تدخل الشمس وما أصحه من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قول ولذلك ترى من يعنون بصحة البيوت يقومون على تهوية المنازل كل يوم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> دواء الأرق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بحث  أحد  أطباء مدرسة اكسفورد الجامعة في بلاد الإنكليز بحثاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> دقيقاً في مداواة الأرق فارتأى أن أحسن علاج له أن يتلو المؤرق وهو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على فراشة كتاباً يسهل عليه فهمه هنيهة من الزمن لا تقل عن نصف ساعة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا تتجاوز الساعة من مثل كتب بلوتارك اليوناني أو  ولتير سكوت الإنكليزي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أو أناتول فرانس الفرنسي. وارتأى غيره أن المنوماث هي الأشعار وخصوصاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> القصائد الكبيرة. ونحن نرى أن تلاوة شعر كثير من شعرائنا المحدثين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تجلب النوم لا محالة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> انقطعوا عنه حتى أن المدمن له ليصعد العقبة الكؤود أسرع من كل من 
+ ألف  التصعيد في الجبال والنجاد. ويحسن أن يذاب في الماء أو في شاي 
+ خفيف ولا بأس باستعماله مع الليمون وإذا أذيب  ١٥٠  غراماً منه في لتر 
+ من الماء أو الشاي فينفع في الهضم ويدب النشاط في الجسم. 
+
+ حياة الفقير 
+ أفاض  أحد  المفكرين في تدبير مساكن العملة والطبقة الدنيا من 
+ الناس فقال إنها تتطلب حسن تدبير الصحة والجري على قواعدها من حيطان 
+ وسقوف يمكن غسلها وإزالة الأوساخ عنها ومن نوافذ كبيرة وماء على 
+ ما يحب وسرب  قبو  للمؤنة وهري أو أنبار لتنشيف الغسيل. ولعله اختار 
+ أن تكون النوافذ كبيرة حتى يتخلل المساكن الهواء والشمس فقد 
+ جاء في المثل الفرنسي يدخل الطبيب حيث لا تدخل الشمس وما أصحه من 
+ قول ولذلك ترى من يعنون بصحة البيوت يقومون على تهوية المنازل كل يوم. 
+
+ دواء الأرق 
+ بحث  أحد  أطباء مدرسة اكسفورد الجامعة في بلاد الإنكليز بحثاً 
+ دقيقاً في مداواة الأرق فارتأى أن أحسن علاج له أن يتلو المؤرق وهو 
+ على فراشة كتاباً يسهل عليه فهمه هنيهة من الزمن لا تقل عن نصف ساعة 
+ ولا تتجاوز الساعة من مثل كتب بلوتارك اليوناني أو  ولتير سكوت الإنكليزي 
+ أو أناتول فرانس الفرنسي. وارتأى غيره أن المنوماث هي الأشعار وخصوصاً 
+ القصائد الكبيرة. ونحن نرى أن تلاوة شعر كثير من شعرائنا المحدثين 
+ تجلب النوم لا محالة. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

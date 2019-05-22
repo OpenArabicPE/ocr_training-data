@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.975+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.975+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_018.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الحياة الاجتماعية العادي. ويحسن في اختيار المعلمين أن يكونوا ممن لا يعلمون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لغة المتعلم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومما يضحك ما وقع لولد  أحد  كبار المنشئين الفرنسيين وكان يدرس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الألمانية على طريقة برليتز قيل أنه لما بلغ به المعلم إلى تمييز الفعل المتعدي من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اللازم لم يفهم التلميذ المراد من المتعدي واللازم وأخذ معلمه يشرحهما له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالإشارة تارة والتشبيه طوراً فلم يفلح وكان تلميذه معه كأعجم طمطم لا يفهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولا يُفهم. وأبى الأستاذ على تلميذه أن يفسر له شيئاً بلغته مع إلحاحه عليه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في ذلك وراح الطفل إلى دار أبيه وقد بلغ منه الغيظ وأنشأ يقلب كتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نحوه يفتش عن الأشكال فاهتدى بنفسه إلى حله وشكا أمره إلى والده فقال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> له: أي بني لقد أحسن الأستاذ أن أبى عليك شرح ما يريد تعليمك بلغتك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولو قاله لك لغرب عن ذهنك وأصبح لديك بعد زمن نسياً منسياً. أما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الآن فإني على ثقة من أنك لا تنسى التفرقة بين الفعل اللازم والمتعدي ولو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بعد  مائة  سنة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قال الكاتب الذي عربنا عنه هذا المبحث وقد كاد أرباب الأفكار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والحصافة يجمعون على أن  اللغات الحية لا تعلم كاللغات الميتة بل أنه لابد في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأولى من المران على التكلم بها من أول وهلة وأنه ما من لغة مهما تراءى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من صعوبتها على المتعلمين بادئ بدء سواء كانت اللغة الروسية أو الهندية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أو العربية أو الصينية إلا ويتيسر إتقانها على طريقة برليتز في مدة تختلف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> باختلاف ذكاء المتعلم وصعوبة اللغة والله أعلم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> الحياة الاجتماعية العادي. ويحسن في اختيار المعلمين أن يكونوا ممن لا يعلمون 
+ لغة المتعلم. 
+ ومما يضحك ما وقع لولد  أحد  كبار المنشئين الفرنسيين وكان يدرس 
+ الألمانية على طريقة برليتز قيل أنه لما بلغ به المعلم إلى تمييز الفعل المتعدي من 
+ اللازم لم يفهم التلميذ المراد من المتعدي واللازم وأخذ معلمه يشرحهما له 
+ بالإشارة تارة والتشبيه طوراً فلم يفلح وكان تلميذه معه كأعجم طمطم لا يفهم 
+ ولا يُفهم. وأبى الأستاذ على تلميذه أن يفسر له شيئاً بلغته مع إلحاحه عليه 
+ في ذلك وراح الطفل إلى دار أبيه وقد بلغ منه الغيظ وأنشأ يقلب كتاب 
+ نحوه يفتش عن الأشكال فاهتدى بنفسه إلى حله وشكا أمره إلى والده فقال 
+ له: أي بني لقد أحسن الأستاذ أن أبى عليك شرح ما يريد تعليمك بلغتك 
+ ولو قاله لك لغرب عن ذهنك وأصبح لديك بعد زمن نسياً منسياً. أما 
+ الآن فإني على ثقة من أنك لا تنسى التفرقة بين الفعل اللازم والمتعدي ولو 
+ بعد  مائة  سنة. 
+ قال الكاتب الذي عربنا عنه هذا المبحث وقد كاد أرباب الأفكار 
+ والحصافة يجمعون على أن  اللغات الحية لا تعلم كاللغات الميتة بل أنه لابد في 
+ الأولى من المران على التكلم بها من أول وهلة وأنه ما من لغة مهما تراءى 
+ من صعوبتها على المتعلمين بادئ بدء سواء كانت اللغة الروسية أو الهندية 
+ أو العربية أو الصينية إلا ويتيسر إتقانها على طريقة برليتز في مدة تختلف 
+ باختلاف ذكاء المتعلم وصعوبة اللغة والله أعلم. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

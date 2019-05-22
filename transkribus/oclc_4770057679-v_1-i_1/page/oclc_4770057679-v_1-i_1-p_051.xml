@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.496+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.496+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_051.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الولايات المتحدة فقالت أنهم يبلغون مليون موظف ومنهم  ١١٧  ألف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من حراس المدن يقبضون في الشهر من  ٦٠  إلى  ١٠٠  دولار أي من  ثلثمائة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إلى  خمسمائة  فرنك وأن للموظفين حقوقاً في النفوذ لا تشبه حقوق أمثالهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في بعض الممالك الأوربية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> آثار ثيبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في بعض المجلات الطليانية بحث في المكتشفات الأثرية المهمة التي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عثر عليها في ثيبة تلك المكتشفات التي تساعد خاصة على توضيح الأشكال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المهم في مصادر الفلسفة اليونانية المتولدة من الفلسفة المصرية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مقالات المجلات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المجلات الإفرنجية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المرأة الشرقية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في مجلة إنكليزية بحث في المرأة عند الأمم قالت فيه كاتبته في الجزء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المختص منه بالمرأة الهندية والصينية واليابانية: أن النسوة في تلك البلاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الشرقية قد نزعن ما طالما قيده بهن الرجال من القيود وأنهن أنشأن جمعيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في ترك العادة المتبعة في بلادهن من تضييق أرجل البنات منذ ولادتهن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالأحذية الضيقة مخافة أن يغادرن بيوت أزواجهن إذا كبرن. وأن حالة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> النساء اليابانيات كادت تكون إلى السعادة. وللمرأة الحق في  اليابان  أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ترفض اقترانها مثلاً بزوج ينتخبه لها أهلها وأنها ترى أن تكون تربيتها متفقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مع تربية قرينها ومع أن الطلاق يسهل في برمانيا فقلما يتطلبه  أحد  الزوجين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> في الولايات المتحدة فقالت أنهم يبلغون مليون موظف ومنهم  ١١٧  ألف 
+ من حراس المدن يقبضون في الشهر من  ٦٠  إلى  ١٠٠  دولار أي من  ثلثمائة 
+ إلى  خمسمائة  فرنك وأن للموظفين حقوقاً في النفوذ لا تشبه حقوق أمثالهم 
+ في بعض الممالك الأوربية. 
+
+ آثار ثيبة 
+ في بعض المجلات الطليانية بحث في المكتشفات الأثرية المهمة التي 
+ عثر عليها في ثيبة تلك المكتشفات التي تساعد خاصة على توضيح الأشكال 
+ المهم في مصادر الفلسفة اليونانية المتولدة من الفلسفة المصرية. 
+
+ مقالات المجلات 
+
+ المجلات الإفرنجية 
+
+ المرأة الشرقية 
+ في مجلة إنكليزية بحث في المرأة عند الأمم قالت فيه كاتبته في الجزء 
+ المختص منه بالمرأة الهندية والصينية واليابانية: أن النسوة في تلك البلاد 
+ الشرقية قد نزعن ما طالما قيده بهن الرجال من القيود وأنهن أنشأن جمعيات 
+ في ترك العادة المتبعة في بلادهن من تضييق أرجل البنات منذ ولادتهن 
+ بالأحذية الضيقة مخافة أن يغادرن بيوت أزواجهن إذا كبرن. وأن حالة 
+ النساء اليابانيات كادت تكون إلى السعادة. وللمرأة الحق في  اليابان  أن 
+ ترفض اقترانها مثلاً بزوج ينتخبه لها أهلها وأنها ترى أن تكون تربيتها متفقة 
+ مع تربية قرينها ومع أن الطلاق يسهل في برمانيا فقلما يتطلبه  أحد  الزوجين </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.100+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.100+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_034.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عواطفه يوم العتاب كأنما  عقدن جميعاً مجلساً في جفونه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيأتي هواه ممسكاً بشماله  فؤادي وأسباب الجفا بيمينهِ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يقول انظري يا رقة النفس وجدَهُ  ويا رحمة القلب اسمعي لأنينه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فتحكم هاتيك العواطف بالرضا  وتغريمه لي قبلةً في جبينهِ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في صديق إذا مسه الخير كتم وإذا مسه الضر باح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولي صاحب أودعت سري حلمهُ  ولم أدر أن الحلم فيه قريحُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إذا مسه مني على غير ريبة  أذى خطاٌ أمسى بذاك يبوحُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أراه فنغرافاً فمن مسّ إبرةً  وإن صغرت في جانبيه يصيح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> طنطا  مصطفى  صادق  الرافعي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تدبير الصحة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أوقات الطعام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للتوقيت فائدة جلية في شؤون البشر وحياتهم الاجتماعية كما أن للنظام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وحسن الترتيب شأناً في النهوض والحضارة. يعرف ذلك كل من له إلمام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بحال الغربيين وما استفادوه من قوانينهم على اختلاف ضرر بها. والطعام كما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> علمت قوام الأبدان ولا تستقيم إلا بحسن تناوله واختيار الأوقات المناسبة له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وفي ذلك تدبير الصحة وراحة العقل والجسم. ولا يتأتى تنظيم الأوقات إلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في بلاد غلبت عليها الحضارة وصفت موارد عيشها وحسنت أذواق أبنائها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومهما حاول الرجل في البلاد المنحطة أن يسير على مناهج المتحضرين فلا سبيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> له إلى ذلك إذ يتعذر الجري على النظام الخاص إذا لم يتقدمه نظام عام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ عواطفه يوم العتاب كأنما  عقدن جميعاً مجلساً في جفونه 
+ فيأتي هواه ممسكاً بشماله  فؤادي وأسباب الجفا بيمينهِ 
+ يقول انظري يا رقة النفس وجدَهُ  ويا رحمة القلب اسمعي لأنينه 
+ فتحكم هاتيك العواطف بالرضا  وتغريمه لي قبلةً في جبينهِ 
+
+ في صديق إذا مسه الخير كتم وإذا مسه الضر باح 
+ ولي صاحب أودعت سري حلمهُ  ولم أدر أن الحلم فيه قريحُ 
+ إذا مسه مني على غير ريبة  أذى خطاٌ أمسى بذاك يبوحُ 
+ أراه فنغرافاً فمن مسّ إبرةً  وإن صغرت في جانبيه يصيح 
+ طنطا  مصطفى  صادق  الرافعي 
+
+ تدبير الصحة 
+
+ أوقات الطعام 
+ للتوقيت فائدة جلية في شؤون البشر وحياتهم الاجتماعية كما أن للنظام 
+ وحسن الترتيب شأناً في النهوض والحضارة. يعرف ذلك كل من له إلمام 
+ بحال الغربيين وما استفادوه من قوانينهم على اختلاف ضرر بها. والطعام كما 
+ علمت قوام الأبدان ولا تستقيم إلا بحسن تناوله واختيار الأوقات المناسبة له 
+ وفي ذلك تدبير الصحة وراحة العقل والجسم. ولا يتأتى تنظيم الأوقات إلا 
+ في بلاد غلبت عليها الحضارة وصفت موارد عيشها وحسنت أذواق أبنائها 
+ ومهما حاول الرجل في البلاد المنحطة أن يسير على مناهج المتحضرين فلا سبيل 
+ له إلى ذلك إذ يتعذر الجري على النظام الخاص إذا لم يتقدمه نظام عام </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

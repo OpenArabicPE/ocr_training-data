@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.293+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.293+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_036.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الوجبة الثانية إلا الساعة الخامسة اللهم إلا مرة نصف النهار حيث يتناول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قطعة من اللحم رقيقة في قطعة من الخبز الساندويش مع كأس من الجعة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الخفيفة المعروفة عندهم ولا يقطع عمله لذلك إلا بضع دقائق ويظل هذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الساعات مكباً على عمله بلا انقطاع. ذلك لأنه ثبت للباحثين في الحياة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> البشرية أن الإكثار من تناول الطعام في الهاجرة ثم أخذ النفس بمعاطاة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأعمال وخصوصاً العقلية مما يمرض النفس والجسم فتكون المعدة ممتلئة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا يحتاج الجسم معها إلا إلى المحاورة والراحة ليسوغ الهضم ويأخذ الدم مجراه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهذا متعذر على أرباب الأشغال من الفرنسيين ومن حذا حذوهم من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمم وخصوصاً إذا دعي أحدهم إلى طعام غيره وأريد على مخالفة عادته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الإكثار من الأطعمة والألوان. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أما الإنكليزي فله من الغذاء الكافي الذي يقضمه ويفطر عليه ما لا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يشتكي معه جوعاً ولا شبعاً ريثما ينجز أعماله اليومية. بل يكون له من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> طعامه ما يدب الحرارة الغريزية في جسمه على نحو ما يدبُّ الوقود في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> آلة التحريك والتنقيل في السكك الحديدية التي يقذف موقدها بالفحم الحجري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أبداً. ولا يضيع وقته ويقطع سلسلة عمله في أبرك أوقات نهاره لأن الوقت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من ذهب كما يقول المثل الإنكليزي. ومن دين كل إنكليزي أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يحتفظ بالنظام والانتظام ويرعى الواجب ويقوم بما يعهد إليه أحسن قيام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وبهذا كان الهجوري في نظره مضيعة للوقت ومجلبة لصد صاحبه عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> إنجاز واجباته ومفسدة للصحة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قال الكاتب الذي اقترح على قومه اختيار الترتيب السكسوني وعندي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن الفرنسيين يضيعون أوقاتهم ولا يسيرون في أعمالهم على وتيرة واحدة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> الوجبة الثانية إلا الساعة الخامسة اللهم إلا مرة نصف النهار حيث يتناول 
+ قطعة من اللحم رقيقة في قطعة من الخبز الساندويش مع كأس من الجعة 
+ الخفيفة المعروفة عندهم ولا يقطع عمله لذلك إلا بضع دقائق ويظل هذه 
+ الساعات مكباً على عمله بلا انقطاع. ذلك لأنه ثبت للباحثين في الحياة 
+ البشرية أن الإكثار من تناول الطعام في الهاجرة ثم أخذ النفس بمعاطاة 
+ الأعمال وخصوصاً العقلية مما يمرض النفس والجسم فتكون المعدة ممتلئة 
+ لا يحتاج الجسم معها إلا إلى المحاورة والراحة ليسوغ الهضم ويأخذ الدم مجراه 
+ وهذا متعذر على أرباب الأشغال من الفرنسيين ومن حذا حذوهم من 
+ الأمم وخصوصاً إذا دعي أحدهم إلى طعام غيره وأريد على مخالفة عادته 
+ من الإكثار من الأطعمة والألوان. 
+ أما الإنكليزي فله من الغذاء الكافي الذي يقضمه ويفطر عليه ما لا 
+ يشتكي معه جوعاً ولا شبعاً ريثما ينجز أعماله اليومية. بل يكون له من 
+ طعامه ما يدب الحرارة الغريزية في جسمه على نحو ما يدبُّ الوقود في 
+ آلة التحريك والتنقيل في السكك الحديدية التي يقذف موقدها بالفحم الحجري 
+ أبداً. ولا يضيع وقته ويقطع سلسلة عمله في أبرك أوقات نهاره لأن الوقت 
+ من ذهب كما يقول المثل الإنكليزي. ومن دين كل إنكليزي أن 
+ يحتفظ بالنظام والانتظام ويرعى الواجب ويقوم بما يعهد إليه أحسن قيام 
+ وبهذا كان الهجوري في نظره مضيعة للوقت ومجلبة لصد صاحبه عن 
+ إنجاز واجباته ومفسدة للصحة. 
+ قال الكاتب الذي اقترح على قومه اختيار الترتيب السكسوني وعندي 
+ أن الفرنسيين يضيعون أوقاتهم ولا يسيرون في أعمالهم على وتيرة واحدة </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

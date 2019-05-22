@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.584+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.584+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_027.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بباطل فبلغه فسر فقد صار مسروراً بالكذب وهذا نقص شديد. وأما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذم الناس إياه فإن كان بحق فبلغه فربما كان ذلك سبباً إلى تجنبه ما يعاب عليه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهذا حظ عظيم لا يزهد فيه إلا ناقص. وإن كان بباطل فصبر اكتسب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فضلاً زائداً بالحلم والصبر. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لو لم يكن من فضل العلم إلا أن الجهال يهابونك ويحبونك وأن العلماء يحبونك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويكرمونك لكان ذلك سبباً إلى وجوب طلبه فكيف بسائر فضائله في الدنيا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والآخرة. لو لم يكن من نقص الجهل إلا أن صاحبه يحسد العلماء ويغبطه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نظراؤه من الجهال لكان ذلك سبباً إلى وجوب الفرار منه فكيف بسائر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رذائله في الدنيا والآخرة. لو لم يكن من فائدة العلم والاشتغال به إلا أنه يقطع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المشتغل به عن الوساوس المضنية ومطارح الآمال التي لا تفيد غير الهم وكفاية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأفكار المؤلمة للنفس لكان ذلك أعظم داع إليه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من شغل نفسه بأدنى العلوم وترك أعلاها وهو قادر عليه كان كزارع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الذرة في الأرض التي يجود فيها البر وكغارس الشعراء  شجرة من الحمض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ليس لها ورق ولها هدب تحرص عليها الإبل حرصاً شديداً تخرج عيداناً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شداداً  حيث يزكو النخل والزيتون. نشر العلم عند من ليس من أهله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مفسد لهم كإطعامك العسل والحلواء من به احتراق وحمى وكتشميمك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المسك لمن به صداع من احتدام الصفراء. الباخل بالعلم ألوم من الباخل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالمال لأن الباخل بالمال أشفق من فناء ما بيده والباخل بالعلم بخل بما لا يفنى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على النفقة ولا يفارقه مع البذل. من مال بطبعه إلى علم ما وإن كان أدنى من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> غيره فلا يشغلها بسواه فيكون كغارس النارجيل بالأندلس وكغارس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الزيتون بالهند وكل ذلك لا ينجب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> بباطل فبلغه فسر فقد صار مسروراً بالكذب وهذا نقص شديد. وأما 
+ ذم الناس إياه فإن كان بحق فبلغه فربما كان ذلك سبباً إلى تجنبه ما يعاب عليه 
+ وهذا حظ عظيم لا يزهد فيه إلا ناقص. وإن كان بباطل فصبر اكتسب 
+ فضلاً زائداً بالحلم والصبر. 
+ لو لم يكن من فضل العلم إلا أن الجهال يهابونك ويحبونك وأن العلماء يحبونك 
+ ويكرمونك لكان ذلك سبباً إلى وجوب طلبه فكيف بسائر فضائله في الدنيا 
+ والآخرة. لو لم يكن من نقص الجهل إلا أن صاحبه يحسد العلماء ويغبطه 
+ نظراؤه من الجهال لكان ذلك سبباً إلى وجوب الفرار منه فكيف بسائر 
+ رذائله في الدنيا والآخرة. لو لم يكن من فائدة العلم والاشتغال به إلا أنه يقطع 
+ المشتغل به عن الوساوس المضنية ومطارح الآمال التي لا تفيد غير الهم وكفاية 
+ الأفكار المؤلمة للنفس لكان ذلك أعظم داع إليه. 
+ من شغل نفسه بأدنى العلوم وترك أعلاها وهو قادر عليه كان كزارع 
+ الذرة في الأرض التي يجود فيها البر وكغارس الشعراء  شجرة من الحمض 
+ ليس لها ورق ولها هدب تحرص عليها الإبل حرصاً شديداً تخرج عيداناً 
+ شداداً  حيث يزكو النخل والزيتون. نشر العلم عند من ليس من أهله 
+ مفسد لهم كإطعامك العسل والحلواء من به احتراق وحمى وكتشميمك 
+ المسك لمن به صداع من احتدام الصفراء. الباخل بالعلم ألوم من الباخل 
+ بالمال لأن الباخل بالمال أشفق من فناء ما بيده والباخل بالعلم بخل بما لا يفنى 
+ على النفقة ولا يفارقه مع البذل. من مال بطبعه إلى علم ما وإن كان أدنى من 
+ غيره فلا يشغلها بسواه فيكون كغارس النارجيل بالأندلس وكغارس 
+ الزيتون بالهند وكل ذلك لا ينجب. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

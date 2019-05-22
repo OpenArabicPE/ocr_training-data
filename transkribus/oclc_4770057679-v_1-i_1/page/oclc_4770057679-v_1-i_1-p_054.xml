@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.723+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.723+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_054.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> علوم الدعاة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المنار  - في مقالة دعوة  اليابان  إلى الإسلام أن الداعية ينبغي له فهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الكتاب العزيز  والاطلاع على السنة ومعرفة ما فيها من حكم التشريع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومعرفة السيرة النبوية وتاريخ الإسلام والبصيرة في علم الاجتماع والتاريخ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العام والإلمام بسائر العلوم العصرية والاطلاع على ضروب الأساليب المدنية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وغير ذلك. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> محمد علي الكبير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المقتطف  - ما برح يكتب في تاريخ  محمد  علي  الكبير  وهو في الحقيقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بحث في تاريخ  سورية  و  مصر  في أوائل القرن الماضي وجل اعتماد كاتبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> على  تاريخ  الجبرتي  و  تاريخ  مشاقة  وكلاهما ثقة. وما أحلى اعتراف مشاقة بأنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كان يساعد  إبراهيم  باشا  وخصومه معاً على حسب طاقته واعتذر عن نفسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بأن خدمة إنكلترا واجبة عليه لأنه من مأموريها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شواذ الخلق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الضياء  - شواذ الحلق هو كل ما شذ عن المألوف في نوعه بزيادة أو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نقص في أعضائه أو اختلاف في بعض أشكاله أو تخاذل في خلقته وهو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن لا يكون بعض أعضائه مناسباً لبعض غرابةٍ في منظره بأن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يتجاوز الحد في الضخامة أو الدمامة. قسمها بعضهم إلى  أربعة  أنواع الشذوذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> البسيط وهو ما كان في عضو و  احد  أو جهاز و  احد  أو حالة واحدة من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أحوال التركيب والشذوذ المركب وهو ما يتناول عدة أعضاء من الجسم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولكنه لا يمنع شيئاً من الوظائف والشذوذ المتداخل وهو في الغالب يرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_25">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الظاهر ويكون باجتماع أعضاء الجنسين أو بعض مميزاتهما في شخص </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ علوم الدعاة 
+ المنار  - في مقالة دعوة  اليابان  إلى الإسلام أن الداعية ينبغي له فهم 
+ الكتاب العزيز  والاطلاع على السنة ومعرفة ما فيها من حكم التشريع 
+ ومعرفة السيرة النبوية وتاريخ الإسلام والبصيرة في علم الاجتماع والتاريخ 
+ العام والإلمام بسائر العلوم العصرية والاطلاع على ضروب الأساليب المدنية 
+ وغير ذلك. 
+
+ محمد علي الكبير 
+ المقتطف  - ما برح يكتب في تاريخ  محمد  علي  الكبير  وهو في الحقيقة 
+ بحث في تاريخ  سورية  و  مصر  في أوائل القرن الماضي وجل اعتماد كاتبه 
+ على  تاريخ  الجبرتي  و  تاريخ  مشاقة  وكلاهما ثقة. وما أحلى اعتراف مشاقة بأنه 
+ كان يساعد  إبراهيم  باشا  وخصومه معاً على حسب طاقته واعتذر عن نفسه 
+ بأن خدمة إنكلترا واجبة عليه لأنه من مأموريها. 
+
+ شواذ الخلق 
+ الضياء  - شواذ الحلق هو كل ما شذ عن المألوف في نوعه بزيادة أو 
+ نقص في أعضائه أو اختلاف في بعض أشكاله أو تخاذل في خلقته وهو 
+ أن لا يكون بعض أعضائه مناسباً لبعض غرابةٍ في منظره بأن 
+ يتجاوز الحد في الضخامة أو الدمامة. قسمها بعضهم إلى  أربعة  أنواع الشذوذ 
+ البسيط وهو ما كان في عضو و  احد  أو جهاز و  احد  أو حالة واحدة من 
+ أحوال التركيب والشذوذ المركب وهو ما يتناول عدة أعضاء من الجسم 
+ ولكنه لا يمنع شيئاً من الوظائف والشذوذ المتداخل وهو في الغالب يرى 
+ من الظاهر ويكون باجتماع أعضاء الجنسين أو بعض مميزاتهما في شخص </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

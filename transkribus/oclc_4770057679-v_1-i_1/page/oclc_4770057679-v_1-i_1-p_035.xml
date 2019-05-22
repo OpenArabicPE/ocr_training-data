@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:33.181+03:00</Created>
+        <LastChange>2019-05-22T11:11:33.181+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_035.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وطيب العيش أشبه بسلسلة إذا حسن انتساق بعضها أمن انتساق الآخر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والعكس بالعكس. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قام منذ حين جماعة من رجال الفرنسيين أولعوا باختيار الأحسن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وتوفروا على التفكر في استكمال أسباب الراحة فأنشأوا يخاطبون بني قومهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في معنى محاكاة الجنس اللاتيني للجنس الإنكليزي السكوني في عاداتهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأخلاقهم وقوانينهم وأوضاعهم موقنين بأن لا سعادة لذاك العنصر إلا بنزع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما رسخ فيه من الملكات على غابر الدهر والاهتداء بهدي السكسونيين في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> منازع حياتهم الاجتماعية والسياسية والأدبية. ومن جملة ما ارتأوا إصلاحه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عندهم تنظيم أوقات الطعام ومعاطاة الأشغال على الطريقة الإنكليزية النافعة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قال بعضهم لو ذهب ذاهب إلى لندن عاصمة الأعمال الصناعية والتجارية لما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شهد للأشغال حركة إلا الساعة العاشرة قبل الظهر حركة تتصل اتصال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الشؤبوب إلى الساعة الخامسة بعد العسر. أي أن القيام بالأعمال التجارية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يجري في  سبع  ساعات وذلك ما خلا السبت فإن المستخدمين ينقطعون عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أعمالهم الساعة الثانية بعد الظهر ولا يتعاطون شيئاً من الأعمال أيام الآحاد. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيهبُّ الإنكليزي من فراشه كل يوم ويتغذى غداء كافياً كضلعين أو  ثلاثة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أضلاع الغنم أو العجول وبيض نيمبرشت وقطعة من فخذ الخنزير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أو كتفه وصحفة من البطاطس وهو طعام الصباح لا كما يفعل الفرنسيين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويجري عليه معظم أهل البلاد المتمدنة في الشرق من الاكتفاء صباحاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالشاي أو القهوة أو اللبن أو تناول شيء من المربيات والحلويات مع قطعة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من الخبز السميذ أو المحمر. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فإذا ملأ المستخدم الإنكليزي معدته صباحاً بهذا الطعام لا يتناول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> وطيب العيش أشبه بسلسلة إذا حسن انتساق بعضها أمن انتساق الآخر 
+ والعكس بالعكس. 
+ قام منذ حين جماعة من رجال الفرنسيين أولعوا باختيار الأحسن 
+ وتوفروا على التفكر في استكمال أسباب الراحة فأنشأوا يخاطبون بني قومهم 
+ في معنى محاكاة الجنس اللاتيني للجنس الإنكليزي السكوني في عاداتهم 
+ وأخلاقهم وقوانينهم وأوضاعهم موقنين بأن لا سعادة لذاك العنصر إلا بنزع 
+ ما رسخ فيه من الملكات على غابر الدهر والاهتداء بهدي السكسونيين في 
+ منازع حياتهم الاجتماعية والسياسية والأدبية. ومن جملة ما ارتأوا إصلاحه 
+ عندهم تنظيم أوقات الطعام ومعاطاة الأشغال على الطريقة الإنكليزية النافعة. 
+ قال بعضهم لو ذهب ذاهب إلى لندن عاصمة الأعمال الصناعية والتجارية لما 
+ شهد للأشغال حركة إلا الساعة العاشرة قبل الظهر حركة تتصل اتصال 
+ الشؤبوب إلى الساعة الخامسة بعد العسر. أي أن القيام بالأعمال التجارية 
+ يجري في  سبع  ساعات وذلك ما خلا السبت فإن المستخدمين ينقطعون عن 
+ أعمالهم الساعة الثانية بعد الظهر ولا يتعاطون شيئاً من الأعمال أيام الآحاد. 
+ فيهبُّ الإنكليزي من فراشه كل يوم ويتغذى غداء كافياً كضلعين أو  ثلاثة 
+ من أضلاع الغنم أو العجول وبيض نيمبرشت وقطعة من فخذ الخنزير 
+ أو كتفه وصحفة من البطاطس وهو طعام الصباح لا كما يفعل الفرنسيين 
+ ويجري عليه معظم أهل البلاد المتمدنة في الشرق من الاكتفاء صباحاً 
+ بالشاي أو القهوة أو اللبن أو تناول شيء من المربيات والحلويات مع قطعة 
+ من الخبز السميذ أو المحمر. 
+ فإذا ملأ المستخدم الإنكليزي معدته صباحاً بهذا الطعام لا يتناول </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

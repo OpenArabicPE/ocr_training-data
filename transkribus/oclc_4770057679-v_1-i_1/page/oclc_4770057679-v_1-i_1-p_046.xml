@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.078+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.078+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_046.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الإبداع والإقدام واعتبار الذات وحب الارتقاء والثقة بالنفس. وقال أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما عرف به الأمريكي من الانطلاق قد يجعله يتغاضى عما يأتيه غيره ولذلك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تجد لأهل السخف والضعف مجالاً واسعاً في أميركا وربما  نشطوا وأخذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بأيديهم على نحو ما ترى لكل مقالة جديدة بينهم أنصاراً يقولون بها بادئ الرأي. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اكتشاف مصري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عثر العملة أثناء عمارة المرفأ الشرقي في  الإسكندرية  على قبر في سفح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أكمة أم القبة بالقرب من البحر يرد عهده إلى زمن بعيد. وهو منحوت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الصخر وذو مدخل مساحته  عشرون  قدماً مربعاً يمتد منها  ستة  إلى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> داخله وعليها شيد المذبح والقبر قائم الزوايا وطوله  تسع  أقدام وعلوه كذلك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أما أعلاه فمصور وفيه  ٨١  أيقونة مربعة فيها صور ورسوم مجهولة في الأكثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والجدران مصورة أيضاً ومنقوشة ومعظمها إما بكرور الأيام أو بمعادل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أرباب المقالع. وقد قام في أطراف الشمال الشرقي والجنوب الغربي من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المدخل ناووس من صخر يشغل عرض القبر وأقيمت في طرفيه صخرتان عظيمتان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جعلت إحداهما على الأخرى على شكل وسادة وهذه الصخور منقوشة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كسائر ما في القبر وداخل الناووس. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تاريخ العلم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أفاض أحدهم في بعض المجلات الفرنسية في كونه أيتعذَّر وضع تاريخ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للعلم. ومن رأيه أن تاريخ العلوم سيكون أولاً في دور فوضى وارتباك قبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن ينظم سيره بنظام ثابت غير متزعزع وانه بعد الآن سيختم عصر الأمور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العلمية العظيمة ويرتقي العلم على وتيرة واحدة وتلغى الأمور الاتفاقية من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> الإبداع والإقدام واعتبار الذات وحب الارتقاء والثقة بالنفس. وقال أن 
+ ما عرف به الأمريكي من الانطلاق قد يجعله يتغاضى عما يأتيه غيره ولذلك 
+ تجد لأهل السخف والضعف مجالاً واسعاً في أميركا وربما  نشطوا وأخذ 
+ بأيديهم على نحو ما ترى لكل مقالة جديدة بينهم أنصاراً يقولون بها بادئ الرأي. 
+
+ اكتشاف مصري 
+ عثر العملة أثناء عمارة المرفأ الشرقي في  الإسكندرية  على قبر في سفح 
+ أكمة أم القبة بالقرب من البحر يرد عهده إلى زمن بعيد. وهو منحوت 
+ في الصخر وذو مدخل مساحته  عشرون  قدماً مربعاً يمتد منها  ستة  إلى 
+ داخله وعليها شيد المذبح والقبر قائم الزوايا وطوله  تسع  أقدام وعلوه كذلك 
+ أما أعلاه فمصور وفيه  ٨١  أيقونة مربعة فيها صور ورسوم مجهولة في الأكثر 
+ والجدران مصورة أيضاً ومنقوشة ومعظمها إما بكرور الأيام أو بمعادل 
+ أرباب المقالع. وقد قام في أطراف الشمال الشرقي والجنوب الغربي من 
+ المدخل ناووس من صخر يشغل عرض القبر وأقيمت في طرفيه صخرتان عظيمتان 
+ جعلت إحداهما على الأخرى على شكل وسادة وهذه الصخور منقوشة 
+ كسائر ما في القبر وداخل الناووس. 
+
+ تاريخ العلم 
+ أفاض أحدهم في بعض المجلات الفرنسية في كونه أيتعذَّر وضع تاريخ 
+ للعلم. ومن رأيه أن تاريخ العلوم سيكون أولاً في دور فوضى وارتباك قبل 
+ أن ينظم سيره بنظام ثابت غير متزعزع وانه بعد الآن سيختم عصر الأمور 
+ العلمية العظيمة ويرتقي العلم على وتيرة واحدة وتلغى الأمور الاتفاقية من </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

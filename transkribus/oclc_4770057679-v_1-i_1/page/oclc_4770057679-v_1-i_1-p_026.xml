@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.511+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.511+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_026.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهو كلام يصدق على العالم كما يصدق على العامل كل الصدق. لأن العامل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا يعدم من يحتاج إليه في أي ناحية رمته فيها يد الأقدار وكيفما قلبته صروف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الدهر فعيشه أكثر ضماناً من عيش العالم مادام له من عمله مهارة، ومن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> جسمه قوة، وما عليه أن يتعلم لغة قوم ينزل عليهم لأن عمل يديه ينوب في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خطاب من يود خطابه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وللعامل من الاستقلال ما يفوق به سائر طبقات الناس وإن لم يتأتَ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لامرئ في العالم أن يستمتع بالاستقلال المطلق. وذلك لأن العامل في غنى عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التزلف والملق لا يحتاج إلى من يمد إليه يد المعونة إذ قلما يحاذر أن يكون له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ممن يجاريه ما يحرمه التمتع بعمالته فإن من يعمل له محتاج للعامل الذي يفوق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> غيره في أمانته ومهارته. فكما أن العامل يحتاج لمن يعمل له فهذا محتاج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> للعامل أيضاً والحاجة بينهما متبادلة فليس في ذلك غضاضة على العملة البتة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> صحف منسية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نصائح ابن حزم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> باب عظيم من أبواب العقل والراحة وهو طرح المبالاة بكلام الناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> واستعمال المبالاة بكلام الخالق عز وجل بل هو العقل كله والراحة كلها. من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قدر أنه يسلم من طعن الناس وعيبهم فهو مجنون. من حقق النظر وراض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نفسه على السكون إلى الحقائق وأن المها في أول صدمة كان اغتباطه بذم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الناس إياه أشد وأكثر من اغتباطه بمدحهم إياه لأن مدحهم إياه إن كان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بحق وبلغه مدحهم له أسرى ذلك فيه العجب فأفسد بذلك فضائله وإن كان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> وهو كلام يصدق على العالم كما يصدق على العامل كل الصدق. لأن العامل 
+ لا يعدم من يحتاج إليه في أي ناحية رمته فيها يد الأقدار وكيفما قلبته صروف 
+ الدهر فعيشه أكثر ضماناً من عيش العالم مادام له من عمله مهارة، ومن 
+ جسمه قوة، وما عليه أن يتعلم لغة قوم ينزل عليهم لأن عمل يديه ينوب في 
+ خطاب من يود خطابه. 
+ وللعامل من الاستقلال ما يفوق به سائر طبقات الناس وإن لم يتأتَ 
+ لامرئ في العالم أن يستمتع بالاستقلال المطلق. وذلك لأن العامل في غنى عن 
+ التزلف والملق لا يحتاج إلى من يمد إليه يد المعونة إذ قلما يحاذر أن يكون له 
+ ممن يجاريه ما يحرمه التمتع بعمالته فإن من يعمل له محتاج للعامل الذي يفوق 
+ غيره في أمانته ومهارته. فكما أن العامل يحتاج لمن يعمل له فهذا محتاج 
+ للعامل أيضاً والحاجة بينهما متبادلة فليس في ذلك غضاضة على العملة البتة. 
+
+ صحف منسية 
+
+ نصائح ابن حزم 
+ باب عظيم من أبواب العقل والراحة وهو طرح المبالاة بكلام الناس 
+ واستعمال المبالاة بكلام الخالق عز وجل بل هو العقل كله والراحة كلها. من 
+ قدر أنه يسلم من طعن الناس وعيبهم فهو مجنون. من حقق النظر وراض 
+ نفسه على السكون إلى الحقائق وأن المها في أول صدمة كان اغتباطه بذم 
+ الناس إياه أشد وأكثر من اغتباطه بمدحهم إياه لأن مدحهم إياه إن كان 
+ بحق وبلغه مدحهم له أسرى ذلك فيه العجب فأفسد بذلك فضائله وإن كان </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.176+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.176+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_022.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التناسل الغريب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سمعت وأنا صبيٌّ رجلاً من سراة بغداد يقول لوالدي يوماً أن في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ضواحي مدينتنا شيخاً كبيراً له من الولد وولد الولد ما يربو عددهم على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خمسمائة  نسمة ذكوراً وإناثاً. قال وكان ربُّ هذه العيلة يدعو من ولدوا منه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كل شهر إلى داره الخاصة به ويأدب لهم مأدبة يمنح في ختامها كل فرد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أفرادهم قطعة من الدراهم بثلاثة قروش. يريد بذلك اتصال الصلات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأبوية بين الأصل والفرع. وربما سأل أحدهم أو إحداهن وهو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يستعرضهم عن اسمه أو اسم أبيه وأمه لأنه كان بلغ سناً تغرب فيها عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الذهن الأسماء. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سمعت هذا واستعظمت العدد لكن مقال البغدادي لا يخلو من حقيقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وإن حوى شيئاً من المبالغة شأننا معاشر المشارقة في تكثير الأرقام. وما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> زلت أيضاً استعظم ما يُروى من أن أبا الطيب المتنبي كان يركب ويركب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> معه  خمسون  فارساً من ولده فإذا سُئل عنهم يجيب بأنهم عشيرته خشية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عليهم من العين بزعمه. إلا أن حادثة أولاد المتنبي وهم  عشر  عدد ذاك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العراقي يقبلها العقل سيما وإنا نرى لعهدنا ما يشفع بها من تكاثر الذرية فقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> اتصل بي أن في  إحدى  بلاد الأقاليم في مصر أسرة من صلب و  احد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تتجاوز  ثمانين  نسمة على أن الأسرات التي يناهز عددها العشرات كثيرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في هذه الديار. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وفي  إحدى  الصحف الإفرنجية أن للترنسفال من هذا المعنى حظاً وافراً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قالت: إن قواد الترنسفاليين في حربهم الأخيرة لم يكونوا وحيدين في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عيالهم وربما كان لأكثرهم من البنين ما يزيد على  عشرة  أو  خمسة  عشر  . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ التناسل الغريب 
+ سمعت وأنا صبيٌّ رجلاً من سراة بغداد يقول لوالدي يوماً أن في 
+ ضواحي مدينتنا شيخاً كبيراً له من الولد وولد الولد ما يربو عددهم على 
+ خمسمائة  نسمة ذكوراً وإناثاً. قال وكان ربُّ هذه العيلة يدعو من ولدوا منه 
+ كل شهر إلى داره الخاصة به ويأدب لهم مأدبة يمنح في ختامها كل فرد 
+ من أفرادهم قطعة من الدراهم بثلاثة قروش. يريد بذلك اتصال الصلات 
+ الأبوية بين الأصل والفرع. وربما سأل أحدهم أو إحداهن وهو 
+ يستعرضهم عن اسمه أو اسم أبيه وأمه لأنه كان بلغ سناً تغرب فيها عن 
+ الذهن الأسماء. 
+ سمعت هذا واستعظمت العدد لكن مقال البغدادي لا يخلو من حقيقة 
+ وإن حوى شيئاً من المبالغة شأننا معاشر المشارقة في تكثير الأرقام. وما 
+ زلت أيضاً استعظم ما يُروى من أن أبا الطيب المتنبي كان يركب ويركب 
+ معه  خمسون  فارساً من ولده فإذا سُئل عنهم يجيب بأنهم عشيرته خشية 
+ عليهم من العين بزعمه. إلا أن حادثة أولاد المتنبي وهم  عشر  عدد ذاك 
+ العراقي يقبلها العقل سيما وإنا نرى لعهدنا ما يشفع بها من تكاثر الذرية فقد 
+ اتصل بي أن في  إحدى  بلاد الأقاليم في مصر أسرة من صلب و  احد 
+ تتجاوز  ثمانين  نسمة على أن الأسرات التي يناهز عددها العشرات كثيرة 
+ في هذه الديار. 
+ وفي  إحدى  الصحف الإفرنجية أن للترنسفال من هذا المعنى حظاً وافراً 
+ قالت: إن قواد الترنسفاليين في حربهم الأخيرة لم يكونوا وحيدين في 
+ عيالهم وربما كان لأكثرهم من البنين ما يزيد على  عشرة  أو  خمسة  عشر  . </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

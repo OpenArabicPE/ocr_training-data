@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.879+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.879+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_031.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والسؤال والجواب، وما عند الله من الثواب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ومعلوم يا سيدي أن البهائم، لا توصف بالحلوم، ولا تعيش بسماع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العلوم، ولا تطرب إلى شعر أبي تمام، ولا تعرف الحارث بن همام ولاسيما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> البغال، التي تشتغل في جميع الأشغال، شبكة من القصيل، أحب إليها من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كتاب التحصيل، وقفة من الدريس، اشتهى إليها من فقه محمد بن إدريس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لو أكل البغل كتاب المقامات، مات، فإن لم يجد إلا كتاب الرضاع، ضاع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ولو قيل له أنت هالك، إن لم تأكل موطأ مالك، ما قبل ذلك. وكذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الجمل، لا يتغذى بشرح أبيات الجمل، وحزمة من الكلاء، أحب إليه من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شعر أبي العلاء، وليس عنده طيب، شعر أبي الطيب. وأما الخيل، فلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تطرب إلا لسماع الكيل، وإذا أكلت كتاب الذيل، ماتت في النهار قبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الليل، والويل لهاثم الويل. ولا تستغني الأكاديش، عن الحشيش، بكل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما في الحماسة من شعر أبي الحريش. وإذا أطعمت الحمار، شعر ابن عمار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حل به الدمار، وأصبح منفوخاً كالطبل، على باب الإسطبل. وبعد هذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كله قد راح صاحبهما إلى العلاف، وعرض عليه مسائل الخلاف. وطلب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من بيته  خمس  قفاف، فقام إليه بالخفاف، فخاطبه بالتقعير، وفسر عليه آية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> العير، وطلب منه ويبة  كذا  شعير، فحمل على عياله  ألف  بعير، فانصرف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الشيخ منكسر القلب مغتاظاً من الثلب، وهو أنجس من ابن بنت الكلب، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فالتفت  إلى المسكينة، وقد سلبه الغيظ ثوب السكينة، وقال لها إن شئت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أن تكدي فكدي، لا ذقت شعيراً ما دمت عندي: فبقيت المملوكة حائرة، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا قائمة ولا سائرة، فقال لها العلاف لا تجزعي من حباله ولا تلتفتي على  ، </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سباله، ولا تنظري إلى نفقته، ولا يكون عندك أخس من عنفقته. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> والسؤال والجواب، وما عند الله من الثواب. 
+ ومعلوم يا سيدي أن البهائم، لا توصف بالحلوم، ولا تعيش بسماع 
+ العلوم، ولا تطرب إلى شعر أبي تمام، ولا تعرف الحارث بن همام ولاسيما 
+ البغال، التي تشتغل في جميع الأشغال، شبكة من القصيل، أحب إليها من 
+ كتاب التحصيل، وقفة من الدريس، اشتهى إليها من فقه محمد بن إدريس 
+ لو أكل البغل كتاب المقامات، مات، فإن لم يجد إلا كتاب الرضاع، ضاع 
+ ولو قيل له أنت هالك، إن لم تأكل موطأ مالك، ما قبل ذلك. وكذا 
+ الجمل، لا يتغذى بشرح أبيات الجمل، وحزمة من الكلاء، أحب إليه من 
+ شعر أبي العلاء، وليس عنده طيب، شعر أبي الطيب. وأما الخيل، فلا 
+ تطرب إلا لسماع الكيل، وإذا أكلت كتاب الذيل، ماتت في النهار قبل 
+ الليل، والويل لهاثم الويل. ولا تستغني الأكاديش، عن الحشيش، بكل 
+ ما في الحماسة من شعر أبي الحريش. وإذا أطعمت الحمار، شعر ابن عمار 
+ حل به الدمار، وأصبح منفوخاً كالطبل، على باب الإسطبل. وبعد هذا 
+ كله قد راح صاحبهما إلى العلاف، وعرض عليه مسائل الخلاف. وطلب 
+ من بيته  خمس  قفاف، فقام إليه بالخفاف، فخاطبه بالتقعير، وفسر عليه آية 
+ العير، وطلب منه ويبة  كذا  شعير، فحمل على عياله  ألف  بعير، فانصرف 
+ الشيخ منكسر القلب مغتاظاً من الثلب، وهو أنجس من ابن بنت الكلب، 
+ فالتفت  إلى المسكينة، وقد سلبه الغيظ ثوب السكينة، وقال لها إن شئت 
+ أن تكدي فكدي، لا ذقت شعيراً ما دمت عندي: فبقيت المملوكة حائرة، 
+ لا قائمة ولا سائرة، فقال لها العلاف لا تجزعي من حباله ولا تلتفتي على  ، 
+ سباله، ولا تنظري إلى نفقته، ولا يكون عندك أخس من عنفقته. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

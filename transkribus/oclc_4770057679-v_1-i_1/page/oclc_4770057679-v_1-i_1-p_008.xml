@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.285+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.285+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_008.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والقراءة والخروج من دركات الجهل والأمية بل كانت هذه عادة الأمم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> القديمة إلا القليل منها يخصون العلم والتعلم بطبقة خاصة من الناس. فقد حصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قدماء المصريين والآشوريين العلم بخدمة الدين واحتكره أبناء الأشراف عند </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الغرناطيين والرومانيين واختصت به فئة معلومة منتخبة من الهنديين واليونانيين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حتى إذا جاء الإسلام أطلق حرية التعلم وأباح تناول العلم لكل متناول وكان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من أثره ما كان من الحضارة الراسخة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هذه زبدة ما يقال في معنى الأمية في الإسلام وقد تقلبت الأحوال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بأهله حتى أصبح من لا يستحق منهم هذه الصفة أعزَّ من الغراب الأعصم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وهبت على أهل هذا الشرق هبة من روح الارتقاء منذ نحو قرن وما برحت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تختلف باختلاف الأيام حتى قام في العهد الأخير ناسٌ راغبون في إنهاض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمة من حضيض الأمية رجاء تحسين أحوال المجتمع وانتقاء فئة من نوابغ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المتعلمين ليكونوا بعد رجال العلم والقضاء والإدارة وسائر مذاهب المعاش. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وما أظن مصر حتى اليوم قامت بعمل أعظم من اهتمام رجالها هذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الآونة بافتتاح كتاتيب يتعلم فيها عامة بنيها ما يخرجهم عن طور الأمية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويلحقهم بالمتعلمين النافعين. وقد شهد كل عاقل ينظر في العواقب من آثار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هذه الهمة القعساء ما يرجى معها إذا دامت على أشدها زمناً أن يزيد عدد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الدارسين في هذا القطر على عدد الأميين من أهله وهناك أبشر بالخير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الذي يعود من فضل هذه العناية على القطر المصري بل على سائر الأقطار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والأمصار. وعسى أن يعتبر بهذه النهضة المباركة رجال البلاد المجاورة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيجنون من كتاتيبهم ومدارسهم لو توفروا على إصلاحها والاستكثار منها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما لا يأتيهم به الأماني والتعللات والله الملهم والمسدد. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> والقراءة والخروج من دركات الجهل والأمية بل كانت هذه عادة الأمم 
+ القديمة إلا القليل منها يخصون العلم والتعلم بطبقة خاصة من الناس. فقد حصر 
+ قدماء المصريين والآشوريين العلم بخدمة الدين واحتكره أبناء الأشراف عند 
+ الغرناطيين والرومانيين واختصت به فئة معلومة منتخبة من الهنديين واليونانيين 
+ حتى إذا جاء الإسلام أطلق حرية التعلم وأباح تناول العلم لكل متناول وكان 
+ من أثره ما كان من الحضارة الراسخة. 
+ هذه زبدة ما يقال في معنى الأمية في الإسلام وقد تقلبت الأحوال 
+ بأهله حتى أصبح من لا يستحق منهم هذه الصفة أعزَّ من الغراب الأعصم 
+ وهبت على أهل هذا الشرق هبة من روح الارتقاء منذ نحو قرن وما برحت 
+ تختلف باختلاف الأيام حتى قام في العهد الأخير ناسٌ راغبون في إنهاض 
+ الأمة من حضيض الأمية رجاء تحسين أحوال المجتمع وانتقاء فئة من نوابغ 
+ المتعلمين ليكونوا بعد رجال العلم والقضاء والإدارة وسائر مذاهب المعاش. 
+ وما أظن مصر حتى اليوم قامت بعمل أعظم من اهتمام رجالها هذه 
+ الآونة بافتتاح كتاتيب يتعلم فيها عامة بنيها ما يخرجهم عن طور الأمية 
+ ويلحقهم بالمتعلمين النافعين. وقد شهد كل عاقل ينظر في العواقب من آثار 
+ هذه الهمة القعساء ما يرجى معها إذا دامت على أشدها زمناً أن يزيد عدد 
+ الدارسين في هذا القطر على عدد الأميين من أهله وهناك أبشر بالخير 
+ الذي يعود من فضل هذه العناية على القطر المصري بل على سائر الأقطار 
+ والأمصار. وعسى أن يعتبر بهذه النهضة المباركة رجال البلاد المجاورة 
+ فيجنون من كتاتيبهم ومدارسهم لو توفروا على إصلاحها والاستكثار منها 
+ ما لا يأتيهم به الأماني والتعللات والله الملهم والمسدد. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:32.426+03:00</Created>
+        <LastChange>2019-05-22T11:11:32.426+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_025.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمر شيء ما خلقنا عملة وما حالهم في شكواهم إلا حال من يشكو من كونه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> خلق إنساناً. فالعمل قانون الطبيعة البشرية وهو شريف بذاته في نظر العقل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مقدس مبارك كيفما كانت الطرق التي يجري عليها والغاية التي يرمي إليها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والعملة صنفان: صنف يعمل ذكاؤهم فقط ويدعون عملة الفكر أو أرباب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الصناعات الفكرية وهم الذين يتعاطون الأعمال الملقبة بالأعمال الحرة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والصنف الآخر طبقة العملة بأيديهم وأجسامهم وهم أوفر عدداً وأكثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سواداً. هؤلاء العملة هم الأولى يعملون في القرى والمدن ويتبارون في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> استخراج نتاج الطبيعة على اختلاف عناصرها ويكيفون تلك النتائج بحيث </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تصلح لما يتطلبه المجتمع من الحاجيات. وهذا الضرب من العملة قسمان أيضاً: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> زراع وصناع والفئة الثانية مفضلة إلا أن كلتيهما حريتان بالاعتبار والإكرام. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> حياة العامل أضمن مراتب الحياة الإنسانية بأسرها لأن له من فكره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> رأس مال لا يسلبه إلا بفقد صحته وزوال كيانه. وليس هذا النوع من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الثروة عرضة للأخطار كسائر أنواع الثروة إذ العمل للمجتمع البشري بمثابة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التنفس في الحياة ولا يتأتى توقيف حركة العمل والتنفس  بدون أن يؤدي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هذا الانقطاع إلى بحران عظيم قد يودي بصاحبه إلى الفناء إذا دام على أشده. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وإن حياة الصناع لتستدعي نشاطاً أكثر وحركة دائمة وإذا حدث في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأحيان أن فترت الصناعة موقتاً في بلاد فإن بلاداً غيرها تتطلب نزول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أهلها فيها. ومن اعتاد أن يستخدم قواه الطبيعية مدفوعاً بعامل العقل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والذكاء يجد له بسطة في الرزق حيث حل من أرض الله. قال  أحد  عقلاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأقدمين ليس للقدر سبيل إلي فيسلبني مالي لأني حيثما رمت بي تصاريفه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لا أخاف الفاقة ولا اضطر إلى سداد من عوز إذ أحمل ثروتي كلها معي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> الأمر شيء ما خلقنا عملة وما حالهم في شكواهم إلا حال من يشكو من كونه 
+ خلق إنساناً. فالعمل قانون الطبيعة البشرية وهو شريف بذاته في نظر العقل 
+ مقدس مبارك كيفما كانت الطرق التي يجري عليها والغاية التي يرمي إليها. 
+ والعملة صنفان: صنف يعمل ذكاؤهم فقط ويدعون عملة الفكر أو أرباب 
+ الصناعات الفكرية وهم الذين يتعاطون الأعمال الملقبة بالأعمال الحرة. 
+ والصنف الآخر طبقة العملة بأيديهم وأجسامهم وهم أوفر عدداً وأكثر 
+ سواداً. هؤلاء العملة هم الأولى يعملون في القرى والمدن ويتبارون في 
+ استخراج نتاج الطبيعة على اختلاف عناصرها ويكيفون تلك النتائج بحيث 
+ تصلح لما يتطلبه المجتمع من الحاجيات. وهذا الضرب من العملة قسمان أيضاً: 
+ زراع وصناع والفئة الثانية مفضلة إلا أن كلتيهما حريتان بالاعتبار والإكرام. 
+ حياة العامل أضمن مراتب الحياة الإنسانية بأسرها لأن له من فكره 
+ رأس مال لا يسلبه إلا بفقد صحته وزوال كيانه. وليس هذا النوع من 
+ الثروة عرضة للأخطار كسائر أنواع الثروة إذ العمل للمجتمع البشري بمثابة 
+ التنفس في الحياة ولا يتأتى توقيف حركة العمل والتنفس  بدون أن يؤدي 
+ هذا الانقطاع إلى بحران عظيم قد يودي بصاحبه إلى الفناء إذا دام على أشده. 
+ وإن حياة الصناع لتستدعي نشاطاً أكثر وحركة دائمة وإذا حدث في 
+ الأحيان أن فترت الصناعة موقتاً في بلاد فإن بلاداً غيرها تتطلب نزول 
+ أهلها فيها. ومن اعتاد أن يستخدم قواه الطبيعية مدفوعاً بعامل العقل 
+ والذكاء يجد له بسطة في الرزق حيث حل من أرض الله. قال  أحد  عقلاء 
+ الأقدمين ليس للقدر سبيل إلي فيسلبني مالي لأني حيثما رمت بي تصاريفه 
+ لا أخاف الفاقة ولا اضطر إلى سداد من عوز إذ أحمل ثروتي كلها معي </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.074+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.074+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_005.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ذلك إلا بصيرة في نشرها، وجدالاً للمعاند فيها، إلى أن مضي لسبيله. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأكثر معايبه زعموا عند المنصف له، جهله بسياسة العلم التي هي  أعوص </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من إيعابه، وتخلفه عن ذلك على قوة سبحه في غماره، وعلى ذلك كله فلم يكن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالسليم من اضطراب رأيه، ومغيب شاهد علمه عنه عند لقائه، إلى أن يحرك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بالسؤال فيفجر منه بحر لا يكدره الدلاء، ولا تقصر عنه الرشاء، له على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> كل ما ذكرناه دلائل ماثلة، وأخبار مأثورة، وكان مما يزيد في شنآنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تشيعه لأمراء بني أمية ماضيهم وباقيهم. . . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وبعد أن ذكر ابن حيان إدلال ابن حزم بأرومته ونسبه، مع أنه من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عجم لبلة، وماله من المجالس مع أولي المذاهب المرفوضة من أهل الإسلام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأورد بعض تآليفه قال: ومن شعره  يصف ما أحرق له من كتبه ابن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عباد قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فإن تحرقوا القرطاس لا تحرقوا الذي  تضمنه القرطاس بل هو في صدري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يسير معي حيث استقلت ركائبي  وينزل إن أنزل ويدفن في قبري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> دعوني من إحراق رقّ وكاغد  وقولوا بعلم كي يرى الناس من يدري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وإلا فعودوا في المكاتب بدأة  فكم دون ما تبغون لله من سر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وله: من ظلّ يبغي فروع علم  يُدرى ولم يدر منه أصلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فكلما ازداد فيه سعياً  زاد لعمري بذاك جهلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وقال: كأنك بالزوار لي قد تناذروا  وقيل لهم أودى عليّ بن أحمد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فيا ربّ محزون هناك وضاحك  وكم أدمع تذرى وخد مخدد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عفا الله عني يوم أرحل ظاعناً  عن الأهل محمولاً إلى بطن ملحد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> واترك ما قد كنت مغتبطاً به  وألقى الذي آنست دهراً بمرصد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> ذلك إلا بصيرة في نشرها، وجدالاً للمعاند فيها، إلى أن مضي لسبيله. 
+ وأكثر معايبه زعموا عند المنصف له، جهله بسياسة العلم التي هي  أعوص 
+ من إيعابه، وتخلفه عن ذلك على قوة سبحه في غماره، وعلى ذلك كله فلم يكن 
+ بالسليم من اضطراب رأيه، ومغيب شاهد علمه عنه عند لقائه، إلى أن يحرك 
+ بالسؤال فيفجر منه بحر لا يكدره الدلاء، ولا تقصر عنه الرشاء، له على 
+ كل ما ذكرناه دلائل ماثلة، وأخبار مأثورة، وكان مما يزيد في شنآنه 
+ تشيعه لأمراء بني أمية ماضيهم وباقيهم. . . 
+ وبعد أن ذكر ابن حيان إدلال ابن حزم بأرومته ونسبه، مع أنه من 
+ عجم لبلة، وماله من المجالس مع أولي المذاهب المرفوضة من أهل الإسلام 
+ وأورد بعض تآليفه قال: ومن شعره  يصف ما أحرق له من كتبه ابن 
+ عباد قوله: 
+ فإن تحرقوا القرطاس لا تحرقوا الذي  تضمنه القرطاس بل هو في صدري 
+ يسير معي حيث استقلت ركائبي  وينزل إن أنزل ويدفن في قبري 
+ دعوني من إحراق رقّ وكاغد  وقولوا بعلم كي يرى الناس من يدري 
+ وإلا فعودوا في المكاتب بدأة  فكم دون ما تبغون لله من سر 
+ وله: من ظلّ يبغي فروع علم  يُدرى ولم يدر منه أصلا 
+ فكلما ازداد فيه سعياً  زاد لعمري بذاك جهلا 
+ وقال: كأنك بالزوار لي قد تناذروا  وقيل لهم أودى عليّ بن أحمد 
+
+ فيا ربّ محزون هناك وضاحك  وكم أدمع تذرى وخد مخدد 
+ عفا الله عني يوم أرحل ظاعناً  عن الأهل محمولاً إلى بطن ملحد 
+ واترك ما قد كنت مغتبطاً به  وألقى الذي آنست دهراً بمرصد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

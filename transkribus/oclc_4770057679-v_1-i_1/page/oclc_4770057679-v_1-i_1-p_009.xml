@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.370+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.370+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_009.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> سيئات القرن الماضي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من مقالة ل  أحد  علماء الفرنسيين نشرت حديثاً في  إحدى  المجلات العلمية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من القضايا التي استلفتت الأنظار انتشاراً الأمراض العصبية في القرن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التاسع  عشر  وخصوصاً في النصف الثاني منه انتشاراً لم يعهد من قبل على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما دخل المجتمع من الإصلاحات والتقلبات في حالتيه الطبيعية والأدبية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فلو طاف الباحث نصفي الكرة الأرضية وراقب عن أمم شرقها وغربها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شمالها وجنوبها، مدنها الصغرى والكبرى، أصقاعها الباردة والحارة، لسمع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الإنسانية تئن من تزايد الأمراض العصبية كل يوم وقد أصيبت بها أرباب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الصناعات والحرف على اختلاف الأعمار والجنس ولم تعمل فيها انقلاب العادات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وطرق المعيشة وأساليب الفكر والحس على ما حصل من ارتقاء العلوم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الطبيعية وعلوم الحياة التي بها عرف ما كان من قبل مجهولاً من أمراض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الدماغ وما انتهى إليه العلم من طبائع الأمراض العصبية وعللها ودلائلها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وارتقاء العلوم الطبيعية في هذا القرن لا يرفع الملام عن أطباء القرون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الماضية لسكوتهم عن الأمراض العصبية. فقد نراهم أحسنوا معرفة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأحوال الطبيعية وظواهرها وراقبوها أحسن مراقبة وإن لم يعقلوا عليها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> شرحاً مرضياً. عرفوا حق المعرفة حقيقة البول السكري والصرع والتشنج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وغيرها من الأدواء ولم يعرفوا الخناق وأنواع الحميات والهزال العصبي وهذيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الشيوخ وغيرها من الأوصاب المنتشرة بين أهل جيلنا. لا جرم أن كثرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأمراض العقلية تستدعي نظر الحكومات والباحثين في الصحة والأخلاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> فقد زاد عدد المجانين في أوروبا وأميركا زيادة عظيمة في أواخر القرن الماضي. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والجنون على الجملة  أربع  طبقات: جنون مطبق، وجنون خبل، وجنون ناتج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+ سيئات القرن الماضي 
+ من مقالة ل  أحد  علماء الفرنسيين نشرت حديثاً في  إحدى  المجلات العلمية 
+ من القضايا التي استلفتت الأنظار انتشاراً الأمراض العصبية في القرن 
+ التاسع  عشر  وخصوصاً في النصف الثاني منه انتشاراً لم يعهد من قبل على 
+ ما دخل المجتمع من الإصلاحات والتقلبات في حالتيه الطبيعية والأدبية. 
+ فلو طاف الباحث نصفي الكرة الأرضية وراقب عن أمم شرقها وغربها 
+ شمالها وجنوبها، مدنها الصغرى والكبرى، أصقاعها الباردة والحارة، لسمع 
+ الإنسانية تئن من تزايد الأمراض العصبية كل يوم وقد أصيبت بها أرباب 
+ الصناعات والحرف على اختلاف الأعمار والجنس ولم تعمل فيها انقلاب العادات 
+ وطرق المعيشة وأساليب الفكر والحس على ما حصل من ارتقاء العلوم 
+ الطبيعية وعلوم الحياة التي بها عرف ما كان من قبل مجهولاً من أمراض 
+ الدماغ وما انتهى إليه العلم من طبائع الأمراض العصبية وعللها ودلائلها. 
+ وارتقاء العلوم الطبيعية في هذا القرن لا يرفع الملام عن أطباء القرون 
+ الماضية لسكوتهم عن الأمراض العصبية. فقد نراهم أحسنوا معرفة 
+ الأحوال الطبيعية وظواهرها وراقبوها أحسن مراقبة وإن لم يعقلوا عليها 
+ شرحاً مرضياً. عرفوا حق المعرفة حقيقة البول السكري والصرع والتشنج 
+ وغيرها من الأدواء ولم يعرفوا الخناق وأنواع الحميات والهزال العصبي وهذيان 
+ الشيوخ وغيرها من الأوصاب المنتشرة بين أهل جيلنا. لا جرم أن كثرة 
+ الأمراض العقلية تستدعي نظر الحكومات والباحثين في الصحة والأخلاق 
+ فقد زاد عدد المجانين في أوروبا وأميركا زيادة عظيمة في أواخر القرن الماضي. 
+ والجنون على الجملة  أربع  طبقات: جنون مطبق، وجنون خبل، وجنون ناتج </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

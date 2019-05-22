@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:31.921+03:00</Created>
+        <LastChange>2019-05-22T11:11:31.921+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_017.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> من تعلموها على دكات المدارس وهم يقلبون المعاجم ويتأبطون كتب نحوها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وصرفها وبيانها ناقلين ناسخين مستظهرين ناسين. وطريقة برليتز هذه أن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يستعمل أولاً اللغة المتعلمة خاصة وأن يتابع التصور في اللغة الغريبة مباشرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بدون وساطة اللغة الأصلية وأن تُعلَّم أسماء الأعيان بقوة الحس وتعلم أسماء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المعاني بتتابع التصور ويدرس النحو بالأمثلة والشواهد. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> هذا مذهب الأستاذ برليتز في إتقان ملكة اللغات وقد انتقل من </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نيويورك إلى باريس  عام  ١٨٨٩  فأسست في هذه العاصمة أول مدرسة على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> تلك الطريقة وانتقل هذا المذاهب في تلك السنة إلى إنكلترا وألمانيا فأسست </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في كل من لندن وبرلين مدارس لهذا الغرض. وما برحت مدارسها تتكاثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في الأصقاع الأوربية حتى كانت في بدء هذه ال  سنة  ٢٤٢  مدرسة في أوربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وحدها وكلها أسفرت عن ارتقاء واقتصاد في الوقت والمال وطريقة القائمين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بهذا الأمر أن يكون لكل تلميذ أستاذه الخاص به فيأخذ هذا يعلم تلميذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ما يقع نظره عليه في قاعة الدرس من منضدة وكرسي وكتاب وباب ونافذة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> يلفظها بلغتها ولا يزال يكررها المتعلم حتى يتقن التلفظ فإذا نفذت المسميات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> لدى الأستاذ في الغرفة يعمد إلى صور سهلة واضحة رسمت على صفحات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مجموعة رسوم فما هو إلا أن يتعلم التلميذ أسماء الأشياء الواقعة تحت حسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مع الألوان التي يمتاز بها كل منها ثم ينتقل إلى صفات الحجم وأفعال الحركات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> والأعداد. فإذا أنجز درس الأشياء يشرع المعلم في اختيار جمل يكون التلميذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> قد عرف أكثر مفرداتها. فلا يمضي  ثلاثون  درساً إلا وقد عرف التلميذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الأفعال الشائعة في الاستعمال والمفردات التي تدخل غالباً في الأحاديث العامة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> ويتمكن في  ستين  درساً من بيان فكره أصح بيان ف يكل ما له علاقة بمجرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> من تعلموها على دكات المدارس وهم يقلبون المعاجم ويتأبطون كتب نحوها 
+ وصرفها وبيانها ناقلين ناسخين مستظهرين ناسين. وطريقة برليتز هذه أن 
+ يستعمل أولاً اللغة المتعلمة خاصة وأن يتابع التصور في اللغة الغريبة مباشرة 
+ بدون وساطة اللغة الأصلية وأن تُعلَّم أسماء الأعيان بقوة الحس وتعلم أسماء 
+ المعاني بتتابع التصور ويدرس النحو بالأمثلة والشواهد. 
+ هذا مذهب الأستاذ برليتز في إتقان ملكة اللغات وقد انتقل من 
+ نيويورك إلى باريس  عام  ١٨٨٩  فأسست في هذه العاصمة أول مدرسة على 
+ تلك الطريقة وانتقل هذا المذاهب في تلك السنة إلى إنكلترا وألمانيا فأسست 
+ في كل من لندن وبرلين مدارس لهذا الغرض. وما برحت مدارسها تتكاثر 
+ في الأصقاع الأوربية حتى كانت في بدء هذه ال  سنة  ٢٤٢  مدرسة في أوربا 
+ وحدها وكلها أسفرت عن ارتقاء واقتصاد في الوقت والمال وطريقة القائمين 
+ بهذا الأمر أن يكون لكل تلميذ أستاذه الخاص به فيأخذ هذا يعلم تلميذه 
+ ما يقع نظره عليه في قاعة الدرس من منضدة وكرسي وكتاب وباب ونافذة 
+ يلفظها بلغتها ولا يزال يكررها المتعلم حتى يتقن التلفظ فإذا نفذت المسميات 
+ لدى الأستاذ في الغرفة يعمد إلى صور سهلة واضحة رسمت على صفحات 
+ مجموعة رسوم فما هو إلا أن يتعلم التلميذ أسماء الأشياء الواقعة تحت حسه 
+ مع الألوان التي يمتاز بها كل منها ثم ينتقل إلى صفات الحجم وأفعال الحركات 
+ والأعداد. فإذا أنجز درس الأشياء يشرع المعلم في اختيار جمل يكون التلميذ 
+ قد عرف أكثر مفرداتها. فلا يمضي  ثلاثون  درساً إلا وقد عرف التلميذ 
+ الأفعال الشائعة في الاستعمال والمفردات التي تدخل غالباً في الأحاديث العامة 
+ ويتمكن في  ستين  درساً من بيان فكره أصح بيان ف يكل ما له علاقة بمجرى </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

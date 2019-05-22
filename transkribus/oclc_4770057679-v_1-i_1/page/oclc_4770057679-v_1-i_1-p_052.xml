@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-22T11:11:34.572+03:00</Created>
+        <LastChange>2019-05-22T11:11:34.572+03:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_4770057679-v_1-i_1-p_052.tif" imageWidth="3408" imageHeight="5452">
+        <TextRegion id="region_1">
+            <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وأن للمرأة وحدها تربية ولدها والزوج طوع أمر زوجه يأخذ عنها نصائح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وينتفع بما تلقيه عليه من الأحكام قالت الكاتبة: ولذلك كان نساء برمانيا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أسعد النساء طراً. والمرأة في كوريا هي القوة الاقتصادية العظمى في البلاد. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> نوابغ الرجال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في  إحدى  المجلات الإنكليزية بحث في الأجناس والأفراد رأى فيه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> صاحبه أن النابغة هو الذي تنجح به الطبقات على اختلاف أشكالها وارتأى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أنه يحكم على جنس من أجناس البشر من صلاته مع الأفراد ولم يفصل فصلاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> صريحاً بين فطرة الأفراد وفطرة المجتمع. وهذا الرأي أشبه برأي كارلايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الإنكليزي القائل بأن الأفراد هم العالم بأسره وبهم عليه يحكم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> مكتبة  الإسكندرية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> في  إحدى  المجلات الفرنسية مقالة  لل  مسيو  البرسيم  أحصى فيها أعداء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الكتب وعد من جملة من أحرقوا الكتب بالنار  عمر بن الخطا  ب رضي الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> عنه أمر عامله ب  مصر  أن يحرق  مكتبة  الإسكندرية  لما فتحت. قالت الجريدة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> بيد أن ما نسب إلى هذا الإمام من الأمر بإحراق خزانة  الإسكندرية  لا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> أصل له إذ لم تكن المكتبة موجودة على عهده. وعدَّ في جملة أعداء الكتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> النساء لأنهن لا يشفقن عليها ويمزقن جلودها ليجعلنها صرراً أو رزماً. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> وسننشر  رسالة في حريق  المكتبة  الإسكندرية  بياناً للحقيقة التاريخية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> المجلات العربية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> التمثيل العربي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> الهلال  - بحث في أصل التمثيل قال فيه إنه شرقي المنشأ ظهر في  الهند </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_25">
+                <Coords points="0,0 3408,0 3408,5452 0,5452"/>
+                <TextEquiv>
+                    <Unicode> و  الصين  و  اليابان  وظهر في  اليونان  و  الرومان  . وأن القدماء استخدموا التمثيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> وأن للمرأة وحدها تربية ولدها والزوج طوع أمر زوجه يأخذ عنها نصائح 
+ وينتفع بما تلقيه عليه من الأحكام قالت الكاتبة: ولذلك كان نساء برمانيا 
+ أسعد النساء طراً. والمرأة في كوريا هي القوة الاقتصادية العظمى في البلاد. 
+
+ نوابغ الرجال 
+ في  إحدى  المجلات الإنكليزية بحث في الأجناس والأفراد رأى فيه 
+ صاحبه أن النابغة هو الذي تنجح به الطبقات على اختلاف أشكالها وارتأى 
+ أنه يحكم على جنس من أجناس البشر من صلاته مع الأفراد ولم يفصل فصلاً 
+ صريحاً بين فطرة الأفراد وفطرة المجتمع. وهذا الرأي أشبه برأي كارلايل 
+ الإنكليزي القائل بأن الأفراد هم العالم بأسره وبهم عليه يحكم. 
+
+ مكتبة  الإسكندرية 
+ في  إحدى  المجلات الفرنسية مقالة  لل  مسيو  البرسيم  أحصى فيها أعداء 
+ الكتب وعد من جملة من أحرقوا الكتب بالنار  عمر بن الخطا  ب رضي الله 
+ عنه أمر عامله ب  مصر  أن يحرق  مكتبة  الإسكندرية  لما فتحت. قالت الجريدة 
+ بيد أن ما نسب إلى هذا الإمام من الأمر بإحراق خزانة  الإسكندرية  لا 
+ أصل له إذ لم تكن المكتبة موجودة على عهده. وعدَّ في جملة أعداء الكتب 
+ النساء لأنهن لا يشفقن عليها ويمزقن جلودها ليجعلنها صرراً أو رزماً. 
+ وسننشر  رسالة في حريق  المكتبة  الإسكندرية  بياناً للحقيقة التاريخية. 
+
+ المجلات العربية 
+
+ التمثيل العربي 
+ الهلال  - بحث في أصل التمثيل قال فيه إنه شرقي المنشأ ظهر في  الهند 
+ و  الصين  و  اليابان  وظهر في  اليونان  و  الرومان  . وأن القدماء استخدموا التمثيل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
