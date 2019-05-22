@@ -10,6 +10,36 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../digital-haqaiq/xml/oclc_644997575-i_2.TEIP5.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Convert to plain text: one file per page</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../digital-haqaiq/xml/oclc_644997575-i_1.TEIP5.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Convert to plain text: one file per page</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../digital-muqtabas/xml/oclc_4770057679-i_1.TEIP5.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -121,6 +151,10 @@
         </options>
     </meta>
     <projectTree name="OpenArabicPE_OCR.xpr">
+        <folder name="Editions">
+            <folder path="../digital-haqaiq/"/>
+            <folder path="../digital-muqtabas/"/>
+        </folder>
         <folder path="../convert_tei-to-markdown/"/>
         <folder path="."/>
     </projectTree>
