@@ -2,6 +2,9 @@
 title: "OpenArabicPE: OCR training data"
 author: Till Grallert
 date: 2019-05-22
+tags:
+    - OpenArabicPE
+    - Arabic periodicals
 ---
 
 This repository holds training data for OCR/HTR algorithms and some tools for converting TEI files into one `.txt` file per page required for this task.
