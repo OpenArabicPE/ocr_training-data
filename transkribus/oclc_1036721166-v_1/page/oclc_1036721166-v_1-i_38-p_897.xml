@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:30.935+02:00</Created>
+        <LastChange>2019-06-03T15:23:30.935+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_38-p_897.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>العدد ٣٨ - بتاريخ: ١٨٩٣ - ٥ - ١٦ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>دفع اعتراض البشر عن اعتقاد القضاء والقدر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لأحد أفاضل مصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>مضت سنة الله في خلقه بأن يكون للعقائد القلبية سلطان على الأعمال البدنية فما يكون فيها من صلاح أو فساد فإنما مرجعه فساد العقيدة وصلاحها على ما بينه الشارع ورب عقيدة واحدة تأخذ بأطراف الأفكار فيتبعها عقائد ومدركات أخرى ثم تظهر على البدن بأعمال تلائم أثرها في النفس. ورب أصل من أصول الخير والكمال اذا عرض على الأنفس في تعليم أو تبلغ شرع وقع فيه الاشتباه عند السامع فيلتبس عليه بما ليس من قبيلة أو يصادف بعض الصفات الرديئة والعقائد الباطلة فيعلق به عند الاعتقاد فاسدة مبنية على الخطأ في الفهم أو على خبث الاعتقاد فتنشأُ عنها أعمال غير صالحة على غير علم من المعتقد كيف اعتقد هذا ولا كيف يصرفه اعتقادهُ والمغرور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٣٨ - بتاريخ: ١٨٩٣ - ٥ - ١٦ 
+
+دفع اعتراض البشر عن اعتقاد القضاء والقدر 
+لأحد أفاضل مصر 
+مضت سنة الله في خلقه بأن يكون للعقائد القلبية سلطان على الأعمال البدنية فما يكون فيها من صلاح أو فساد فإنما مرجعه فساد العقيدة وصلاحها على ما بينه الشارع ورب عقيدة واحدة تأخذ بأطراف الأفكار فيتبعها عقائد ومدركات أخرى ثم تظهر على البدن بأعمال تلائم أثرها في النفس. ورب أصل من أصول الخير والكمال اذا عرض على الأنفس في تعليم أو تبلغ شرع وقع فيه الاشتباه عند السامع فيلتبس عليه بما ليس من قبيلة أو يصادف بعض الصفات الرديئة والعقائد الباطلة فيعلق به عند الاعتقاد فاسدة مبنية على الخطأ في الفهم أو على خبث الاعتقاد فتنشأُ عنها أعمال غير صالحة على غير علم من المعتقد كيف اعتقد هذا ولا كيف يصرفه اعتقادهُ والمغرور </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

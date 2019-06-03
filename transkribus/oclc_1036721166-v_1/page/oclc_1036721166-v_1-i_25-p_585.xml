@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:06.090+02:00</Created>
+        <LastChange>2019-06-03T15:23:06.090+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_25-p_585.jpg" imageWidth="748" imageHeight="1120">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1120 0,1120"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>أذكى لظى الشوق في أعشار مهجته نسيم معهد ذي وجد بخلته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فبات يطوي اليه مسلكاً وعراً أدنى حزونته أقصى سهولته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>كأن عبرته حالت بلوعته إلى بخار يزجيه بزفرته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>تكاد مهجته من فرط ما احترقت أن لا تميز من جلباب ليلته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>قد غودرت بين صباب العيون وسباب العيون وصب في غوايته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فهي الغريق يلبي من سهلولها وهي السليق تلاشى في رمايته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>انسان عيني جنى وهو المعذب لا العذب المصطلي حمى جريرته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فليتق الله في تغرير من برئت مما تزن به من هجر تهمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ويل له فاعلاً أصلاً ينم على شريكه ويبرأ من جريمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وهو المضل وينجو من نكايته كقاتل بمرامى بندقيته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>غيا قضوا ان منه يستدل على إجرامها فيزكى في شهادته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>إليك عني فقد ورطتها سفها في مذهب لست محكوماً بشرعته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ما بين منتصر للحق منقطع للصدق متبع أجدى محجته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وسيد القوم يمشي التقدمية في تأييده الحق مصحوباً بأمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>مولى العزائم عباس العظائم غراس المكارم محيي فخر ملته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>دعها مهللة في الكون معلنة حب التفاني على تأييد سلطته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ظنت حوادث هذا الدهر ان لها عليه شأناً وخابت عند خبرته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>أعضها سيفه في كل مقترح بدا وفي نبذه تعزيز سطوته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>قد كان أطمعها أطراقه فجرت وما درت جهلها مكنون حكمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أذكى لظى الشوق في أعشار مهجته نسيم معهد ذي وجد بخلته 
+فبات يطوي اليه مسلكاً وعراً أدنى حزونته أقصى سهولته 
+كأن عبرته حالت بلوعته إلى بخار يزجيه بزفرته 
+تكاد مهجته من فرط ما احترقت أن لا تميز من جلباب ليلته 
+قد غودرت بين صباب العيون وسباب العيون وصب في غوايته 
+فهي الغريق يلبي من سهلولها وهي السليق تلاشى في رمايته 
+انسان عيني جنى وهو المعذب لا العذب المصطلي حمى جريرته 
+فليتق الله في تغرير من برئت مما تزن به من هجر تهمته 
+ويل له فاعلاً أصلاً ينم على شريكه ويبرأ من جريمته 
+وهو المضل وينجو من نكايته كقاتل بمرامى بندقيته 
+غيا قضوا ان منه يستدل على إجرامها فيزكى في شهادته 
+إليك عني فقد ورطتها سفها في مذهب لست محكوماً بشرعته 
+ما بين منتصر للحق منقطع للصدق متبع أجدى محجته 
+وسيد القوم يمشي التقدمية في تأييده الحق مصحوباً بأمته 
+مولى العزائم عباس العظائم غراس المكارم محيي فخر ملته 
+دعها مهللة في الكون معلنة حب التفاني على تأييد سلطته 
+ظنت حوادث هذا الدهر ان لها عليه شأناً وخابت عند خبرته 
+أعضها سيفه في كل مقترح بدا وفي نبذه تعزيز سطوته 
+قد كان أطمعها أطراقه فجرت وما درت جهلها مكنون حكمته </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

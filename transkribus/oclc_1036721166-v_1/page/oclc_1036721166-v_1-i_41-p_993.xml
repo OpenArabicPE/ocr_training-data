@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.648+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.648+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_993.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أشكو اليكم أحزانيبل هجرانيمن أهيف صادني نبُله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أهيف بنظره في خدهخدني عبدهوجت سقامي تشهد له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأدمعي نزل تجريتنظر صدريرأت فؤَادي بيرقص له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قالت لو اتلفت عيونيقال سيبونيسيد الملاح يعرف شغله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ما دمت اني في رقهياخد حقهوأن مال لعتقي من أصله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أنا خديم ولاّ أكترالله أكبرالعشق ما ينكر فضله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العشق ترياق الأرواحوياّ الأشباحوَنضا الذي طاب لي نهله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ما يعرف العشق الأجلافياهْل الأنصافما للعذول يكثر عذله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عاقل رأى مجنون يشربحتى يطربفراح شعوره مع عقله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومال لعذلي يتفرَّجبل يدّرّجللعشق لما حان قتله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ظن الغرام قصعة فنهفوقها حتهمن لحم قد طاب لو أكله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لما رآه سلب الألبابخاف الأسبابوراح يعضعض في نعله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وصرت وحدي متهنيأفضل أغنيللحب ان شخشخ حجله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أرى النجوم والنار تكويقلبي المشويوالوجد كتفني بحبله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قد بعت روحي للفتانمن غير أثمانوبعت ملكي من أجله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كيف الخلاص والقلب كسيروالصب أسيروالجفن يجرحني بنصله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والشهد في ثغر المحبوبهوّا المطلوبلكن أخاف قرصة نحله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خالو يلوح كالشمسيةفي الظهريهوالخد نايم في ظله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عزمت وجدي يتعشّىجوا الأحشافجِه بخيله مع رجله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والصدر وسع لو النادييا أسياديوالكبد قامت تطبخ له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أشكو اليكم أحزانيبل هجرانيمن أهيف صادني نبُله 
+أهيف بنظره في خدهخدني عبدهوجت سقامي تشهد له 
+وأدمعي نزل تجريتنظر صدريرأت فؤَادي بيرقص له 
+قالت لو اتلفت عيونيقال سيبونيسيد الملاح يعرف شغله 
+ما دمت اني في رقهياخد حقهوأن مال لعتقي من أصله 
+أنا خديم ولاّ أكترالله أكبرالعشق ما ينكر فضله 
+العشق ترياق الأرواحوياّ الأشباحوَنضا الذي طاب لي نهله 
+ما يعرف العشق الأجلافياهْل الأنصافما للعذول يكثر عذله 
+عاقل رأى مجنون يشربحتى يطربفراح شعوره مع عقله 
+ومال لعذلي يتفرَّجبل يدّرّجللعشق لما حان قتله 
+ظن الغرام قصعة فنهفوقها حتهمن لحم قد طاب لو أكله 
+لما رآه سلب الألبابخاف الأسبابوراح يعضعض في نعله 
+وصرت وحدي متهنيأفضل أغنيللحب ان شخشخ حجله 
+أرى النجوم والنار تكويقلبي المشويوالوجد كتفني بحبله 
+قد بعت روحي للفتانمن غير أثمانوبعت ملكي من أجله 
+كيف الخلاص والقلب كسيروالصب أسيروالجفن يجرحني بنصله 
+والشهد في ثغر المحبوبهوّا المطلوبلكن أخاف قرصة نحله 
+خالو يلوح كالشمسيةفي الظهريهوالخد نايم في ظله 
+عزمت وجدي يتعشّىجوا الأحشافجِه بخيله مع رجله 
+والصدر وسع لو النادييا أسياديوالكبد قامت تطبخ له </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

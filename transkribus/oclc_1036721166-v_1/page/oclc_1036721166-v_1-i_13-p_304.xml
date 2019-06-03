@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:38.658+02:00</Created>
+        <LastChange>2019-06-03T15:22:38.658+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_13-p_304.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كنا نكر بفرسان حجاجمة مثل الاسود ونار الحرب ملتهبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>صرنا نجر صروحاً مثل أخبية فيها الرجال وذات الخدر محتجبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فكم جواد أصيل الجد مكتئب من شدة الحر يشكو للورى تعبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وكان يمرح زهواً تحت فارسه يوم الطعان ويبدي بالقنا طربه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أرى الحماسة ماتت بعد صهوتنا وخطة العز باتت وهي منقلبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فمقعد الناس في الأمصار مركبة خلف الحصان يحاذي وجههم ذنبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن هبت الريح من تلقاء باطنه في السير كانت من الاذقان مقتربة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أعنة الخيل كانت لا يذللها إلا الكماة واهل النجدة النخبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والآن صارت بايدي كل ممتهن وحرفة يرتضبها سائق العربة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا ليت قومي بما نلقاهُ قد عملوا ليحذروا من عري مات من سحبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هل من رسول إليهم أو الى بطل يذب عنا ويحي حلبة الجلبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فلما سمع البرذوق هذا الكلام. بكى على صاحبه همام. وقال يا سيدي لا تحزن. فالصبر احسن. وساروي حديثك العظيم. لاستاذنا النديم. وننظر ما يقول. فيا لدفاع عن الخيول. قال أبو المحاسن فعجبت لما حدثني البرذون. وطلبت للجواد العون. ووقفت وقوف من استعان بالله واستعاذ. وانتظرت معه ما يقول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن العربيات. انما تركب في الشوارع والحارات. وهي من محسنات العمران. ولوزام رياضة الأبدان. ولكنها لم تمنع خيار الناس. من اقتناء الأفراس. وتربية الجياد. للكر والجلاد. فاين هذا الجواد الآن. لينظر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+كنا نكر بفرسان حجاجمة مثل الاسود ونار الحرب ملتهبة 
+صرنا نجر صروحاً مثل أخبية فيها الرجال وذات الخدر محتجبة 
+فكم جواد أصيل الجد مكتئب من شدة الحر يشكو للورى تعبه 
+وكان يمرح زهواً تحت فارسه يوم الطعان ويبدي بالقنا طربه 
+أرى الحماسة ماتت بعد صهوتنا وخطة العز باتت وهي منقلبه 
+فمقعد الناس في الأمصار مركبة خلف الحصان يحاذي وجههم ذنبه 
+إن هبت الريح من تلقاء باطنه في السير كانت من الاذقان مقتربة 
+أعنة الخيل كانت لا يذللها إلا الكماة واهل النجدة النخبة 
+والآن صارت بايدي كل ممتهن وحرفة يرتضبها سائق العربة 
+يا ليت قومي بما نلقاهُ قد عملوا ليحذروا من عري مات من سحبه 
+هل من رسول إليهم أو الى بطل يذب عنا ويحي حلبة الجلبه 
+فلما سمع البرذوق هذا الكلام. بكى على صاحبه همام. وقال يا سيدي لا تحزن. فالصبر احسن. وساروي حديثك العظيم. لاستاذنا النديم. وننظر ما يقول. فيا لدفاع عن الخيول. قال أبو المحاسن فعجبت لما حدثني البرذون. وطلبت للجواد العون. ووقفت وقوف من استعان بالله واستعاذ. وانتظرت معه ما يقول 
+
+الأستاذ 
+الأستاذ 
+إن العربيات. انما تركب في الشوارع والحارات. وهي من محسنات العمران. ولوزام رياضة الأبدان. ولكنها لم تمنع خيار الناس. من اقتناء الأفراس. وتربية الجياد. للكر والجلاد. فاين هذا الجواد الآن. لينظر </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

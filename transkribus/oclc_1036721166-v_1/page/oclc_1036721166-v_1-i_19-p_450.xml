@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:53.055+02:00</Created>
+        <LastChange>2019-06-03T15:22:53.055+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_19-p_450.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سما الى التبة العلياء فانتعشت روح البلاد وزال الهم والبأس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لله يوم به نالت سعادتها مصر وحل بها بشر وإيناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يوم به عمت الأفراح وانتشرت بين الرعية أعياد وأعراس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يوم الجلوس الذي ضاء الزمان به كأنه في جبين الدهر نبراس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يوم به فرمان المجد قد رسخت بنص أحكامه للملك آساس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حيث الجلالة منشور سرادقها والدهر يقرأُ والعلياءُ قرطاس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حيث العزيز رقى أوج العلى ونمت لملكه في رياض السعد أغراس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حيث البشائر قد نادت مؤرخة دام السعود خديوي مصر عباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣٠٩ ٤٥ ١٧١ ٦٣٠ ٣٣٠ ١٣٣ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فرج الله كربه وعطف عليه قلب الأمير الأفخم أيده الله تعالى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تقريظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورد لنا هذا التقريظ من الفرع الزكي والشاب الألمعي إبراهيم بك العرب ولولا وجوب إجابته في نشره لحفظناه فيما حفظ قال أعزه الله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وافاك أستاذ الندي فدع الملامة يا مليم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واستهد بالأستاذ ان شئت الصراط المستقيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أيسوغ والأستاذ فينا اللهو مع خشف وريم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هشم الملاهي وعظه فكأنها ورق هشيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بذل النصائح جهده فكأنه مولى حميم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>غسل الملاهي زجره فكأنه الماء الحميم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>نثر كنثر الدر والمرجان من عقد نظيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+سما الى التبة العلياء فانتعشت روح البلاد وزال الهم والبأس 
+لله يوم به نالت سعادتها مصر وحل بها بشر وإيناس 
+يوم به عمت الأفراح وانتشرت بين الرعية أعياد وأعراس 
+يوم الجلوس الذي ضاء الزمان به كأنه في جبين الدهر نبراس 
+يوم به فرمان المجد قد رسخت بنص أحكامه للملك آساس 
+حيث الجلالة منشور سرادقها والدهر يقرأُ والعلياءُ قرطاس 
+حيث العزيز رقى أوج العلى ونمت لملكه في رياض السعد أغراس 
+حيث البشائر قد نادت مؤرخة دام السعود خديوي مصر عباس 
+سنة ١٣٠٩ ٤٥ ١٧١ ٦٣٠ ٣٣٠ ١٣٣ 
+فرج الله كربه وعطف عليه قلب الأمير الأفخم أيده الله تعالى. 
+
+تقريظ 
+ورد لنا هذا التقريظ من الفرع الزكي والشاب الألمعي إبراهيم بك العرب ولولا وجوب إجابته في نشره لحفظناه فيما حفظ قال أعزه الله: 
+وافاك أستاذ الندي فدع الملامة يا مليم 
+واستهد بالأستاذ ان شئت الصراط المستقيم 
+أيسوغ والأستاذ فينا اللهو مع خشف وريم 
+هشم الملاهي وعظه فكأنها ورق هشيم 
+بذل النصائح جهده فكأنه مولى حميم 
+غسل الملاهي زجره فكأنه الماء الحميم 
+نثر كنثر الدر والمرجان من عقد نظيم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

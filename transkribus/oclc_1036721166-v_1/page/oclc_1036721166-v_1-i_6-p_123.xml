@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:22.561+02:00</Created>
+        <LastChange>2019-06-03T15:22:22.561+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_123.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>شبابنا وبين مفسدات عقولهم وأموالهم لنحول بينهم وبين الجنون والإفلاس وهتك حرمة الأمة المصرية فإن امتلاء الطرق بهؤلاء السفهاء وشربهم الخمور وقعودهم مع المومسان بمرءى من المارة بلا حياء ولا خزي مما شين مجد الأمة بنسبتهم إليها. وفي الجعبة نبال من هذا العود نفوقها إن شاء الله تعالى لهذه الأغراض حتى إذا مرقت من الرّمية أثرت وصدنا بها المقصود وما هو إلا سير الأمة خلف السيادة الوطنية بالبعد عن الرذائل والتحلي بدواعي الكمال والانتباه من غفلة الضياع مالاً وذاتاً الى المحافظة على ما بقي من شرق الوطنية ومجد الآباء. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قصيدة الشيخ أحمد محمد القوصي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ورد الينا هذا الحمل من إنشاء الفاضل التحرير الشيخ أحمد محمد القوصي أحد طلبة دار العلوم العامرة بالمعارف والآداب وهو من الأدلة التي نقدمها على تهذيب الوفي من المصريين حتى صاروا أهلاً للبحث في الأحوال وسعى كل منتسب الى المعارف خلف الآداب والكمال ونصه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>مطلع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياسي نديم اسمع بردون أنا أقول لك ع الحاصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واللي بيحكي ان كان مجنون لا بد سامعو يكون عاقل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياسي نديم في غاية الشوق لرؤيتك يا نور العين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عشر سنين وأنت غايب ويوم بعادك كان بسنين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ما حد شافك من مده كنت غايب عنا فين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وذوق كلامك أوحشنا يا حضرة الشهم الفاضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شبابنا وبين مفسدات عقولهم وأموالهم لنحول بينهم وبين الجنون والإفلاس وهتك حرمة الأمة المصرية فإن امتلاء الطرق بهؤلاء السفهاء وشربهم الخمور وقعودهم مع المومسان بمرءى من المارة بلا حياء ولا خزي مما شين مجد الأمة بنسبتهم إليها. وفي الجعبة نبال من هذا العود نفوقها إن شاء الله تعالى لهذه الأغراض حتى إذا مرقت من الرّمية أثرت وصدنا بها المقصود وما هو إلا سير الأمة خلف السيادة الوطنية بالبعد عن الرذائل والتحلي بدواعي الكمال والانتباه من غفلة الضياع مالاً وذاتاً الى المحافظة على ما بقي من شرق الوطنية ومجد الآباء. 
+
+قصيدة الشيخ أحمد محمد القوصي 
+ورد الينا هذا الحمل من إنشاء الفاضل التحرير الشيخ أحمد محمد القوصي أحد طلبة دار العلوم العامرة بالمعارف والآداب وهو من الأدلة التي نقدمها على تهذيب الوفي من المصريين حتى صاروا أهلاً للبحث في الأحوال وسعى كل منتسب الى المعارف خلف الآداب والكمال ونصه. 
+مطلع 
+ياسي نديم اسمع بردون أنا أقول لك ع الحاصل 
+واللي بيحكي ان كان مجنون لا بد سامعو يكون عاقل 
+ياسي نديم في غاية الشوق لرؤيتك يا نور العين 
+عشر سنين وأنت غايب ويوم بعادك كان بسنين 
+ما حد شافك من مده كنت غايب عنا فين 
+وذوق كلامك أوحشنا يا حضرة الشهم الفاضل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

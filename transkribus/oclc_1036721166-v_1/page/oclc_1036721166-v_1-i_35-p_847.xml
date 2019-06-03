@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:25.758+02:00</Created>
+        <LastChange>2019-06-03T15:23:25.758+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_35-p_847.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>قد قلدوا كل جيد من صنائعهم=لذا الملوك حبتهم خير تقليد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>هم الأهلة إلا انّ بدرهمو=أبو عليّ حليف المجد والجود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>من للنزيل وللراجي وذي أمل=سواه ان عزّ قصد دون مقصود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>قد كان للبرّ بحراً جود راحته=فالحمد والمال في جمع وتبديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>رحب المجالس هشاش لزائره=والصدر أرحب في غيب ومشهود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كنا نؤمل ان يبقى ويسعدنا=عيد الصيام به في يوم تعييد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لكن أبى الله إلا ان يجيب وقد=دعاه للفطر في جنات تخليد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فارتاح أُنساً وأهدى الروح من فرح=وقد حوى فرحتي فطر وتمجيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وراح بالرَّوح في الجنات مبتهجا=ونحن من فقده في نار أخدود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>دنياك ليست بسلم جافها أبداً=ولا يغرنك منها ميسم الغيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>بينا تراها خداعاً أقبلت وصفت=إذ أدبرت وصغت غدراً بتنكيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ذا شأنها والأريب الندب في حذر=منها فكن لصفاها غير معمود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كم ذا نعد نفوساً للبقاء سمت=مرغومة بقضاء غير مردود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فليت انا على ما كان من أسف=قد اتعظنا وسرنا سير محمود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>نلهوا ونلعب في أمن وفي دعة=ونجهد النفس في تحصيل مزهود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وغاية الأمر انا إثر من سبقوا=يُسعى بنا لمقام غير محدود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>عزّ الإخلاء والأنجال محتسباً=وزر ضريحاً عليه نور تحميد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وقل له أن تغب يا بدر عن نظري=فلي التفات الى أنجالك الصيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أهداه مولاه في دار النعيم علا=وزاد انجاله من خير تأييد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فهم ثمار معاليه التي بسقت=والأصل ينبي عن طيب العود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>قد قلدوا كل جيد من صنائعهم=لذا الملوك حبتهم خير تقليد 
+هم الأهلة إلا انّ بدرهمو=أبو عليّ حليف المجد والجود 
+من للنزيل وللراجي وذي أمل=سواه ان عزّ قصد دون مقصود 
+قد كان للبرّ بحراً جود راحته=فالحمد والمال في جمع وتبديد 
+رحب المجالس هشاش لزائره=والصدر أرحب في غيب ومشهود 
+كنا نؤمل ان يبقى ويسعدنا=عيد الصيام به في يوم تعييد 
+لكن أبى الله إلا ان يجيب وقد=دعاه للفطر في جنات تخليد 
+فارتاح أُنساً وأهدى الروح من فرح=وقد حوى فرحتي فطر وتمجيد 
+وراح بالرَّوح في الجنات مبتهجا=ونحن من فقده في نار أخدود 
+دنياك ليست بسلم جافها أبداً=ولا يغرنك منها ميسم الغيد 
+بينا تراها خداعاً أقبلت وصفت=إذ أدبرت وصغت غدراً بتنكيد 
+ذا شأنها والأريب الندب في حذر=منها فكن لصفاها غير معمود 
+كم ذا نعد نفوساً للبقاء سمت=مرغومة بقضاء غير مردود 
+فليت انا على ما كان من أسف=قد اتعظنا وسرنا سير محمود 
+نلهوا ونلعب في أمن وفي دعة=ونجهد النفس في تحصيل مزهود 
+وغاية الأمر انا إثر من سبقوا=يُسعى بنا لمقام غير محدود 
+عزّ الإخلاء والأنجال محتسباً=وزر ضريحاً عليه نور تحميد 
+وقل له أن تغب يا بدر عن نظري=فلي التفات الى أنجالك الصيد 
+أهداه مولاه في دار النعيم علا=وزاد انجاله من خير تأييد 
+فهم ثمار معاليه التي بسقت=والأصل ينبي عن طيب العود </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

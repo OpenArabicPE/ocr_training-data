@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.812+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.812+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_40-p_984.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>على كتافه وقطايف والسمن ووفقها بزياده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوعى تقطع وتخالف وتسير على غير العاده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ولا تسئني بلطايف مقطفه عَ اللباده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أحسن انا قلبي عايف باش حداده وبداده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وحيات أبويا انا شايف كلام ولكن مش قايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الحق له ناس بالعنيه ولو طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>هدية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أهدانا الفاضل وهبي بك ناظر مدرسة حارة السقايين كتاباً من تأليفه سماه مرآة الظرف في فن الصرف وهو كتاب أشتمل على مائة صحيفة ملئت فوائد نحوية وصرفية ولغوية يهم كل متعلم معرفته وقد اعتنى حضرة مؤلفه به كما اعتنة بجميع مؤلفاته الكثيرة الفوائد وفقه الله لمثل هذه الخدمة العامة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكذلك أهدانا صديقنا الألمعي بشاره بك تقلا كتاباً يشتمل على ١٨٢ صحيفة شحنت بالمراثي التي قدمها الفضلاء من أرباب الأقلام وأهل الأدب نظماً ونثراً يرثون بها شقيقه المأسوف عليه سليم بك تقلا مؤسس جريدة الأهرام فبالنيابة عن صديقنا نشكر هؤلاء الأفاضل الذين دونوا تاريخ الفقيد بتعداد محاسنه وآثاره ونثني عليهم ثناءً جميلاً. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+على كتافه وقطايف والسمن ووفقها بزياده 
+أوعى تقطع وتخالف وتسير على غير العاده 
+ولا تسئني بلطايف مقطفه عَ اللباده 
+أحسن انا قلبي عايف باش حداده وبداده 
+وحيات أبويا انا شايف كلام ولكن مش قايل 
+الحق له ناس بالعنيه ولو طريق لله واصل 
+
+هدية 
+أهدانا الفاضل وهبي بك ناظر مدرسة حارة السقايين كتاباً من تأليفه سماه مرآة الظرف في فن الصرف وهو كتاب أشتمل على مائة صحيفة ملئت فوائد نحوية وصرفية ولغوية يهم كل متعلم معرفته وقد اعتنى حضرة مؤلفه به كما اعتنة بجميع مؤلفاته الكثيرة الفوائد وفقه الله لمثل هذه الخدمة العامة. 
+وكذلك أهدانا صديقنا الألمعي بشاره بك تقلا كتاباً يشتمل على ١٨٢ صحيفة شحنت بالمراثي التي قدمها الفضلاء من أرباب الأقلام وأهل الأدب نظماً ونثراً يرثون بها شقيقه المأسوف عليه سليم بك تقلا مؤسس جريدة الأهرام فبالنيابة عن صديقنا نشكر هؤلاء الأفاضل الذين دونوا تاريخ الفقيد بتعداد محاسنه وآثاره ونثني عليهم ثناءً جميلاً. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

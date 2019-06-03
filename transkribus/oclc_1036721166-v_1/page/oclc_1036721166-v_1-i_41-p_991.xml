@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.440+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.440+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_991.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إن كيسي ان كيسي مجمع الدنيا ولآخر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كل ما في الكيس بفارق يادَوُد فاسمع وفكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والفخار والمجد كلوُّ في العلوم فاطلب وبكّر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن تكن شيخ حق عالمٍ فامش بين الناس وذكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تحي كل الناس بعملك بل ترى المجموع شاكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبعد مبادلة الكلام في هذا الوزن نحو نصف ساعة قال هات عزلاً على قد: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>مدود حمارك مطرحو في الغيط في جنب بستان الأمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كان يجي لك لدارك أربطو في الحيط أحسن يبرطع في الحمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كان مكسر فأنو يمنعك مِن الميط وقت السفر في الهجير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوعا حمارك يا فتى أوعاه أحسن ما تمشي عَ القدم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>من يوم عرفتك والفؤَاد ولهان في حسنك الزاهي النصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والخد من دمع العيون ريان تجري عليه كالغدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أبيت ليلي بالأرق سهران بين الكراسي والسرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكل وِردي في الدجى آه آه من يستطع من يصبرِ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قلبي المعذب في لهيب الخدود والوجد في الأحشا جحيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بالله من أوراك باب الصدود لقتل مضناك العديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+إن كيسي ان كيسي مجمع الدنيا ولآخر 
+فقلت 
+كل ما في الكيس بفارق يادَوُد فاسمع وفكر 
+والفخار والمجد كلوُّ في العلوم فاطلب وبكّر 
+وإن تكن شيخ حق عالمٍ فامش بين الناس وذكر 
+تحي كل الناس بعملك بل ترى المجموع شاكر 
+وبعد مبادلة الكلام في هذا الوزن نحو نصف ساعة قال هات عزلاً على قد: 
+مدود حمارك مطرحو في الغيط في جنب بستان الأمير 
+وإن كان يجي لك لدارك أربطو في الحيط أحسن يبرطع في الحمير 
+وإن كان مكسر فأنو يمنعك مِن الميط وقت السفر في الهجير 
+أوعا حمارك يا فتى أوعاه أحسن ما تمشي عَ القدم 
+فقلت 
+من يوم عرفتك والفؤَاد ولهان في حسنك الزاهي النصير 
+والخد من دمع العيون ريان تجري عليه كالغدير 
+أبيت ليلي بالأرق سهران بين الكراسي والسرير 
+وكل وِردي في الدجى آه آه من يستطع من يصبرِ 
+دور 
+قلبي المعذب في لهيب الخدود والوجد في الأحشا جحيم 
+بالله من أوراك باب الصدود لقتل مضناك العديم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

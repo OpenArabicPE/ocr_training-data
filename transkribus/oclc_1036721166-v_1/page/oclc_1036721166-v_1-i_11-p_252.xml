@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.100+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.100+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_252.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بونوسوار صارت بالكوم أما السلام أجره على الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وعمتك جدنايت البوم سمي وحفض باسم الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الوقت ده وقت البردون وادي البرول لحقه ف كعبه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وخدني باللك كلمة جون وابن الحرام حسبه ربه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>صعبان علي جيل اليوم خسر وأحواله تحسر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولعدش ينفع كتر اللوم لكن نقول كله مقدر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تلقى الولد تم السبعة وعَ الفرير قبل الكتاب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وبعد ما يتم التسعة مقدرشي أقولك قلبه داب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة فسنه يكبر دي الواد مع الشهادة السنويه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ومرة عن مره يزداد ويمتحن في البكلوريه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويروح بها مطرح ما يريد ودحنا عارفين أخرتها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويدور ويفهم انه السيد ما يفتكر شي عاقبتها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تبص في السكه تشوفه مسبسب القصه وعاوج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>زي القمر وقت كسوفه اكمن جيبه صبح رايج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن كان مرادك تنده له لابد ما تقوله منشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وتشد حيلك وتقف له وتعظمه وتديه سفنير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويسير مع إخوانه المود وادي الغرور تالف عقله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويقول لنفسه انا فرجود ومين هناك حد يسأله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ستشفشي منه غير أوهام إلا الشيطان فيه متعشم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويعش كده كل الأيام ويظن انه متعلم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+بونوسوار صارت بالكوم أما السلام أجره على الله 
+وعمتك جدنايت البوم سمي وحفض باسم الله 
+الوقت ده وقت البردون وادي البرول لحقه ف كعبه 
+وخدني باللك كلمة جون وابن الحرام حسبه ربه 
+صعبان علي جيل اليوم خسر وأحواله تحسر 
+ولعدش ينفع كتر اللوم لكن نقول كله مقدر 
+تلقى الولد تم السبعة وعَ الفرير قبل الكتاب 
+وبعد ما يتم التسعة مقدرشي أقولك قلبه داب 
+سنة فسنه يكبر دي الواد مع الشهادة السنويه 
+ومرة عن مره يزداد ويمتحن في البكلوريه 
+ويروح بها مطرح ما يريد ودحنا عارفين أخرتها 
+ويدور ويفهم انه السيد ما يفتكر شي عاقبتها 
+تبص في السكه تشوفه مسبسب القصه وعاوج 
+زي القمر وقت كسوفه اكمن جيبه صبح رايج 
+إن كان مرادك تنده له لابد ما تقوله منشير 
+وتشد حيلك وتقف له وتعظمه وتديه سفنير 
+ويسير مع إخوانه المود وادي الغرور تالف عقله 
+ويقول لنفسه انا فرجود ومين هناك حد يسأله 
+ستشفشي منه غير أوهام إلا الشيطان فيه متعشم 
+ويعش كده كل الأيام ويظن انه متعلم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:17.341+02:00</Created>
+        <LastChange>2019-06-03T15:23:17.341+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_31-p_733.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>شهرياًعدد التلامذة الخدمةالمعلمون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٢٠٠٥٦ ١٥٤٥ ٣٣٧ ٨٣ ما قبله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٣٨٨٨ ١٤٥ ١٤٤ ١٥ مدرسة الطوبجية بطره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٥٧٠٩٣ ٦١٥ ٣٨١ ١٣ مدرسة السواري بالجيزة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٣٠٧٥٩ ٦٠٦ ٢٨٥ ١٤ مدرسة التجهيزية بأبي زعبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٧٣٢٢ ٢٩ ٠ ٤ مدرسة العمليات ببولاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢١٤٦٠ ٢١١ ٤١ ١٤ مدرسة المهند سخانة ببولاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٦٠٥٧٨ ٣١٥١ ١١٨٨ ١٤٣ مجموع المدارس ومصروفها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٥١٧ ١٠٠ ١٤ ٣ مكتب شبين الكوم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٠٩ ٨١ ١٤ ٣ مكتب الزقازيق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤١١ ٨٨ ٩ ٣ مكتب كفور نجم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٥١١ ٨١ ١٥ ٣ مكتب العزيزية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٣٢ ٩٩ ١٤ ٣ مكتب أبو تيج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٣٤٩ ٨٧ ١٣ ٣ مكتب جرحا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢١٢١ ١٥٧ ١٧ ٥ مكتب سوهاج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٧٠٢ ٩٨ ١٥ ٣ مكتب طنطا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٧٨٩ ١٩١ ٢٤ ٦ مكتب ميت غمر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٥١ ٩٨ ١٤ ٣ مكتب أبيار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٣٥٢٦ ٢٨٤ ٢١ ٦ مكتب بوش </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٠٢١٨ ١٣٦٤ ١٧٠ ٤١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>شهرياًعدد التلامذة الخدمةالمعلمون 
+١٢٠٠٥٦ ١٥٤٥ ٣٣٧ ٨٣ ما قبله 
+٢٣٨٨٨ ١٤٥ ١٤٤ ١٥ مدرسة الطوبجية بطره 
+٥٧٠٩٣ ٦١٥ ٣٨١ ١٣ مدرسة السواري بالجيزة 
+٣٠٧٥٩ ٦٠٦ ٢٨٥ ١٤ مدرسة التجهيزية بأبي زعبل 
+٧٣٢٢ ٢٩ ٠ ٤ مدرسة العمليات ببولاق 
+٢١٤٦٠ ٢١١ ٤١ ١٤ مدرسة المهند سخانة ببولاق 
+٢٦٠٥٧٨ ٣١٥١ ١١٨٨ ١٤٣ مجموع المدارس ومصروفها 
+١٥١٧ ١٠٠ ١٤ ٣ مكتب شبين الكوم 
+١٤٠٩ ٨١ ١٤ ٣ مكتب الزقازيق 
+١٤١١ ٨٨ ٩ ٣ مكتب كفور نجم 
+١٥١١ ٨١ ١٥ ٣ مكتب العزيزية 
+١٤٣٢ ٩٩ ١٤ ٣ مكتب أبو تيج 
+١٣٤٩ ٨٧ ١٣ ٣ مكتب جرحا 
+٢١٢١ ١٥٧ ١٧ ٥ مكتب سوهاج 
+١٧٠٢ ٩٨ ١٥ ٣ مكتب طنطا 
+٢٧٨٩ ١٩١ ٢٤ ٦ مكتب ميت غمر 
+١٤٥١ ٩٨ ١٤ ٣ مكتب أبيار 
+٣٥٢٦ ٢٨٤ ٢١ ٦ مكتب بوش 
+١٠٢١٨ ١٣٦٤ ١٧٠ ٤١ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

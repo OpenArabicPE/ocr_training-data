@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:40.968+02:00</Created>
+        <LastChange>2019-06-03T15:23:40.968+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1015.jpg" imageWidth="580" imageHeight="925">
+        <TextRegion id="region_1">
+            <Coords points="0,0 580,0 580,925 0,925"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>مدة الولاية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>أيام شهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>العباسيون بمصر سقط ستة أشهر مدة الهرج </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٧٦٥٩ ٦٦٠ أولهم أحمد المستنصر بالله ابن الظاهر ابن الناصر بايعه الظاهر بيبرس في ١٣ رجب سنة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٤ ٤٠ ٦٦٠ ٧٠١٨ جمادى الأولىالحاكم بأمر الله أحمد بن الحسن بن أبي بكر بن الحسن أبي علي بن جعفر الراشد بالله الخ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١ ٣٩ ٧٠١ ٧٤٠ شعبانالمستكفي بالله سليمان ابن الحاكم المتقدم نفي الى قبرص وبها مات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٥ ١ ٧٤٠ ٧٤٢ الواثق بالله إبراهيم بن محمد بن الحاكم بأمر الله خلع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٧ ١١ ٧٤٢ ٧٥٣ رجب الحاكم بأمر الله أحمد بن المستكفي بن الحاكم الأول تولى وخلع ثم عاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١ ١٠ ٧٥٣ ٧٦٣ المعتضد بالله أبو بكر بن المستكفي بالله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٧٦٣ ٧٨٥ خلعالمتوكل على الله محمد بن المعتضد بن المستكفي وسنذكر مدته بعد عودته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدة الولاية 
+أيام شهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء 
+العباسيون بمصر سقط ستة أشهر مدة الهرج 
+٧٦٥٩ ٦٦٠ أولهم أحمد المستنصر بالله ابن الظاهر ابن الناصر بايعه الظاهر بيبرس في ١٣ رجب سنة 
+٤ ٤٠ ٦٦٠ ٧٠١٨ جمادى الأولىالحاكم بأمر الله أحمد بن الحسن بن أبي بكر بن الحسن أبي علي بن جعفر الراشد بالله الخ 
+١ ٣٩ ٧٠١ ٧٤٠ شعبانالمستكفي بالله سليمان ابن الحاكم المتقدم نفي الى قبرص وبها مات 
+٥ ١ ٧٤٠ ٧٤٢ الواثق بالله إبراهيم بن محمد بن الحاكم بأمر الله خلع 
+٧ ١١ ٧٤٢ ٧٥٣ رجب الحاكم بأمر الله أحمد بن المستكفي بن الحاكم الأول تولى وخلع ثم عاد 
+١ ١٠ ٧٥٣ ٧٦٣ المعتضد بالله أبو بكر بن المستكفي بالله 
+٧٦٣ ٧٨٥ خلعالمتوكل على الله محمد بن المعتضد بن المستكفي وسنذكر مدته بعد عودته </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

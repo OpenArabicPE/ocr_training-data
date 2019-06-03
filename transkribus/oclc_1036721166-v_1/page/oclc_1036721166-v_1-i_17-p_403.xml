@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:49.641+02:00</Created>
+        <LastChange>2019-06-03T15:22:49.641+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_17-p_403.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هو انت عندك فوريقه تكتب وتطبع وتظرف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اقدرش أقول لك هات حقي كتر الكلام ما هوش نافع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والله فلوس ماني حاطط وإن جا الوكيل ماني دافع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كل الحبايب تهديها اشمعنا انا حقي ضايع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اكمني ما اعرفش اتخلق ولا الفقير ريحته تقرف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ادين حكيت لك بالعنية بكلام مسوكر موش عادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خليه يبرطع في الدنيا واهو اللي قلته بزيادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإن كلامي دا بسكَّر عند الفهيم يبقى سادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ادي اللي عندي يا سيدي وغير كده ما نيش باعرف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الأستاذ ـ لم تكن الشكوى من بعض مكاتب البوسطة قاصرة على مكتب الرقة والزقاقين بل كثيراً ما ترد لما المكاتيب بفقد النسخ في كثير من المكاتب ونرسل للمشتركين غيرها حتى مللنا ذلك فنحن نعلن حضرات المشتركين ان يطالبوا مكاتب جهاتهم بنسخهم فإن الإدارة لا تترك مشتركاً بلا إرسال مسخته ومن الآن كلما وردت لنا شكوى اعلناها أولاً فأولاً عسى ان يؤثر ذلك فيتوب السارق ويرجع الباغي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لحضرة الفاضل الشيخ محمد خفاجي الاسكندري نجل استاذنا الكامل العلامة الشيخ سيف الله شيخ السادة المالكية باسكندرية يؤرخ الاستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لما رأَى أهل البلاد وحالهم أستاذنا لم يقلهم ولهم جنح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ابدى نصائحه وشأن الحرحب بلاده وإذا رأَى خير منح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+هو انت عندك فوريقه تكتب وتطبع وتظرف 
+اقدرش أقول لك هات حقي كتر الكلام ما هوش نافع 
+والله فلوس ماني حاطط وإن جا الوكيل ماني دافع 
+كل الحبايب تهديها اشمعنا انا حقي ضايع 
+اكمني ما اعرفش اتخلق ولا الفقير ريحته تقرف 
+ادين حكيت لك بالعنية بكلام مسوكر موش عادة 
+خليه يبرطع في الدنيا واهو اللي قلته بزيادة 
+وإن كلامي دا بسكَّر عند الفهيم يبقى سادة 
+ادي اللي عندي يا سيدي وغير كده ما نيش باعرف 
+الأستاذ ـ لم تكن الشكوى من بعض مكاتب البوسطة قاصرة على مكتب الرقة والزقاقين بل كثيراً ما ترد لما المكاتيب بفقد النسخ في كثير من المكاتب ونرسل للمشتركين غيرها حتى مللنا ذلك فنحن نعلن حضرات المشتركين ان يطالبوا مكاتب جهاتهم بنسخهم فإن الإدارة لا تترك مشتركاً بلا إرسال مسخته ومن الآن كلما وردت لنا شكوى اعلناها أولاً فأولاً عسى ان يؤثر ذلك فيتوب السارق ويرجع الباغي 
+لحضرة الفاضل الشيخ محمد خفاجي الاسكندري نجل استاذنا الكامل العلامة الشيخ سيف الله شيخ السادة المالكية باسكندرية يؤرخ الاستاذ 
+لما رأَى أهل البلاد وحالهم أستاذنا لم يقلهم ولهم جنح 
+ابدى نصائحه وشأن الحرحب بلاده وإذا رأَى خير منح </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:25.504+02:00</Created>
+        <LastChange>2019-06-03T15:23:25.504+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_35-p_844.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>سعدت بك الدنيا ودام سرورها=وتبسمت مصر وأنت أميرها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ومنها قصيدة لحضرة التحرير النبيه محمود أفندي حسني معاون محافظة مصر مطلعها وفيه التاريخ وهو: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أوقات عباس أعياد لنا بسمت=وشمس إسعادها قد أشرقت وسمت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ومنها قصيدة للشاعر الماهر الشيخ أحمد الكناني وقد حظيت بالقبول مطلعها وتاريخها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>بنيل الأماني وعده الدهر انجزا=وألبسنا ثوب التهاني مطرزا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ودم في صفا فاليمن قال مؤرخاً=يعيش الخديوي كل عيد معززا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ومنها قصيدة للفاضل محمد أفندي فتحي ناظر مدرسة بنها مطلعها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أدم لمصرك رغما عن أعاديكا=مراسم العز فالدنيا مواليكا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ولدينا قصائد شتى منعتنا كثرة المواد من استيفائها ولولا استيفاء الجريدة بالمواد لأوردناها ولكننا نثني على هؤلاء الأفاضل الذين اخلصوا في خدمة أميرنا المويد المحبوب ونتقدم معهم بالتهنئة والتبريك ففي هذا المقام تحسن المزاحمة والمسابقة أدامه الله تعالى وأيده بنصره آمين. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>تواردت الرسائل بطلب العودة الى كان ويكون وسنعود لتذييل الجريدة به من العدد الآتي إن شاء الله تعالى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>المكرر أحلى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أدام الله سيدنا ومولانا الخديوي الأكرم نصيراً للأدب وأهليه فقد بعث في أذكياء المصريين روح النشاط والجد في توسيع دائرة الآداب بما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سعدت بك الدنيا ودام سرورها=وتبسمت مصر وأنت أميرها 
+ومنها قصيدة لحضرة التحرير النبيه محمود أفندي حسني معاون محافظة مصر مطلعها وفيه التاريخ وهو: 
+أوقات عباس أعياد لنا بسمت=وشمس إسعادها قد أشرقت وسمت 
+ومنها قصيدة للشاعر الماهر الشيخ أحمد الكناني وقد حظيت بالقبول مطلعها وتاريخها. 
+بنيل الأماني وعده الدهر انجزا=وألبسنا ثوب التهاني مطرزا 
+ودم في صفا فاليمن قال مؤرخاً=يعيش الخديوي كل عيد معززا 
+ومنها قصيدة للفاضل محمد أفندي فتحي ناظر مدرسة بنها مطلعها 
+أدم لمصرك رغما عن أعاديكا=مراسم العز فالدنيا مواليكا 
+ولدينا قصائد شتى منعتنا كثرة المواد من استيفائها ولولا استيفاء الجريدة بالمواد لأوردناها ولكننا نثني على هؤلاء الأفاضل الذين اخلصوا في خدمة أميرنا المويد المحبوب ونتقدم معهم بالتهنئة والتبريك ففي هذا المقام تحسن المزاحمة والمسابقة أدامه الله تعالى وأيده بنصره آمين. 
+تواردت الرسائل بطلب العودة الى كان ويكون وسنعود لتذييل الجريدة به من العدد الآتي إن شاء الله تعالى. 
+
+المكرر أحلى 
+أدام الله سيدنا ومولانا الخديوي الأكرم نصيراً للأدب وأهليه فقد بعث في أذكياء المصريين روح النشاط والجد في توسيع دائرة الآداب بما </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

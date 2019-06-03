@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:18.102+02:00</Created>
+        <LastChange>2019-06-03T15:23:18.102+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_31-p_741.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أعدادها ومصروفها على ما في هذا الجدول باعتبار شهر من سنة ١٢٦٥ شهرياً عدد التلامذة والمعلمون والخدمة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٧٠٧٠ ٢٠٩ مدرسة المبتديات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٣١٧٥٠ ١٢٦ منهم ٣٠ بنتاً مدرسة الطب والولادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٥٠٢٣ ٢٤٥ مدرسة السواري بالجيزه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٣٦٣٥ ٧٢ الرسالة المصرية بباريس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٣٠٩٧ ١٨٦ مكتب الطوبجية في طره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٤٧٥٤٩ ٣٢٠ مدرسة الألسن والمحاسبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٥٧١٣ ١٣٢ مدرسة المهند سخانة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٠٩٨٥٩ ١٦٩٦ مدرسة المفروزة والأبنية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١.٤٦٤٤٩٧E٦ ٣٢٢ خدمة ومرتب ديوان المدارس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٤٣٠١٩٣ ٣٣٠٨ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وهذا كان في ابتداء حكومته ثم زاد المدارس وأعدادها بعد ذلك. وفي عشرين شوال سنة ١٢٧٠ قام بالأمر بعده المرحوم محمد سعيد باشا فألغى ديوان المدارس ومنع إرسال تلامذة لأوروبا وأقفل جميع المدارس ولا ندري أي شيء حمله على ذلك وهو ابن المعارف والآداب وقد ذاق لذة العلوم ولا يقال أنه كان يخاف من كثرة المتعلمين فإنه الشجاع الجريء وأول مطلق لحرية الأشخاص بتنازله لمخاطبتهم ومؤاكلتهم ولكنه انصرف عن المعارف ووجه همته الى التعليمات العسكرية واعتنى بها وباشر التعليم بنفسه وجدد فيه طرقاً من قوانين أوروبا فازدادت العسكرية حسناً وانتظاماً على ما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أعدادها ومصروفها على ما في هذا الجدول باعتبار شهر من سنة ١٢٦٥ شهرياً عدد التلامذة والمعلمون والخدمة 
+٧٠٧٠ ٢٠٩ مدرسة المبتديات 
+٣١٧٥٠ ١٢٦ منهم ٣٠ بنتاً مدرسة الطب والولادة 
+٢٥٠٢٣ ٢٤٥ مدرسة السواري بالجيزه 
+٢٣٦٣٥ ٧٢ الرسالة المصرية بباريس 
+١٣٠٩٧ ١٨٦ مكتب الطوبجية في طره 
+٤٧٥٤٩ ٣٢٠ مدرسة الألسن والمحاسبة 
+٢٥٧١٣ ١٣٢ مدرسة المهند سخانة 
+١٠٩٨٥٩ ١٦٩٦ مدرسة المفروزة والأبنية 
+١.٤٦٤٤٩٧E٦ ٣٢٢ خدمة ومرتب ديوان المدارس 
+٤٣٠١٩٣ ٣٣٠٨ 
+وهذا كان في ابتداء حكومته ثم زاد المدارس وأعدادها بعد ذلك. وفي عشرين شوال سنة ١٢٧٠ قام بالأمر بعده المرحوم محمد سعيد باشا فألغى ديوان المدارس ومنع إرسال تلامذة لأوروبا وأقفل جميع المدارس ولا ندري أي شيء حمله على ذلك وهو ابن المعارف والآداب وقد ذاق لذة العلوم ولا يقال أنه كان يخاف من كثرة المتعلمين فإنه الشجاع الجريء وأول مطلق لحرية الأشخاص بتنازله لمخاطبتهم ومؤاكلتهم ولكنه انصرف عن المعارف ووجه همته الى التعليمات العسكرية واعتنى بها وباشر التعليم بنفسه وجدد فيه طرقاً من قوانين أوروبا فازدادت العسكرية حسناً وانتظاماً على ما </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

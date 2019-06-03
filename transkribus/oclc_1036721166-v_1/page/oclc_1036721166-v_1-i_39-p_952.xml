@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:35.634+02:00</Created>
+        <LastChange>2019-06-03T15:23:35.634+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_39-p_952.jpg" imageWidth="755" imageHeight="1087">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1087 0,1087"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>الكرباج والعفريت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>علمنا ان ستصدر جريدتان تسمى أحداهما الكرباج والثانية العفريت تناديان بالجامعة الشرقية وتطالبان بالحقوق الإنسانية أوروبية كانت أو شرقية وتدافعان عن المصريين والحضرة الخديوية كل الدفاع ويصدر الكرباج يوم الخميس والعفريت يوم الأحد منكل أسبوع وقيمة الاشتراك في كل جريدة عشرون قرشاً بمصر وخمسة وعشرون بغيرها وعلى ما فهمناه من صاحبيهما انهما يحرران بقلم مصري لا قصد له إلا الدفاع عن المصريين خصوصاً والشرقيين عموماً وبهذا نرى ان سيقبل عليهما المصريون إقبالاً عظيماً لانتصارهما لهم انتصار من لا تأخذه في الحق لومة لائم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>تهنئة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>نهنئُ حضرة المنشيء البليغ هيكالس بك محرر جريدة الفار الغراء بما ناله من النيشان المجيدي المهدي اليه من دولتنا العلية لصدق خدمته لها فإنه ممن لهم في خدمة الشرق يد بيضاء. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>علمنا ان الحضرة الخديوية الفخيمة كلفت العالم الميكانيكي الشهير محمد أفندي حسبو الإسكندري بتركيب قزانات وأبور المحروسة لما له من وثيق المعرفة بهذا الفن ومثل هذه العنابة لا تستغرب من خديوي غاية آماله تقدم رعيته وسنعود لهذا الموضوع في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>العدد الآتي ان شاء الله تعالى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>كتاب طب الركه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1087 0,1087"/>
+                <TextEquiv>
+                    <Unicode>موجود منه جملة في مطبعة المحروسة تباع للراغب في هذا الكتاب المفيد وثمن النسخة خمسة قروش ميرية فنحث طلاّب الحقائق على اقتنائه فإنه من الكتب العزيزة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+الكرباج والعفريت 
+علمنا ان ستصدر جريدتان تسمى أحداهما الكرباج والثانية العفريت تناديان بالجامعة الشرقية وتطالبان بالحقوق الإنسانية أوروبية كانت أو شرقية وتدافعان عن المصريين والحضرة الخديوية كل الدفاع ويصدر الكرباج يوم الخميس والعفريت يوم الأحد منكل أسبوع وقيمة الاشتراك في كل جريدة عشرون قرشاً بمصر وخمسة وعشرون بغيرها وعلى ما فهمناه من صاحبيهما انهما يحرران بقلم مصري لا قصد له إلا الدفاع عن المصريين خصوصاً والشرقيين عموماً وبهذا نرى ان سيقبل عليهما المصريون إقبالاً عظيماً لانتصارهما لهم انتصار من لا تأخذه في الحق لومة لائم. 
+
+تهنئة 
+نهنئُ حضرة المنشيء البليغ هيكالس بك محرر جريدة الفار الغراء بما ناله من النيشان المجيدي المهدي اليه من دولتنا العلية لصدق خدمته لها فإنه ممن لهم في خدمة الشرق يد بيضاء. 
+علمنا ان الحضرة الخديوية الفخيمة كلفت العالم الميكانيكي الشهير محمد أفندي حسبو الإسكندري بتركيب قزانات وأبور المحروسة لما له من وثيق المعرفة بهذا الفن ومثل هذه العنابة لا تستغرب من خديوي غاية آماله تقدم رعيته وسنعود لهذا الموضوع في 
+
+العدد الآتي ان شاء الله تعالى. 
+
+كتاب طب الركه 
+موجود منه جملة في مطبعة المحروسة تباع للراغب في هذا الكتاب المفيد وثمن النسخة خمسة قروش ميرية فنحث طلاّب الحقائق على اقتنائه فإنه من الكتب العزيزة. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

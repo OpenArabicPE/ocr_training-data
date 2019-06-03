@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:45.524+02:00</Created>
+        <LastChange>2019-06-03T15:22:45.524+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_16-p_361.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>العدد ١٦ - بتاريخ: ١٨٩٢ - ١٢ - ٦ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إِنَّمَا يَقْبَلُ النَّصِيحَةَ مَنْ وُفِّق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أيها الشرقي ـ نمت حتى إذا سمعت الصيحة تنبهتَ ولكني اراك مذعوراً مدهوشاً وقد اختلفت كلمة الدعاة فاذنك ملأَ بعبارات متناقضة أفكار متضاربة وأنت متردد بين المنافقين وطبيعتك المائلة بك الى مماثلة الأجناس علماً وشرفاً. لا تأُس فان معك من اخوانك الوفا من الأفاضل العقلاء والملآء الذين ينفقون أموالهم في سبيل الصلاح والإصلاح والبلغاء الذين اقاموا أنفسهم خدماً بين يديك ليرشدوك الى سواء السبيل والاستاذ أضعف أخوانه الشرقيين وأحوجهم الى الاستمداد من أفكارهم العالية احب أن يكون خلف الناصحين ليخدمك بقدر ما يمكن ويبين لك بعض ما اقتبسه من حكم اخوانه واكتشفه من خفايا وضعائك المصطنعين فاسمع وقيت الشر وكفيت السوء ـ أحسن ما اتخذته قاعدة تبني عليها تقدمك الهدوء والسكون والبعد عن أهل الفتن. وأفضل أساس تضعه لعمار بلادك تعاونك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ١٦ - بتاريخ: ١٨٩٢ - ١٢ - ٦ 
+
+إِنَّمَا يَقْبَلُ النَّصِيحَةَ مَنْ وُفِّق 
+أيها الشرقي ـ نمت حتى إذا سمعت الصيحة تنبهتَ ولكني اراك مذعوراً مدهوشاً وقد اختلفت كلمة الدعاة فاذنك ملأَ بعبارات متناقضة أفكار متضاربة وأنت متردد بين المنافقين وطبيعتك المائلة بك الى مماثلة الأجناس علماً وشرفاً. لا تأُس فان معك من اخوانك الوفا من الأفاضل العقلاء والملآء الذين ينفقون أموالهم في سبيل الصلاح والإصلاح والبلغاء الذين اقاموا أنفسهم خدماً بين يديك ليرشدوك الى سواء السبيل والاستاذ أضعف أخوانه الشرقيين وأحوجهم الى الاستمداد من أفكارهم العالية احب أن يكون خلف الناصحين ليخدمك بقدر ما يمكن ويبين لك بعض ما اقتبسه من حكم اخوانه واكتشفه من خفايا وضعائك المصطنعين فاسمع وقيت الشر وكفيت السوء ـ أحسن ما اتخذته قاعدة تبني عليها تقدمك الهدوء والسكون والبعد عن أهل الفتن. وأفضل أساس تضعه لعمار بلادك تعاونك </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

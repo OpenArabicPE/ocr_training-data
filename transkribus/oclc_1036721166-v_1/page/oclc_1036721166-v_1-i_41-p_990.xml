@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.303+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.303+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_990.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والهوى أحرق ضرامه كل أحشائي وقلبي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فخر مثلي في بيانُه والغبي يفخر بمالهُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والأدب أحسن صفاتي فالذكي حسنوُ كماله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واللبيب يظهر بعلمو والغلام مجده جماله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كل قول المرء يفنى غير محمود المآثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فخر مثلي في نكايت تضحك الشيخ العبوس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ألحس المعنى برجلي وأشرب القول بالكؤُس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تلم من قال حظي وائتناسي بالفلوس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تقل زيد وعمرو ليس في النحو مفاخر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الفلوس حظ المفلس والجعيدي والحرامي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والعلوم روض الأكابر لطفها في العقل نامي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والمضاحك والمساخر مالها دخل فْ كلامي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كل مضحك بين قومو مسخره للمجد خاسر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ساعة الحظ وحيده عند محبوب وحان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا أُبالي يوم أُنسي بالمعاني والبيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>منتهى قصدي فلوس تملأ البيت بالأوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+والهوى أحرق ضرامه كل أحشائي وقلبي 
+فقلت 
+فخر مثلي في بيانُه والغبي يفخر بمالهُ 
+والأدب أحسن صفاتي فالذكي حسنوُ كماله 
+واللبيب يظهر بعلمو والغلام مجده جماله 
+كل قول المرء يفنى غير محمود المآثر 
+فقال 
+فخر مثلي في نكايت تضحك الشيخ العبوس 
+ألحس المعنى برجلي وأشرب القول بالكؤُس 
+لا تلم من قال حظي وائتناسي بالفلوس 
+لا تقل زيد وعمرو ليس في النحو مفاخر 
+فقلت 
+الفلوس حظ المفلس والجعيدي والحرامي 
+والعلوم روض الأكابر لطفها في العقل نامي 
+والمضاحك والمساخر مالها دخل فْ كلامي 
+كل مضحك بين قومو مسخره للمجد خاسر 
+فقال 
+ساعة الحظ وحيده عند محبوب وحان 
+لا أُبالي يوم أُنسي بالمعاني والبيان 
+منتهى قصدي فلوس تملأ البيت بالأوان </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:36.063+02:00</Created>
+        <LastChange>2019-06-03T15:22:36.063+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_12-p_274.jpg" imageWidth="755" imageHeight="1073">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1073 0,1073"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>وسائر في طريق خلفه أم تمشي على أثر الإصلاح لا الخلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>فالبس قصدك درع محتملاً وقع التقلب في الآفاق والدول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>واطرد جوادك خلف الفضل مقتفياً آثار عثير مركوب الإمام على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>وإن تأخرت في مضماره تعباً فحسب فسك ان تدنيك من قبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>ولا يغرنك يعبوب تؤوده طرداً وتُسْئدُه منا الى زُحل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>فليس بعد إمام المؤمنين يرى إمام فض تناهي الخلق في الأزل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>ومنها في المديح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>في كل كون رجال عز حصرهمُ وليس في كونه الزاهي سوى رجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>تمشى الشهام الى الهيجا مدرعة فيطرد النهد فوق الهام والتُلُل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>يلقى المسيءَ ويدينه فيتركه=من سكرة الحلم مثل الخائف المذل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>منزه النفس عن شر فما بدرت من اصغريه دواعي الظلم والبجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>ما سار قط لمظلوم على مهلٍ ولا تخطَّى لشانيه على عَجَل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>ولاتبدَّى لذي الحاجات معتذراً ولا ترأَى لذي عين على زّلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>نالٌ على الخلق يغنيهم ويرشدهم بالطول والقول شأن المحسن الخَطِل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>احيا النفوس بنطق سقطه حكم تدني الجهول من الإِغراب والمُثُل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>أعواد منبره ترثي منابرنا بما علاها من الإفحام والخَطل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1073 0,1073"/>
+                <TextEquiv>
+                    <Unicode>لم تحتكر يده إلا يراعته وذا الفقار ومنح الكسب والنفل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وسائر في طريق خلفه أم تمشي على أثر الإصلاح لا الخلل 
+فالبس قصدك درع محتملاً وقع التقلب في الآفاق والدول 
+واطرد جوادك خلف الفضل مقتفياً آثار عثير مركوب الإمام على 
+وإن تأخرت في مضماره تعباً فحسب فسك ان تدنيك من قبل 
+ولا يغرنك يعبوب تؤوده طرداً وتُسْئدُه منا الى زُحل 
+فليس بعد إمام المؤمنين يرى إمام فض تناهي الخلق في الأزل 
+ومنها في المديح 
+في كل كون رجال عز حصرهمُ وليس في كونه الزاهي سوى رجل 
+تمشى الشهام الى الهيجا مدرعة فيطرد النهد فوق الهام والتُلُل 
+يلقى المسيءَ ويدينه فيتركه=من سكرة الحلم مثل الخائف المذل 
+منزه النفس عن شر فما بدرت من اصغريه دواعي الظلم والبجل 
+ما سار قط لمظلوم على مهلٍ ولا تخطَّى لشانيه على عَجَل 
+ولاتبدَّى لذي الحاجات معتذراً ولا ترأَى لذي عين على زّلل 
+نالٌ على الخلق يغنيهم ويرشدهم بالطول والقول شأن المحسن الخَطِل 
+احيا النفوس بنطق سقطه حكم تدني الجهول من الإِغراب والمُثُل 
+أعواد منبره ترثي منابرنا بما علاها من الإفحام والخَطل 
+لم تحتكر يده إلا يراعته وذا الفقار ومنح الكسب والنفل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

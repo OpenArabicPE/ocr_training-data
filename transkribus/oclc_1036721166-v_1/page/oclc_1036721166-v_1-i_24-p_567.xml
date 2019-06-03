@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:04.859+02:00</Created>
+        <LastChange>2019-06-03T15:23:04.859+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_24-p_567.jpg" imageWidth="716" imageHeight="1088">
+        <TextRegion id="region_1">
+            <Coords points="0,0 716,0 716,1088 0,1088"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>رضينا بما ترضى فأنت أمامنا ونائبك المحبوب سادت به مصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>أمير رأى حق البلاد مضيعاً بترك حقوق في العهود لها ذكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فشدد في حفظ الحقوق بهمة ولم يثنه التهديد يوماً ولا الشزر الصعوبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وما ذاك إلا ان أمرك حاكم له بحقوق لا يضيعها قسر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وأنت أمير المؤمنين مؤيد لسيدنا العباس دام له الخير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وستدرج في العدد الآتي القصيدة الخديوية التي مطلعها وما بعده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>أمولاي اني في حمال نظام وأنت لنا في العالمين أمام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فديناك مصر تحت أمرك فاحتكم فحقك فيها يا أمام لزام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وقد أقمنا كل بيت من هذه الأبيات مقام سكين يقطع به ألسنة أضداد مصر ووضعنا على باب كل بيت مزلقاً إذا جاء أحدهم للدخول فيه متلصصاً هوى على أم ناصيته وذهب غير مأسوف عليه فما هذه الأبيات إلا صواعق ترمى بها أعداء الدولة العلية وأضداد الأمة المصرية من شياطين يأكلون لحوم الناس ويعيشون ببيع مياه وجوههم بلقمة خبز أو كأس خمر وعسى ان يرجعوا عن ترهاتهم ومفترياتهم وما هم فيه من الإفساد وتحريف الكلم عن مواضعه فلا نعود لتحميل القلم أوزار ذكرهم على لسانه حتى لا يصر متألماً من خط سيرة من يسعون في إضلال العباد وتخريب البلاد. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>محل نظر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 716,0 716,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>رأينا في جريدة اللطائف الغراء ما نصه ـ قال بعض الفضلاء يا ليتهم يضعون مادة في قانون المحاكم ان كل قاض من أي طائفة كانت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+رضينا بما ترضى فأنت أمامنا ونائبك المحبوب سادت به مصر 
+أمير رأى حق البلاد مضيعاً بترك حقوق في العهود لها ذكر 
+فشدد في حفظ الحقوق بهمة ولم يثنه التهديد يوماً ولا الشزر الصعوبة 
+وما ذاك إلا ان أمرك حاكم له بحقوق لا يضيعها قسر 
+وأنت أمير المؤمنين مؤيد لسيدنا العباس دام له الخير 
+وستدرج في العدد الآتي القصيدة الخديوية التي مطلعها وما بعده 
+أمولاي اني في حمال نظام وأنت لنا في العالمين أمام 
+فديناك مصر تحت أمرك فاحتكم فحقك فيها يا أمام لزام 
+وقد أقمنا كل بيت من هذه الأبيات مقام سكين يقطع به ألسنة أضداد مصر ووضعنا على باب كل بيت مزلقاً إذا جاء أحدهم للدخول فيه متلصصاً هوى على أم ناصيته وذهب غير مأسوف عليه فما هذه الأبيات إلا صواعق ترمى بها أعداء الدولة العلية وأضداد الأمة المصرية من شياطين يأكلون لحوم الناس ويعيشون ببيع مياه وجوههم بلقمة خبز أو كأس خمر وعسى ان يرجعوا عن ترهاتهم ومفترياتهم وما هم فيه من الإفساد وتحريف الكلم عن مواضعه فلا نعود لتحميل القلم أوزار ذكرهم على لسانه حتى لا يصر متألماً من خط سيرة من يسعون في إضلال العباد وتخريب البلاد. 
+
+محل نظر 
+رأينا في جريدة اللطائف الغراء ما نصه ـ قال بعض الفضلاء يا ليتهم يضعون مادة في قانون المحاكم ان كل قاض من أي طائفة كانت </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

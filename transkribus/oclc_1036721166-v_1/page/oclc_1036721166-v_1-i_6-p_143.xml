@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:24.252+02:00</Created>
+        <LastChange>2019-06-03T15:22:24.252+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_143.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ويل لهم تركوا الشريعة خلفهم وتسابقوا لمغاضب الرحمن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أي الفوائد أدركوا من حانها وهو العدو لجملة الأديان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أيسرهم ان الأمير بها يرى أن أفلسته بحالة الغلبان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحر يأتي حانها متعززاً فيقاد حال السكر كالعبدان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأخو الحجا يخشى العثار بهفوة وبها يرى الإنسان كالحيوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قل للندامى كسروا أقداحهم وبها بدد دولة الخسران </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ملأ النديم الكاس في حان التقى من سر عبد القادر الجيلاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تهنئة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>انتهت السنة التاسعة لجمعية حفظ التاريخ القبطي بأسيوط وقد حفظت الجمعية في سنتها الماضية وفاة عزيز مصر وأميرها المحبوب عند طوائفها المرحوم أفندينا توفيق باشا وجلوس إلهام الغيور على وطنه وأهله المتضلع من معارف الشرق والغرب المتحلي بحليتي الحزم والشجاعة الجامع بين نشاط الشبان وفطانة الشيوخ صاحب الفخامة أفندينا عباس باشا الثاني أيد الله تعالى الوطن العزيز بصائب آرائه وجليل حكمه. وأردفت هذين التاريخين بتقديم الطائفة القبطية وأعمال شبانها وشيوخها العائدة بالنفع العام فنهنئهم بهذا الثبات والأثر العظيم ونتمنى لهم التقدم واتساع نطاق التاريخ بجمع حوادث كل سنة التي يحتاجها التاريخ وعلى الخصوص الحوادث المصرية إدارية كانت أو حربية أرضية أو جوية وطنية أو أجنبية فقد استحقوا الثناء بهذا السعي الجميل. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ويل لهم تركوا الشريعة خلفهم وتسابقوا لمغاضب الرحمن 
+أي الفوائد أدركوا من حانها وهو العدو لجملة الأديان 
+أيسرهم ان الأمير بها يرى أن أفلسته بحالة الغلبان 
+والحر يأتي حانها متعززاً فيقاد حال السكر كالعبدان 
+وأخو الحجا يخشى العثار بهفوة وبها يرى الإنسان كالحيوان 
+قل للندامى كسروا أقداحهم وبها بدد دولة الخسران 
+ملأ النديم الكاس في حان التقى من سر عبد القادر الجيلاني 
+
+تهنئة 
+انتهت السنة التاسعة لجمعية حفظ التاريخ القبطي بأسيوط وقد حفظت الجمعية في سنتها الماضية وفاة عزيز مصر وأميرها المحبوب عند طوائفها المرحوم أفندينا توفيق باشا وجلوس إلهام الغيور على وطنه وأهله المتضلع من معارف الشرق والغرب المتحلي بحليتي الحزم والشجاعة الجامع بين نشاط الشبان وفطانة الشيوخ صاحب الفخامة أفندينا عباس باشا الثاني أيد الله تعالى الوطن العزيز بصائب آرائه وجليل حكمه. وأردفت هذين التاريخين بتقديم الطائفة القبطية وأعمال شبانها وشيوخها العائدة بالنفع العام فنهنئهم بهذا الثبات والأثر العظيم ونتمنى لهم التقدم واتساع نطاق التاريخ بجمع حوادث كل سنة التي يحتاجها التاريخ وعلى الخصوص الحوادث المصرية إدارية كانت أو حربية أرضية أو جوية وطنية أو أجنبية فقد استحقوا الثناء بهذا السعي الجميل. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

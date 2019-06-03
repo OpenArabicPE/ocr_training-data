@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:08.410+02:00</Created>
+        <LastChange>2019-06-03T15:22:08.410+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_1-p_006.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خل الأسى ومصادر الأحزان جاء السرور فقم بنا للحان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حان به خمر المعاني روقت لمريد مدح السيد المحسان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فالأنس عم الكون عند دخوله مصراً لملك ثابت الأركان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والصفو قال لأهل مصر أرخوا صدر الصفا عباس حلمي الثاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>٢٩٤ ٢٠٢ ١٣٣ ٨٨ ٥٩٢ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣٠٩ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وما فرغ اللسان من الإنشاد حتى جاءني خبر عفوه الكريم عني وصدور أمره العالي بعودتي الى وطني تفضلاً وإحساناً فاعتقل اللسان ولم يستطع النطق لعظم النعمة وخروجها عن حد ما يشكر فإني لو جمعت اللغات ونظمتها في سلسلة قصائد لا نهاية لها لكنت مقصراً في أداء الواجب لمرحوم أطلق لي قيد حياتي ومحفوظ خلصني من أسر الغربة ومتعني برؤية وطن أهله مبعث سروري ومرجع أنسي فله الشكر ما حييت وإن أمت سمع الثناء عليه من رنين صوت عظامي. كل هذا والثناء على ذات العصمة والمقام الأسمى ذات الدولة الوالدة الفخيمة مرتبط بكل فاصلة من فواصل الشكر والحمد فمدح هذا البيت الكريم حق واجب على هذا المخلص في دعائه وأهل بيته ما دام اللسان ينطق بما ينسب للمخلص عبد الله النديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>مقدمة مدح ومعرفة جميل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ليس من يتكلم على شيء بالحدس والتخمين كمن يتكلم فيه عن علم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خل الأسى ومصادر الأحزان جاء السرور فقم بنا للحان 
+حان به خمر المعاني روقت لمريد مدح السيد المحسان 
+فالأنس عم الكون عند دخوله مصراً لملك ثابت الأركان 
+والصفو قال لأهل مصر أرخوا صدر الصفا عباس حلمي الثاني 
+٢٩٤ ٢٠٢ ١٣٣ ٨٨ ٥٩٢ 
+سنة ١٣٠٩ 
+وما فرغ اللسان من الإنشاد حتى جاءني خبر عفوه الكريم عني وصدور أمره العالي بعودتي الى وطني تفضلاً وإحساناً فاعتقل اللسان ولم يستطع النطق لعظم النعمة وخروجها عن حد ما يشكر فإني لو جمعت اللغات ونظمتها في سلسلة قصائد لا نهاية لها لكنت مقصراً في أداء الواجب لمرحوم أطلق لي قيد حياتي ومحفوظ خلصني من أسر الغربة ومتعني برؤية وطن أهله مبعث سروري ومرجع أنسي فله الشكر ما حييت وإن أمت سمع الثناء عليه من رنين صوت عظامي. كل هذا والثناء على ذات العصمة والمقام الأسمى ذات الدولة الوالدة الفخيمة مرتبط بكل فاصلة من فواصل الشكر والحمد فمدح هذا البيت الكريم حق واجب على هذا المخلص في دعائه وأهل بيته ما دام اللسان ينطق بما ينسب للمخلص عبد الله النديم 
+
+مقدمة مدح ومعرفة جميل 
+ليس من يتكلم على شيء بالحدس والتخمين كمن يتكلم فيه عن علم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

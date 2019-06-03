@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:40.890+02:00</Created>
+        <LastChange>2019-06-03T15:22:40.890+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_14-p_324.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وبجده الحسن اعتلى فوق القائل والعشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>من سر حيدرة روى من سائغ عذب نمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وبفضل فاطمة غدا بالفخر والمدح الجدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بفخامة المختار اضـ عى حائز الفضل الكبير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>نسب كنور الشمس لم ينكره ذو طرف حسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رفع الأعاظم فوق عر ش المجد اذ اقصى الحقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هم مورد الفضل الكبيـ ر ومصدر الخير الغزير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حُسدوا على فضل الإله بنص قرآن القدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أم يحسدون الناس أي آل النبي فكن خبير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خلقوا لكل عظمية حلت فهم حل العسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بالسر أو بالبر أو بالكر في وقت النفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>من لاذ في خطب بهم لم يلق يوماً فمطير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>انَّي وهم أهل الكسا ء وعترة الهادي النذير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورثوا السيادة كابراً - عن كابر لا عن صغير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واستاثروا بالمجد اذ ما للسوى فيه نقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الله مولى جدهم وله الملائكة الظهير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وهم الشظايا فُرقت من بضعة الغوث المجير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>غرسوا بروضة عزة تسقى بفضل لا غدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فهم الخلاصة من عصير المجد والباقي ثجير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فابن النبي محمد خير من الأخيار خير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا ابن البشير ولا ارى مدحاً سوى يا ابن البشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مدحنكم الآيات قبـ ل فمدحنا يحكي الصغير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>في سورة الأحزاب طهـ ر لا يماثله نظير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_25">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>من لم يصلِ عليكم فصلاته مثل الدبير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_26">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عذبت مدائحكم فما ظمئ الذي ورد السدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_27">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فاقبل قصور مقصر في المدح بالبحر القصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وبجده الحسن اعتلى فوق القائل والعشير 
+من سر حيدرة روى من سائغ عذب نمير 
+وبفضل فاطمة غدا بالفخر والمدح الجدير 
+بفخامة المختار اضـ عى حائز الفضل الكبير 
+نسب كنور الشمس لم ينكره ذو طرف حسير 
+رفع الأعاظم فوق عر ش المجد اذ اقصى الحقير 
+هم مورد الفضل الكبيـ ر ومصدر الخير الغزير 
+حُسدوا على فضل الإله بنص قرآن القدير 
+أم يحسدون الناس أي آل النبي فكن خبير 
+خلقوا لكل عظمية حلت فهم حل العسير 
+بالسر أو بالبر أو بالكر في وقت النفير 
+من لاذ في خطب بهم لم يلق يوماً فمطير 
+انَّي وهم أهل الكسا ء وعترة الهادي النذير 
+ورثوا السيادة كابراً - عن كابر لا عن صغير 
+واستاثروا بالمجد اذ ما للسوى فيه نقير 
+الله مولى جدهم وله الملائكة الظهير 
+وهم الشظايا فُرقت من بضعة الغوث المجير 
+غرسوا بروضة عزة تسقى بفضل لا غدير 
+فهم الخلاصة من عصير المجد والباقي ثجير 
+فابن النبي محمد خير من الأخيار خير 
+يا ابن البشير ولا ارى مدحاً سوى يا ابن البشير 
+مدحنكم الآيات قبـ ل فمدحنا يحكي الصغير 
+في سورة الأحزاب طهـ ر لا يماثله نظير 
+من لم يصلِ عليكم فصلاته مثل الدبير 
+عذبت مدائحكم فما ظمئ الذي ورد السدير 
+فاقبل قصور مقصر في المدح بالبحر القصير </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:32.518+02:00</Created>
+        <LastChange>2019-06-03T15:22:32.518+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_10-p_238.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وأقصر القول في السياسة وأبسط في سواها لكن بما هو أحوط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما علمت الأستاذ إلا علماً بشؤون الزمان احفظ اضبط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورد الينا هذا السؤال من حضرة الفاضل خليل أفندي إسماعيل (خازن) مخزنجي محطة كفر الدوار ونصه: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الإنس وافي بالأستاذلما ظهر لأن القاسي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وادي لسان الحال بيقول أنا العليل وأنت الآسي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا سي نديم أرجو فضلك وأحمل جميلك على راسي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بين لنا المثل الساير جعلت اضرب اخماسي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>(الجواب) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قال المجد ويضرب أخماساً لأسداس يسعى في المكر والخديعة يضرب لمن يظهر شيئاً ويريد غيره لأن الرجل إذا أراد سفراً بعيداً عودّ إبله أن تشرب خمساً سدساً وضرب بمعنى بين أي يظهر أخماساً لأجل أسداس أي رقى أبله من الخمس الى السدس أه وقال في اللسان فلان يضرب أخماساً لأسداس أي يسعى في المكر والخديعة واصله من أظماء الإبل ثم ضرب مثلاً للذي يراوغ صاحبه ويريه أنه يطيعه ثم ذكر أبياناً لرجل من طيء يقول فيها: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الله يعلم لولا انني فرق من الأمير لعاتبت ابن نبراس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>في موعد قاله لي ثم اخلفه غداً عداً ضرب أخماس لأسداس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إلى آخر أبياته ثم ذكر أبيات خريم بن فاتك الأسدي وهي: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لو كان للقوم رأي يرشدون به أهل العراق رموكم بابن عباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وأقصر القول في السياسة وأبسط في سواها لكن بما هو أحوط 
+ما علمت الأستاذ إلا علماً بشؤون الزمان احفظ اضبط 
+ورد الينا هذا السؤال من حضرة الفاضل خليل أفندي إسماعيل (خازن) مخزنجي محطة كفر الدوار ونصه: 
+الإنس وافي بالأستاذلما ظهر لأن القاسي 
+وادي لسان الحال بيقول أنا العليل وأنت الآسي 
+يا سي نديم أرجو فضلك وأحمل جميلك على راسي 
+بين لنا المثل الساير جعلت اضرب اخماسي 
+(الجواب) 
+قال المجد ويضرب أخماساً لأسداس يسعى في المكر والخديعة يضرب لمن يظهر شيئاً ويريد غيره لأن الرجل إذا أراد سفراً بعيداً عودّ إبله أن تشرب خمساً سدساً وضرب بمعنى بين أي يظهر أخماساً لأجل أسداس أي رقى أبله من الخمس الى السدس أه وقال في اللسان فلان يضرب أخماساً لأسداس أي يسعى في المكر والخديعة واصله من أظماء الإبل ثم ضرب مثلاً للذي يراوغ صاحبه ويريه أنه يطيعه ثم ذكر أبياناً لرجل من طيء يقول فيها: 
+الله يعلم لولا انني فرق من الأمير لعاتبت ابن نبراس 
+في موعد قاله لي ثم اخلفه غداً عداً ضرب أخماس لأسداس 
+إلى آخر أبياته ثم ذكر أبيات خريم بن فاتك الأسدي وهي: 
+لو كان للقوم رأي يرشدون به أهل العراق رموكم بابن عباس </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

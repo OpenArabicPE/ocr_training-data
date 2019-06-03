@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:08.923+02:00</Created>
+        <LastChange>2019-06-03T15:23:08.923+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_26-p_626.jpg" imageWidth="492" imageHeight="748">
+        <TextRegion id="region_1">
+            <Coords points="0,0 492,0 492,748 0,748"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>ما انشد التاريخ فيه مؤرخاً سير الخديوي للصعيد سعوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ـ ٢٧٠ ـ ٦٦١ ـ ٢٣٤ ـ ١٤٥ . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>(وللفاضل الشيخ أحمد القوصي) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>ركاب العلى في مصر باليمن شرفاً فأشرقت الأنوار والحظ أسعفا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وعادت بها الأفراح في يوم عوده وقد حازت الإعلام فيها تشرفا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وفيها تبدي طالع اليمن مشرقاً ووافي التهاني بالخديوي لنا وفي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>ومذهل عيد العوج قلت مؤرخاً بعود خديوينا بمصر زها الصفا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ـ ٨٢ ـ ٦٨١ ـ ٣٣٢ ـ ١٣ ـ ٢٠٢ . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وللفاضل ابراهيم أفندي رمزي من أعيان الفيوم ووكيل الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>عندما تمثل بين يدي الحضرة الخديوية أبيات منها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>حاكم صدر امتداحي فاشرحوه وإليكم متن قولي فاشرحوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>فهو في العباس مولانا الذي في النهى كل البرايا رجحوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>كيف لا وهو الذي قام بأمر به كل الملوك امتدحوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>فالصعيد الآن للأهلين قد شاد تاريخين فيما صححوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>قال في تشريف واليهم به خط جرجا بالسعيد افتتحوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ـ سنة . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>صحيفة سطرخطاءصواب صحيفة سطر خطاء صواب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>٦١١ ١٠ الكاتب الطالب ٦١٥ ٩ يحصلها يحصله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>٦١٦ ١٥ والاأولا ٦١٧ ١٨ لا يقرهالا يقرأها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>. . . ١٩ الطلبة الطلبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ما انشد التاريخ فيه مؤرخاً سير الخديوي للصعيد سعوده 
+سنة ١٣١٠ ـ ٢٧٠ ـ ٦٦١ ـ ٢٣٤ ـ ١٤٥ . 
+(وللفاضل الشيخ أحمد القوصي) 
+ركاب العلى في مصر باليمن شرفاً فأشرقت الأنوار والحظ أسعفا 
+وعادت بها الأفراح في يوم عوده وقد حازت الإعلام فيها تشرفا 
+وفيها تبدي طالع اليمن مشرقاً ووافي التهاني بالخديوي لنا وفي 
+ومذهل عيد العوج قلت مؤرخاً بعود خديوينا بمصر زها الصفا 
+سنة ١٣١٠ ـ ٨٢ ـ ٦٨١ ـ ٣٣٢ ـ ١٣ ـ ٢٠٢ . 
+وللفاضل ابراهيم أفندي رمزي من أعيان الفيوم ووكيل الأستاذ 
+عندما تمثل بين يدي الحضرة الخديوية أبيات منها 
+حاكم صدر امتداحي فاشرحوه وإليكم متن قولي فاشرحوه 
+فهو في العباس مولانا الذي في النهى كل البرايا رجحوه 
+كيف لا وهو الذي قام بأمر به كل الملوك امتدحوه 
+فالصعيد الآن للأهلين قد شاد تاريخين فيما صححوه 
+قال في تشريف واليهم به خط جرجا بالسعيد افتتحوه 
+سنة ١٣١٠ ـ سنة . 
+صحيفة سطرخطاءصواب صحيفة سطر خطاء صواب 
+٦١١ ١٠ الكاتب الطالب ٦١٥ ٩ يحصلها يحصله 
+٦١٦ ١٥ والاأولا ٦١٧ ١٨ لا يقرهالا يقرأها 
+. . . ١٩ الطلبة الطلبة </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

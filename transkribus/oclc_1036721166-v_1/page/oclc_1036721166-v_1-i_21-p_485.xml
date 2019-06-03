@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:55.831+02:00</Created>
+        <LastChange>2019-06-03T15:22:55.831+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_21-p_485.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>صفو النفوس بتشريف الجلوس يدا كالبدر يعطى ائتناساً عند إهلال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فادخل بنا في تهانيه بموسمه وإن تعاظم فاسلك نهج إجمال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فليس تدرك بالتفصيل رونقه من عَدَّ للغيث قطرا عند تهظال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هذي المواكب للتبريك في جذل تسعى اليه لتشريف وإفضال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قد شاهدت في سرير الملك ذا شمم طلق المحيا وسيماً خير مفضال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا بهجة القطر اذ عيد الجلوس به في اثر ميلاده وَافى كمختال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كأنه الزَّهرُ حيَّاهُ الحيا فغدا حَلياً على روضة غَناَء مِحلال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا قربَ ما بين عيدين ازدهى بهما صفو الزمان مباحاً بين أجيال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>شكراً لأول عيد جاَء مبتسماً عن بشر عباسنا الثاني سنا الآل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هذا الأبيُّ الذي أمضت عزائمهُ ما أدهش اللب من قول وأفعال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>زند الشبيبة يوري رأي مكتهل منه ويهدي لرشد عند تسآل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فيه لرائيه إيناسٌ ومرحمة وكم لراجيه منه فوز آمال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حُلوُ الخليفة بسام لزائره مهذب الطبع مرقوق بإجلال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ماض الى العدل لا يثنيه ذو غرض وليس يحلو لديه قول محتال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يولي الجميل نزيلاً حل ساحته من يرغب النهل يقصد خير منهال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كم من إياد له ضاء الزمان بها من بعضها العفو عن جانٍ ومغتال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإن تخلق يوماً باسمه وجمت له الأسود وخافته بإذلال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لا يُرهِبُ الدهرُ منه ان عدا خلدا حلم كرضوى وقلبٌ فوق رئبال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مستحصف الرأي مرهوب الشّبايقظ صينت مباديه عن جور وإخلال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مولاي يا من به الآمال واثقة ومن به الحال باهى عصرنا الخالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+صفو النفوس بتشريف الجلوس يدا كالبدر يعطى ائتناساً عند إهلال 
+فادخل بنا في تهانيه بموسمه وإن تعاظم فاسلك نهج إجمال 
+فليس تدرك بالتفصيل رونقه من عَدَّ للغيث قطرا عند تهظال 
+هذي المواكب للتبريك في جذل تسعى اليه لتشريف وإفضال 
+قد شاهدت في سرير الملك ذا شمم طلق المحيا وسيماً خير مفضال 
+يا بهجة القطر اذ عيد الجلوس به في اثر ميلاده وَافى كمختال 
+كأنه الزَّهرُ حيَّاهُ الحيا فغدا حَلياً على روضة غَناَء مِحلال 
+يا قربَ ما بين عيدين ازدهى بهما صفو الزمان مباحاً بين أجيال 
+شكراً لأول عيد جاَء مبتسماً عن بشر عباسنا الثاني سنا الآل 
+هذا الأبيُّ الذي أمضت عزائمهُ ما أدهش اللب من قول وأفعال 
+زند الشبيبة يوري رأي مكتهل منه ويهدي لرشد عند تسآل 
+فيه لرائيه إيناسٌ ومرحمة وكم لراجيه منه فوز آمال 
+حُلوُ الخليفة بسام لزائره مهذب الطبع مرقوق بإجلال 
+ماض الى العدل لا يثنيه ذو غرض وليس يحلو لديه قول محتال 
+يولي الجميل نزيلاً حل ساحته من يرغب النهل يقصد خير منهال 
+كم من إياد له ضاء الزمان بها من بعضها العفو عن جانٍ ومغتال 
+وإن تخلق يوماً باسمه وجمت له الأسود وخافته بإذلال 
+لا يُرهِبُ الدهرُ منه ان عدا خلدا حلم كرضوى وقلبٌ فوق رئبال 
+مستحصف الرأي مرهوب الشّبايقظ صينت مباديه عن جور وإخلال 
+مولاي يا من به الآمال واثقة ومن به الحال باهى عصرنا الخالي </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

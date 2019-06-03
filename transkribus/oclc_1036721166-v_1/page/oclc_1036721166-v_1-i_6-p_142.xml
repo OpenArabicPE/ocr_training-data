@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:24.210+02:00</Created>
+        <LastChange>2019-06-03T15:22:24.210+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_142.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>سطعت أشعتها فحيرت النهى في الوصف والتعريف والتبيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عكست حقائق من تراه فباقل بفصيحها يعلو على سحبان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبجود ما در في حماها أذهبت عن حاتم ما نال بالإحسان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حملت على الراحات حال زفافها وعيونها ترنو الى العدوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فحذار منها فهي فتنة دهرها تدعو التقي لسحة البهتان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عجباً لا رباب النهى لعبت بهم هذي العتيقة ومظهر العصيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أي المحاسن أبصروا في وجها وهي العتيقة من قديم الزمان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أم الخبائث بنت عسلوج الهوى أخت الحشائش زوجه الشيطان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومن زفها من خدرها لفؤاده صرعته عند مزالق الأطيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإذا تستر في ترشفها بدت من فيه تفضحه لدى الإخوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإذا مشى لعبت به من مكرها ليقال هذي مشية السكران </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإذا تمكن سهمها من فتية تركتهم في الحان كالأوثان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإذا غلت في جوف شخص كدرت بالقئ منه مجالس الندمان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كم حسنت فعل القبيح لشارب فعود بعد الهدى في كفران </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فهي التي ما مزجت في منزل نور الصلاح ولا ضيا الإيمان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حملت صواحبها على طرح الحيا فبذلن عرضا بعد حسن صيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ويكرها كحلت عيون رجالها فتصادموا كتصادم وكثرة النسيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خرقوا بها الأكباد جهلاً فانتهوا للسقم بل لمدارج الأكفان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>صرفوا النفيس من النفوس ودرهم وغدوا لا شرف ولا اكنان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+سطعت أشعتها فحيرت النهى في الوصف والتعريف والتبيان 
+عكست حقائق من تراه فباقل بفصيحها يعلو على سحبان 
+وبجود ما در في حماها أذهبت عن حاتم ما نال بالإحسان 
+حملت على الراحات حال زفافها وعيونها ترنو الى العدوان 
+فحذار منها فهي فتنة دهرها تدعو التقي لسحة البهتان 
+عجباً لا رباب النهى لعبت بهم هذي العتيقة ومظهر العصيان 
+أي المحاسن أبصروا في وجها وهي العتيقة من قديم الزمان 
+أم الخبائث بنت عسلوج الهوى أخت الحشائش زوجه الشيطان 
+ومن زفها من خدرها لفؤاده صرعته عند مزالق الأطيان 
+وإذا تستر في ترشفها بدت من فيه تفضحه لدى الإخوان 
+وإذا مشى لعبت به من مكرها ليقال هذي مشية السكران 
+وإذا تمكن سهمها من فتية تركتهم في الحان كالأوثان 
+وإذا غلت في جوف شخص كدرت بالقئ منه مجالس الندمان 
+كم حسنت فعل القبيح لشارب فعود بعد الهدى في كفران 
+فهي التي ما مزجت في منزل نور الصلاح ولا ضيا الإيمان 
+حملت صواحبها على طرح الحيا فبذلن عرضا بعد حسن صيان 
+ويكرها كحلت عيون رجالها فتصادموا كتصادم وكثرة النسيان 
+خرقوا بها الأكباد جهلاً فانتهوا للسقم بل لمدارج الأكفان 
+صرفوا النفيس من النفوس ودرهم وغدوا لا شرف ولا اكنان </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

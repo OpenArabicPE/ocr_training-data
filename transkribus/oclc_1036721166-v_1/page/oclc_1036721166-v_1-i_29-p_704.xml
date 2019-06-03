@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:15.370+02:00</Created>
+        <LastChange>2019-06-03T15:23:15.370+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_29-p_704.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الوكيل الخاص بعموم اسكندرية وأن يسلموه قيم الاشتراك بمقتضى الوصول المحررة من الإدارة ولهم الفضل. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الشرائع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>جريدة قضائية إدارية تصدر في الخامس عشر من كل شهر عربي يحررها الفاضلان النبيهان أحمد أفندي لطفي السيد وإسماعيل أفندي الحكيم يساعدهما في التحرير الأفاضل محمود أفندي عبد الغفار وإسماعيل أفندي صدقي ومحمد أفندي عبد الهادي الجندي وقيمة اشتراكها ثلاثون قرشاً في كل سنة وقد صدر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>العدد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الأول منها مشحوناً بالفوائد القضائية والمواد الإدارية فنحث رجال الفضل وعشاق العلوم على الاشتراك فيها تحصيلاً لثمراتها وما فيها من شوارد المواد ومواد الآداب. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لم تصدر ملزمة كان ويكون في هذا العدد لازدحامه بالرسائل فراراً من تأخيرها وسنتابع إصدارها كالمعتاد ما لم تضطرنا المواضيع لتأخيرها في بعض الأعداد. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>بشرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يسرنا ان صاحب الفضيلة والسماحة شيخ الجامع الأزهر امتحن عدداً كثيراً من الطلبة وفي العام الآتي سيمتحن في كل أسبوع طالباً فيتم امتحان نحو خمسين طالباً كل سنة وأنها لعناية تستحق الشكر والثناء جزاه الله عن العلم وأهله خير الجزاء. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ستحتفل جمعية العلم الشرقي العلمية بعيد تأسيسها السنوي غداً في الساعة الثانية العربية ليلاً بمحل التياترو العربي بشارع عبد العزيز أعاد الله عليها هذا الاحتفال بخير ونجاح وشكر سعي أعضائها الكرام. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>الوكيل الخاص بعموم اسكندرية وأن يسلموه قيم الاشتراك بمقتضى الوصول المحررة من الإدارة ولهم الفضل. 
+
+الشرائع 
+جريدة قضائية إدارية تصدر في الخامس عشر من كل شهر عربي يحررها الفاضلان النبيهان أحمد أفندي لطفي السيد وإسماعيل أفندي الحكيم يساعدهما في التحرير الأفاضل محمود أفندي عبد الغفار وإسماعيل أفندي صدقي ومحمد أفندي عبد الهادي الجندي وقيمة اشتراكها ثلاثون قرشاً في كل سنة وقد صدر 
+
+العدد 
+الأول منها مشحوناً بالفوائد القضائية والمواد الإدارية فنحث رجال الفضل وعشاق العلوم على الاشتراك فيها تحصيلاً لثمراتها وما فيها من شوارد المواد ومواد الآداب. 
+لم تصدر ملزمة كان ويكون في هذا العدد لازدحامه بالرسائل فراراً من تأخيرها وسنتابع إصدارها كالمعتاد ما لم تضطرنا المواضيع لتأخيرها في بعض الأعداد. 
+
+بشرى 
+يسرنا ان صاحب الفضيلة والسماحة شيخ الجامع الأزهر امتحن عدداً كثيراً من الطلبة وفي العام الآتي سيمتحن في كل أسبوع طالباً فيتم امتحان نحو خمسين طالباً كل سنة وأنها لعناية تستحق الشكر والثناء جزاه الله عن العلم وأهله خير الجزاء. 
+ستحتفل جمعية العلم الشرقي العلمية بعيد تأسيسها السنوي غداً في الساعة الثانية العربية ليلاً بمحل التياترو العربي بشارع عبد العزيز أعاد الله عليها هذا الاحتفال بخير ونجاح وشكر سعي أعضائها الكرام. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

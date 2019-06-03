@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:53.122+02:00</Created>
+        <LastChange>2019-06-03T15:22:53.122+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_19-p_451.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وفكاهة كفواكه من روض جنات النعيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وعبارة خفت على أسماعنا مثل النسيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قد أخبرت هذي اللآ - لي ان منشئها حكيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>شهم دعته لمجدها رتب البلاغة من قديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فلذلك قلت مؤرخاً لبي بأستاذ نديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ٤٢ ١١٦٤ ١٠٤ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رجاء وإرجاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>نرى كل من يرغب الاشتراك في جريدتنا الأستاذ يطلب منا الأعداد الماضية وحيث أن الأعداد الماضية انتهت الى السابع وتم طبع الأول والثاني الطبعة الثانية وسنطبع الأعداد بعدهما عند وجود الفرصة فنرجو الراغبين في الاشتراك قبول ما يقدم إليهم من الأعداد منتظرين طبع ما انتهى وحيث أننا نطبع الآن ألفين وخمسمائة كل أسبوع وطلب الاشتراك متواصل فسنطبع ثلاثة آلاف بعد هذا العدد فراراً من كلفة الطبع مرة ثانية فيما يأتي من الأعداد وظن كثير من الأمراء أننا ربما أعدنا طبع ما يكون من هذا العدد إذا جاوز المشتركون ثلاثة آلاف وهو ظن أوجبه إقبال الناس على الأستاذ وتواصل الطلبات حققه الله تعالى بفضله. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رثاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أنشبت المنية أظفارها بالمرحوم حسام الدين باشا مفتش السنطة والهياتم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وفكاهة كفواكه من روض جنات النعيم 
+وعبارة خفت على أسماعنا مثل النسيم 
+قد أخبرت هذي اللآ - لي ان منشئها حكيم 
+شهم دعته لمجدها رتب البلاغة من قديم 
+فلذلك قلت مؤرخاً لبي بأستاذ نديم 
+سنة ١٣١٠ ٤٢ ١١٦٤ ١٠٤ 
+
+رجاء وإرجاء 
+نرى كل من يرغب الاشتراك في جريدتنا الأستاذ يطلب منا الأعداد الماضية وحيث أن الأعداد الماضية انتهت الى السابع وتم طبع الأول والثاني الطبعة الثانية وسنطبع الأعداد بعدهما عند وجود الفرصة فنرجو الراغبين في الاشتراك قبول ما يقدم إليهم من الأعداد منتظرين طبع ما انتهى وحيث أننا نطبع الآن ألفين وخمسمائة كل أسبوع وطلب الاشتراك متواصل فسنطبع ثلاثة آلاف بعد هذا العدد فراراً من كلفة الطبع مرة ثانية فيما يأتي من الأعداد وظن كثير من الأمراء أننا ربما أعدنا طبع ما يكون من هذا العدد إذا جاوز المشتركون ثلاثة آلاف وهو ظن أوجبه إقبال الناس على الأستاذ وتواصل الطلبات حققه الله تعالى بفضله. 
+
+رثاء 
+أنشبت المنية أظفارها بالمرحوم حسام الدين باشا مفتش السنطة والهياتم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

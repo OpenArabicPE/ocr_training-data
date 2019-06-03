@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:26.596+02:00</Created>
+        <LastChange>2019-06-03T15:23:26.596+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_853.jpg" imageWidth="486" imageHeight="736">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,736 0,736"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>إني لكم منية لا شيء يعدلها وابن الخصيب الى خصبي قد انتسبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>ولم أعدكم بوعدٍ قط أخلفه وكم وعدتم فاخلفتم فيما عجبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>سعيي لكم كل عام في رخائكم وسعيكم في جزائي عكس ما طلبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>يا أهل مصرانا الظهر الذلول لكم وكم عزيز أذقت الذل والحربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>اثقلتموني بأعباء فقمت بها وشيمة الحر حمل الأمر ان صعبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>كم بالأذى والقذى ترمونني سفهاً أن السفيه يداري عند من لببا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>دنستموني فلم أقطع مودّتكم على صفائي ولا أدري لذا سببا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>أغرّكم ان تروني ساكناً دمثا فإن من شيمتي الطغيان والغضبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>لو شئت يوما أُجاريكم وأُوسعكم ضرباً ولكنني أوسعتكم ضربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>وكم مررت بوَهدٍ في تواضعه أترعتُ كأسي له حتى انتشى وربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>ولم أُبالِ بعالٍ ان حفرتُ له تحت القواعد حتى خر منقلبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>إني غريبٌ فإن ذلّ القريبُ بكم فعزّزوني كما عزّزتم الغُربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>لو كان غيركم أهلي سعدت بهم واظمؤُوكم من الماء الذي عذبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>مالي أٌقيم بأرض لا مكانة لي فيها وقد نيل ملءُ الأرض بي ذهبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>تلكم مكارم أخلاق عرفت بها قدما وأحسن لي ربي بها الأدبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>عليكم البرّ والإحسان واستبقوا إلى الرشاد وخلوا اللهو واللعبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>وقوّموا منكم المعوّج واجتهدوا فيما يكون لكم مجدا وحسن نبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>وما لكم معقل إلا تألفكم بأقوم فأووا اليه تأمنوا العطبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>والصدق ما الصدق لا تبغوا به بدلا فليس خير بغير الصدق مكتسبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 486,0 486,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>ولو صدقتم لراج الصدق عندكم وهو الكتاب الذي قد حرَّم الكذبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+إني لكم منية لا شيء يعدلها وابن الخصيب الى خصبي قد انتسبا 
+ولم أعدكم بوعدٍ قط أخلفه وكم وعدتم فاخلفتم فيما عجبا 
+سعيي لكم كل عام في رخائكم وسعيكم في جزائي عكس ما طلبا 
+يا أهل مصرانا الظهر الذلول لكم وكم عزيز أذقت الذل والحربا 
+اثقلتموني بأعباء فقمت بها وشيمة الحر حمل الأمر ان صعبا 
+كم بالأذى والقذى ترمونني سفهاً أن السفيه يداري عند من لببا 
+دنستموني فلم أقطع مودّتكم على صفائي ولا أدري لذا سببا 
+أغرّكم ان تروني ساكناً دمثا فإن من شيمتي الطغيان والغضبا 
+لو شئت يوما أُجاريكم وأُوسعكم ضرباً ولكنني أوسعتكم ضربا 
+وكم مررت بوَهدٍ في تواضعه أترعتُ كأسي له حتى انتشى وربا 
+ولم أُبالِ بعالٍ ان حفرتُ له تحت القواعد حتى خر منقلبا 
+إني غريبٌ فإن ذلّ القريبُ بكم فعزّزوني كما عزّزتم الغُربا 
+لو كان غيركم أهلي سعدت بهم واظمؤُوكم من الماء الذي عذبا 
+مالي أٌقيم بأرض لا مكانة لي فيها وقد نيل ملءُ الأرض بي ذهبا 
+تلكم مكارم أخلاق عرفت بها قدما وأحسن لي ربي بها الأدبا 
+عليكم البرّ والإحسان واستبقوا إلى الرشاد وخلوا اللهو واللعبا 
+وقوّموا منكم المعوّج واجتهدوا فيما يكون لكم مجدا وحسن نبا 
+وما لكم معقل إلا تألفكم بأقوم فأووا اليه تأمنوا العطبا 
+والصدق ما الصدق لا تبغوا به بدلا فليس خير بغير الصدق مكتسبا 
+ولو صدقتم لراج الصدق عندكم وهو الكتاب الذي قد حرَّم الكذبا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

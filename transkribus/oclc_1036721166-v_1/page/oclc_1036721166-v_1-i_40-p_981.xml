@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.539+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.539+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_40-p_981.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بالله متستفتاس فاسق قلبه من التقوى خالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ووعى بقوله تكون واثق ولو يكون ابن الحالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واحذر من البدعة تدعى على الدوام قدرك غالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأمشي ورا القرآن وأسعى وذق طعام وعظ القايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يبيح مرّه بسرك أوعى تعاتبه على فعله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وارجع لكن عاتب نفسك وصن لسانك من أصله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وشريك سنه ما تحاسبوشي ولو يروح مالك كله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي مضى ما تعيدوشي وللي يسيئك أحسن له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ووعى تشيل هم الأرزاق والكل يرزق من فضله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأترك حمولك ع الخلاق سبحانه حاكم عادل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>شف السكوت كله سلامه على الدوام فيها راحه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أما الكلام كتره ندامه وربما يجر قباحه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اسمع وذق طعم الكلمه تعرف معاني روّاحه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكن أدوب عالي الهمه تبقى معظم في الساحه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كنت تحكي في السكنه يكون كلامك بفصاحه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لازم كمان يا ابن النكته عن بعض أشياء نتغافل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واحفظ مقام صاحبك ديمه وإن جنى أعفي عنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+بالله متستفتاس فاسق قلبه من التقوى خالي 
+ووعى بقوله تكون واثق ولو يكون ابن الحالي 
+واحذر من البدعة تدعى على الدوام قدرك غالي 
+وأمشي ورا القرآن وأسعى وذق طعام وعظ القايل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+وللي يبيح مرّه بسرك أوعى تعاتبه على فعله 
+وارجع لكن عاتب نفسك وصن لسانك من أصله 
+وشريك سنه ما تحاسبوشي ولو يروح مالك كله 
+وللي مضى ما تعيدوشي وللي يسيئك أحسن له 
+ووعى تشيل هم الأرزاق والكل يرزق من فضله 
+وأترك حمولك ع الخلاق سبحانه حاكم عادل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+شف السكوت كله سلامه على الدوام فيها راحه 
+أما الكلام كتره ندامه وربما يجر قباحه 
+اسمع وذق طعم الكلمه تعرف معاني روّاحه 
+وكن أدوب عالي الهمه تبقى معظم في الساحه 
+وإن كنت تحكي في السكنه يكون كلامك بفصاحه 
+لازم كمان يا ابن النكته عن بعض أشياء نتغافل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+واحفظ مقام صاحبك ديمه وإن جنى أعفي عنه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

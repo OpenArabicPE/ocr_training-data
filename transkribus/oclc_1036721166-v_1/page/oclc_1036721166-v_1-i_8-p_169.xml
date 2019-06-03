@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:26.312+02:00</Created>
+        <LastChange>2019-06-03T15:22:26.312+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_8-p_169.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العدد ٨ - بتاريخ: ١٨٩٢ - ١٠ - ١١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اللغة والإنشاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وما المرءُ إلاّ قوله وفعاله وباقيه حظ للتراب اذا ماتا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اختلفت عبارة العلماء في اللغة إن كانت توفيقية أو اصطلاحية ولسنا بصدد هذا البحث فقد سبقنا إليه ألوف من العلماء وأفعمت الكتب بأقوالهم وبراهين كل فريق. ولا نتكلم كذلك على اللغات المتداولة بين الناس البالغة أكثر من ثمانمائة لغة غير فروعها وإنما نتكلم على لغتنا العربية الشريفة التي يتكلم بها الآن أكثر من مائة مليون من الناس ويسعة كثير من الناس المحبين للغاتهم أو لذتهم في إناتة هذه اللغة وتحويل الألسنة عن التكلم بها الى التكلم بغيرها لنفقد بفقدها المجد والشرف معاً. معلوم أن العرب تكلموا بلغات شتى ولهجة عربية وبقيت لغاتهم مستعملة في قبائلهم الى أن جاء الإسلام على يد أبي الفصاحة والبلاغة سيدنا ومولانا محمد صلى الله عليه وسلم وجمع القبائل وألّف بين العشائر واختلط العرب بعضهم ببعض وتناولوا لغاتهم فيما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٨ - بتاريخ: ١٨٩٢ - ١٠ - ١١ 
+
+اللغة والإنشاء 
+وما المرءُ إلاّ قوله وفعاله وباقيه حظ للتراب اذا ماتا 
+اختلفت عبارة العلماء في اللغة إن كانت توفيقية أو اصطلاحية ولسنا بصدد هذا البحث فقد سبقنا إليه ألوف من العلماء وأفعمت الكتب بأقوالهم وبراهين كل فريق. ولا نتكلم كذلك على اللغات المتداولة بين الناس البالغة أكثر من ثمانمائة لغة غير فروعها وإنما نتكلم على لغتنا العربية الشريفة التي يتكلم بها الآن أكثر من مائة مليون من الناس ويسعة كثير من الناس المحبين للغاتهم أو لذتهم في إناتة هذه اللغة وتحويل الألسنة عن التكلم بها الى التكلم بغيرها لنفقد بفقدها المجد والشرف معاً. معلوم أن العرب تكلموا بلغات شتى ولهجة عربية وبقيت لغاتهم مستعملة في قبائلهم الى أن جاء الإسلام على يد أبي الفصاحة والبلاغة سيدنا ومولانا محمد صلى الله عليه وسلم وجمع القبائل وألّف بين العشائر واختلط العرب بعضهم ببعض وتناولوا لغاتهم فيما </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

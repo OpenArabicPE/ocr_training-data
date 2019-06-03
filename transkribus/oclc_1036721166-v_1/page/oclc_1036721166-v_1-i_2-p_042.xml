@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:13.021+02:00</Created>
+        <LastChange>2019-06-03T15:22:13.021+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_2-p_042.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فما هذه الكلمات إلا تذكار لما أسدوه من الفضل للشاكرين. عبد الله النديم عبد الفتاح النديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الآداب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>جريدة علمية صاحبها ومحررها نبعة الفضل ولسان الفصاحة والبلاغة الجامع لشتات الآداب حضرة الفاضل التحرير محمد أفندي مسعود. وقد استلمنا العدد الثاني منها بيد القبول وتصفحناه فملأنا سروراً وزاد القلب نوراً بمحكم آياته وبديع كلماته كيف والمشترك مع هذا الفاضل في تحرير بعض المطالب أفضل الفضلاء وأوسع المنشئين باعاً صديقنا الفاضل الحجة الشيخ عبد الكريم سلمان الغني بشهرته عن التعريف والبيان. وكثير من أفاضل الكتاب وبحور العلوم أعانهم الله تعالى على هذه الخدمة العامة ونفع بعلومهم القراء والسامعين وجعل أعمالهم مقرونة بالنجاح موشحة بالقبول. ولا نقول ذلك حثاً على اقتنائها فإن علومها المفيدة وآدابها البديعة تستميل القلوب وتجذب النفوس اليها كما جذبت نفس الصديق. عبد الله النديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الهلال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>جريدة علمية تاريخية صاحبها ومحررها المؤرخ المحيط والكاتب المجيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فما هذه الكلمات إلا تذكار لما أسدوه من الفضل للشاكرين. عبد الله النديم عبد الفتاح النديم 
+
+الآداب 
+جريدة علمية صاحبها ومحررها نبعة الفضل ولسان الفصاحة والبلاغة الجامع لشتات الآداب حضرة الفاضل التحرير محمد أفندي مسعود. وقد استلمنا العدد الثاني منها بيد القبول وتصفحناه فملأنا سروراً وزاد القلب نوراً بمحكم آياته وبديع كلماته كيف والمشترك مع هذا الفاضل في تحرير بعض المطالب أفضل الفضلاء وأوسع المنشئين باعاً صديقنا الفاضل الحجة الشيخ عبد الكريم سلمان الغني بشهرته عن التعريف والبيان. وكثير من أفاضل الكتاب وبحور العلوم أعانهم الله تعالى على هذه الخدمة العامة ونفع بعلومهم القراء والسامعين وجعل أعمالهم مقرونة بالنجاح موشحة بالقبول. ولا نقول ذلك حثاً على اقتنائها فإن علومها المفيدة وآدابها البديعة تستميل القلوب وتجذب النفوس اليها كما جذبت نفس الصديق. عبد الله النديم 
+
+الهلال 
+جريدة علمية تاريخية صاحبها ومحررها المؤرخ المحيط والكاتب المجيد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

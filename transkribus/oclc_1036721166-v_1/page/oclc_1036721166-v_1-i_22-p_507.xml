@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:57.648+02:00</Created>
+        <LastChange>2019-06-03T15:22:57.648+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_22-p_507.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>العدد ٢٢ - بتاريخ: ١٨٩٣ - ١ - ١٧ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لو كنتم مثلنا لفعلتم فعلنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هي كلمة أوروبا التي ترددها على أسماع الشرقيين كلما فعلت فعلاً يحملها عليه الاستعمار الملكي أو الانتشار الديني وقد أحكمت التأليف بين القوتين الدينية والملكية فجعلت الأولى سفير وداود والثانية فارس جِلاد وقد أضاف كل ملك أوروبي الى عنوان الملك حماية الدين فيقول في مخاطباته ملك أو إمبراطور كذا وحامي الدين المسيحي أو عبارة أشد وقعاً في النفوس من هذه ليعلم الأمم أنه القابض على زمامي السياسة والدين فيؤيد رجال السياسة بتنفيذها يرونه من لوازم تأييد الملك وأتباعه ويساعد رجال الدين على نسق واحد كل فيما فوض إليه لا تفتر لهم همة ولا ترقد لهم عين عن وظائفهم التي فيها حياة الدين والملك وزيادة شرف الأمم. والأمم لكونهم أدركوا ما قصده الملوك ورجال السياسة وخدمة الدين اندفعوا معهم اندفاع السيل في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٢٢ - بتاريخ: ١٨٩٣ - ١ - ١٧ 
+
+لو كنتم مثلنا لفعلتم فعلنا 
+هي كلمة أوروبا التي ترددها على أسماع الشرقيين كلما فعلت فعلاً يحملها عليه الاستعمار الملكي أو الانتشار الديني وقد أحكمت التأليف بين القوتين الدينية والملكية فجعلت الأولى سفير وداود والثانية فارس جِلاد وقد أضاف كل ملك أوروبي الى عنوان الملك حماية الدين فيقول في مخاطباته ملك أو إمبراطور كذا وحامي الدين المسيحي أو عبارة أشد وقعاً في النفوس من هذه ليعلم الأمم أنه القابض على زمامي السياسة والدين فيؤيد رجال السياسة بتنفيذها يرونه من لوازم تأييد الملك وأتباعه ويساعد رجال الدين على نسق واحد كل فيما فوض إليه لا تفتر لهم همة ولا ترقد لهم عين عن وظائفهم التي فيها حياة الدين والملك وزيادة شرف الأمم. والأمم لكونهم أدركوا ما قصده الملوك ورجال السياسة وخدمة الدين اندفعوا معهم اندفاع السيل في </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

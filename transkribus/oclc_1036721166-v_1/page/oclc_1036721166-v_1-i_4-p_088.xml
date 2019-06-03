@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:18.141+02:00</Created>
+        <LastChange>2019-06-03T15:22:18.141+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_4-p_088.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ذَلَّ هذا المليك من بعد عزٍّ حين باتت جنوده في شقاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>برطلت قومه العيون بغمزٍ يوهم الوصل عند ترك السباق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ووعود الملاح للعين مدَّت تلِفونا منها الى الأعماق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومثير اللهيب فسفور جسمي وارتجافي بدِينَميت الفراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تطبع العين في السويدا رسوماً بالفُتُغراف من قدودٍ رشاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإذا أظلمت مسالك قلبي نورتها بكهربا الإشراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>صرت أحكي السماع من غير فكر كالفُنُغراف من عظيم اشتياقي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ووريدي مع الشرايين أمسى منبع الغاز من فحوم احتراقي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تلمني بصبوتي وغرامي إن ماء الغرام حلو المذاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كررته على حريق عظامي صبوتي سكراً بعصر المراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والتصابي اذا أقام بقلب أخرج العقل عن حدود النطاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لست أسلو ولو أذوب غراماً أو يدير الفناء فوقي السواقي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لذَّ لي الوجد مثل ما لذ مدح ال حسن البسط طاهر الأعراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>نبعة المجد منتاه حلاه وابن من سار للعلى بالبراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وهي خمسة وتسعون بيتاً اشتمل عليها ديواننا المسمى. ترصيع الماس. في خير الناس. وهو خاص بشعر الاختفاء الزائد عن عشرة آلاف بيت. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تهنئة قدوم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>شرَّف وطنه العزيز نبعة الفضل وغصن دوح المجد وفرع شجرة السيادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ذَلَّ هذا المليك من بعد عزٍّ حين باتت جنوده في شقاق 
+برطلت قومه العيون بغمزٍ يوهم الوصل عند ترك السباق 
+ووعود الملاح للعين مدَّت تلِفونا منها الى الأعماق 
+ومثير اللهيب فسفور جسمي وارتجافي بدِينَميت الفراق 
+تطبع العين في السويدا رسوماً بالفُتُغراف من قدودٍ رشاق 
+وإذا أظلمت مسالك قلبي نورتها بكهربا الإشراق 
+صرت أحكي السماع من غير فكر كالفُنُغراف من عظيم اشتياقي 
+ووريدي مع الشرايين أمسى منبع الغاز من فحوم احتراقي 
+لا تلمني بصبوتي وغرامي إن ماء الغرام حلو المذاق 
+كررته على حريق عظامي صبوتي سكراً بعصر المراق 
+والتصابي اذا أقام بقلب أخرج العقل عن حدود النطاق 
+لست أسلو ولو أذوب غراماً أو يدير الفناء فوقي السواقي 
+لذَّ لي الوجد مثل ما لذ مدح ال حسن البسط طاهر الأعراق 
+نبعة المجد منتاه حلاه وابن من سار للعلى بالبراق 
+وهي خمسة وتسعون بيتاً اشتمل عليها ديواننا المسمى. ترصيع الماس. في خير الناس. وهو خاص بشعر الاختفاء الزائد عن عشرة آلاف بيت. 
+
+تهنئة قدوم 
+شرَّف وطنه العزيز نبعة الفضل وغصن دوح المجد وفرع شجرة السيادة </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

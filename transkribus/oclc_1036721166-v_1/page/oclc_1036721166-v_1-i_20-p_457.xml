@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:53.430+02:00</Created>
+        <LastChange>2019-06-03T15:22:53.430+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_20-p_457.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>العدد ٢٠ - بتاريخ: ١٨٩٣ - ١ - ٣ الموافق ٣ يناير سنة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أشتات الشرق وعصبيات أوروبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>من نظر في تقدم الشرق في الأعصر الأول قوة وعلما ومدنية وتأخره مبتدئاً بالتقهقر من أربعة قرون مضت قال ما لهذه الأمم العظيمة صارت كتفاريق العصا ورجعت شعوباً وقبائل وبطوناً وأفخاذاً وانزوى كل فريق في قطعة من الأرض اتخذها وطناً فيها ولد وتربى وإن سرت فيه حمية آبائه عنها يدافع وفي أحيائها يموت وبتعدد الجوامع الشرقية من جنس ولغة ودين ووطن نبذوا الوحدة الاجماعية ظهرياً ومالوا مع الأهواء وجعلوا المنافع الذاتية والسطوة الشخصية وجهة فانحلت العرى التي ربطها الجنس العربي الذي دك كثيراً من عروش أوروبا وجلس على كثير من كراسي ملوكها وإذا نادى تلك الجموع الخاضعة اليه سمع لبيك لبيك الجواب العربي ممن جوابه سي سي أو وي وي وطرد جياده من تهامة فسمع صهيلها في ليون من أراضي فرانسا وفي جميع أراضي أسبانيا والبورتغال وصقلية ونابلي وجزائر البحر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٢٠ - بتاريخ: ١٨٩٣ - ١ - ٣ الموافق ٣ يناير سنة 
+
+أشتات الشرق وعصبيات أوروبا 
+من نظر في تقدم الشرق في الأعصر الأول قوة وعلما ومدنية وتأخره مبتدئاً بالتقهقر من أربعة قرون مضت قال ما لهذه الأمم العظيمة صارت كتفاريق العصا ورجعت شعوباً وقبائل وبطوناً وأفخاذاً وانزوى كل فريق في قطعة من الأرض اتخذها وطناً فيها ولد وتربى وإن سرت فيه حمية آبائه عنها يدافع وفي أحيائها يموت وبتعدد الجوامع الشرقية من جنس ولغة ودين ووطن نبذوا الوحدة الاجماعية ظهرياً ومالوا مع الأهواء وجعلوا المنافع الذاتية والسطوة الشخصية وجهة فانحلت العرى التي ربطها الجنس العربي الذي دك كثيراً من عروش أوروبا وجلس على كثير من كراسي ملوكها وإذا نادى تلك الجموع الخاضعة اليه سمع لبيك لبيك الجواب العربي ممن جوابه سي سي أو وي وي وطرد جياده من تهامة فسمع صهيلها في ليون من أراضي فرانسا وفي جميع أراضي أسبانيا والبورتغال وصقلية ونابلي وجزائر البحر </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

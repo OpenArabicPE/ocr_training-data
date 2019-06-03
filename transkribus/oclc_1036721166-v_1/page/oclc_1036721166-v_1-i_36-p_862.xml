@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:27.560+02:00</Created>
+        <LastChange>2019-06-03T15:23:27.560+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_862.jpg" imageWidth="483" imageHeight="728">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,728 0,728"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>أنعم بتلميذنا المعلوم مثل المنظوم نبه أخا الذوق من نومه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>سير الزراعة بتقدم دون تندم أما الرياض صبحت ضمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>قل للفتاة المنصانة يا انسانه نبهت ربات العصمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>هذي الجرائد المصرية صافيه النية والكل خالي من ذمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>قل للأُلى صانوا لسانهم عن إخوانهم صرتم نيشان فوق العمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>خدموا البلاد خدمة صادق غير منافق يحفظ لأوطانه الحرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>جعلوا المعارف كالأنوار للأفكار وأبرزوها للحومه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فنبهوا من كان نايم فصبح هايم خلف الأمير أعني شهمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>حامي البلاد مع انداها من أعداها وسلب أولاد الهرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>والله يصلح أحوالنا مع أقوالنا ويدرك الناس بالرحمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>ويزحزح الأعداء عنا لو كانوا منا ويبدل النقمة بنعمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فكل شيء عنده بميقات في الأوقات وكل شيء فعلوا لحكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا هذه الرسالة من انشاء الفاضل الشيخ أحمد جندية من المحلة الكبرى وهي بنصها: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>النصيحة العامة بأوجز مقالة في النهي عن البطالة والجهاله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>هذا النوع الإنساني قد تنوعت فيه الحقائق والصفات وتباينت فيه المحسوسات والمشاهدات واختلفت فيه الأجناس والهيأت وتقاربت وتباعدت فيه درجات الإدراك والتمييز والفهم والتعليم أبدعه موجد الكائنات على غير سبق مثال ولا تقدم نظام وأتاح له أسباب الرزق على التنويع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أنعم بتلميذنا المعلوم مثل المنظوم نبه أخا الذوق من نومه 
+سير الزراعة بتقدم دون تندم أما الرياض صبحت ضمه 
+قل للفتاة المنصانة يا انسانه نبهت ربات العصمه 
+هذي الجرائد المصرية صافيه النية والكل خالي من ذمه 
+قل للأُلى صانوا لسانهم عن إخوانهم صرتم نيشان فوق العمه 
+خدموا البلاد خدمة صادق غير منافق يحفظ لأوطانه الحرمه 
+جعلوا المعارف كالأنوار للأفكار وأبرزوها للحومه 
+فنبهوا من كان نايم فصبح هايم خلف الأمير أعني شهمه 
+حامي البلاد مع انداها من أعداها وسلب أولاد الهرمه 
+والله يصلح أحوالنا مع أقوالنا ويدرك الناس بالرحمه 
+ويزحزح الأعداء عنا لو كانوا منا ويبدل النقمة بنعمه 
+فكل شيء عنده بميقات في الأوقات وكل شيء فعلوا لحكمه 
+وردت لنا هذه الرسالة من انشاء الفاضل الشيخ أحمد جندية من المحلة الكبرى وهي بنصها: 
+النصيحة العامة بأوجز مقالة في النهي عن البطالة والجهاله 
+هذا النوع الإنساني قد تنوعت فيه الحقائق والصفات وتباينت فيه المحسوسات والمشاهدات واختلفت فيه الأجناس والهيأت وتقاربت وتباعدت فيه درجات الإدراك والتمييز والفهم والتعليم أبدعه موجد الكائنات على غير سبق مثال ولا تقدم نظام وأتاح له أسباب الرزق على التنويع </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

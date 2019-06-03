@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.252+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.252+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_989.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>في النظم إلاتقان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اسمع كلام نديممن طيه كل السرور وأعقل نصيحة حبر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يدعوك للعرفان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تستخف بخصم لو كان من أوهى الطيوروأصفح فكل صفوح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يعلو على الأعيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأخش اللئيم دواماًفاللؤْم داع للشرورواحفظ مودة حر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>في عهده ما خان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تصطحب بوضيعينزلك عن سرج الظهوروأصحب أخيّ شريفاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأطلب رضا الأخوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأنزل ببيت كريمإن كنت ضيفاً في العبور واسمع سؤال فقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أودى به الحرمان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>هذى نصيحة حرقد جرب الدهر الجسورإن كان يعجب هذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أولا فخذ تبيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فالبحر بحر لآلٍإن قُلدت زانت نحوروالفكر فكر ذكيّ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا يعرف النسيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فأعرض عن كان وكان عجزاً منه وقال هات فخراً على؟؟ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يا صبا نجد ورامه هجت للمشتاق وجدا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كل صبّ في غرامهُ ما اشتكى في الليل سهداً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عنفوني عذبوني ذقت في التعذيب شهداً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>في النظم إلاتقان 
+فقلت 
+اسمع كلام نديممن طيه كل السرور وأعقل نصيحة حبر 
+يدعوك للعرفان 
+لا تستخف بخصم لو كان من أوهى الطيوروأصفح فكل صفوح 
+يعلو على الأعيان 
+وأخش اللئيم دواماًفاللؤْم داع للشرورواحفظ مودة حر 
+في عهده ما خان 
+لا تصطحب بوضيعينزلك عن سرج الظهوروأصحب أخيّ شريفاً 
+وأطلب رضا الأخوان 
+وأنزل ببيت كريمإن كنت ضيفاً في العبور واسمع سؤال فقير 
+أودى به الحرمان 
+هذى نصيحة حرقد جرب الدهر الجسورإن كان يعجب هذا 
+أولا فخذ تبيان 
+فالبحر بحر لآلٍإن قُلدت زانت نحوروالفكر فكر ذكيّ 
+لا يعرف النسيان 
+فأعرض عن كان وكان عجزاً منه وقال هات فخراً على؟؟ 
+يا صبا نجد ورامه هجت للمشتاق وجدا 
+كل صبّ في غرامهُ ما اشتكى في الليل سهداً 
+عنفوني عذبوني ذقت في التعذيب شهداً </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

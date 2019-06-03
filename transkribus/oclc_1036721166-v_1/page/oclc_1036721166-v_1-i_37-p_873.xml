@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:28.855+02:00</Created>
+        <LastChange>2019-06-03T15:23:28.855+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_37-p_873.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>العدد ٣٧ - بتاريخ: ١٨٩٣ - ٥ - ٩ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>التربية والتعليم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>معلوم أن سعادة كل أمة موقوفة على تربيتها وانتشار العلوم فيها فإن الجهل يسوق أهله الى الدمار والخراب وتواصل الفتن والحروب الداخلية والخارجية مع حيلولته بين أهله وبين ما يوصلهم الى الظفر وبلوغ المقاصد بسبب فقد المعدات والآلات التي حرمهم منها وقد كانت الممالك قديماً محاطة بسور الجهل فكانت الحضارة فيها قليلة والرفاهية متعذرة والأمن معارضاً بالغارات والثورات الأهلية والخارجية الصناعة متأخرة تأخراً أوقفها عند الضروري الذي تلجئُ إليه شدة الحاجة. وللجهل تاريخ في كل أمة ومملكة يحفظه العقلاء ويعلمون مقدار ما جلبه من المصائب وما ترتب عليه من الخسائر. وقد أخذ الشرق دوره الأول ففي التربية والتعليم حتى أهّل غيره للأخذ عنه فكانت أوروبا أسرع في التقليد وأدق في </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٣٧ - بتاريخ: ١٨٩٣ - ٥ - ٩ 
+
+التربية والتعليم 
+معلوم أن سعادة كل أمة موقوفة على تربيتها وانتشار العلوم فيها فإن الجهل يسوق أهله الى الدمار والخراب وتواصل الفتن والحروب الداخلية والخارجية مع حيلولته بين أهله وبين ما يوصلهم الى الظفر وبلوغ المقاصد بسبب فقد المعدات والآلات التي حرمهم منها وقد كانت الممالك قديماً محاطة بسور الجهل فكانت الحضارة فيها قليلة والرفاهية متعذرة والأمن معارضاً بالغارات والثورات الأهلية والخارجية الصناعة متأخرة تأخراً أوقفها عند الضروري الذي تلجئُ إليه شدة الحاجة. وللجهل تاريخ في كل أمة ومملكة يحفظه العقلاء ويعلمون مقدار ما جلبه من المصائب وما ترتب عليه من الخسائر. وقد أخذ الشرق دوره الأول ففي التربية والتعليم حتى أهّل غيره للأخذ عنه فكانت أوروبا أسرع في التقليد وأدق في </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:30.606+02:00</Created>
+        <LastChange>2019-06-03T15:23:30.606+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_37-p_893.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وإني الآن في خطب عظيم أرى في طيه داءً دفينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أتانا مخبر عن قوم سوءٍ أرادوا وصفنا للحاكمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وخاف الضُرّا حبابي جميعا وقالوا بالوشاية قد رمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فعجل بالرحيل بلا توانٍ ولا تخبر صديقنا أو خدينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فأدرك يا أبي نجلاً دهاه من الأهوال ما يوهي البدينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فما خفت المنون ولا الأعادي نعم خفت انشراح الشامتينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فسرت الليل يصحبني ثبات لخلّ نحو منزله دعينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ورافقني خليل كان قبلا يوافي حين كنا ظاهرينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأدركنا القطار بغير خوف وكنا بالثياب منكَّرينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وألقى الله ستر الحفظ فضلاً فلم ترنا عيون المبلسيا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وكان الخل منتظرا قدومي بخيل أوصلتنا سالمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ونجى الله بعد اليأْس عبداً يرى الرحمن خير المنقذينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ومن كامنت هذه عقيدته في الشدة وهذا صبره في الخطوب التي كان يجهل عاقبتها لا تؤثر فيه أوهام المرجفين بعد سكاه دار الأمن بأمر وعفو الحضرة الخديوية أيدها الله تعالى وأدام علينا سوابغ نعمها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الكسوة الشريفة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>احتفل ليلة السبت في ديوان محافظة مصر احتفالاً جليلاً دعى اليه العلماء والأمراء وأرباب الطرق وكثير من الوجهاء والأعيان سروراً بإنجاز كسوة مقام سيدنا الخليل عليه الصلاة والسلام وقد بلغت مصارفها ١٧٠٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وإني الآن في خطب عظيم أرى في طيه داءً دفينا 
+أتانا مخبر عن قوم سوءٍ أرادوا وصفنا للحاكمينا 
+وخاف الضُرّا حبابي جميعا وقالوا بالوشاية قد رمينا 
+فعجل بالرحيل بلا توانٍ ولا تخبر صديقنا أو خدينا 
+فأدرك يا أبي نجلاً دهاه من الأهوال ما يوهي البدينا 
+فما خفت المنون ولا الأعادي نعم خفت انشراح الشامتينا 
+فسرت الليل يصحبني ثبات لخلّ نحو منزله دعينا 
+ورافقني خليل كان قبلا يوافي حين كنا ظاهرينا 
+وأدركنا القطار بغير خوف وكنا بالثياب منكَّرينا 
+وألقى الله ستر الحفظ فضلاً فلم ترنا عيون المبلسيا 
+وكان الخل منتظرا قدومي بخيل أوصلتنا سالمينا 
+ونجى الله بعد اليأْس عبداً يرى الرحمن خير المنقذينا 
+ومن كامنت هذه عقيدته في الشدة وهذا صبره في الخطوب التي كان يجهل عاقبتها لا تؤثر فيه أوهام المرجفين بعد سكاه دار الأمن بأمر وعفو الحضرة الخديوية أيدها الله تعالى وأدام علينا سوابغ نعمها. 
+
+الكسوة الشريفة 
+احتفل ليلة السبت في ديوان محافظة مصر احتفالاً جليلاً دعى اليه العلماء والأمراء وأرباب الطرق وكثير من الوجهاء والأعيان سروراً بإنجاز كسوة مقام سيدنا الخليل عليه الصلاة والسلام وقد بلغت مصارفها ١٧٠٠ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

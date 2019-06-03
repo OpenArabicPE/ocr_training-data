@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:39.799+02:00</Created>
+        <LastChange>2019-06-03T15:22:39.799+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_14-p_315.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لو كانت الأيام تعلم كنهها في البيد لم تتلوَّن الحرباءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو يستجير الصبح فيه من الدجى لغدا الزمان وما به ظلماءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خطبته مصر وهو كفٌ بلادها في يوم لا بعل ولا اكفاءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فأتى إحياء البلاد كأنه عيسى المسيح وفي يديه شفاءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>او انه موسى بن عمران له في كل آثاريد بيضاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وازال بالتدبير كل ملمة إن العظائم كفؤُها العظماءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وأعاد في مصر فضائل من مضوا من بعد ما طارت بها العنقاءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مولاي مدحي عن صفاتك قاصر والبدر يعي طلبيه سناءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والشمس تعشى الناظرين لضوئها والبحر لا تأتي عليه دلاءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فلئن شكرت لاشكرن زيارة سارت بموكب فضلها الأنباءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>دبت بنا روح النشاط لأجلها_فالبشر أول والسرور وراءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لازلت بالتدبير تحرز خطة بظلالها تتفيأُ العلياءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وتدوم للأيام كعبة آمل والله أرجو ان يجاب دعاءُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وقد بعثت هذه الزيارة روح الاجتهاد المتعلمين والمهلمين وباتت ألسنتهم رطبة بالدعاء لهذه الحضرة الفخمية فإن احق ما توجه اليه عنايته ايده الله تعالى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>باب الإنشاء والمآثر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>طلب مني كثير من الأفاضل والأدباء ان أودع بعض أعداد الجيدة شيئاً مما كتبته لأخوان الشدة ايام الاختفاء وتكرر هذا الطلب بالمشافهة والمكاتبة حتى خجلت من الاعتذار فإجابة لهم ننشر بعض الرسائل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+لو كانت الأيام تعلم كنهها في البيد لم تتلوَّن الحرباءُ 
+أو يستجير الصبح فيه من الدجى لغدا الزمان وما به ظلماءُ 
+خطبته مصر وهو كفٌ بلادها في يوم لا بعل ولا اكفاءُ 
+فأتى إحياء البلاد كأنه عيسى المسيح وفي يديه شفاءُ 
+او انه موسى بن عمران له في كل آثاريد بيضاء 
+وازال بالتدبير كل ملمة إن العظائم كفؤُها العظماءُ 
+وأعاد في مصر فضائل من مضوا من بعد ما طارت بها العنقاءُ 
+مولاي مدحي عن صفاتك قاصر والبدر يعي طلبيه سناءُ 
+والشمس تعشى الناظرين لضوئها والبحر لا تأتي عليه دلاءُ 
+فلئن شكرت لاشكرن زيارة سارت بموكب فضلها الأنباءُ 
+دبت بنا روح النشاط لأجلها_فالبشر أول والسرور وراءُ 
+لازلت بالتدبير تحرز خطة بظلالها تتفيأُ العلياءُ 
+وتدوم للأيام كعبة آمل والله أرجو ان يجاب دعاءُ 
+وقد بعثت هذه الزيارة روح الاجتهاد المتعلمين والمهلمين وباتت ألسنتهم رطبة بالدعاء لهذه الحضرة الفخمية فإن احق ما توجه اليه عنايته ايده الله تعالى 
+
+باب الإنشاء والمآثر 
+طلب مني كثير من الأفاضل والأدباء ان أودع بعض أعداد الجيدة شيئاً مما كتبته لأخوان الشدة ايام الاختفاء وتكرر هذا الطلب بالمشافهة والمكاتبة حتى خجلت من الاعتذار فإجابة لهم ننشر بعض الرسائل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

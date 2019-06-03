@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.431+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.431+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_40-p_979.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>جابوا كتاب بدع الأوباش وطلعوا رجعة تفليس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وينطقوا جهلاً بالقاف ويلبسوا المعنى تلبيس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ولهم كلام كله أجحاف شرك يقع فيه الجاهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكل قول محدث بدعه والبدعه لاشك ضلاله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أما الضلاله في جهنم والنار عليهم شغاله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أما الصحيح قوله يغنم في الجنه له ألف دلاله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اتبع كلام أهل السنه واترك كلام الخماله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اللي كلامهم له صنه على الخلاف طالع نازل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوصيك يا عاقل ان ترجع عن الأذيه للأخوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بينك وبين الموت مرجع والدهر من عادته خوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>شف الحصان لما ينزل على لطحونه زي الجان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يبقى مفرعن ويزلزل ما يلحقه ولاميت هجان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أما الطحونه متفكرشي ولو دخلها ألف حصان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تصبر عليه ما تقلقشي أكمنها عارفه الفاضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دتقول له مهلاً يا سريخ دا بكره تطلع متجرجر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يا ما الجمل كسر بطيخ هوا كمان كسر اكتر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي ميقراش في العاقبه ويكون بها أدرى أخبر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+جابوا كتاب بدع الأوباش وطلعوا رجعة تفليس 
+وينطقوا جهلاً بالقاف ويلبسوا المعنى تلبيس 
+ولهم كلام كله أجحاف شرك يقع فيه الجاهل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+وكل قول محدث بدعه والبدعه لاشك ضلاله 
+أما الضلاله في جهنم والنار عليهم شغاله 
+أما الصحيح قوله يغنم في الجنه له ألف دلاله 
+اتبع كلام أهل السنه واترك كلام الخماله 
+اللي كلامهم له صنه على الخلاف طالع نازل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+أوصيك يا عاقل ان ترجع عن الأذيه للأخوان 
+بينك وبين الموت مرجع والدهر من عادته خوان 
+شف الحصان لما ينزل على لطحونه زي الجان 
+يبقى مفرعن ويزلزل ما يلحقه ولاميت هجان 
+أما الطحونه متفكرشي ولو دخلها ألف حصان 
+تصبر عليه ما تقلقشي أكمنها عارفه الفاضل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+دتقول له مهلاً يا سريخ دا بكره تطلع متجرجر 
+يا ما الجمل كسر بطيخ هوا كمان كسر اكتر 
+وللي ميقراش في العاقبه ويكون بها أدرى أخبر </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

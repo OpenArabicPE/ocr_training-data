@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:08.238+02:00</Created>
+        <LastChange>2019-06-03T15:22:08.238+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_1-p_005.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>مستعيضاً ملك مصر الصغير بجنة عرضها السموات والأرض فجرت أنهر الدموع حزناً وضاق وسيع الصدر كمداً وأسفاً والتفت لسان المدح والثناء الى جانب التأبين والرثاء فأنشدت قصيدتي الدالية الغريبة في بابها ومطلعها وما بعده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ما للكواكب لا ترى في المرصد والكون أصبح في لباس أسود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عم الكسوف الكل أم فقد الضيا أم كلنا يرنو بمقلة أرمد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وتاريخها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فملائك الجنات قالت أرخوا توفيق في عز النعيم السرمدي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>٥٩٦ ٩٠ ٧٧ ٢٠١ ٣٤٥ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣٠٩ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وقد تكفل بها وما معها من تاريخ حياته الطيبة كتاب النحلة في الرحلة فإني رثيته لتفضله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>علي وإحسانه لا ليقال أجاد فيما قال ولا ليكون الرثاء وسيلة أبتغي بها مقصداً فلذا لم أرسلها وأنا في الشام لتنشر مع المراثي التي دونت فرحم الله تعالى روحاً زكية وذاتاً نقية وجعل مضجعه المنير روضة من رياض الجنة ممطوراً بسحائب الرحمة والرضوان. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وما زحزح الهم عن الفؤاد ومسح دموع الحزن بمنديل السرور إلا ارتقاء صدر الصدور وعين أعيان الأمراء وخلاصة العائلة المحمدية وبدر سماء بيت الإمارة أفندينا الخديوي المفخم ذي الفخامة والجلالة مولانا عباس باشا حلمي الثاني أيده الله تعالى فتسلت النفس بأشرف خلف لخير سلف وانطلق لسان التهاني منشداً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مستعيضاً ملك مصر الصغير بجنة عرضها السموات والأرض فجرت أنهر الدموع حزناً وضاق وسيع الصدر كمداً وأسفاً والتفت لسان المدح والثناء الى جانب التأبين والرثاء فأنشدت قصيدتي الدالية الغريبة في بابها ومطلعها وما بعده 
+ما للكواكب لا ترى في المرصد والكون أصبح في لباس أسود 
+عم الكسوف الكل أم فقد الضيا أم كلنا يرنو بمقلة أرمد 
+وتاريخها 
+فملائك الجنات قالت أرخوا توفيق في عز النعيم السرمدي 
+٥٩٦ ٩٠ ٧٧ ٢٠١ ٣٤٥ 
+سنة ١٣٠٩ 
+وقد تكفل بها وما معها من تاريخ حياته الطيبة كتاب النحلة في الرحلة فإني رثيته لتفضله 
+علي وإحسانه لا ليقال أجاد فيما قال ولا ليكون الرثاء وسيلة أبتغي بها مقصداً فلذا لم أرسلها وأنا في الشام لتنشر مع المراثي التي دونت فرحم الله تعالى روحاً زكية وذاتاً نقية وجعل مضجعه المنير روضة من رياض الجنة ممطوراً بسحائب الرحمة والرضوان. 
+وما زحزح الهم عن الفؤاد ومسح دموع الحزن بمنديل السرور إلا ارتقاء صدر الصدور وعين أعيان الأمراء وخلاصة العائلة المحمدية وبدر سماء بيت الإمارة أفندينا الخديوي المفخم ذي الفخامة والجلالة مولانا عباس باشا حلمي الثاني أيده الله تعالى فتسلت النفس بأشرف خلف لخير سلف وانطلق لسان التهاني منشداً </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

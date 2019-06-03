@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:41.046+02:00</Created>
+        <LastChange>2019-06-03T15:23:41.046+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1016.jpg" imageWidth="580" imageHeight="925">
+        <TextRegion id="region_1">
+            <Coords points="0,0 580,0 580,925 0,925"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>مدة الولاية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهر أسماء الخلفاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٤ ٣ ٧٨٥ ٧٨٨ خلع ٢٨ رجبالواثق بالله ابن إبراهيم ابن ابن محمد المستمسك بالله ابن الحاكم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١ ٣ ٧٨٨ ٧٩١ المعتصم بالله زكريا بن إبراهيم المتقدم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢ ٤٥ ٧٩١ ٨٠٨ عودة المتوكل بن المعتضد ومدته في الخلافتين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٤ ٧ ٨٠٨ ٨١٥ المستعين بالله العباس ابن المتوكل خلع وأعيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٣٠ ٨١٥ ٨٤٥ المعتضد بالله داوود بن المتوكل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٩ ٨٤٥ ٨٥٤ المستكفي بالله سليمان بن المتوكل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١١ ٤ ٨٥٤ ٨٥٩ القائم بأمر الله حمزة ب المتوكل خلع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٥ ٨٥٩ ٨٨٤ المستنجد بالله يوسف بن المتوكل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٣ ١٩ ٨٨٤ ٩٠٣ عبد العزيز المتوكل على الله بن يعقوب ابن المتوكل الأول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٩٠٣ المستمسك بالله يعقوب بن عبد العزيز وهو أخرهم ومدته مجهولة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدة الولاية 
+أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهر أسماء الخلفاء 
+٤ ٣ ٧٨٥ ٧٨٨ خلع ٢٨ رجبالواثق بالله ابن إبراهيم ابن ابن محمد المستمسك بالله ابن الحاكم 
+١ ٣ ٧٨٨ ٧٩١ المعتصم بالله زكريا بن إبراهيم المتقدم 
+٢ ٤٥ ٧٩١ ٨٠٨ عودة المتوكل بن المعتضد ومدته في الخلافتين 
+٤ ٧ ٨٠٨ ٨١٥ المستعين بالله العباس ابن المتوكل خلع وأعيد 
+٣٠ ٨١٥ ٨٤٥ المعتضد بالله داوود بن المتوكل 
+٩ ٨٤٥ ٨٥٤ المستكفي بالله سليمان بن المتوكل 
+١١ ٤ ٨٥٤ ٨٥٩ القائم بأمر الله حمزة ب المتوكل خلع 
+٢٥ ٨٥٩ ٨٨٤ المستنجد بالله يوسف بن المتوكل 
+٣ ١٩ ٨٨٤ ٩٠٣ عبد العزيز المتوكل على الله بن يعقوب ابن المتوكل الأول 
+٩٠٣ المستمسك بالله يعقوب بن عبد العزيز وهو أخرهم ومدته مجهولة </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

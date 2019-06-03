@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:17.387+02:00</Created>
+        <LastChange>2019-06-03T15:23:17.387+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_31-p_734.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٠٢١٨ ١٥٤٥ ٣٣٧ ٨٣ ما قبله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٦٤ ٩٨ ١٣ ٣ مكتب الرحمانية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٥٨٢ ١٠٠ ١٣ ٣ مكتب المحلة الكبرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٧١٤ ٢٠٠ ٢٢ ٦ مكتب منوف واشمون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٨٧ ٩٩ ١٤ ٣ مكتب نبروه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٩٩ ٩٣ ٩٣ ٣ مكتب النجيله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٨٢ ٩٧ ١٤ ٣ مكتب فوه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٢١٢ ٨٤ ١١ ٢ مكتب الساحل قبلي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٥٤٨ ٩٩ ١٧ ٣ مكتب زفتى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٧٣٨ ٢٠٦ ١٧ ٧ مكتب بني سويف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١١٢٨ ٦٩ ١١ ٢ مكتب أخميم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٣٢٣ ١٧٠ ١٨ ٦ مكتب فارسكور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٥١٧ ٩٤ ٤ ٣ مكتب ميت العز </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٢٥٤٤ ١٨٤ ١٩ ٦ مكتب المنيا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٣٨١ ١٠٦ ١ ٣ مكتب قمولة قبلي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٤٨ ١٠١ ١٣ ٣ مكتب طهطا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٣٤٠ ٨٩ ١٣ ٣ مكتب ساقية موسى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٦٥ ٩٤ ١٤ ٣ مكتب بلبيس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٥١٦ ١٠٠ ١٤ ٣ مكتب الجعفرية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>١٤٠٩ ١٠٣ ١٣ ٣ مكتب اسنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٤١٩١٥ ٣٧٣١ ٦٧١ ١٥١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>١٠٢١٨ ١٥٤٥ ٣٣٧ ٨٣ ما قبله 
+١٤٦٤ ٩٨ ١٣ ٣ مكتب الرحمانية 
+١٥٨٢ ١٠٠ ١٣ ٣ مكتب المحلة الكبرى 
+٢٧١٤ ٢٠٠ ٢٢ ٦ مكتب منوف واشمون 
+١٤٨٧ ٩٩ ١٤ ٣ مكتب نبروه 
+١٤٩٩ ٩٣ ٩٣ ٣ مكتب النجيله 
+١٤٨٢ ٩٧ ١٤ ٣ مكتب فوه 
+١٢١٢ ٨٤ ١١ ٢ مكتب الساحل قبلي 
+١٥٤٨ ٩٩ ١٧ ٣ مكتب زفتى 
+٢٧٣٨ ٢٠٦ ١٧ ٧ مكتب بني سويف 
+١١٢٨ ٦٩ ١١ ٢ مكتب أخميم 
+٢٣٢٣ ١٧٠ ١٨ ٦ مكتب فارسكور 
+١٥١٧ ٩٤ ٤ ٣ مكتب ميت العز 
+٢٥٤٤ ١٨٤ ١٩ ٦ مكتب المنيا 
+١٣٨١ ١٠٦ ١ ٣ مكتب قمولة قبلي 
+١٤٤٨ ١٠١ ١٣ ٣ مكتب طهطا 
+١٣٤٠ ٨٩ ١٣ ٣ مكتب ساقية موسى 
+١٤٦٥ ٩٤ ١٤ ٣ مكتب بلبيس 
+١٥١٦ ١٠٠ ١٤ ٣ مكتب الجعفرية 
+١٤٠٩ ١٠٣ ١٣ ٣ مكتب اسنا 
+٤١٩١٥ ٣٧٣١ ٦٧١ ١٥١ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:27.412+02:00</Created>
+        <LastChange>2019-06-03T15:23:27.412+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_860.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأسكت الأُجرا الكذَبه عن دي الغلبه ورد كلاًّ عن نمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وحيات أبوك بكره تسمع عن ذا المجمع لما تجي أوقات غنمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وتشوف سعوده بجموعه وسط ربوعه وسطوته بعزم الضمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ما تغرك الغوغا وحالها شوف أوحالها بكره تجيف مثل الرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>مصر العزيزه محبوبه بل مرغوبه وكل دوله مهتمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فيها مصالح لأوروبا لا تتخبا والكل يفيدها بدمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وبحزم عباس وثباته في وثباته يرجع عدو عن ظلمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كل الملوك تعرف حقه في نور شرقه وتؤيد القول باللكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>واللي يقول لك ضاع حقه أقطع حلقه وحط صخره في فمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>هوّ أميرنا ذا الشرعي حقو مرعي ما حد ينئيه عن حكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>والأجنبي عندو خدام أي مثل غلام ويرفتوا ببيان جرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>اسمع كلامي وأتعلم واوعا تكلم من يُشتَرَى بحتة لحمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأثبت على حب أميرنا ويا وزيرنا والهي العدا عنو بعضمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأوعا تهيج أفكارك أو انصارك فالشر يبدو من كلمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وألزم سكونك وهدوك تلقى عدوّك يعض من غيظه الجزمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لا بد المحال من آخر لا تتأخر وأصبر تنل حفظ الحرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ما يغرك الشنّه ورَنه ولاّ الزنة فظلمة الكون من غيمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>سحابة الصيف تتبدد لا تتمدد وتذهب الشمس الغمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>سر الجرائد بيهذب بل بيأدب اذ كل أقوالها حكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>شوف المؤيد ولسانه حسن بيانه شكم العدا أحسن شكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وأسكت الأُجرا الكذَبه عن دي الغلبه ورد كلاًّ عن نمه 
+وحيات أبوك بكره تسمع عن ذا المجمع لما تجي أوقات غنمه 
+وتشوف سعوده بجموعه وسط ربوعه وسطوته بعزم الضمه 
+ما تغرك الغوغا وحالها شوف أوحالها بكره تجيف مثل الرمه 
+مصر العزيزه محبوبه بل مرغوبه وكل دوله مهتمه 
+فيها مصالح لأوروبا لا تتخبا والكل يفيدها بدمه 
+وبحزم عباس وثباته في وثباته يرجع عدو عن ظلمه 
+كل الملوك تعرف حقه في نور شرقه وتؤيد القول باللكمه 
+واللي يقول لك ضاع حقه أقطع حلقه وحط صخره في فمه 
+هوّ أميرنا ذا الشرعي حقو مرعي ما حد ينئيه عن حكمه 
+والأجنبي عندو خدام أي مثل غلام ويرفتوا ببيان جرمه 
+اسمع كلامي وأتعلم واوعا تكلم من يُشتَرَى بحتة لحمه 
+وأثبت على حب أميرنا ويا وزيرنا والهي العدا عنو بعضمه 
+وأوعا تهيج أفكارك أو انصارك فالشر يبدو من كلمه 
+وألزم سكونك وهدوك تلقى عدوّك يعض من غيظه الجزمه 
+لا بد المحال من آخر لا تتأخر وأصبر تنل حفظ الحرمه 
+ما يغرك الشنّه ورَنه ولاّ الزنة فظلمة الكون من غيمه 
+سحابة الصيف تتبدد لا تتمدد وتذهب الشمس الغمه 
+سر الجرائد بيهذب بل بيأدب اذ كل أقوالها حكمه 
+شوف المؤيد ولسانه حسن بيانه شكم العدا أحسن شكمه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

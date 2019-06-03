@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:49.731+02:00</Created>
+        <LastChange>2019-06-03T15:22:49.731+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_17-p_404.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أعظم به فجميعنا لسروره_قد قال في التاريخ استاذ نصح ١٣١٠ ١١٦٢ ١٤٨ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>زيارة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عندما زار الخديوي الأفخم مدرسة المرحومة والدة المرحوم عباس باشا الأول تلا عبد الرحمن افندي وهبي التميمي الداري هذه الأبيات بين التلامذة الذين هو أحدهم وهي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>زار الخديوي ادام الله دولته من فضله مكتبا من خير عباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والشمس تشرق من انوار طلعته والسعد ينشر أعلاماً على الرأس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والخلق تدعو آله العرش يحرسه من كل سوءٍ ويبقيه على الناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فيامليكاً غدا بالحكم منصفنا والعدل والفضل والإحسان والباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هذي المدارس قد اثنت مؤخرة النحج زاد بنا في ظل عباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٩٢ ٥٥ ٩٠ ٩٣٠ ١٣٣ سنة ١٣١٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تقاريظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حرية المطبوعات بمصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>جرى على المطبوعات المصرية زمن طويل وهي في يد التضييق خصوصاً على الجرائد الدينية فمع كون جمهور البلاد المصرية مسلماً وفي وسطهم الطائفة القبطية ما كنا نرى جريدة دينية إسلامية ولا مسيحية والآن قد انحل ذاك القيد تقدمت المطبوعات خطوة عظيمة فظهرت فيها النشرة الأسبوعية الدينية القبطية وأخذت تنشر أصول الدين المسيحي وفروعه علناً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أعظم به فجميعنا لسروره_قد قال في التاريخ استاذ نصح ١٣١٠ ١١٦٢ ١٤٨ 
+
+زيارة 
+عندما زار الخديوي الأفخم مدرسة المرحومة والدة المرحوم عباس باشا الأول تلا عبد الرحمن افندي وهبي التميمي الداري هذه الأبيات بين التلامذة الذين هو أحدهم وهي 
+زار الخديوي ادام الله دولته من فضله مكتبا من خير عباس 
+والشمس تشرق من انوار طلعته والسعد ينشر أعلاماً على الرأس 
+والخلق تدعو آله العرش يحرسه من كل سوءٍ ويبقيه على الناس 
+فيامليكاً غدا بالحكم منصفنا والعدل والفضل والإحسان والباس 
+هذي المدارس قد اثنت مؤخرة النحج زاد بنا في ظل عباس 
+٩٢ ٥٥ ٩٠ ٩٣٠ ١٣٣ سنة ١٣١٠ 
+
+تقاريظ 
+حرية المطبوعات بمصر 
+جرى على المطبوعات المصرية زمن طويل وهي في يد التضييق خصوصاً على الجرائد الدينية فمع كون جمهور البلاد المصرية مسلماً وفي وسطهم الطائفة القبطية ما كنا نرى جريدة دينية إسلامية ولا مسيحية والآن قد انحل ذاك القيد تقدمت المطبوعات خطوة عظيمة فظهرت فيها النشرة الأسبوعية الدينية القبطية وأخذت تنشر أصول الدين المسيحي وفروعه علناً </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

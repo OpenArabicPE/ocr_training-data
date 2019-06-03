@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:30.485+02:00</Created>
+        <LastChange>2019-06-03T15:23:30.485+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_37-p_891.jpg" imageWidth="486" imageHeight="726">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,726 0,726"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>فأعيا الخطبَ ما يلقاه منا ولكنا صحاح ما عيينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>صلينا يا خطوب فقد عُرفنا بأنّا الصُلب صُلنا أو صُلينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>وقرّي فوق عاقتنا وقولي نزلت اليوم أعلى طور سينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>علينا للعلا دين وضعنا عليه الروح لا الدنيا رهينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>فهل يمسي رهين في سرور وهل تلقى بلا كدر مدينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>إذا ما المجد نادانا أجبنا فيظهر حين ينظرنا حنينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>يغنينا فيلهبنا التغنيّ عن الباكي وينسينا الحزينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>ولسنا الساخطين اذا رزئنا عم يلقى القضا قلباً رزينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>فإنا في عداد الناس قوم بما يرضى الإله لنا رضينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>إذا طاش الزمان بنا حلمنا ولكنا نُهينا ان نهينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>فبيت المجد يهدمه التغابي وزند الفضل ينتن ان أُبينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>وإنا والورى قسمان لكن إذا ماتوا بنازلة حيينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>وإن لاذوا بعترتن ضعفنا فإن رفعوا انوفهم قوينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>وإن شئنا نشرنا القول درا وإن شئنا نظمناه ثمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>وإن شئنا سلبنا كل لب وإن شئنا سحرنا المنشئينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>ومسطرنا يناجي كل حبر بما يهوى ويعلى الكاتبينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>سلوا عنا منابرنا فإنا تركنا في منصتها فطينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>لحكمتنا تقول اذا هذرتم الاهبي بصحنك فاصجينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>ورثناها عن الآباء بحق فإن سرنا نورّثها البنينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 486,0 486,726 0,726"/>
+                <TextEquiv>
+                    <Unicode>بعيد ان يرى حبر غبياً وسيد عترة يلفى هجينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+فأعيا الخطبَ ما يلقاه منا ولكنا صحاح ما عيينا 
+صلينا يا خطوب فقد عُرفنا بأنّا الصُلب صُلنا أو صُلينا 
+وقرّي فوق عاقتنا وقولي نزلت اليوم أعلى طور سينا 
+علينا للعلا دين وضعنا عليه الروح لا الدنيا رهينا 
+فهل يمسي رهين في سرور وهل تلقى بلا كدر مدينا 
+إذا ما المجد نادانا أجبنا فيظهر حين ينظرنا حنينا 
+يغنينا فيلهبنا التغنيّ عن الباكي وينسينا الحزينا 
+ولسنا الساخطين اذا رزئنا عم يلقى القضا قلباً رزينا 
+فإنا في عداد الناس قوم بما يرضى الإله لنا رضينا 
+إذا طاش الزمان بنا حلمنا ولكنا نُهينا ان نهينا 
+فبيت المجد يهدمه التغابي وزند الفضل ينتن ان أُبينا 
+وإنا والورى قسمان لكن إذا ماتوا بنازلة حيينا 
+وإن لاذوا بعترتن ضعفنا فإن رفعوا انوفهم قوينا 
+وإن شئنا نشرنا القول درا وإن شئنا نظمناه ثمينا 
+وإن شئنا سلبنا كل لب وإن شئنا سحرنا المنشئينا 
+ومسطرنا يناجي كل حبر بما يهوى ويعلى الكاتبينا 
+سلوا عنا منابرنا فإنا تركنا في منصتها فطينا 
+لحكمتنا تقول اذا هذرتم الاهبي بصحنك فاصجينا 
+ورثناها عن الآباء بحق فإن سرنا نورّثها البنينا 
+بعيد ان يرى حبر غبياً وسيد عترة يلفى هجينا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.345+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.345+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_255.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بشائره بيمن ارخته تزف لسعد إبراهيم شمس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ٤٨٧ ١٥٤ ٢٥٩ ٤٠٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا قصيدة غراء من نظم الفاضل الشيخ محمد علي العوامري خطيب مسجد الموازيني باسكندرية يرد بها على من يعترض الأستاذ ويفتري عليه ما ليس من مشربه لخصنا منها قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بدا الأستاذ بالنفع العميم لنصح الناس من قلب سليم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولكن قد رمى من فرط حقد بالسنة حداد من لئيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وقدم قال ذا الأستاذ جفر له سر خفي للفهيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فاعرض أيها الأستاذ عنهم يموتوا منه بالغيط الأليم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فلو يدري المعارض ما حواه من التهذيب للخلق الذميم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لأثبت انه حكم ووعظ وهدى للطريق المستقيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فقل للنصح لازمنا وارخ بجد جاء أستاذ النديم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ٣١٠ ٩.٤١١٦٢١٣٥E٨ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ومن نظم الفاضل الكامل الشيخ عبد العزيز العوامري الإسكندري لله أستاذ علم * حوى مآثر شهم * انار في الشرق فضلاً * كأنه بدر تم * فيه بديع المعاني * يلهيك عن بنت كرم * فيه حميد المزايا * يبثها خبر قرم * أبدى النديم فصولاً * تدعو لحظة حزم * بحكمة واختبار * له ونبر فهم أبدى صحيفة فضل * عن الفضائل تحمى * هدى بها كل غير * أعماه خاطروهم لفتح أعين عمي * جاءت وآذان صم * وصقل عقل وفكر * بدر نثر ونظم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+بشائره بيمن ارخته تزف لسعد إبراهيم شمس 
+سنة ١٣١٠ ٤٨٧ ١٥٤ ٢٥٩ ٤٠٠ 
+وردت لنا قصيدة غراء من نظم الفاضل الشيخ محمد علي العوامري خطيب مسجد الموازيني باسكندرية يرد بها على من يعترض الأستاذ ويفتري عليه ما ليس من مشربه لخصنا منها قوله: 
+بدا الأستاذ بالنفع العميم لنصح الناس من قلب سليم 
+ولكن قد رمى من فرط حقد بالسنة حداد من لئيم 
+وقدم قال ذا الأستاذ جفر له سر خفي للفهيم 
+فاعرض أيها الأستاذ عنهم يموتوا منه بالغيط الأليم 
+فلو يدري المعارض ما حواه من التهذيب للخلق الذميم 
+لأثبت انه حكم ووعظ وهدى للطريق المستقيم 
+فقل للنصح لازمنا وارخ بجد جاء أستاذ النديم 
+سنة ٣١٠ ٩.٤١١٦٢١٣٥E٨ 
+ومن نظم الفاضل الكامل الشيخ عبد العزيز العوامري الإسكندري لله أستاذ علم * حوى مآثر شهم * انار في الشرق فضلاً * كأنه بدر تم * فيه بديع المعاني * يلهيك عن بنت كرم * فيه حميد المزايا * يبثها خبر قرم * أبدى النديم فصولاً * تدعو لحظة حزم * بحكمة واختبار * له ونبر فهم أبدى صحيفة فضل * عن الفضائل تحمى * هدى بها كل غير * أعماه خاطروهم لفتح أعين عمي * جاءت وآذان صم * وصقل عقل وفكر * بدر نثر ونظم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

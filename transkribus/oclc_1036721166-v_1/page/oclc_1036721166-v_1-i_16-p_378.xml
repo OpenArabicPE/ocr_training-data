@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:47.511+02:00</Created>
+        <LastChange>2019-06-03T15:22:47.511+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_16-p_378.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أنفسنا بذلك. والله أعلم بما هنالك. ملتمسين الشرح على هذا العرضحال. لنعلم عاقبة الحال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الامضاط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تحريراً في ٦ جمادى أول سنة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خامورجية بندر طنطا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تذييل عرضحال السفهاء الجالبين كل ضرر وبلاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أنا وإن استجاروا بي في هذه العبارة. فأنا لا ارضي بالخسارة. بل مثلهم معي كمن استجار من العصا بالتيار. ومن الرمضاء بالنار. بل ارجوك ان تمزق عرض حالهم. ولا تسمع لمقالهم. ولا تسكت عنهم فإن ضرر الناس منهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا سي نديم علشان خاطري إلهي الكلاب دولا بعضمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وانزل عليهم دور طيب إياك تزيح عنا الغمة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وليش بتسكت في الأعداد عن الرذال مع سكرينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فين العصا يا ابن الأمجاد تضرب بها الطامع فينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن في ذلك لعبرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>في العددين ٨٥٢ و ٨٥٣ من جريدة المؤيد الإسلامية المصرية مقالة تحت عناون (آلة آلات السياسة الأوروبية في الشرق) يجب على كل مسلم غيور على ملته وبلاده ان يطلع عليها ويجعلها أمام عينيه يقرؤوها كلما فرغ من أعمال وهي حقيقة بأن تطيع على حدتها في صفة كراس لتحفظ وتدرس وتوضع في مقدمة الكتبيات لأن وضعها في جريدة يومية لا يعتنى بالتحفظ عليها أكثر القراء انزال لها عن رتبتها العلية في مقام الإنشاء والنصح والتبصير ومن لنا بأن تبلغ هذه الإنذارات والنصائح قوياً تائهين في القفار انقطعوا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أنفسنا بذلك. والله أعلم بما هنالك. ملتمسين الشرح على هذا العرضحال. لنعلم عاقبة الحال 
+الامضاط 
+تحريراً في ٦ جمادى أول سنة 
+خامورجية بندر طنطا 
+تذييل عرضحال السفهاء الجالبين كل ضرر وبلاء 
+أنا وإن استجاروا بي في هذه العبارة. فأنا لا ارضي بالخسارة. بل مثلهم معي كمن استجار من العصا بالتيار. ومن الرمضاء بالنار. بل ارجوك ان تمزق عرض حالهم. ولا تسمع لمقالهم. ولا تسكت عنهم فإن ضرر الناس منهم 
+يا سي نديم علشان خاطري إلهي الكلاب دولا بعضمه 
+وانزل عليهم دور طيب إياك تزيح عنا الغمة 
+وليش بتسكت في الأعداد عن الرذال مع سكرينا 
+فين العصا يا ابن الأمجاد تضرب بها الطامع فينا 
+
+إن في ذلك لعبرة 
+في العددين ٨٥٢ و ٨٥٣ من جريدة المؤيد الإسلامية المصرية مقالة تحت عناون (آلة آلات السياسة الأوروبية في الشرق) يجب على كل مسلم غيور على ملته وبلاده ان يطلع عليها ويجعلها أمام عينيه يقرؤوها كلما فرغ من أعمال وهي حقيقة بأن تطيع على حدتها في صفة كراس لتحفظ وتدرس وتوضع في مقدمة الكتبيات لأن وضعها في جريدة يومية لا يعتنى بالتحفظ عليها أكثر القراء انزال لها عن رتبتها العلية في مقام الإنشاء والنصح والتبصير ومن لنا بأن تبلغ هذه الإنذارات والنصائح قوياً تائهين في القفار انقطعوا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

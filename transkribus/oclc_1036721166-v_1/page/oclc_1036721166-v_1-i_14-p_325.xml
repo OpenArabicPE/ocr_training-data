@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:41.189+02:00</Created>
+        <LastChange>2019-06-03T15:22:41.189+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_14-p_325.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالحر ان عزَّ الكثيـ ر من الثنا أخذ اليسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عز الخمير من البديـ ع فكل ما عندي فير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما قلت هذا مدحة بل سار من عندي سفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يحكي لصنوي حالة فيها الحلي غدا مرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والرمز قرب من شقا شقنا واكثار الهدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فانظر لمن تدري بهم حتى نرى حسن المصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لم يبق في الأقوام من شخص معين أو معير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فكأنني وكأنهم ضيف على باب الفقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حولي الوف نوّم منعوا منامي بالخشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وصديقنا المعلوم د رمّ المخلع والكسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لكن اتاه معوز غيري جبا حمل البعير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واتاه آخر لم يجد قمحاً فلم يأب الشعير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واتاه آخر بالعيا ل وصار للاخِ السمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فإذا اتاه رابع - اخذ الحمار أو البجبر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فعذرته في محنة وقفت بمزلقها الحمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وكتبت للاخِ الذي كالظل في وقت الهجير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كم قد وصلت تفضلاً رحماً واكثرت الخمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وكسوت آل محمد وأَمرت من لا يستمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ارضيت جدك بالولا - ورضيت بالخير الكثير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وتركت كلاً من جدو دك في منامته قرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لم استمع قلمي يصرُّ لغيركم هذا الصرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لو انه اوما لغيـ ر عصابتي من ذا لعشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لكسرته ورميته قبل الدواة بقعر بير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_25">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورضيت بالحال التي تأتي ولو آكل الحصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_26">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالموت خير من مديـ ح الوغد بالصوت الجهير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_27">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مضت الثمان وعفتي كالنبر من تحت الحفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+فالحر ان عزَّ الكثيـ ر من الثنا أخذ اليسير 
+عز الخمير من البديـ ع فكل ما عندي فير 
+ما قلت هذا مدحة بل سار من عندي سفير 
+يحكي لصنوي حالة فيها الحلي غدا مرير 
+والرمز قرب من شقا شقنا واكثار الهدير 
+فانظر لمن تدري بهم حتى نرى حسن المصير 
+لم يبق في الأقوام من شخص معين أو معير 
+فكأنني وكأنهم ضيف على باب الفقير 
+حولي الوف نوّم منعوا منامي بالخشير 
+وصديقنا المعلوم د رمّ المخلع والكسير 
+لكن اتاه معوز غيري جبا حمل البعير 
+واتاه آخر لم يجد قمحاً فلم يأب الشعير 
+واتاه آخر بالعيا ل وصار للاخِ السمير 
+فإذا اتاه رابع - اخذ الحمار أو البجبر 
+فعذرته في محنة وقفت بمزلقها الحمير 
+وكتبت للاخِ الذي كالظل في وقت الهجير 
+كم قد وصلت تفضلاً رحماً واكثرت الخمير 
+وكسوت آل محمد وأَمرت من لا يستمير 
+ارضيت جدك بالولا - ورضيت بالخير الكثير 
+وتركت كلاً من جدو دك في منامته قرير 
+لم استمع قلمي يصرُّ لغيركم هذا الصرير 
+لو انه اوما لغيـ ر عصابتي من ذا لعشير 
+لكسرته ورميته قبل الدواة بقعر بير 
+ورضيت بالحال التي تأتي ولو آكل الحصير 
+فالموت خير من مديـ ح الوغد بالصوت الجهير 
+مضت الثمان وعفتي كالنبر من تحت الحفير </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

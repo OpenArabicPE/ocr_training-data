@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:30.316+02:00</Created>
+        <LastChange>2019-06-03T15:22:30.316+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_9-p_216.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خدمته اللغة العربية الشريفة خدمة خلدت له ذكراً جميلاً. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>نرجو من وكلاء البوسطة في الأرياف أن يوصلوا الجريدة لأصحابها من غير فتح عناوينها فقد علمنا أن بعض المكاتب يؤخرها عن ميقاتها أو لا يوصلها ومن الآن كلما وردت الينا شكوى من جهة نصرح بها فإن هذا ثاني إعلان بذلك. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تقاريظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كتاب مصر والجغرافية ترجمة الفاضل الماجد الذي أشغل وقت شبابيته بالتراجم النافعة والتأليف المفيدة حضرة صديقنا أحمد أفندي ذكي مترجم مجلس النظار وهو كتاب مفيد يلزم كل مصري أقنناه ليقف على المواج الجغرافية التي وحدت في وطنه باجتهاد وهمة الماء العائلة الحاكمة حرسها الله تعالى فنحث أبناء الوطن على مطالعته وهو يباع بأربعة قروش وأنه لثمن قليل بالنسبة لما فيه من العلم الكثير. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رثاء وعزاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فجئ حضرة محمد أفندي خليل وكيل الجريدة العام بوفاة والدته أول أمس فنسأل الله تعالى صبراً جميلاً لصديقنا ولا أراه الله بعد ذلك مكروهاً كما نعزي صاحبنا الوفي فرح أفندي جرجس أمين مخزن مصر في شقيقه حنين انفدي تذكري محطة بنها فقد بلغنا خبر وفاته والجريدة تحت الطبع ألهمه الله الصبر الجميل. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>خدمته اللغة العربية الشريفة خدمة خلدت له ذكراً جميلاً. 
+
+أمل 
+نرجو من وكلاء البوسطة في الأرياف أن يوصلوا الجريدة لأصحابها من غير فتح عناوينها فقد علمنا أن بعض المكاتب يؤخرها عن ميقاتها أو لا يوصلها ومن الآن كلما وردت الينا شكوى من جهة نصرح بها فإن هذا ثاني إعلان بذلك. 
+
+تقاريظ 
+كتاب مصر والجغرافية ترجمة الفاضل الماجد الذي أشغل وقت شبابيته بالتراجم النافعة والتأليف المفيدة حضرة صديقنا أحمد أفندي ذكي مترجم مجلس النظار وهو كتاب مفيد يلزم كل مصري أقنناه ليقف على المواج الجغرافية التي وحدت في وطنه باجتهاد وهمة الماء العائلة الحاكمة حرسها الله تعالى فنحث أبناء الوطن على مطالعته وهو يباع بأربعة قروش وأنه لثمن قليل بالنسبة لما فيه من العلم الكثير. 
+
+رثاء وعزاء 
+فجئ حضرة محمد أفندي خليل وكيل الجريدة العام بوفاة والدته أول أمس فنسأل الله تعالى صبراً جميلاً لصديقنا ولا أراه الله بعد ذلك مكروهاً كما نعزي صاحبنا الوفي فرح أفندي جرجس أمين مخزن مصر في شقيقه حنين انفدي تذكري محطة بنها فقد بلغنا خبر وفاته والجريدة تحت الطبع ألهمه الله الصبر الجميل. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

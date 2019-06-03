@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:22.788+02:00</Created>
+        <LastChange>2019-06-03T15:22:22.788+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_125.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والدهر ياما يغيظ الحر ينعم الندل الجاهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحر مالو غير صبره والصبر محمود في الغالب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وانا يسيدي خل ودود ان كنت تقبلني قلّي اشمعنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وده كلام موضه وجديد وافق يا سيدس وكن معنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا حسن زمان مش زي اليوم زاللي يفوت ماهش قابل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واحنا ياسيدي أولاد اليوم ونتّبع أحوال جيلنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واليوم مشينا فسير تاني وطلعنا فيها وكبرنما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خافين نقول لك عَ الحاصل ترجع ياسيدي تقفشنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لكن ضروري احنا نقول لك وانت تكون حاكم عادل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياسي نديم شف احوالنا احنا بقينا اليوم نكته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>نلبس محزّق ومقمّط بالبنطلون والشكيتّه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ونكره اللبس المصري ونقول عليه سته في سته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+والدهر ياما يغيظ الحر ينعم الندل الجاهل 
+دور 
+والحر مالو غير صبره والصبر محمود في الغالب 
+وانا يسيدي خل ودود ان كنت تقبلني قلّي اشمعنا 
+وده كلام موضه وجديد وافق يا سيدس وكن معنا 
+لا حسن زمان مش زي اليوم زاللي يفوت ماهش قابل 
+دور 
+واحنا ياسيدي أولاد اليوم ونتّبع أحوال جيلنا 
+واليوم مشينا فسير تاني وطلعنا فيها وكبرنما 
+خافين نقول لك عَ الحاصل ترجع ياسيدي تقفشنا 
+لكن ضروري احنا نقول لك وانت تكون حاكم عادل 
+دور 
+ياسي نديم شف احوالنا احنا بقينا اليوم نكته 
+نلبس محزّق ومقمّط بالبنطلون والشكيتّه 
+ونكره اللبس المصري ونقول عليه سته في سته </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

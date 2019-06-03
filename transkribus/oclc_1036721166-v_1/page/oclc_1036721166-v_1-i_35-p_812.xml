@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:23.541+02:00</Created>
+        <LastChange>2019-06-03T15:23:23.541+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_35-p_812.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>صاغه الله من نعوت كمال كيفما شاء فاستوى وتعدل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يا عظيم الزمان وابن المعالي وسليل الأُلى علاهم تأثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>إن ذا العيد مثلنا جاء يرجو حسن تشريفه وللباب قبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فأنله مراده وعلينا بشريف القبول منّاً تفضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فهو راق على السماء ومثن بالذي نال من نداك المذلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يغبط الصوم والصلاة ويطري عيد عفو ثوابه قد تسجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وغدا شاكراً وباهي بسعد كل عيد مضى وتيهاً تدلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ولنا مثله اذا ما رجعنا لبلاد لها عليك المعوّل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>نجعل الدر للمسامع حليا وجليل الدعا من الدرّ أجمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ونقول الذي شهدنا عياناً وسمعناه من حديث مسلسل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كي يرى السامعون انا ظفرنا مثله بالعلا ونلنا المؤمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وينادوا يعيش عباس فينا خير ثان سليل توفيق الأول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كلهم أخلصوا الولاء بصدق واعتلوا بالوفاء فوق السمؤال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يسألون الإله حسن صفاء في بقاءٍ ودولة لا تبدل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فابق وأسعد وسد ودم وأنه وأمر وأحتكم واعتزم فسعدك أقبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأقبلن مدحة أبانت قصورى عن بلوغ الكمال فالقدر أكمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>هذا عندكم فما مقابله عندنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كثيراً ما ترمينا جرائد انكلترة بالتعصب الديني تشويشاً لأذهان أهلها وترويجاً لأفكار سياسييها التي تبعثها المطامع ولو تأملنا حال المسلمين وقابلنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+صاغه الله من نعوت كمال كيفما شاء فاستوى وتعدل 
+يا عظيم الزمان وابن المعالي وسليل الأُلى علاهم تأثل 
+إن ذا العيد مثلنا جاء يرجو حسن تشريفه وللباب قبل 
+فأنله مراده وعلينا بشريف القبول منّاً تفضل 
+فهو راق على السماء ومثن بالذي نال من نداك المذلل 
+يغبط الصوم والصلاة ويطري عيد عفو ثوابه قد تسجل 
+وغدا شاكراً وباهي بسعد كل عيد مضى وتيهاً تدلل 
+ولنا مثله اذا ما رجعنا لبلاد لها عليك المعوّل 
+نجعل الدر للمسامع حليا وجليل الدعا من الدرّ أجمل 
+ونقول الذي شهدنا عياناً وسمعناه من حديث مسلسل 
+كي يرى السامعون انا ظفرنا مثله بالعلا ونلنا المؤمل 
+وينادوا يعيش عباس فينا خير ثان سليل توفيق الأول 
+كلهم أخلصوا الولاء بصدق واعتلوا بالوفاء فوق السمؤال 
+يسألون الإله حسن صفاء في بقاءٍ ودولة لا تبدل 
+فابق وأسعد وسد ودم وأنه وأمر وأحتكم واعتزم فسعدك أقبل 
+وأقبلن مدحة أبانت قصورى عن بلوغ الكمال فالقدر أكمل 
+
+هذا عندكم فما مقابله عندنا 
+كثيراً ما ترمينا جرائد انكلترة بالتعصب الديني تشويشاً لأذهان أهلها وترويجاً لأفكار سياسييها التي تبعثها المطامع ولو تأملنا حال المسلمين وقابلنا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:47.952+02:00</Created>
+        <LastChange>2019-06-03T15:22:47.952+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_16-p_382.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يحكم العصريون بحسنها وإذا كان كذلك كان من الواجب على كل إنسان أن يتتبع أخلاق العقلاء وأحوال الفضلاء ليأخذ عنهم ما تتم به مروءته ولا يكون ذلك إلا بتنزل الإنسان عما تطالبه به طبيعيته من العظمة والعلو على الغير حتى على أهل الفضائل فإن ذلك حجاب بينه وبين الوصول الى المروءة ولذلك قيل سيد القوم خادمهم لأنه يلتقط منهم بخدمته من درر أخلاقهم وعاداتهم ما لا يتوصل إليه بالتعاظم عليهم فعلينا معاشر الشرقيين أن نسعى في طلب المروءة وجه طلب الفضيلة ومكارم الأخلاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>باب الأدبيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وقفنا على قصائد عراء من نظم الأديب الكامل الفاضل محمود افندي واصف حبيس سجن اسكندرية الآن فرج الله تعالى كربه فمنها قوله يمدح أحد الأمراء العظام. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خل الشقيَّ بسهده وبكائه يلهو فلا حملت بعض شقائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يكفيه من داء النوائب انه ابداً يرى في الموت عين شفائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالهم أيسر ما حوت أضلاعه والسقم أهون كائنٍ من دائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الف المصائب والخطوب فؤاده فهو المنعم دائماً بعنائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وترنحت بيد الضنى أعطافه_كترنح النشوان من صهبائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وغدا لفرط همومه ومساءه_كصباحه وصباحهُ كمسائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وتنكرت من بعد معرفة له_الأيام فالأيام من أعدائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ثاو بأعماق السجون كصارم_في الغمد لم يصدا لطول ثوائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>يحكم العصريون بحسنها وإذا كان كذلك كان من الواجب على كل إنسان أن يتتبع أخلاق العقلاء وأحوال الفضلاء ليأخذ عنهم ما تتم به مروءته ولا يكون ذلك إلا بتنزل الإنسان عما تطالبه به طبيعيته من العظمة والعلو على الغير حتى على أهل الفضائل فإن ذلك حجاب بينه وبين الوصول الى المروءة ولذلك قيل سيد القوم خادمهم لأنه يلتقط منهم بخدمته من درر أخلاقهم وعاداتهم ما لا يتوصل إليه بالتعاظم عليهم فعلينا معاشر الشرقيين أن نسعى في طلب المروءة وجه طلب الفضيلة ومكارم الأخلاق 
+
+باب الأدبيات 
+وقفنا على قصائد عراء من نظم الأديب الكامل الفاضل محمود افندي واصف حبيس سجن اسكندرية الآن فرج الله تعالى كربه فمنها قوله يمدح أحد الأمراء العظام. 
+خل الشقيَّ بسهده وبكائه يلهو فلا حملت بعض شقائه 
+يكفيه من داء النوائب انه ابداً يرى في الموت عين شفائه 
+فالهم أيسر ما حوت أضلاعه والسقم أهون كائنٍ من دائه 
+الف المصائب والخطوب فؤاده فهو المنعم دائماً بعنائه 
+وترنحت بيد الضنى أعطافه_كترنح النشوان من صهبائه 
+وغدا لفرط همومه ومساءه_كصباحه وصباحهُ كمسائه 
+وتنكرت من بعد معرفة له_الأيام فالأيام من أعدائه 
+ثاو بأعماق السجون كصارم_في الغمد لم يصدا لطول ثوائه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

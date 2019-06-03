@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.272+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.272+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_40-p_977.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ورد لنا هذا الحمل من انشاء الفاضل الشيخ علي سالم من أفاضل طنطا قال أيده الله تعالى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يسير فيه بالنيه عمره مينضمشي واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له سكنه واحده وألف سكه للباطل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يفوت في السير واحده دا مذهبه باطل عاطل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياللي هجرت اليوم للذوق بالله يا هاجر واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>سيف الحقيقة يودي الطوق وفي رقاب الزور فاصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يللي تميل نحو يقينك اسأل عليه أهل معارف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يعطيك كتابك بيمينك هو الجهول زي العارف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حسك تميل يم مخاوز يقل فهمك ويقارف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ويسلبك ويقول عاوز جنيه مشنير ويحارف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واحذر تسير بطريق انثى ولاّ جدع حاتف ناتف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تلقاه تمام زي الخش وللي يشوفه يقول راجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حال المزور ما يخفاش تلقاه يبيع مجده بلقمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عن الصباح أعمى خفاش للزور يفتح في الضلمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أن كان بيستفتاه جاهل في مسائله أو عن حرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يقول له هات أمرك ساهل ويركبو في الحال حرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ورد لنا هذا الحمل من انشاء الفاضل الشيخ علي سالم من أفاضل طنطا قال أيده الله تعالى. 
+الحق له ناس بالعنيه وله طريق لله واصل 
+وللي يسير فيه بالنيه عمره مينضمشي واصل 
+والحق له سكنه واحده وألف سكه للباطل 
+وللي يفوت في السير واحده دا مذهبه باطل عاطل 
+ياللي هجرت اليوم للذوق بالله يا هاجر واصل 
+سيف الحقيقة يودي الطوق وفي رقاب الزور فاصل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+يللي تميل نحو يقينك اسأل عليه أهل معارف 
+يعطيك كتابك بيمينك هو الجهول زي العارف 
+حسك تميل يم مخاوز يقل فهمك ويقارف 
+ويسلبك ويقول عاوز جنيه مشنير ويحارف 
+واحذر تسير بطريق انثى ولاّ جدع حاتف ناتف 
+تلقاه تمام زي الخش وللي يشوفه يقول راجل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+حال المزور ما يخفاش تلقاه يبيع مجده بلقمه 
+عن الصباح أعمى خفاش للزور يفتح في الضلمه 
+أن كان بيستفتاه جاهل في مسائله أو عن حرمه 
+يقول له هات أمرك ساهل ويركبو في الحال حرمه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

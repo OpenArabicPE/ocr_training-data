@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:15.937+02:00</Created>
+        <LastChange>2019-06-03T15:22:15.937+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_3-p_071.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقيل ذلك أهو على هذا تكون روايته بعلة الورشان تاكل رطب المشان وبعضهم عرّف الرطب فيكون وصفه بالمشان من باب وصف الشيء بأخص أوصافه كقولك جاء العالم القانوني. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>همة تشكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بعث الينا أحد الأدباء بيتين من الزجل يحثنا بهما على إرسال من يستلم قيمة الاشتراك منهُ وهما: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ماهيتي قرْبت تفرغ واللي يحصل ماجاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>هيا ابعتوه ياخذ قسطه ولاّ امهلونا للتاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فنشكره على هذه الهمة كما نثني على الذين بادروا بدفع قيم الاشتراك ليكونوا معنا يداً ثانية في تقديم هذه الخدمة الوطنية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>شرح قانون العقوبات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لحضرة المحقق الفاضل والقانون البارع الكاتب المنشيء المجيد أمين أفندي البستاني وهو جزآن عظيمان يبلغ الجزءُ الواحد فوق الستمائة صحيفة وقد شرع في طبع الجزء الأول منه وينتهي طبعه قريباً وهو يطبع في مطبعة المحروسة بحروف اسلامبولية طبعاً نظيفاً معتنى به كما هو جارٍ في الكتب التي تطبع في هذه المطبعة وبدل الاشتراك فيه ٢٥ قرشاً صاغاً وثمنه بعد الطبع ٣٥ قرشاً صاغاً أيضاً فمن أراد الاشتراك في هذا الكتاب فليخابر إدارة الأستاذ وهي تخابر مؤلفه نيابة عن المشتركين. وهو شرح كبير وافٍ بالمقصود يحتاجه كل من لهُ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فقيل ذلك أهو على هذا تكون روايته بعلة الورشان تاكل رطب المشان وبعضهم عرّف الرطب فيكون وصفه بالمشان من باب وصف الشيء بأخص أوصافه كقولك جاء العالم القانوني. 
+
+همة تشكر 
+بعث الينا أحد الأدباء بيتين من الزجل يحثنا بهما على إرسال من يستلم قيمة الاشتراك منهُ وهما: 
+ماهيتي قرْبت تفرغ واللي يحصل ماجاني 
+هيا ابعتوه ياخذ قسطه ولاّ امهلونا للتاني 
+فنشكره على هذه الهمة كما نثني على الذين بادروا بدفع قيم الاشتراك ليكونوا معنا يداً ثانية في تقديم هذه الخدمة الوطنية. 
+
+شرح قانون العقوبات 
+لحضرة المحقق الفاضل والقانون البارع الكاتب المنشيء المجيد أمين أفندي البستاني وهو جزآن عظيمان يبلغ الجزءُ الواحد فوق الستمائة صحيفة وقد شرع في طبع الجزء الأول منه وينتهي طبعه قريباً وهو يطبع في مطبعة المحروسة بحروف اسلامبولية طبعاً نظيفاً معتنى به كما هو جارٍ في الكتب التي تطبع في هذه المطبعة وبدل الاشتراك فيه ٢٥ قرشاً صاغاً وثمنه بعد الطبع ٣٥ قرشاً صاغاً أيضاً فمن أراد الاشتراك في هذا الكتاب فليخابر إدارة الأستاذ وهي تخابر مؤلفه نيابة عن المشتركين. وهو شرح كبير وافٍ بالمقصود يحتاجه كل من لهُ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

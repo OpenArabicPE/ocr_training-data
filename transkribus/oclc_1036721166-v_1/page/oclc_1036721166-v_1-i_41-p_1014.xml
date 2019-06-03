@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:40.899+02:00</Created>
+        <LastChange>2019-06-03T15:23:40.899+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1014.jpg" imageWidth="580" imageHeight="925">
+        <TextRegion id="region_1">
+            <Coords points="0,0 580,0 580,925 0,925"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>مدة الولاية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>أيامشهورأعوامسنة الولاية سنة الوفاةالسناسم الشهرأسماء الخلفاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١١ ٣ ٢٤ ٤٨٧ ٥١٢ ٤١ ١٦ ربيع الآخرأحمد المستظهر بالله ابن المقتدي بأمر الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٠ ٦ ١٧ ٥١٢ ٥٢٩ ٤٣ ١٧ ذي القعدة المسترشد بالله الفضل بن المستظهر بالله قتل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٨ ٩ ٢ ٥٢٩ ٥٣٢ ٤٧ ٢٥ رمضانأبو جعفر الراشد بالله ابن المسترشد بالله خلع وقتل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٦ ٣ ٢٤ ٥٣٢ ٥٥٥ ٦٧ ٢ ربيع الأولمحمد المقتفي بأمر الله ابن المستظهر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٦ ٠ ١١ ٥٥٥ ٥٦٦ ٥٦ ٩ ربيع الآخرالمستنجد بالله يوسف بن المقتفي بأمر الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٧ ٩ ٥٦٦ ٥٧٥ ٣٩ ٢ القعدةأبو محمد الحسن المستضيء بأمر الله ابن المستنجد بالله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٨ ١٠ ٤٦ ٥٧٥ ٦٢٢ ٧٠ غاية رمضانالناصر لدين الله أحمد بن المستضيء بالله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٤ ٩ ٠ ٦٢٢ ٦٢٣ ٠ ١٤ رجبالظاهر بأمر الله محمد بن الناصر لدين الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٣ ١١ ١٦ ٦٢٣ ٦٤٠ ٥١ ١٠ جمادي الثانيأبو جعفر المنصور المستنصر بالله ابن الظاهر بأمر الله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٠ ٦ ١٥ ٦٤٠ ٦٥٦ ٠ ٢٠ محرمالمستعصم بالله عبد الله بن المستنصر بالله قتله هولاكو التتاري وهو آخر بني العباس ببغداد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدة الولاية 
+أيامشهورأعوامسنة الولاية سنة الوفاةالسناسم الشهرأسماء الخلفاء 
+١١ ٣ ٢٤ ٤٨٧ ٥١٢ ٤١ ١٦ ربيع الآخرأحمد المستظهر بالله ابن المقتدي بأمر الله 
+٢٠ ٦ ١٧ ٥١٢ ٥٢٩ ٤٣ ١٧ ذي القعدة المسترشد بالله الفضل بن المستظهر بالله قتل 
+١٨ ٩ ٢ ٥٢٩ ٥٣٢ ٤٧ ٢٥ رمضانأبو جعفر الراشد بالله ابن المسترشد بالله خلع وقتل 
+١٦ ٣ ٢٤ ٥٣٢ ٥٥٥ ٦٧ ٢ ربيع الأولمحمد المقتفي بأمر الله ابن المستظهر 
+١٦ ٠ ١١ ٥٥٥ ٥٦٦ ٥٦ ٩ ربيع الآخرالمستنجد بالله يوسف بن المقتفي بأمر الله 
+٠ ٧ ٩ ٥٦٦ ٥٧٥ ٣٩ ٢ القعدةأبو محمد الحسن المستضيء بأمر الله ابن المستنجد بالله 
+٢٨ ١٠ ٤٦ ٥٧٥ ٦٢٢ ٧٠ غاية رمضانالناصر لدين الله أحمد بن المستضيء بالله 
+١٤ ٩ ٠ ٦٢٢ ٦٢٣ ٠ ١٤ رجبالظاهر بأمر الله محمد بن الناصر لدين الله 
+٣ ١١ ١٦ ٦٢٣ ٦٤٠ ٥١ ١٠ جمادي الثانيأبو جعفر المنصور المستنصر بالله ابن الظاهر بأمر الله 
+١٠ ٦ ١٥ ٦٤٠ ٦٥٦ ٠ ٢٠ محرمالمستعصم بالله عبد الله بن المستنصر بالله قتله هولاكو التتاري وهو آخر بني العباس ببغداد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:39.742+02:00</Created>
+        <LastChange>2019-06-03T15:23:39.742+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1002.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بغيضك من تلقى الصدور بذكره تضيق فحاذر ان تكلفها الشطط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بلاء جميع الناس في خطأ الحجا وصبحة أرباب البلادة والغلظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>برّ الوصول وجانب قاطعاً أشراً وألزم نصوحاً له في النصح إبداع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بعد العلو اذا زاحمت من سفلوا سلواك عبد وصناع وصوّاغ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بين النفوس وبين الفضل مضطرَم لايصطليه من الطلاب إجلاف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بسم الحبيب رسول للوصال فإن أو ما بلحظ فقد حياك أشفافا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>باب المعالي ظاهر لكنه فوق الفلك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بحر المعاني زاخر من خاضه يأبى الملل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يظن الأماني واسع ما شقه إلا الهمم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بيع المحيا بالُّلهي موت تعجله المنن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>باذل الأموال فضلاً لا تُبخّله بمهْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بادر المأمول تغنم قبل ان تعييك لو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بدّل السُوآى بحُسنى تلقى كل الناس أهلاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بعد برءٍ من غرام لا تقل سُعدى ومَى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>منقبة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>من محاسن أمير المؤمنين وخليفة الله في أرضه سيدنا ومولانا السلطان عبد الحميد أيده الله تعالى صدور أمره السامي بصرف تسعين ألف قرش وخمسمائة برسم ترميم مقام ابن بينت رسول الله صلى الله تعالى عليه وسلم سيدنا ومولانا الحسين رضي الله عنه بكربلأ عناية منه بهذا الضريح الشريف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+بغيضك من تلقى الصدور بذكره تضيق فحاذر ان تكلفها الشطط 
+بلاء جميع الناس في خطأ الحجا وصبحة أرباب البلادة والغلظ 
+برّ الوصول وجانب قاطعاً أشراً وألزم نصوحاً له في النصح إبداع 
+بعد العلو اذا زاحمت من سفلوا سلواك عبد وصناع وصوّاغ 
+بين النفوس وبين الفضل مضطرَم لايصطليه من الطلاب إجلاف 
+بسم الحبيب رسول للوصال فإن أو ما بلحظ فقد حياك أشفافا 
+باب المعالي ظاهر لكنه فوق الفلك 
+بحر المعاني زاخر من خاضه يأبى الملل 
+يظن الأماني واسع ما شقه إلا الهمم 
+بيع المحيا بالُّلهي موت تعجله المنن 
+باذل الأموال فضلاً لا تُبخّله بمهْ 
+بادر المأمول تغنم قبل ان تعييك لو 
+بدّل السُوآى بحُسنى تلقى كل الناس أهلاً 
+بعد برءٍ من غرام لا تقل سُعدى ومَى 
+
+منقبة 
+من محاسن أمير المؤمنين وخليفة الله في أرضه سيدنا ومولانا السلطان عبد الحميد أيده الله تعالى صدور أمره السامي بصرف تسعين ألف قرش وخمسمائة برسم ترميم مقام ابن بينت رسول الله صلى الله تعالى عليه وسلم سيدنا ومولانا الحسين رضي الله عنه بكربلأ عناية منه بهذا الضريح الشريف </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:48.089+02:00</Created>
+        <LastChange>2019-06-03T15:22:48.089+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_16-p_383.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فكأنه سر تقرر كتمه_أو تأذن الأقدار في إفشائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ابني الزمان دعوا الغرور فإنما_للدهر حكم الدور في أبنائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإذا القضاء اتى فليس بدافع_حرص الفتى عنه وفرط ذكائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مهلاً أصحاب الرخاء فواصف_لم ينتقض بالسجن عهد إخائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قد كان يرجوكم على أيامه_عوناً فجاء الأمر عكس رجائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن لم يكن نفع لديكم يرتجي_فعلى م بذل القول في إيذائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا ليتكم لما ذبحتم وده_وتركتموه مضرجاً بدمائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>احسنتموا فيه العزاء تلطفاً_واسفتمو كرماً على بلوائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لكنه لما انقضت سراءهُ ورماه صرف الدهر في ضرائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سلقته السنة جداد طالما شهدت بعفته وصدق وفائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن تنكروا رشدي ففضصلي شاهد حاشا أمين ولم أكن بالتائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو كان ذنبي الاختلاس ولم يكن واليم سجيني كانبعض جزائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فابن المهلب والصفات شهيرة قد كان بيت المال من غرامائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا نفس صبراً فالمصائب تنقضي لا يستمر الدهر في غوائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واستبشري فالكرب جاوز حده وتمام شدته دليل رخائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هل تيأسين من الخلاص وقد بدا داعي النجاة مشراً بدعائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن تصبري فالعقو اشرق بدره ومحا الظلام الذنب حسن ضيائه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تم تخلص وانتقل الى المدح متعه الله بالعفو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فكأنه سر تقرر كتمه_أو تأذن الأقدار في إفشائه 
+ابني الزمان دعوا الغرور فإنما_للدهر حكم الدور في أبنائه 
+وإذا القضاء اتى فليس بدافع_حرص الفتى عنه وفرط ذكائه 
+مهلاً أصحاب الرخاء فواصف_لم ينتقض بالسجن عهد إخائه 
+قد كان يرجوكم على أيامه_عوناً فجاء الأمر عكس رجائه 
+إن لم يكن نفع لديكم يرتجي_فعلى م بذل القول في إيذائه 
+يا ليتكم لما ذبحتم وده_وتركتموه مضرجاً بدمائه 
+احسنتموا فيه العزاء تلطفاً_واسفتمو كرماً على بلوائه 
+لكنه لما انقضت سراءهُ ورماه صرف الدهر في ضرائه 
+سلقته السنة جداد طالما شهدت بعفته وصدق وفائه 
+إن تنكروا رشدي ففضصلي شاهد حاشا أمين ولم أكن بالتائه 
+أو كان ذنبي الاختلاس ولم يكن واليم سجيني كانبعض جزائه 
+فابن المهلب والصفات شهيرة قد كان بيت المال من غرامائه 
+يا نفس صبراً فالمصائب تنقضي لا يستمر الدهر في غوائه 
+واستبشري فالكرب جاوز حده وتمام شدته دليل رخائه 
+هل تيأسين من الخلاص وقد بدا داعي النجاة مشراً بدعائه 
+إن تصبري فالعقو اشرق بدره ومحا الظلام الذنب حسن ضيائه 
+تم تخلص وانتقل الى المدح متعه الله بالعفو </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

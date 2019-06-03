@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:08.790+02:00</Created>
+        <LastChange>2019-06-03T15:23:08.790+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_26-p_624.jpg" imageWidth="492" imageHeight="748">
+        <TextRegion id="region_1">
+            <Coords points="0,0 492,0 492,748 0,748"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وزال العناء وطاب الهناء وعم الصفاء الربي والبطاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وقرت عيون المعالي سروراً وصدر الوجود غدا في انشراح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>ومصر استعزت بعباسها ونالت مناها بنصر متاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وأضحت وللسعد فيها مقام وأمست والنحس عنها انتزاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>فلله حزم المليك المقدى جمال المواكب ليث الكفاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>غنينا به عن جموع الجنود وخفق البنود ورفع السلاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>رأى ما يرام ووفق رأياً لدفع الفساد وجلب الصلاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>رأى ان يعيد الوزير الجليل الجميل السجايا الجزيل السماح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>فنادى بمصر منادي التهاني بنيل الأماني على رغم لاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وبشرى النجاح لقد أرخته رياض عليه كمال النجاح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ـ ١٠١١ ـ ١١٥ ـ ٩١ ـ ٩٣ . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وأنا على يقين من أن استغاثته بالحضرة الخديوية الفخيمة تصادف القبول والإقبال وسنراه مغموراً بالنعم الخديوية رافلا في حلل العفو داعياً للمولى العباس اناء الليل وأطراف النهار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>أدبيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>أطلعنا حضرة الفاضل الألمعي مهذب الأخلاق صاحبنا عزيز أفندي زند محرر جريدة المحروسة الغراء على قصيدة من نظمه يمدح بها الوزير المصري الجليل صاحب الدولة مصطفى رياض باشا ويهنئه برأسة النظار والنيشان العثماني الأول المرصع فرأينا كلا ما يكاد يسيل رقة قال في مطلعها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 492,0 492,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>يشاهد معنى خدها الجمر والورد ويشبه أهنى ريقها الخمر والشهد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وزال العناء وطاب الهناء وعم الصفاء الربي والبطاح 
+وقرت عيون المعالي سروراً وصدر الوجود غدا في انشراح 
+ومصر استعزت بعباسها ونالت مناها بنصر متاح 
+وأضحت وللسعد فيها مقام وأمست والنحس عنها انتزاح 
+فلله حزم المليك المقدى جمال المواكب ليث الكفاح 
+غنينا به عن جموع الجنود وخفق البنود ورفع السلاح 
+رأى ما يرام ووفق رأياً لدفع الفساد وجلب الصلاح 
+رأى ان يعيد الوزير الجليل الجميل السجايا الجزيل السماح 
+فنادى بمصر منادي التهاني بنيل الأماني على رغم لاح 
+وبشرى النجاح لقد أرخته رياض عليه كمال النجاح 
+سنة ١٣١٠ ـ ١٠١١ ـ ١١٥ ـ ٩١ ـ ٩٣ . 
+وأنا على يقين من أن استغاثته بالحضرة الخديوية الفخيمة تصادف القبول والإقبال وسنراه مغموراً بالنعم الخديوية رافلا في حلل العفو داعياً للمولى العباس اناء الليل وأطراف النهار 
+
+أدبيات 
+أطلعنا حضرة الفاضل الألمعي مهذب الأخلاق صاحبنا عزيز أفندي زند محرر جريدة المحروسة الغراء على قصيدة من نظمه يمدح بها الوزير المصري الجليل صاحب الدولة مصطفى رياض باشا ويهنئه برأسة النظار والنيشان العثماني الأول المرصع فرأينا كلا ما يكاد يسيل رقة قال في مطلعها 
+يشاهد معنى خدها الجمر والورد ويشبه أهنى ريقها الخمر والشهد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

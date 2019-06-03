@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.002+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.002+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_986.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أنعم بقرشك يا جندي وإلاّ اكسنا أمال يا أفندي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إلا لا وحياتك عندي بقي لي شهرين طول جيعان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت على سبيل المزح معه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أما الفلوس انا مدّبشي وأنت تقول لي ما مشيشي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يطلع عليَّ حشيشي أقوم أملَّص لك لِودان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ثم أخذنا نتبادل الكلام نحو ساعة حتى غلباً عند ما فرغ محفوظهما فلما قمنا وتوجهنا منزل المرحوم شاهين باشا وكنا نازلين عنده جميعاً أخبره السيد على أبو النصر بما كان مني مع الأديبين فلما أصبحنا استدعى شاهين باشا شيخ الأدبية وطلب منه ان يستحضر أمهر الأدبية عنده ووعده انهم ان غلبوني يعطهم ألف قرش وأن غلبتهم يضرب كل واحد منهم عشرين كرباجاً فرضي بذلك واستحضر الشيخ داود والحاج إسماعيل الشهيرين بعمل الزجل وإنشاده ارتجالاً في أي غرض واستحضر معهما ستة من أشهر الحفظة المقتدرين على ارتجالاً في أي غرض واستحضر معهما ستة من أشهر الحفظة المقتدرين على الارتجال أيضاً وعقد الباشا لذلك مجلساً إمام بيته بطنطا وأجلسني بينه وبين المرحوم جعفر باشا مظهر وقد وقف الناس أُلوفاً والعساكر تدفعهم عنا ثم ابتدأ الشيخ فقال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أول كلام حمد الله ثم الصلاة على الهادي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ماذا تريد يا عبد الله قدَّام أميرنا وأسيادي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أنا أريد أحمد ربي بعد الصلاة على المختار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كنت تطمع في أدبي أسمعك حسن الأشعار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أنعم بقرشك يا جندي وإلاّ اكسنا أمال يا أفندي 
+إلا لا وحياتك عندي بقي لي شهرين طول جيعان 
+فقلت على سبيل المزح معه 
+أما الفلوس انا مدّبشي وأنت تقول لي ما مشيشي 
+يطلع عليَّ حشيشي أقوم أملَّص لك لِودان 
+ثم أخذنا نتبادل الكلام نحو ساعة حتى غلباً عند ما فرغ محفوظهما فلما قمنا وتوجهنا منزل المرحوم شاهين باشا وكنا نازلين عنده جميعاً أخبره السيد على أبو النصر بما كان مني مع الأديبين فلما أصبحنا استدعى شاهين باشا شيخ الأدبية وطلب منه ان يستحضر أمهر الأدبية عنده ووعده انهم ان غلبوني يعطهم ألف قرش وأن غلبتهم يضرب كل واحد منهم عشرين كرباجاً فرضي بذلك واستحضر الشيخ داود والحاج إسماعيل الشهيرين بعمل الزجل وإنشاده ارتجالاً في أي غرض واستحضر معهما ستة من أشهر الحفظة المقتدرين على ارتجالاً في أي غرض واستحضر معهما ستة من أشهر الحفظة المقتدرين على الارتجال أيضاً وعقد الباشا لذلك مجلساً إمام بيته بطنطا وأجلسني بينه وبين المرحوم جعفر باشا مظهر وقد وقف الناس أُلوفاً والعساكر تدفعهم عنا ثم ابتدأ الشيخ فقال: 
+أول كلام حمد الله ثم الصلاة على الهادي 
+ماذا تريد يا عبد الله قدَّام أميرنا وأسيادي 
+فقلت 
+أنا أريد أحمد ربي بعد الصلاة على المختار 
+وإن كنت تطمع في أدبي أسمعك حسن الأشعار </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

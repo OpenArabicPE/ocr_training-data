@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:37.208+02:00</Created>
+        <LastChange>2019-06-03T15:22:37.208+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_12-p_287.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اعتذار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>جاءنا كثير من الالغاز لكثير م أهل الفضل والأدب وحيث ان هذا الباب لا طائل تحته لم نفتح له باباً في جريدتنا ولا نتعرض له فإن استبدال هؤلاء الأفاضل الغازهم برسائل علمية أو فوائد تاريخية أو انواع بديعية نشرناها شاكرين سعيهم في خدمة العلم والأمة وأما الألغاز فليعفونا منها جاءنا هذا السؤال من حضرة الفاضل الشيخ بيلي علي وكيل الجريدة ببلقاس والبراري وصه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا أيها الأستاذ بل يا روض حسن لايمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا بحر علم زاخر يا شمس عصرك يا بطل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما قصة القاضي عمر حتى به ضرب المثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالناس تضربه لم اضحى يدقق بالعمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الجواب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هو غالباً عمر الخلي=فة نجل خطاب البطل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إذ انه ضرب ابه حتى الى الأخرى ارتحل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واتم حد الشرب من بعد الممات بلا مهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو ان قصته التي مع نجل عمر وفي الجبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو انه عمرٌ فريد بني أمية في العمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هذا الذي يبدو لنا ولعله وفَّى الأمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وود ممن يعلمو ن خلافه سد الخلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>برسالة عن أصله ولهم مدائح من فضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+اعتذار 
+جاءنا كثير من الالغاز لكثير م أهل الفضل والأدب وحيث ان هذا الباب لا طائل تحته لم نفتح له باباً في جريدتنا ولا نتعرض له فإن استبدال هؤلاء الأفاضل الغازهم برسائل علمية أو فوائد تاريخية أو انواع بديعية نشرناها شاكرين سعيهم في خدمة العلم والأمة وأما الألغاز فليعفونا منها جاءنا هذا السؤال من حضرة الفاضل الشيخ بيلي علي وكيل الجريدة ببلقاس والبراري وصه 
+يا أيها الأستاذ بل يا روض حسن لايمل 
+يا بحر علم زاخر يا شمس عصرك يا بطل 
+ما قصة القاضي عمر حتى به ضرب المثل 
+فالناس تضربه لم اضحى يدقق بالعمل 
+الجواب 
+هو غالباً عمر الخلي=فة نجل خطاب البطل 
+إذ انه ضرب ابه حتى الى الأخرى ارتحل 
+واتم حد الشرب من بعد الممات بلا مهل 
+أو ان قصته التي مع نجل عمر وفي الجبل 
+أو انه عمرٌ فريد بني أمية في العمل 
+هذا الذي يبدو لنا ولعله وفَّى الأمل 
+وود ممن يعلمو ن خلافه سد الخلل 
+برسالة عن أصله ولهم مدائح من فضل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

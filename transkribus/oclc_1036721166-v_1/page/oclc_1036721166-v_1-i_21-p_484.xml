@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:55.756+02:00</Created>
+        <LastChange>2019-06-03T15:22:55.756+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_21-p_484.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>البدائع والرقائق وما امتازت به من تخصيصها بأكرم بيت وأعلى مقام الأستاذ الشيخ علي الليثي فقال حفظه الله تعالى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ترويح النفوس بتهنئة عيد الجلوس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خل الملام فقلبي ليس بالسالي يا عاذلاً لجّ في لومي لتضلالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>دعني ووجدي وما ألقاه من وصب أبيتُ أرعى الدياجي بائس الحال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ظننت لومك يثني قلب ذي شجن هيهات لومك لم يخطر على بالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أنا الوفيُّ وقلبي ليس يشغلهُ عما عليه انطوى تنميق عذال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أرح فؤادك واحذر ما أكابدهُ أما نظرت الى سقمي وإعلالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>دمع يسيل وقلب ذاب من كمد وفكرةٌ شتتها لوعة البال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عدتك حالي لا ذقت الهوى أبداً ولا رمتك اللواحي فيه بالقال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ماذا يفيدك ان كان السلو وما عليك ان جاد لي بالوصل ذو الخال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أصبحت تطلب أمراً لست تدركه سلوا مثلي أَيسلى المورد الحالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ذق وابتهج في الهوى نهجي وعزَّوهن ثم احتكم ان تذاق مقدار مثقال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا ويح نفسي فؤادي صار منقسما بين الملولِ وبين اللائم القالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>امسى وأُصبح والأشجان تنقلني على غرامي من حال الى حال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كأنني كرة والوجد يلعب بي لا أستقر على حال لتجوال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قد قال لي القلب كم حملتني نصبا من الغرام وقد ضاعفت أثقالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هلا التفت وألزمت اليراع بما يخف عني به وجدي وبلبالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فقلت يا قلب صادفت المراد فذا عيد الجلوس الخديوي المفرد العالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عباس مصر الذي ضاءت بغرته أرجاؤُها وغدت روضاً لحُلاَّل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>البدائع والرقائق وما امتازت به من تخصيصها بأكرم بيت وأعلى مقام الأستاذ الشيخ علي الليثي فقال حفظه الله تعالى. 
+ترويح النفوس بتهنئة عيد الجلوس 
+خل الملام فقلبي ليس بالسالي يا عاذلاً لجّ في لومي لتضلالي 
+دعني ووجدي وما ألقاه من وصب أبيتُ أرعى الدياجي بائس الحال 
+ظننت لومك يثني قلب ذي شجن هيهات لومك لم يخطر على بالي 
+أنا الوفيُّ وقلبي ليس يشغلهُ عما عليه انطوى تنميق عذال 
+أرح فؤادك واحذر ما أكابدهُ أما نظرت الى سقمي وإعلالي 
+دمع يسيل وقلب ذاب من كمد وفكرةٌ شتتها لوعة البال 
+عدتك حالي لا ذقت الهوى أبداً ولا رمتك اللواحي فيه بالقال 
+ماذا يفيدك ان كان السلو وما عليك ان جاد لي بالوصل ذو الخال 
+أصبحت تطلب أمراً لست تدركه سلوا مثلي أَيسلى المورد الحالي 
+ذق وابتهج في الهوى نهجي وعزَّوهن ثم احتكم ان تذاق مقدار مثقال 
+يا ويح نفسي فؤادي صار منقسما بين الملولِ وبين اللائم القالي 
+امسى وأُصبح والأشجان تنقلني على غرامي من حال الى حال 
+كأنني كرة والوجد يلعب بي لا أستقر على حال لتجوال 
+قد قال لي القلب كم حملتني نصبا من الغرام وقد ضاعفت أثقالي 
+هلا التفت وألزمت اليراع بما يخف عني به وجدي وبلبالي 
+فقلت يا قلب صادفت المراد فذا عيد الجلوس الخديوي المفرد العالي 
+عباس مصر الذي ضاءت بغرته أرجاؤُها وغدت روضاً لحُلاَّل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

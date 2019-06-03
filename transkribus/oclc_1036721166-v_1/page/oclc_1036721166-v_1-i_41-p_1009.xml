@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:40.497+02:00</Created>
+        <LastChange>2019-06-03T15:23:40.497+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1009.jpg" imageWidth="580" imageHeight="925">
+        <TextRegion id="region_1">
+            <Coords points="0,0 580,0 580,925 0,925"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>مدة الولاية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٣ ١٩ ٤١ ٦٠ ٧٥ غرة رجبمعاوية بن أبي سفيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٦ ٣ ٦٠ ٦٤ ٣٥ ربيع الأوليزيد بن معاوية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٠ ١ ٠ ٦٤ ٦٤ ٢٣ معاوية بن يزيد خلع نفسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ١٠ ٠ ٦٤ ٦٥ ٦٣ شهر رمضانمروان بن الحكم قتلته زوجته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٠ ٢١ ٦٥ ٦٨ ٦٣ ١٥ شوالعبد الملك بن مروان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٢ ٠ ٩ ٦٤ ٧٣ ٧٣ عبد الله بن الزبير في وسط مدة عبد الملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٧ ٩ ٨٦ ٩٦ ٤٢ ١٥ جمادى الأخرةالوليد بن عبد الملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٥ ٥ ٢ ٩٦ ٩٩ ٣٩ ٢٠ صفرسليمان بن عبد الملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٥ ٢ ٩٩ ١٠١ ٤٠ رجبعمر بن عبد العزيز </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ١ ٤ ١٠١ ١٠٥ ٤٠ ٢٥ شعبانيزيد بن عبد الملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدة الولاية 
+أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء 
+٠ ٣ ١٩ ٤١ ٦٠ ٧٥ غرة رجبمعاوية بن أبي سفيان 
+٠ ٦ ٣ ٦٠ ٦٤ ٣٥ ربيع الأوليزيد بن معاوية 
+١٠ ١ ٠ ٦٤ ٦٤ ٢٣ معاوية بن يزيد خلع نفسه 
+٠ ١٠ ٠ ٦٤ ٦٥ ٦٣ شهر رمضانمروان بن الحكم قتلته زوجته 
+٠ ٠ ٢١ ٦٥ ٦٨ ٦٣ ١٥ شوالعبد الملك بن مروان 
+٢٢ ٠ ٩ ٦٤ ٧٣ ٧٣ عبد الله بن الزبير في وسط مدة عبد الملك 
+٠ ٧ ٩ ٨٦ ٩٦ ٤٢ ١٥ جمادى الأخرةالوليد بن عبد الملك 
+٥ ٥ ٢ ٩٦ ٩٩ ٣٩ ٢٠ صفرسليمان بن عبد الملك 
+٠ ٥ ٢ ٩٩ ١٠١ ٤٠ رجبعمر بن عبد العزيز 
+٠ ١ ٤ ١٠١ ١٠٥ ٤٠ ٢٥ شعبانيزيد بن عبد الملك </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

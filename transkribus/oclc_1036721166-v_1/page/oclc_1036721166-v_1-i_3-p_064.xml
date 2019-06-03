@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:15.311+02:00</Created>
+        <LastChange>2019-06-03T15:22:15.311+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_3-p_064.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>زجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا قصيدة طويلة من أحد أفاضل طنطا وأتبعها بنشر بديع ثم ختمها بهذا الزجل الرقيق ومراده أن نرسل اليه الأستاذ مجاناً وقد أجبنا طلبه وللطف الزجل وكونه من مشرب الجريدة نشرناه بنصه وهو: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قصدت واحد ما لو تأنى ربّ العباد إلْلي يخلَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>آه يا نديمي ويَا روحي ياللي لك الرايات تخفَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>هُوَّ الفقير ريحتُهْ وحشهْ قالوا عليه إِنُّو يُحْرَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>هُوَّ الفقير مالوش قيمه هُوَّ الفقير يطلع يسْرَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ملت الكتاب كُلُّه حلاوه خليت عقلي يِشَّوَّقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أمانه تعطيني لحسه تِرُدّ رُوحي يَا صنجَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إوعى تِكون واحدْ خُلَقي تِقُوم عَليَّا تتخلَّقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>رَتِّبْ لنا الأُستاذ ديمه واعملْ جميلَه يَا محندَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ولا تقولشي لأ أبداً أحسنْ انَا خُلْقي ضَيِّقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عاوِز هُنا الأُسْتَاذ يحْضر لمَّا أشوفو واتْحقَّقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبعدَها ابلغ قصدي لمَّا أشُوفوُ يِتْرَسْتَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يبقى حبيبي يفرح لي أمّا عدوَي بينهَّقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واللهْ النديم ذِكرُه طيّب وديمه للخيْرات يعْشَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يَا سَيَّدِي إسمَعْ قولي وبس إوعَى تِزَّمْزَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>المركب اللي ما فيها أشيا تِكوُون لله تِغْرَقْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+زجل 
+وردت لنا قصيدة طويلة من أحد أفاضل طنطا وأتبعها بنشر بديع ثم ختمها بهذا الزجل الرقيق ومراده أن نرسل اليه الأستاذ مجاناً وقد أجبنا طلبه وللطف الزجل وكونه من مشرب الجريدة نشرناه بنصه وهو: 
+قصدت واحد ما لو تأنى ربّ العباد إلْلي يخلَقْ 
+آه يا نديمي ويَا روحي ياللي لك الرايات تخفَقْ 
+هُوَّ الفقير ريحتُهْ وحشهْ قالوا عليه إِنُّو يُحْرَقْ 
+هُوَّ الفقير مالوش قيمه هُوَّ الفقير يطلع يسْرَقْ 
+ملت الكتاب كُلُّه حلاوه خليت عقلي يِشَّوَّقْ 
+أمانه تعطيني لحسه تِرُدّ رُوحي يَا صنجَقْ 
+إوعى تِكون واحدْ خُلَقي تِقُوم عَليَّا تتخلَّقْ 
+رَتِّبْ لنا الأُستاذ ديمه واعملْ جميلَه يَا محندَقْ 
+ولا تقولشي لأ أبداً أحسنْ انَا خُلْقي ضَيِّقْ 
+عاوِز هُنا الأُسْتَاذ يحْضر لمَّا أشوفو واتْحقَّقْ 
+وبعدَها ابلغ قصدي لمَّا أشُوفوُ يِتْرَسْتَقْ 
+يبقى حبيبي يفرح لي أمّا عدوَي بينهَّقْ 
+واللهْ النديم ذِكرُه طيّب وديمه للخيْرات يعْشَقْ 
+يَا سَيَّدِي إسمَعْ قولي وبس إوعَى تِزَّمْزَقْ 
+المركب اللي ما فيها أشيا تِكوُون لله تِغْرَقْ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

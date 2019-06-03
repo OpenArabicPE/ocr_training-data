@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:02.258+02:00</Created>
+        <LastChange>2019-06-03T15:23:02.258+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_23-p_552.jpg" imageWidth="713" imageHeight="1088">
+        <TextRegion id="region_1">
+            <Coords points="0,0 713,0 713,1088 0,1088"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فلأنت الذي تعلقت الآمال فيه وعودت انظاره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>ولانت الطبيب للقطر ممامسه من نقيصة أو حقاره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>يالها منة رجوعك فينا بعد ما احكم القنوط حصاره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فلنعم الأمام عدت الى المحراب يا معدن الهدى والطهارة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>بارك الله في وزارتك الزهراء يا در تاج كل صدارة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فإذن لأمراء ان قلت أرخ برياض حلا بهاء الوزارة سنة ١٣١٠ ـ ١٠١٣ ـ ٣٩ ـ ٨ ـ ٢٥٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>جمعية العروة الوثقى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>تقدم لنا ذكر شيء من تاريخ هذه الجمعية وفضائل أعضائها الكرام والآن نقول أن مدرستها التي كانت بجوار بورصة التجار بيمنا البصل ضاقت بالتلامذة لكثرتهم فيها فاضطر حضرات الأعضاء للبحث عن محل يسع التلامذة الحاضرين ومن يزيد عليهم ووجدوا مكاناً فسيحاً في ملك اسماعيل أفندي شعث أمام مسجده بأول شارع كوم الشقافة البّراني ونقلوا اليه التلامذة فنثني على همة الأعضاء الكرام وقيامهم بهذه الخدمة الجليلة مع كون عددهم لا يزيد عن تسعة عشر رجلاً ولله در رئيسهم الفاضل محمد أفندي طاهر ومدير المدرسة الماهر اللوذعي عبد القادر أفندي سري فغن كلا منهما قائم بما فوض اليه أحسن قيام وقد قبلوا في جمعيتهم المجللة بحسن العمل حضرة الفاضل الكامل أحمد بك صبري الباشمهندس بالسكة الحديدية والدمتور محمد أفندي رأفت حكيم القسم الرابع بإسكندرية وانتهى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>العدد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>على واحد وعشرين عضواً وهم المؤسسون والمعضدون وسنذكر أسماءهم جميعاً في عدد آخر تخليداً لذكرهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فلأنت الذي تعلقت الآمال فيه وعودت انظاره 
+ولانت الطبيب للقطر ممامسه من نقيصة أو حقاره 
+يالها منة رجوعك فينا بعد ما احكم القنوط حصاره 
+فلنعم الأمام عدت الى المحراب يا معدن الهدى والطهارة 
+بارك الله في وزارتك الزهراء يا در تاج كل صدارة 
+فإذن لأمراء ان قلت أرخ برياض حلا بهاء الوزارة سنة ١٣١٠ ـ ١٠١٣ ـ ٣٩ ـ ٨ ـ ٢٥٠ 
+
+جمعية العروة الوثقى 
+تقدم لنا ذكر شيء من تاريخ هذه الجمعية وفضائل أعضائها الكرام والآن نقول أن مدرستها التي كانت بجوار بورصة التجار بيمنا البصل ضاقت بالتلامذة لكثرتهم فيها فاضطر حضرات الأعضاء للبحث عن محل يسع التلامذة الحاضرين ومن يزيد عليهم ووجدوا مكاناً فسيحاً في ملك اسماعيل أفندي شعث أمام مسجده بأول شارع كوم الشقافة البّراني ونقلوا اليه التلامذة فنثني على همة الأعضاء الكرام وقيامهم بهذه الخدمة الجليلة مع كون عددهم لا يزيد عن تسعة عشر رجلاً ولله در رئيسهم الفاضل محمد أفندي طاهر ومدير المدرسة الماهر اللوذعي عبد القادر أفندي سري فغن كلا منهما قائم بما فوض اليه أحسن قيام وقد قبلوا في جمعيتهم المجللة بحسن العمل حضرة الفاضل الكامل أحمد بك صبري الباشمهندس بالسكة الحديدية والدمتور محمد أفندي رأفت حكيم القسم الرابع بإسكندرية وانتهى 
+
+العدد 
+على واحد وعشرين عضواً وهم المؤسسون والمعضدون وسنذكر أسماءهم جميعاً في عدد آخر تخليداً لذكرهم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

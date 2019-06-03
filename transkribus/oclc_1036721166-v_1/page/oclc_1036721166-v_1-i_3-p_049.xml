@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:13.789+02:00</Created>
+        <LastChange>2019-06-03T15:22:13.789+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_3-p_049.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العدد ٣ - بتاريخ: ١٨٩٢ - ٩ - ٦ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>التماس عفو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ألف حضرات القراء مطالعة المقالات العلمية والرسائل الأدبية في الجرائد العلمية المحلية وتخيلوا في هذه الصحيفة مجاراتها فيما ألفوه ونرجو أن تتحقق هذه الظنون وتحصل تلك الآمال فقد أخذنا نتكلم على المعارف ومنافعها وبينا فوائدها الأدبية ونتائجها الملكية وحاجة العمران المدني اليها. والضد إنما يعرف بضده. فلهذا أخذنا نتكلم في هذا العدد على المجاهل (جمع مجهلة لما يجعل المرءَ جاهلاً بسبب استعماله) لنبين مضارها وعواقبها الرديئة وما تجر اليه من سيء الأحوال فنلتمس العفو من القراء عما يرونه من خوضنا في هذا العباب فإننا لم نخرج عن دائرة العمليات والأدبيات وإنما ندخل في كل فن بما يناسبه ونعبر عن المقصود بعبارات متداولة بين الخاص والعام تعميماً للنفع فلا يرى المنشئون </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٣ - بتاريخ: ١٨٩٢ - ٩ - ٦ 
+
+التماس عفو 
+ألف حضرات القراء مطالعة المقالات العلمية والرسائل الأدبية في الجرائد العلمية المحلية وتخيلوا في هذه الصحيفة مجاراتها فيما ألفوه ونرجو أن تتحقق هذه الظنون وتحصل تلك الآمال فقد أخذنا نتكلم على المعارف ومنافعها وبينا فوائدها الأدبية ونتائجها الملكية وحاجة العمران المدني اليها. والضد إنما يعرف بضده. فلهذا أخذنا نتكلم في هذا العدد على المجاهل (جمع مجهلة لما يجعل المرءَ جاهلاً بسبب استعماله) لنبين مضارها وعواقبها الرديئة وما تجر اليه من سيء الأحوال فنلتمس العفو من القراء عما يرونه من خوضنا في هذا العباب فإننا لم نخرج عن دائرة العمليات والأدبيات وإنما ندخل في كل فن بما يناسبه ونعبر عن المقصود بعبارات متداولة بين الخاص والعام تعميماً للنفع فلا يرى المنشئون </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

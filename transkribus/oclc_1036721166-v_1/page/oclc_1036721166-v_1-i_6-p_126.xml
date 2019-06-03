@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:22.869+02:00</Created>
+        <LastChange>2019-06-03T15:22:22.869+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_126.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ونقول فلان قفطان أظن كان اصلوا سافل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ونقول فلان لابس قفاطين وعمنه فعينا نقطة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وذوقه دا مجليط خالص واللي يصاحبه في خطه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ويصبر مهزّأ راجل دون وكل ساعة في ورطه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وف كل مجلس يبقى ثقيل غني فقير عالم جاهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكلنا صرنا موضه وكل ليلة في بيره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وندور نبصص طول الليل وفكل قهوة تعميره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والكاس يدور بينا بالدور والكيف مناقله بالشيره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبعد ما نسكر خلاص نمشي ياسيدي نتمايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبعد مانسكر طينه من سكرنا سكرت يني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>نفضل نهاتي في السكه نقول سكرنا وايه يعني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واللي يلومنا دا سكران عند الخواجه مستني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>في السكر طول الليل عمره ما يفوق واليوم فلوس ما هوش طايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والموضه ماشيه جد نايت وبونو سوار أو بوبنو سيره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وماشيه جرمنا تزيق وفيه ذهب اشيا كثيره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ونقول فلان قفطان أظن كان اصلوا سافل 
+دور 
+ونقول فلان لابس قفاطين وعمنه فعينا نقطة 
+وذوقه دا مجليط خالص واللي يصاحبه في خطه 
+ويصبر مهزّأ راجل دون وكل ساعة في ورطه 
+وف كل مجلس يبقى ثقيل غني فقير عالم جاهل 
+دور 
+وكلنا صرنا موضه وكل ليلة في بيره 
+وندور نبصص طول الليل وفكل قهوة تعميره 
+والكاس يدور بينا بالدور والكيف مناقله بالشيره 
+وبعد ما نسكر خلاص نمشي ياسيدي نتمايل 
+دور 
+وبعد مانسكر طينه من سكرنا سكرت يني 
+نفضل نهاتي في السكه نقول سكرنا وايه يعني 
+واللي يلومنا دا سكران عند الخواجه مستني 
+في السكر طول الليل عمره ما يفوق واليوم فلوس ما هوش طايل 
+دور 
+والموضه ماشيه جد نايت وبونو سوار أو بوبنو سيره 
+وماشيه جرمنا تزيق وفيه ذهب اشيا كثيره </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

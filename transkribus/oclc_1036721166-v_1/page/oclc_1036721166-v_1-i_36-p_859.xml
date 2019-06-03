@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:27.302+02:00</Created>
+        <LastChange>2019-06-03T15:23:27.302+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_859.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>والكل قد عرف الاعدا بين الاندا واللي يريد مقتو بلومه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>دبت حرارة الوطنية في الجمعية والكل خايف من ذمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ما أحلى اجتماع شبان مصر في دار العصر بسر توحيد الكلمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>حملت جموعنا الأدبية عَ العصبية كثرة كلام ناقض الذمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وحط أعداء ذموهم بل شتموهم وعنونوهم باللخمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>قالوا رجال مصر العرفا مثل الضعفا ما يعرفوش غير البرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>والشيخ والشبان ناموا بل لو قاموا ما كان قيامهم غير زحمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أثر كلامهم في العقلا ويّا النبلا فما رضي حد بشتمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ومن يرى شتم اللؤَما لبني الكرما وينام على فرشة غمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>انظر لشبانّا الظرفا ابنا اللطفا وضمهم مثل الحزمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>واللي استعانوا بجرايد تبدي فوايد تخلص الشيخ من وهمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ظهروا دعاة للعرفان بين الأخوان والكل مسرور بفهمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ردوا كلام جمع الغربا عمن طربا جهلا بتشويش النغمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وبينوا غش الأجرا والكل جرى يبدي النصائح من حزمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فنهبوا فكر الأمة بعد النومه وحركوا أهل الهمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فما ترى إلا أعلام نظموا الأحكام وجد مجموعنا بعزمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>والأغنياء عقدوا شركه فيها البركه عملت سهام لأجل القسمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وانظر ترى جمع الشبان فاق الأعيان لما بدا لو سعود نجمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>تحوا مجامع أدبية بل علميه تشفي الوطن من سوء سقمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>مهلاً ترى نور العرفان ملاء الأوطان وأنزل الغير عن زعمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>والكل قد عرف الاعدا بين الاندا واللي يريد مقتو بلومه 
+دبت حرارة الوطنية في الجمعية والكل خايف من ذمه 
+ما أحلى اجتماع شبان مصر في دار العصر بسر توحيد الكلمه 
+حملت جموعنا الأدبية عَ العصبية كثرة كلام ناقض الذمه 
+وحط أعداء ذموهم بل شتموهم وعنونوهم باللخمه 
+قالوا رجال مصر العرفا مثل الضعفا ما يعرفوش غير البرمه 
+والشيخ والشبان ناموا بل لو قاموا ما كان قيامهم غير زحمه 
+أثر كلامهم في العقلا ويّا النبلا فما رضي حد بشتمه 
+ومن يرى شتم اللؤَما لبني الكرما وينام على فرشة غمه 
+انظر لشبانّا الظرفا ابنا اللطفا وضمهم مثل الحزمه 
+واللي استعانوا بجرايد تبدي فوايد تخلص الشيخ من وهمه 
+ظهروا دعاة للعرفان بين الأخوان والكل مسرور بفهمه 
+ردوا كلام جمع الغربا عمن طربا جهلا بتشويش النغمه 
+وبينوا غش الأجرا والكل جرى يبدي النصائح من حزمه 
+فنهبوا فكر الأمة بعد النومه وحركوا أهل الهمه 
+فما ترى إلا أعلام نظموا الأحكام وجد مجموعنا بعزمه 
+والأغنياء عقدوا شركه فيها البركه عملت سهام لأجل القسمه 
+وانظر ترى جمع الشبان فاق الأعيان لما بدا لو سعود نجمه 
+تحوا مجامع أدبية بل علميه تشفي الوطن من سوء سقمه 
+مهلاً ترى نور العرفان ملاء الأوطان وأنزل الغير عن زعمه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

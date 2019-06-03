@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:08.569+02:00</Created>
+        <LastChange>2019-06-03T15:23:08.569+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_26-p_621.jpg" imageWidth="748" imageHeight="1120">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1120 0,1120"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>السفر أسفار من المدائح ومن غرر ما قدم ونال القبول وحسن الالتفات قصيدة الألمعي النحرير صاحب التآليف النافعة والصيت الطائر فضلاً وعلماً وأدباً وعفة ونزاهة نفس الفاضل حفني بك ناصف القاضي بمحكمة أسيوط الأهلية وأبيات أبيات من نظم أمام المنشئين وقدوة الشعراء السيد الأفضل الشيخ علي الليثي حلينا بها الأستاذ كما تحلت بها مظاهر الاحتفال الذي شهده الناس يوم الزينة عند مرور الركاب العالي فمنها بيتان كتبا على زينة محطة المتانية وهما: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>سر فالسلامة والسعود مقارن لركابك المحفوف بالأسعاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>هذا الصعيد غدا سعيدا مذ وفي عباس الثاني على ميعاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وبيتان كتبا بزينة الصف حيث يقيم الفاضل المشار اليه وهما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>حل الركاب ولاح بدر سعوده عباس مصر مشرف بجنوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فالأرض قد لبست غلائل سندس والجو نقطها بدر عقوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولما ورد لحضرة الأستاذ تلغراف من بني سويف بعدم تكليف خاطره بالنزول الى شاطىء البحر وقت مرور الركاب الخديوي كتب هذه الأبيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>البحر والبر والدنيا بأجمعها سرت بملك خديوي مصر عباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لو يغبط الفلك الأعلى بواخره ما لامه من لدنه بعض إحساس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فإنها قد علاها منه أربعة بحر وبر وبدر ضيغم قاسي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>يا حسن يوم انار القطر مقدمه حتى اجتلى من رآه شمس إيناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لا زال للملك سعداً في رعيته مؤزراً باله العرش والناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>السفر أسفار من المدائح ومن غرر ما قدم ونال القبول وحسن الالتفات قصيدة الألمعي النحرير صاحب التآليف النافعة والصيت الطائر فضلاً وعلماً وأدباً وعفة ونزاهة نفس الفاضل حفني بك ناصف القاضي بمحكمة أسيوط الأهلية وأبيات أبيات من نظم أمام المنشئين وقدوة الشعراء السيد الأفضل الشيخ علي الليثي حلينا بها الأستاذ كما تحلت بها مظاهر الاحتفال الذي شهده الناس يوم الزينة عند مرور الركاب العالي فمنها بيتان كتبا على زينة محطة المتانية وهما: 
+سر فالسلامة والسعود مقارن لركابك المحفوف بالأسعاد 
+هذا الصعيد غدا سعيدا مذ وفي عباس الثاني على ميعاد 
+وبيتان كتبا بزينة الصف حيث يقيم الفاضل المشار اليه وهما 
+حل الركاب ولاح بدر سعوده عباس مصر مشرف بجنوده 
+فالأرض قد لبست غلائل سندس والجو نقطها بدر عقوده 
+ولما ورد لحضرة الأستاذ تلغراف من بني سويف بعدم تكليف خاطره بالنزول الى شاطىء البحر وقت مرور الركاب الخديوي كتب هذه الأبيات 
+البحر والبر والدنيا بأجمعها سرت بملك خديوي مصر عباس 
+لو يغبط الفلك الأعلى بواخره ما لامه من لدنه بعض إحساس 
+فإنها قد علاها منه أربعة بحر وبر وبدر ضيغم قاسي 
+يا حسن يوم انار القطر مقدمه حتى اجتلى من رآه شمس إيناس 
+لا زال للملك سعداً في رعيته مؤزراً باله العرش والناس </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

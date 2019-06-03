@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:51.974+02:00</Created>
+        <LastChange>2019-06-03T15:22:51.974+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_19-p_437.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>المار بها الموكب الجليل فسار من محطة مصر محاطاً بجاويشية الحرم المخصصين لمثل هذا الموكب الى شارع وجه البركة ثم على شارع محمد علي الى الحلمية حيث انتهى الى سراي الوزير الجليل والعروس النبيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وسان التهنئة يخبر عن حسن صنع دولته مؤرخاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رب المحاسن زف الشمس للقمر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٢٠٢ ١٠ ٨٧ ٤٣١ ٤٠٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وفي منتصف الساعة الخامسة ليلاً سار موكب العروس الفاضل مشتملاً على فرقة من العساكر حاملة للسلاح لتأديه التعظيم اللازم وأمامها فرقة أخرى تتقدمها الموسيقى العسكرية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ثم مرَّ الى شارع سبيل والدة عباس باشا الأول ثم الى جامع الماس الكائن بميدان الحلمية فدخل العروس ومن معه لصلاة العشاء والناس كانوا يقتصرون على صلاة العروس وهم ينتظرون أما هذا فصلَّي معه كل من صحبه إظهاراً للعشائر الدينية ثم خرج الموكب ومشى محفوفاً بالأُبهة والجلال حتى دخل السراي العامرة مرموقاً بأعين التعظيم والإجلال قد خلعت عليه الأفراح ثوب أنس وسرور وكل محب يقول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أُحب فرح رياض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>١١ ٢٨٨ ١٠١١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وقد خطب في ساحة الفرح جماعة من أفاضل الوقت وأذكيائه ثم اطلقت العساكر بنادقها طلقات متتالية ودخل العروس بيت العز والشرف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>المار بها الموكب الجليل فسار من محطة مصر محاطاً بجاويشية الحرم المخصصين لمثل هذا الموكب الى شارع وجه البركة ثم على شارع محمد علي الى الحلمية حيث انتهى الى سراي الوزير الجليل والعروس النبيل 
+وسان التهنئة يخبر عن حسن صنع دولته مؤرخاً 
+رب المحاسن زف الشمس للقمر 
+٢٠٢ ١٠ ٨٧ ٤٣١ ٤٠٠ 
+سنة ١٣١٠ 
+وفي منتصف الساعة الخامسة ليلاً سار موكب العروس الفاضل مشتملاً على فرقة من العساكر حاملة للسلاح لتأديه التعظيم اللازم وأمامها فرقة أخرى تتقدمها الموسيقى العسكرية 
+ثم مرَّ الى شارع سبيل والدة عباس باشا الأول ثم الى جامع الماس الكائن بميدان الحلمية فدخل العروس ومن معه لصلاة العشاء والناس كانوا يقتصرون على صلاة العروس وهم ينتظرون أما هذا فصلَّي معه كل من صحبه إظهاراً للعشائر الدينية ثم خرج الموكب ومشى محفوفاً بالأُبهة والجلال حتى دخل السراي العامرة مرموقاً بأعين التعظيم والإجلال قد خلعت عليه الأفراح ثوب أنس وسرور وكل محب يقول 
+أُحب فرح رياض 
+١١ ٢٨٨ ١٠١١ 
+سنة ١٣١٠ 
+وقد خطب في ساحة الفرح جماعة من أفاضل الوقت وأذكيائه ثم اطلقت العساكر بنادقها طلقات متتالية ودخل العروس بيت العز والشرف </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

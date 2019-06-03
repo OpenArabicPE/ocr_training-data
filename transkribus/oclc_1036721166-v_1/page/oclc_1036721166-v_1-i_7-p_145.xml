@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:24.428+02:00</Created>
+        <LastChange>2019-06-03T15:22:24.428+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_7-p_145.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العدد ٧ - بتاريخ: ١٨٩٢ - ١٠ - ٤ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الراوي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أيها النديم. إن بعض الناس انقبض صدره وضاقت نفسه وامتلأ غيظاً عليك عندما رأى محاورة حنيفة ولطيفة وألزمني أن أبلغ ذلك إليك لتعلم أن كل ما يكتب لا يوافق كل إنسان. نديم. لا يخلو إما أن يكون هذا المتغيظ سكيراً أو غير سكير فإن كان سكيراً وهذه صفته فالذي قيل فيه قليل جداً بالنسبة لما يلزم لتأديبه وعليه أن يرجع عن باب لا يدخله إلا كل من لا يعرف قدر شرفه. وإن كان سكيراً وليست هذه صفته فإننا نحذره من الوصول إليها فليرجع من قريب فمن حام حول الحمى يوشك أن يقع فيه. وإن كان غير سكير فليكن مساعداً لنا على سد باب المفاسد وفتح باب المصالح ونصيحة الإخوان وحثهم على اتباع طرق الهدى وما فيه حفظ الشرف والمال. الراوي. هو لا يعترض عليك من هذا القبيل وإنما يقول أنك أظهرت عيوب الشرقيين الى الإفرنج بذكر أحوال السكارى وما يصدر عنهم وما ينتهي إليه أمرهم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٧ - بتاريخ: ١٨٩٢ - ١٠ - ٤ 
+
+الراوي 
+أيها النديم. إن بعض الناس انقبض صدره وضاقت نفسه وامتلأ غيظاً عليك عندما رأى محاورة حنيفة ولطيفة وألزمني أن أبلغ ذلك إليك لتعلم أن كل ما يكتب لا يوافق كل إنسان. نديم. لا يخلو إما أن يكون هذا المتغيظ سكيراً أو غير سكير فإن كان سكيراً وهذه صفته فالذي قيل فيه قليل جداً بالنسبة لما يلزم لتأديبه وعليه أن يرجع عن باب لا يدخله إلا كل من لا يعرف قدر شرفه. وإن كان سكيراً وليست هذه صفته فإننا نحذره من الوصول إليها فليرجع من قريب فمن حام حول الحمى يوشك أن يقع فيه. وإن كان غير سكير فليكن مساعداً لنا على سد باب المفاسد وفتح باب المصالح ونصيحة الإخوان وحثهم على اتباع طرق الهدى وما فيه حفظ الشرف والمال. الراوي. هو لا يعترض عليك من هذا القبيل وإنما يقول أنك أظهرت عيوب الشرقيين الى الإفرنج بذكر أحوال السكارى وما يصدر عنهم وما ينتهي إليه أمرهم. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

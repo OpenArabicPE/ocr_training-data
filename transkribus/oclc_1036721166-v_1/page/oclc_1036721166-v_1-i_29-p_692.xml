@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:14.613+02:00</Created>
+        <LastChange>2019-06-03T15:23:14.613+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_29-p_692.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>باب الأدبيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فأتنا ان نثبت شيئاً من قصيدة حضرة الفاضل الأديب وهبي بك ناظر مدرسة حارة السقائين المقدمة للحضرة الخديوية الفخيمة فنلخص منها قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>عوجا بذياك اللوى وسلا=أألمّ بالحب أمرؤ وسلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وتمثلا رسم الديار وما=قد كان من عهد حلا وخلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>واستعطفا لي من أحب وأن=أنكرت منه كل ما فعلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فإلي مَ يحسن ان أقيم على=شرط الوفاء أماليء الغزلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأحلّ ما شاءَ العذول وما=من مغرم إلا وقد عذلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ولقد حلبت الدهر أشطره=وطعمت منه المرّ والعسلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وبلوت ما لم يبله أحد=إلا وصار حديثه مثلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فأسأْت بالأيام معتقدي=وطويت في تعليلها الجدلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وبسطت في حوز العلوم يدي=ولو ان جيدي لم يزل عطلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ونقدت في تمحيصها عمرا=لا حول لي فيه ولا حولا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ولقد رفعت لوا الولاء الى=محيي رسوم الفضل مبتهلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فأمنت عادية الصروف وما=قد كنت إلا خائفاً وجلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>(عباس) يا مولاي دم أبدا=فينا مطاع الأمر ممتثلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>واصدع رعاك الله مقتضباً=بحسام جدّك كل ما عضلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأفخر على الماضين قد حكموا=مصراً وإن كانوا هم الأُولا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وتعاهد البلد الأمين بما=ترقى العلوم به رقيّ علا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يا واحد الآحاد منزلة=وأجل معطاء اذا بذلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+باب الأدبيات 
+فأتنا ان نثبت شيئاً من قصيدة حضرة الفاضل الأديب وهبي بك ناظر مدرسة حارة السقائين المقدمة للحضرة الخديوية الفخيمة فنلخص منها قوله: 
+عوجا بذياك اللوى وسلا=أألمّ بالحب أمرؤ وسلا 
+وتمثلا رسم الديار وما=قد كان من عهد حلا وخلا 
+واستعطفا لي من أحب وأن=أنكرت منه كل ما فعلا 
+فإلي مَ يحسن ان أقيم على=شرط الوفاء أماليء الغزلا 
+وأحلّ ما شاءَ العذول وما=من مغرم إلا وقد عذلا 
+ولقد حلبت الدهر أشطره=وطعمت منه المرّ والعسلا 
+وبلوت ما لم يبله أحد=إلا وصار حديثه مثلا 
+فأسأْت بالأيام معتقدي=وطويت في تعليلها الجدلا 
+وبسطت في حوز العلوم يدي=ولو ان جيدي لم يزل عطلا 
+ونقدت في تمحيصها عمرا=لا حول لي فيه ولا حولا 
+ولقد رفعت لوا الولاء الى=محيي رسوم الفضل مبتهلا 
+فأمنت عادية الصروف وما=قد كنت إلا خائفاً وجلا 
+(عباس) يا مولاي دم أبدا=فينا مطاع الأمر ممتثلا 
+واصدع رعاك الله مقتضباً=بحسام جدّك كل ما عضلا 
+وأفخر على الماضين قد حكموا=مصراً وإن كانوا هم الأُولا 
+وتعاهد البلد الأمين بما=ترقى العلوم به رقيّ علا 
+يا واحد الآحاد منزلة=وأجل معطاء اذا بذلا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

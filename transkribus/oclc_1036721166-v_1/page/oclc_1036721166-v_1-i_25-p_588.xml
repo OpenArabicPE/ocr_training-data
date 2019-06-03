@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:06.326+02:00</Created>
+        <LastChange>2019-06-03T15:23:06.326+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_25-p_588.jpg" imageWidth="742" imageHeight="1120">
+        <TextRegion id="region_1">
+            <Coords points="0,0 742,0 742,1120 0,1120"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ومن الرياضيات قول الفاضل محمد أفندي طلعت من عمال محافظة بورسعيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لنا رجال لا يهاض ركن لهم بالانتفاض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>صحاح عزم ونهى وفي العلا ليسو مراض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وبينهم شهم على يديه نيل الخير فاض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ارخته واحد مصر مصطفى باشا رياض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>١٩ ـ ٣٣٠ ـ ٢٢٩ ـ ٣٠٤ ـ ١٠١١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٨٩٣ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولحضرة الفاضل محمود أفندي حسني معاون محافظة مصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>تبسم الملك إجلالاً بطلعة من أحيا العدالة بالتدبير والفضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>والسعد هنأ أوطاناً يؤرخها لها الهناء رياض لاح بالعدل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ ـ ٣٦ ـ ٨٧ ـ ١٠١١ ـ ٣٩ ـ ١٣٧ . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولحضرة الفاضل السيد حسن محمد الفاكهاني قصيدة طويلة مطلعها وتاريخها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>بدر المعالي منير في أفق مجد يسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وعدله قال ارخ دام رياض الوزير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولحضرة الفاضل الشيخ أحمد علي عمر السكندري قصيدة طنانة قال في ختامها: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فان البلاد لك استحسنت ومصر اكتست من جلالك نورا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فلا زلت تاجاً لهام العلى ولا زال مجدك ينمو ظهورا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>مدى الدهر أو ما السرور بدا يؤرخ عاد رياض وزيرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولحضرة الفاضل الشيخ أحمد القوصي قصيدة منها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ومن الرياضيات قول الفاضل محمد أفندي طلعت من عمال محافظة بورسعيد 
+لنا رجال لا يهاض ركن لهم بالانتفاض 
+صحاح عزم ونهى وفي العلا ليسو مراض 
+وبينهم شهم على يديه نيل الخير فاض 
+ارخته واحد مصر مصطفى باشا رياض 
+١٩ ـ ٣٣٠ ـ ٢٢٩ ـ ٣٠٤ ـ ١٠١١ 
+سنة ١٨٩٣ 
+ولحضرة الفاضل محمود أفندي حسني معاون محافظة مصر 
+تبسم الملك إجلالاً بطلعة من أحيا العدالة بالتدبير والفضل 
+والسعد هنأ أوطاناً يؤرخها لها الهناء رياض لاح بالعدل 
+سنة ١٣١٠ ـ ٣٦ ـ ٨٧ ـ ١٠١١ ـ ٣٩ ـ ١٣٧ . 
+ولحضرة الفاضل السيد حسن محمد الفاكهاني قصيدة طويلة مطلعها وتاريخها 
+بدر المعالي منير في أفق مجد يسير 
+وعدله قال ارخ دام رياض الوزير 
+ولحضرة الفاضل الشيخ أحمد علي عمر السكندري قصيدة طنانة قال في ختامها: 
+فان البلاد لك استحسنت ومصر اكتست من جلالك نورا 
+فلا زلت تاجاً لهام العلى ولا زال مجدك ينمو ظهورا 
+مدى الدهر أو ما السرور بدا يؤرخ عاد رياض وزيرا 
+ولحضرة الفاضل الشيخ أحمد القوصي قصيدة منها. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:10.275+02:00</Created>
+        <LastChange>2019-06-03T15:23:10.275+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_27-p_640.jpg" imageWidth="480" imageHeight="710">
+        <TextRegion id="region_1">
+            <Coords points="0,0 480,0 480,710 0,710"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>والسعد أصبح في الرحاب مخيما ورست ببحر نداك منه الجاريه السفينة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>عباس انت الدهر في عزماته رب المعسكر والجيوش الجاريه الجريئة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>الله أكبر يا له من سيد صان الرعية من عوادي الجاريه المخالفة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>أكرم بغر شمائل قد حازها من ذا يجاري قدرها بالجاريه المجاراة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>الله قد أعطى المليك مهابة ومواهباً تسمو الغوادي الجاريه الهتانه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>يا أيها الملك العزيز ومن به بدر الدياجر يزدهي والجاريه الشمس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>أنت الذي عم البرية فضله وبه غدت عين المكارم جاريه متفجرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>بسموكم أرض الصعيد تشرفت لما علوت بساطها بالجاريه القدم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>وكذاك مصر يوم عيد قدومكم فاحت بطيب النشر منها الجاريه النسيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>والكل يهدون المليك ثناءهم ما بين مولى منهم أو جاريه رقيقه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>لا زلت بالنصر المبين مؤيداً ما فاح مسك من ختام الجاريه هذا اللفظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>أو قلت في مدح العزيز مهنئاً رتب العلا في باب عزك جاريه خادمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>وللفاضل فتوح أفندي جنينة قصيدة بديعة في الحضرة الخديوية منها قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>بضياء رأيك تهتدي الأفكار وبحسن عدلك تقتدي الأخيار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>وشموس عزك أشرقت انوارها ونجوم سعدك في العلا أقمار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>أن الذي ملك القلوب بحلمه وبحبه قد باحت الأسرار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 480,0 480,710 0,710"/>
+                <TextEquiv>
+                    <Unicode>هو صاحب الشرف الرفيع أميرنا عباس مصر مليكها المختار </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>والسعد أصبح في الرحاب مخيما ورست ببحر نداك منه الجاريه السفينة 
+عباس انت الدهر في عزماته رب المعسكر والجيوش الجاريه الجريئة 
+الله أكبر يا له من سيد صان الرعية من عوادي الجاريه المخالفة 
+أكرم بغر شمائل قد حازها من ذا يجاري قدرها بالجاريه المجاراة 
+الله قد أعطى المليك مهابة ومواهباً تسمو الغوادي الجاريه الهتانه 
+يا أيها الملك العزيز ومن به بدر الدياجر يزدهي والجاريه الشمس 
+أنت الذي عم البرية فضله وبه غدت عين المكارم جاريه متفجرة 
+بسموكم أرض الصعيد تشرفت لما علوت بساطها بالجاريه القدم 
+وكذاك مصر يوم عيد قدومكم فاحت بطيب النشر منها الجاريه النسيم 
+والكل يهدون المليك ثناءهم ما بين مولى منهم أو جاريه رقيقه 
+لا زلت بالنصر المبين مؤيداً ما فاح مسك من ختام الجاريه هذا اللفظ 
+أو قلت في مدح العزيز مهنئاً رتب العلا في باب عزك جاريه خادمه 
+وللفاضل فتوح أفندي جنينة قصيدة بديعة في الحضرة الخديوية منها قوله: 
+بضياء رأيك تهتدي الأفكار وبحسن عدلك تقتدي الأخيار 
+وشموس عزك أشرقت انوارها ونجوم سعدك في العلا أقمار 
+أن الذي ملك القلوب بحلمه وبحبه قد باحت الأسرار 
+هو صاحب الشرف الرفيع أميرنا عباس مصر مليكها المختار </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

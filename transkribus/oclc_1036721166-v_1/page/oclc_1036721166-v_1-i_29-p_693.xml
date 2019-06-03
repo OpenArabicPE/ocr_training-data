@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:14.651+02:00</Created>
+        <LastChange>2019-06-03T15:23:14.651+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_29-p_693.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>هذا ثغور القطر باسمة=بعود جدك دائماً جذلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فأقم عماد الملك معتضداً=بالله في تدبيره رجلا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ولقد تسامي بدر طالعه=في مثل هذا اليوم واكتملا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وكلها من هذا القبيل درر ألفاظ في قلائد معانٍ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا هذه القصيدة من نظم الشاعر المجيد الأديب الفاضل محمود بك محرم رستم يهنئ الأستاذ الكامل أحمد أفندي ذكي مترجم مجلس النظار بعودته سالماً من المؤتمر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وسياحته الأوروبية ولحسنها أثبتنا معظمها قياماً بخدمة الأدب وأهل قال أيده الله. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لو جهلنا خمار سكر الفراق=ما علمنا مقدار شكر التلاقي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>والتداني ان لم يشبه تناءِ=ما ذكت في الفؤَاد نار اشتياق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فاقتطف بالشفاه ورداً جنياً=من خدودٍ في غاية الإشراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لفتاة كالغصن قدا ولينا=وكبدر التمام في الائتلاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>واثقتني وبعدها أوثقتني=في هواها ولم تحل وثاقي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>زرتها والدجى يولي فراراً=من هجوم الضيا على الآفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فوجدت الأسود والبيض لفت=حول ذاك الكناس مثل النطاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أنا لم أخش غير رمح قوام=وظبي أعين ونبل مآق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لمحتني بنظرة لو تعدت=لمحتني نبال تلك الحداق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وجرى دمعها فشمت الدراري=نُظمت كالعقود فوق الصفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ثم ضمت حمر الشفاه للثم=بعد ما حركت ذراعي عناق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>هذا ثغور القطر باسمة=بعود جدك دائماً جذلا 
+فأقم عماد الملك معتضداً=بالله في تدبيره رجلا 
+ولقد تسامي بدر طالعه=في مثل هذا اليوم واكتملا 
+وكلها من هذا القبيل درر ألفاظ في قلائد معانٍ 
+وردت لنا هذه القصيدة من نظم الشاعر المجيد الأديب الفاضل محمود بك محرم رستم يهنئ الأستاذ الكامل أحمد أفندي ذكي مترجم مجلس النظار بعودته سالماً من المؤتمر 
+وسياحته الأوروبية ولحسنها أثبتنا معظمها قياماً بخدمة الأدب وأهل قال أيده الله. 
+لو جهلنا خمار سكر الفراق=ما علمنا مقدار شكر التلاقي 
+والتداني ان لم يشبه تناءِ=ما ذكت في الفؤَاد نار اشتياق 
+فاقتطف بالشفاه ورداً جنياً=من خدودٍ في غاية الإشراق 
+لفتاة كالغصن قدا ولينا=وكبدر التمام في الائتلاق 
+واثقتني وبعدها أوثقتني=في هواها ولم تحل وثاقي 
+زرتها والدجى يولي فراراً=من هجوم الضيا على الآفاق 
+فوجدت الأسود والبيض لفت=حول ذاك الكناس مثل النطاق 
+أنا لم أخش غير رمح قوام=وظبي أعين ونبل مآق 
+لمحتني بنظرة لو تعدت=لمحتني نبال تلك الحداق 
+وجرى دمعها فشمت الدراري=نُظمت كالعقود فوق الصفاق 
+ثم ضمت حمر الشفاه للثم=بعد ما حركت ذراعي عناق </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

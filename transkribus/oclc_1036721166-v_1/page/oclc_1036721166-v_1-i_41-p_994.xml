@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.735+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.735+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_994.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والعين كبت خمرتهامن فرحتهاوالقلب قابلنا بطبلُه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قعد وربّع في صدريوالنار تجريمثل الصواريخ من حلوُله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لما رأى روحي وجديأتلف كبديبعث رساله مع رُسله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يقول يا مسكين مالكبين حالك عسى يكون عندي حله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت يا سيد عبدكمن نار خدك حرق اللهيب جسمه كله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أخذت حبيب قلبي النخوهبعد القسوهوجا يغازلني بدلّه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خطر ولكن في قلبيبهجة لبيوجاد لمسكيغو بوصله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>من فرحتي هرولت أبكيمن غير ما شكيوالدمع من كترو بلّه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حركت قلبو للرحمهمن دي الفحمهفجاد بياسمينو وفُلّه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت أحييت الفاني يا انسانيالله يجازيك بفضله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكان ما يرجو العاشقغير الفاسقوالسر لا يحسُن نقله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإلى هنا صفق الباش والحاضرون ثم عدنا للزجل المعتاد بما يطول ذكره فإن الشيخ رمضان كتب من زجل هذا المجلس خمسة كراريس وكله محفوظ عندنا لم يضع منه شيء وقد استمرت هذه المناظرة ثلاث ساعات فرجل تكون بديهته هكذا لا يذم بمجلس كهذا بل يمدح فإنه قل ان يدخل معه قوّال في هذا المضيق البديهي ولو ان أصحاب المقطم يعلمون حقيقة هذا المجلس ما قبلوه من المكاتب على انه ذم فإنه من أحسن ضروب المدح والفخر أما مسألة المنصورة فسنأتي عليها في عدد آخر فإنها لا تقل عن هذه بل تزيد لما فيها من بداهة الشعر الجيد في مجلس خاص بالشعراء وما دعانا لهذا البيان إلا لكون هذه الحالة محمدة عدت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>والعين كبت خمرتهامن فرحتهاوالقلب قابلنا بطبلُه 
+قعد وربّع في صدريوالنار تجريمثل الصواريخ من حلوُله 
+لما رأى روحي وجديأتلف كبديبعث رساله مع رُسله 
+يقول يا مسكين مالكبين حالك عسى يكون عندي حله 
+فقلت يا سيد عبدكمن نار خدك حرق اللهيب جسمه كله 
+أخذت حبيب قلبي النخوهبعد القسوهوجا يغازلني بدلّه 
+خطر ولكن في قلبيبهجة لبيوجاد لمسكيغو بوصله 
+من فرحتي هرولت أبكيمن غير ما شكيوالدمع من كترو بلّه 
+حركت قلبو للرحمهمن دي الفحمهفجاد بياسمينو وفُلّه 
+فقلت أحييت الفاني يا انسانيالله يجازيك بفضله 
+وكان ما يرجو العاشقغير الفاسقوالسر لا يحسُن نقله 
+وإلى هنا صفق الباش والحاضرون ثم عدنا للزجل المعتاد بما يطول ذكره فإن الشيخ رمضان كتب من زجل هذا المجلس خمسة كراريس وكله محفوظ عندنا لم يضع منه شيء وقد استمرت هذه المناظرة ثلاث ساعات فرجل تكون بديهته هكذا لا يذم بمجلس كهذا بل يمدح فإنه قل ان يدخل معه قوّال في هذا المضيق البديهي ولو ان أصحاب المقطم يعلمون حقيقة هذا المجلس ما قبلوه من المكاتب على انه ذم فإنه من أحسن ضروب المدح والفخر أما مسألة المنصورة فسنأتي عليها في عدد آخر فإنها لا تقل عن هذه بل تزيد لما فيها من بداهة الشعر الجيد في مجلس خاص بالشعراء وما دعانا لهذا البيان إلا لكون هذه الحالة محمدة عدت </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

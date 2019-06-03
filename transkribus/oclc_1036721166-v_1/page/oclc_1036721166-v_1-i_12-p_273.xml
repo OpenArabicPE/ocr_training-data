@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:35.974+02:00</Created>
+        <LastChange>2019-06-03T15:22:35.974+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_12-p_273.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واحمل متاعك في وعر المراد على صدق العزيمة لا بكر ولا جمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فإن وصلت مقام الفضل في شرف حفظت للأهل صون المجد من دخل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإن وقفت على كره بمصطدم أَجِلَّ نفسك بالتقوى عن العدل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وكن غياثا اذا ما عزة حصلت=فإن أُهنت فد العذل للعزل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إياَّك. اياك بيعَ المجد في جدّةٍ تجري بآصلك العليا الى الحُسُل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو ان ترى فارغاً من نفع ممتثل أو وصل منفصل أو هدي متصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فليس في الكون أعمال مؤجلة فلازم الجد تعرف خيبة الأَجِل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يسعى المجدُّ وفضل الله ينقله حتى يخلصهُ من خطة السُفُل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لمن أتى غي انسان له عم هذا الوجود اذا قال الفتى بجلي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لم يخلق الله عقل الناطقين سدى فذاهب العقل م ينأى عن الكمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حبس المطية عن ورد العلا خبل ومن يسود ماسوراً الى الخبل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>طأحامي الصخر في الرمضاء ممتطياً ظهر الثبات ترد الصعب للذُّلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كم جاء قبلك آلاف مؤلفة وليس في الصحف غير الحر والبطل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إي لأذكر آبائي على عمل يوهي الحديد فيذكي همتي خجلي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن زجَّ بي في رذال الناس مزدحم جهدت في البعد جهد المصعد النَّكل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإن سكتُّ على ضيم سكتُّ على فكر يروض جواد الهمة المحل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حجمي وحجم قعيد العزم متحد مثل اتحاد جنى التفاح والبصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هنئت بالمجد يا رب العلوم فرد بحر المفاخر واهنأُ منه بالعلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>دانٍ من الفضل مغبوط بحكمته ومحكم الضرب في مثل وفي مثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+واحمل متاعك في وعر المراد على صدق العزيمة لا بكر ولا جمل 
+فإن وصلت مقام الفضل في شرف حفظت للأهل صون المجد من دخل 
+وإن وقفت على كره بمصطدم أَجِلَّ نفسك بالتقوى عن العدل 
+وكن غياثا اذا ما عزة حصلت=فإن أُهنت فد العذل للعزل 
+إياَّك. اياك بيعَ المجد في جدّةٍ تجري بآصلك العليا الى الحُسُل 
+أو ان ترى فارغاً من نفع ممتثل أو وصل منفصل أو هدي متصل 
+فليس في الكون أعمال مؤجلة فلازم الجد تعرف خيبة الأَجِل 
+يسعى المجدُّ وفضل الله ينقله حتى يخلصهُ من خطة السُفُل 
+لمن أتى غي انسان له عم هذا الوجود اذا قال الفتى بجلي 
+لم يخلق الله عقل الناطقين سدى فذاهب العقل م ينأى عن الكمل 
+حبس المطية عن ورد العلا خبل ومن يسود ماسوراً الى الخبل 
+طأحامي الصخر في الرمضاء ممتطياً ظهر الثبات ترد الصعب للذُّلل 
+كم جاء قبلك آلاف مؤلفة وليس في الصحف غير الحر والبطل 
+إي لأذكر آبائي على عمل يوهي الحديد فيذكي همتي خجلي 
+إن زجَّ بي في رذال الناس مزدحم جهدت في البعد جهد المصعد النَّكل 
+وإن سكتُّ على ضيم سكتُّ على فكر يروض جواد الهمة المحل 
+حجمي وحجم قعيد العزم متحد مثل اتحاد جنى التفاح والبصل 
+هنئت بالمجد يا رب العلوم فرد بحر المفاخر واهنأُ منه بالعلل 
+دانٍ من الفضل مغبوط بحكمته ومحكم الضرب في مثل وفي مثل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

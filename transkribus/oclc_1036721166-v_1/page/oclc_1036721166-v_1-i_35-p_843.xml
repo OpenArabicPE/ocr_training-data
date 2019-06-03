@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:25.412+02:00</Created>
+        <LastChange>2019-06-03T15:23:25.412+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_35-p_843.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وقل له الفاضل ذكي بك تعدد الرواة في أماكن مختلفة يثبت أن للإشاعة أصلاً فقال أنا ابرأُ الى الله تعالى من كل هذه الأقوال - واتباعاً لإشارة سماحة شيخ شيوخ الطرق ونقيب الأشراف بنشر ما جرى في مجلسه تماماً إظهاراً لبراءة الأستاذ الجربي وإعلاناً لإحقاق الحق نشرنا هذه الرسالة بالإيضاح والتفصيل ولقد قرأناها قبل طبعها على سماحته فأقر ما فيها وأمر بنشرها من غير تصرف في شيء منها لكونها بالنسبة لمقام المشيخة رسمية فتمعنها أيها القارئ ونزه جانب الأستاذ الجربي عما تبرأ منه وقل جاء الحق وزهق الباطل أن الباطل كان زهوقا. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>التهاني الخديوية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>تقدمت للحضرة الخديوية الفخيمة قصائد بديعية تهنئة بالعيد غير قصيدة الأستاذ الفاضل الشيخ علي الليثي فمن ذلك قصيدة للفاضل الشيخ سليمان العبد مطلعها وختامها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لك الدهر يا عباس لا زال باسما=ولا زال بالإقبال سعدك خادماً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فقد قام داعي البشر فينا مؤرخاً=سعود الخديوي صير العيد باسماً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأنشد في الحضرة الجليلة بيتين وهما </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>مولاي عيد الفطر أقبل باسماً=يهدي لسدتك الهناء الأكبرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فاهناء به فالسعد قال مؤرخاً=عيد العزيز قد ازدهى واستبشرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ومنها قصية للشاب النبيه محمود أفندي خاطر من تلامذة المدرسة الخديوية مطلعها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وقل له الفاضل ذكي بك تعدد الرواة في أماكن مختلفة يثبت أن للإشاعة أصلاً فقال أنا ابرأُ الى الله تعالى من كل هذه الأقوال - واتباعاً لإشارة سماحة شيخ شيوخ الطرق ونقيب الأشراف بنشر ما جرى في مجلسه تماماً إظهاراً لبراءة الأستاذ الجربي وإعلاناً لإحقاق الحق نشرنا هذه الرسالة بالإيضاح والتفصيل ولقد قرأناها قبل طبعها على سماحته فأقر ما فيها وأمر بنشرها من غير تصرف في شيء منها لكونها بالنسبة لمقام المشيخة رسمية فتمعنها أيها القارئ ونزه جانب الأستاذ الجربي عما تبرأ منه وقل جاء الحق وزهق الباطل أن الباطل كان زهوقا. 
+
+التهاني الخديوية 
+تقدمت للحضرة الخديوية الفخيمة قصائد بديعية تهنئة بالعيد غير قصيدة الأستاذ الفاضل الشيخ علي الليثي فمن ذلك قصيدة للفاضل الشيخ سليمان العبد مطلعها وختامها 
+لك الدهر يا عباس لا زال باسما=ولا زال بالإقبال سعدك خادماً 
+فقد قام داعي البشر فينا مؤرخاً=سعود الخديوي صير العيد باسماً 
+وأنشد في الحضرة الجليلة بيتين وهما 
+مولاي عيد الفطر أقبل باسماً=يهدي لسدتك الهناء الأكبرا 
+فاهناء به فالسعد قال مؤرخاً=عيد العزيز قد ازدهى واستبشرا 
+ومنها قصية للشاب النبيه محمود أفندي خاطر من تلامذة المدرسة الخديوية مطلعها. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

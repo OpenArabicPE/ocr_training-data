@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:38.824+02:00</Created>
+        <LastChange>2019-06-03T15:22:38.824+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_13-p_307.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تهاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>انتهت على أحسن نظام واجمل حال ليالي أفراح سعادة الهمام أحمد فريد باشا التي احياها لتأُهل حضرة نجله النبيل ابراهيم بك وكانت عشريت ليلة ابتهج بها جميع أمراء وأعيان ووجهاء العاصمة وكثير من ذوات الأرياف وقد ارَّخها جملة من الشعراء وفي مقدمتهم الإمام الفاضل العالم الكامل قدوة الفصحاء وامير البلغاء الشيخ علي الليثي فطرّز أوائل الأشطر الأُول بهذا الشطر (عش يا فريد لمن هنا مؤَرخه) والاشطر الثواني بقوله مؤّرخاً تاريخاً افرنجياً (بدر تجلت له شمس ببهجتها) وختمها بتاريخ عربي كما ترى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ع. عم السرور وآيات الثنا تليت ٢ بمجلس فيه مرآة الهنا جُلبت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ش. شبرى بها شيَّد الاقبال من طرب ٤ دار لتفريح أخوان الصفا بُنيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ي. يا حسن دار اديرت في حدائقها ٢٠٠ راحُ ابتهاج بكاسات الوفا سقيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ا. أحيت محاسن أيام لنا سلفت ٤٠٠ تاهت باحيائها من ما فنيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ف. فريد باشا استنار الدهر منك وقد ٣ جددت بهجة أفراح به نسيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ر. رنحَّت اعطاف آمال وسِرَت بها ٣٠ لخير مغنّى به النعماءُ قد غنيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ي. يا بعجة القطر اذ قطر الندى مرحاً ٤٠٠ تجلى كشمس بأنوار البها كسيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>د. دام الحبور لإبراهيم اذ نظمت ٣٠ له بعلياك آمال قد انتقيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ل. لله انت فقد أوسعته منناً ٥ هان النضار لديها عندما حبيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>م. من مثله حاز أوصاف الرضا غدا ٣٠٠ شريف نفس بغير المجد ما رضيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ن. نبيل قدر جليل في شبيبته ٤٠ مهذب الطبع يرعي ذمة رعيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هـ. هذا الفخار ومن يشبه اباه فقد ٦٠ ساد الزمانُ به ان أزمة قويت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+تهاني 
+انتهت على أحسن نظام واجمل حال ليالي أفراح سعادة الهمام أحمد فريد باشا التي احياها لتأُهل حضرة نجله النبيل ابراهيم بك وكانت عشريت ليلة ابتهج بها جميع أمراء وأعيان ووجهاء العاصمة وكثير من ذوات الأرياف وقد ارَّخها جملة من الشعراء وفي مقدمتهم الإمام الفاضل العالم الكامل قدوة الفصحاء وامير البلغاء الشيخ علي الليثي فطرّز أوائل الأشطر الأُول بهذا الشطر (عش يا فريد لمن هنا مؤَرخه) والاشطر الثواني بقوله مؤّرخاً تاريخاً افرنجياً (بدر تجلت له شمس ببهجتها) وختمها بتاريخ عربي كما ترى 
+ع. عم السرور وآيات الثنا تليت ٢ بمجلس فيه مرآة الهنا جُلبت 
+ش. شبرى بها شيَّد الاقبال من طرب ٤ دار لتفريح أخوان الصفا بُنيت 
+ي. يا حسن دار اديرت في حدائقها ٢٠٠ راحُ ابتهاج بكاسات الوفا سقيت 
+ا. أحيت محاسن أيام لنا سلفت ٤٠٠ تاهت باحيائها من ما فنيت 
+ف. فريد باشا استنار الدهر منك وقد ٣ جددت بهجة أفراح به نسيت 
+ر. رنحَّت اعطاف آمال وسِرَت بها ٣٠ لخير مغنّى به النعماءُ قد غنيت 
+ي. يا بعجة القطر اذ قطر الندى مرحاً ٤٠٠ تجلى كشمس بأنوار البها كسيت 
+د. دام الحبور لإبراهيم اذ نظمت ٣٠ له بعلياك آمال قد انتقيت 
+ل. لله انت فقد أوسعته منناً ٥ هان النضار لديها عندما حبيت 
+م. من مثله حاز أوصاف الرضا غدا ٣٠٠ شريف نفس بغير المجد ما رضيت 
+ن. نبيل قدر جليل في شبيبته ٤٠ مهذب الطبع يرعي ذمة رعيت 
+هـ. هذا الفخار ومن يشبه اباه فقد ٦٠ ساد الزمانُ به ان أزمة قويت </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

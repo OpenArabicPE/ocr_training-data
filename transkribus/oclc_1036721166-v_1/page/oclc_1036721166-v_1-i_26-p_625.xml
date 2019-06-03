@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:08.859+02:00</Created>
+        <LastChange>2019-06-03T15:23:08.859+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_26-p_625.jpg" imageWidth="499" imageHeight="748">
+        <TextRegion id="region_1">
+            <Coords points="0,0 499,0 499,748 0,748"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>ومشي في رقته الى أن قال في التخلص البديع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وعنفني من لا يرق لحالتي ولست براج ان يرق في الصلد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>فحسبي من ريب الزمان تخلصي بمدح رياض من له الحل والعقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وهي أربعون بيتاً وقد حلت عند دولة الممدوح محل القبول لما نراه من إخلاص ناظمها. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>رأينا أبياتاً للشاب النجيب الماهر يوسف أفندي اسكندر من كتاب الحقانية يهنىء صاحب الغيرة حضرة الماس أغا باش أغاي السراي الخديوي وهي: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>تذكر الوعد دهر ليس بالناسي أضحى له منجزاً فالأنس بالناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>فقد صفا ووفي بالقصد مبتدراً لما غدت رتبة العليا لألماس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>والسعد طالعه أضحى يؤرخه ألماسنا باش أغا سراي عباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٨٩٢ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>أرخه سنة ٩٢ لأن الأمر العالي صدر يوم الأربعاء ٢٨ دسمبر سنة والممدوح يستحق الثناء وأهل لهذه الوظيفة فإنه من الأذكياء النبهاء المستغلين بتعلم العلوم ودراسة الأحوال فهو أمة وحده بين أمثاله. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>(وللأستاذ الفاضل الشيخ سليمان العبد قصيدة جليلة منها) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>سير الخديوي للصعيد سعوده وبه الى العلياء راق صعوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>في مظهر الإسعاد سار بموكب إعلامه خفاقة وبنوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>وزهت به انواره فتممت ذاك الجناب الآصفي وفوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>لا زال يرقى في المعالي شائداً ما أسست أباؤه وجدوده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ومشي في رقته الى أن قال في التخلص البديع 
+وعنفني من لا يرق لحالتي ولست براج ان يرق في الصلد 
+فحسبي من ريب الزمان تخلصي بمدح رياض من له الحل والعقد 
+وهي أربعون بيتاً وقد حلت عند دولة الممدوح محل القبول لما نراه من إخلاص ناظمها. 
+رأينا أبياتاً للشاب النجيب الماهر يوسف أفندي اسكندر من كتاب الحقانية يهنىء صاحب الغيرة حضرة الماس أغا باش أغاي السراي الخديوي وهي: 
+تذكر الوعد دهر ليس بالناسي أضحى له منجزاً فالأنس بالناس 
+فقد صفا ووفي بالقصد مبتدراً لما غدت رتبة العليا لألماس 
+والسعد طالعه أضحى يؤرخه ألماسنا باش أغا سراي عباس 
+سنة ١٨٩٢ 
+أرخه سنة ٩٢ لأن الأمر العالي صدر يوم الأربعاء ٢٨ دسمبر سنة والممدوح يستحق الثناء وأهل لهذه الوظيفة فإنه من الأذكياء النبهاء المستغلين بتعلم العلوم ودراسة الأحوال فهو أمة وحده بين أمثاله. 
+(وللأستاذ الفاضل الشيخ سليمان العبد قصيدة جليلة منها) 
+سير الخديوي للصعيد سعوده وبه الى العلياء راق صعوده 
+في مظهر الإسعاد سار بموكب إعلامه خفاقة وبنوده 
+وزهت به انواره فتممت ذاك الجناب الآصفي وفوده 
+لا زال يرقى في المعالي شائداً ما أسست أباؤه وجدوده </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

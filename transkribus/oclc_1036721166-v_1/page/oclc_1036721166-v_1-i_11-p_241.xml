@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:32.845+02:00</Created>
+        <LastChange>2019-06-03T15:22:32.845+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_241.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>العدد ١١ - بتاريخ: ١٨٩٢ - ١١ - ١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رأي جمهور من الأفاضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وردت الينا هذه الرسالة بقلم أحد أصدقائنا الأفاضل معترضاً علينا في إقفال باب الكتابة بالعبارة العامية طالباً لزوم تلك الطريقة قال أيده الله تعالى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أيها الأستاذ الداعي الى سواء السبيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>نحن معاشر القراء نختلف بين رجل وامرأة وكل قسم استولت الأمية على معظمه والقراء من بعض النساء في حكم الأميين لضعف قوة العالمية فيهن غالباً فلم يبق إلا جماعة الكتاب من أهل المعارف فإنهم هم الذين يمكنهم الاشتراك في الجرائد السياسية والعلمية وكل منهم مقتصر على قراءة الجرائد في سره أو بين من هم من طبقته فبقي قسم النساء والعامة محتاجاً الى من يعلمه الآداب والأخلاق وعندما ظهرت جريدتكم الأستاذ وجعلتم قسماً منها يكتب بلغة العامة والتزميم التهذيب على لسان النساء وبعبارتهن العادية تناول جريدتكم الأعداء الكثيرة منهن ومن الغلمان الذين لا يعتنون بأمر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ١١ - بتاريخ: ١٨٩٢ - ١١ - ١ 
+
+رأي جمهور من الأفاضل 
+وردت الينا هذه الرسالة بقلم أحد أصدقائنا الأفاضل معترضاً علينا في إقفال باب الكتابة بالعبارة العامية طالباً لزوم تلك الطريقة قال أيده الله تعالى. 
+أيها الأستاذ الداعي الى سواء السبيل 
+نحن معاشر القراء نختلف بين رجل وامرأة وكل قسم استولت الأمية على معظمه والقراء من بعض النساء في حكم الأميين لضعف قوة العالمية فيهن غالباً فلم يبق إلا جماعة الكتاب من أهل المعارف فإنهم هم الذين يمكنهم الاشتراك في الجرائد السياسية والعلمية وكل منهم مقتصر على قراءة الجرائد في سره أو بين من هم من طبقته فبقي قسم النساء والعامة محتاجاً الى من يعلمه الآداب والأخلاق وعندما ظهرت جريدتكم الأستاذ وجعلتم قسماً منها يكتب بلغة العامة والتزميم التهذيب على لسان النساء وبعبارتهن العادية تناول جريدتكم الأعداء الكثيرة منهن ومن الغلمان الذين لا يعتنون بأمر </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

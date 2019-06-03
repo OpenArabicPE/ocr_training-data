@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:28.395+02:00</Created>
+        <LastChange>2019-06-03T15:22:28.395+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_9-p_193.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>العدد ٩ - بتاريخ: ١٨٩٢ - ١٠ - ١٨ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>المرافعة الوطنية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إعلان صورة الحكم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بناء على طلبا لوطن صناعته إيواء أبنائه وإعطاؤهم ما يلزم للمؤنة وضروريات المعاش وهو من أهالي إفريقية ومقيم بالمنطقة المباركة ما بين حلفاء والإسكندرية طولاً والسويس والصحراء عرضاً ومتخذ مكتب المروءة الكائن بشارع الإنسانية محلاً مختاراً ـ أنا العفاف المحضر لدى محكمة الحقوق قد انتقلت الى محل إقامة وكيل أبناء الوطن بحارة الكسل على قرب من خان الفتور وأعلنتهم بصورة الحكم الصادر ضدهم من محكمة الحقوق ونبهت عليهم بوجوب تنفيذه في مدة أربع وعشرين ساعة تمضي من تاريخ هذا الإعلان بحيث إذا مضى الميعاد ولم ينفذوه ينفذ عليهم بالطرق القانونية ولكي يكون ذلك في علمهم قد تركت لهم نسخة من هذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٩ - بتاريخ: ١٨٩٢ - ١٠ - ١٨ 
+
+المرافعة الوطنية 
+إعلان صورة الحكم 
+بناء على طلبا لوطن صناعته إيواء أبنائه وإعطاؤهم ما يلزم للمؤنة وضروريات المعاش وهو من أهالي إفريقية ومقيم بالمنطقة المباركة ما بين حلفاء والإسكندرية طولاً والسويس والصحراء عرضاً ومتخذ مكتب المروءة الكائن بشارع الإنسانية محلاً مختاراً ـ أنا العفاف المحضر لدى محكمة الحقوق قد انتقلت الى محل إقامة وكيل أبناء الوطن بحارة الكسل على قرب من خان الفتور وأعلنتهم بصورة الحكم الصادر ضدهم من محكمة الحقوق ونبهت عليهم بوجوب تنفيذه في مدة أربع وعشرين ساعة تمضي من تاريخ هذا الإعلان بحيث إذا مضى الميعاد ولم ينفذوه ينفذ عليهم بالطرق القانونية ولكي يكون ذلك في علمهم قد تركت لهم نسخة من هذا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

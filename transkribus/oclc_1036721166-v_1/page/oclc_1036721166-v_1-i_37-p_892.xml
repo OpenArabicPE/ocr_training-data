@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:30.565+02:00</Created>
+        <LastChange>2019-06-03T15:23:30.565+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_37-p_892.jpg" imageWidth="483" imageHeight="728">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,728 0,728"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>سرى فينا من الآباء سر يسوق البر نحو الموذينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فإن عشنا منحنا سائلينا وإن متنت نفحنا الزائرينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>_ ومنها بعد التخلص والمديح _ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>أأنسى يوم مصر والبلايا تطاردني ولا ألقى معينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فكنتَ الغوث في ويم كريه أخاف الشهم والحبر ألسمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>مدحا فيه في إشراق شمس فلما جاء مغربه هجينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وهل انسى هجوم الجند عصرا بلا علم وقد كنا فجينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>أحاطوا بي وسدوا كل باب وصرنا بين أيدي الباحثينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وكان السطح مملوءاً بجند وخلف البيت كم وضعوا كمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فأدركت الوحيد وكان صيداً قريباً من فخاخ الطالبينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وأرشدت النديم الى مكان رآهُ بعد حيرته مكينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وأعمى الله عنا كل عين وكان للعساكر ناظرينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وصرنا فوق سطح فيه علو يحطم هاوياً منه متينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فلم أرهب وثوبي من طمار ولم انظر شمالاً أو يمينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فقد كنا بلا ستر يرانا أمام العين كل القاصدينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وكم سرنا بلا خوف جهارا ركبنا الخيل أو جئنا السفينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>وهل انسى تصدّي بعض قوم لأن أُمسي بحيهم طعينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فخلفت العيال وسرت ليلاً ولم أحمل حمول الظاعنينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 483,0 483,728 0,728"/>
+                <TextEquiv>
+                    <Unicode>فكنت الغوث يا جداه دوما وقعنا في المهالك أو قُفينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+سرى فينا من الآباء سر يسوق البر نحو الموذينا 
+فإن عشنا منحنا سائلينا وإن متنت نفحنا الزائرينا 
+_ ومنها بعد التخلص والمديح _ 
+أأنسى يوم مصر والبلايا تطاردني ولا ألقى معينا 
+فكنتَ الغوث في ويم كريه أخاف الشهم والحبر ألسمينا 
+مدحا فيه في إشراق شمس فلما جاء مغربه هجينا 
+وهل انسى هجوم الجند عصرا بلا علم وقد كنا فجينا 
+أحاطوا بي وسدوا كل باب وصرنا بين أيدي الباحثينا 
+وكان السطح مملوءاً بجند وخلف البيت كم وضعوا كمينا 
+فأدركت الوحيد وكان صيداً قريباً من فخاخ الطالبينا 
+وأرشدت النديم الى مكان رآهُ بعد حيرته مكينا 
+وأعمى الله عنا كل عين وكان للعساكر ناظرينا 
+وصرنا فوق سطح فيه علو يحطم هاوياً منه متينا 
+فلم أرهب وثوبي من طمار ولم انظر شمالاً أو يمينا 
+فقد كنا بلا ستر يرانا أمام العين كل القاصدينا 
+وكم سرنا بلا خوف جهارا ركبنا الخيل أو جئنا السفينا 
+وهل انسى تصدّي بعض قوم لأن أُمسي بحيهم طعينا 
+فخلفت العيال وسرت ليلاً ولم أحمل حمول الظاعنينا 
+فكنت الغوث يا جداه دوما وقعنا في المهالك أو قُفينا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:39.309+02:00</Created>
+        <LastChange>2019-06-03T15:22:39.309+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_13-p_311.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أَفي كل يوم ظاعن فمودَّع وقلب على جمر الخطوب يذوب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عفاء على الدنيا فما لامرئ بها مقام وهل ينوى المقام غريب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فبينا ترى الأحياء فيها اواهلاً إذا بالمغاني ما بهن غريب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تقلص عن كسرى وسابور ظلها وفارق بالرغم الحسام شبيب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وغادر قصر الجوسق الفرد ربه تسفٌ اليه شمأل وجنوب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولم ينجح منها احمد يوم أجلبت عليه بخيل الحادثات شعوب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تولى ابو نصر فلا الدمع بعده بمغن ولا القلب اللجوج منيب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هوت شمسه في مغرب اللحد فانبرت تئن قلوب انهن وجيب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وما ضرنا ان لم تشق جيوبنا لحزن وقد شقت عليه قلوب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رأَى عرض الدنيا وإن جل فانياً وإن المدى مهما نأَى لقريب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فأَعرض عنا رغبة عن جوارنا وذو العقل يدعوه الهدى فيجيب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إلى دار نعمى لا يغب نعيمها وليس سواءُ منهل وقليب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سقت قبره الزاكي على النأُي مزنة تلث عليه دائماً وتنوب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رثاء وعزاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>زرئ الفضل والعلم والأدب بوفاة العالم العلامة الحسيب النسيب السيد سعيد افندي الدجاني الحسيني اليافي كما علمنا من كتاب أفضل الفضلاء ابن عمه ذي الفضيلة السيد علي افندي أبي المواهب الحسيني مفتي افندي يافا حالاً. توفي رحمه الله تعالى يوم الأحد ٩ ربيع الثاني سنة ودفن يوم الاثنين </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+أَفي كل يوم ظاعن فمودَّع وقلب على جمر الخطوب يذوب 
+عفاء على الدنيا فما لامرئ بها مقام وهل ينوى المقام غريب 
+فبينا ترى الأحياء فيها اواهلاً إذا بالمغاني ما بهن غريب 
+تقلص عن كسرى وسابور ظلها وفارق بالرغم الحسام شبيب 
+وغادر قصر الجوسق الفرد ربه تسفٌ اليه شمأل وجنوب 
+ولم ينجح منها احمد يوم أجلبت عليه بخيل الحادثات شعوب 
+تولى ابو نصر فلا الدمع بعده بمغن ولا القلب اللجوج منيب 
+هوت شمسه في مغرب اللحد فانبرت تئن قلوب انهن وجيب 
+وما ضرنا ان لم تشق جيوبنا لحزن وقد شقت عليه قلوب 
+رأَى عرض الدنيا وإن جل فانياً وإن المدى مهما نأَى لقريب 
+فأَعرض عنا رغبة عن جوارنا وذو العقل يدعوه الهدى فيجيب 
+إلى دار نعمى لا يغب نعيمها وليس سواءُ منهل وقليب 
+سقت قبره الزاكي على النأُي مزنة تلث عليه دائماً وتنوب 
+
+رثاء وعزاء 
+زرئ الفضل والعلم والأدب بوفاة العالم العلامة الحسيب النسيب السيد سعيد افندي الدجاني الحسيني اليافي كما علمنا من كتاب أفضل الفضلاء ابن عمه ذي الفضيلة السيد علي افندي أبي المواهب الحسيني مفتي افندي يافا حالاً. توفي رحمه الله تعالى يوم الأحد ٩ ربيع الثاني سنة ودفن يوم الاثنين </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

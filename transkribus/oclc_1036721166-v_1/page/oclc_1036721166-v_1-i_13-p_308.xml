@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:38.929+02:00</Created>
+        <LastChange>2019-06-03T15:22:38.929+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_13-p_308.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ن. نرى محاسنه في الناس ظاهرة ٢ بينا نرى مثلها في غيرها خفيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>١ . ابان مخبره عن طيب عنصره ٢ بادي البديهة في الأنباء اذ رويت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>م. مولاي يا احمد الأمجاد قاطبة ٥ هنئت والنجل ما أوصافكم حكيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>و. وعشت حتى ترى أبناء عِزَّته ٣ جدود أبنائهم في عزة بقيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ر. راقين أوج المعالي في سما شرفٍ ٤٠٠ تعنو لكم كل حال بالندى عنيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خ. خل السوي يا سمير الروح ممتدحاً ٥ هذا الفريد ونجليه ومن هُديت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هـ. هنئتموا آل بيت في الفخار لكم ١ أَسمى صفات لغابات الثنا عزبت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>و. وها كمواما ضعيف الفكر ارخه شمس لنجل فريد بالحلى زهيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ٩٢ ٤٠٠ ١١٣ ٢٩٤ . ٨١ ٤٢٢ سنة ١٣١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سؤال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما معنى قولهم اذا ضربتم في الأرض أميالاً وجدتم بلالاً </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>محمود ذكي باسيوط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الجواب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هذا يقال عند الحث على السعي في طلب الرزق فهو معنى قوله تعالى فامشوا في مناكبها وكلوا من رقه فان البلال جميع بلَّة للخير والرزق والبلال في الأصل ما يبل به الحلق من ماء ولبن يقال ما في السقاء بلال أي لبن يبل به الحلق وما في الركبة بلال أي مآء. وبلال الرحم صلتها قال صلى الله تعالى عليه وسلم بُلُّوا ارحامكم ولو بالسلام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ن. نرى محاسنه في الناس ظاهرة ٢ بينا نرى مثلها في غيرها خفيت 
+١ . ابان مخبره عن طيب عنصره ٢ بادي البديهة في الأنباء اذ رويت 
+م. مولاي يا احمد الأمجاد قاطبة ٥ هنئت والنجل ما أوصافكم حكيت 
+و. وعشت حتى ترى أبناء عِزَّته ٣ جدود أبنائهم في عزة بقيت 
+ر. راقين أوج المعالي في سما شرفٍ ٤٠٠ تعنو لكم كل حال بالندى عنيت 
+خ. خل السوي يا سمير الروح ممتدحاً ٥ هذا الفريد ونجليه ومن هُديت 
+هـ. هنئتموا آل بيت في الفخار لكم ١ أَسمى صفات لغابات الثنا عزبت 
+و. وها كمواما ضعيف الفكر ارخه شمس لنجل فريد بالحلى زهيت 
+سنة ٩٢ ٤٠٠ ١١٣ ٢٩٤ . ٨١ ٤٢٢ سنة ١٣١ 
+
+
+سؤال 
+ما معنى قولهم اذا ضربتم في الأرض أميالاً وجدتم بلالاً 
+محمود ذكي باسيوط 
+الجواب 
+هذا يقال عند الحث على السعي في طلب الرزق فهو معنى قوله تعالى فامشوا في مناكبها وكلوا من رقه فان البلال جميع بلَّة للخير والرزق والبلال في الأصل ما يبل به الحلق من ماء ولبن يقال ما في السقاء بلال أي لبن يبل به الحلق وما في الركبة بلال أي مآء. وبلال الرحم صلتها قال صلى الله تعالى عليه وسلم بُلُّوا ارحامكم ولو بالسلام </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

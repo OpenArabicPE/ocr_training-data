@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:53.177+02:00</Created>
+        <LastChange>2019-06-03T15:22:53.177+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_19-p_452.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سابقاً واحد عتقى المرحوم عباس باشا الأول وترك ٦٢٥ فداناً وقف منها مائة لخادمه أحمد وأولاده والبقية لأولاد شكيب باشا كما كتب له جميع متروكاته من نقود وأثاث ما عدا ثيابه فإنها بقيت لدائرة البرنس عبد الحليم باشا وقد رثاه صديقه السيد محمد أفندي التميمي الداري بقصيدة طويلة منها قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>شعر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وساروا حول نعش فيه شمس تحيط به الأكابر كالبدور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وفاضت أعين الأمراء تجري بدمع كالسحاب على أمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>على من كان للمضطر كنزاً وعوناً للغنيّ وللفقير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حسام الدين باشا ذي المعالي أبي الحسنات والخير الكثير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ستبكي فضله ضعفآءُ قوم يعانوا في المساءِ وفي البكور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وينشد خيره للناس بيتاً به التاريخ كالبدر المنير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حسام الدين في جنات عدم هنيءٌ بين ولدان وحور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>١٠٩ ٩٥ ٩٠ ٤٥٤ ١٢٤ = ٦٥ ٦٢ ٩١ ٢٢٠ سنة ١٣١٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خطبة ابن السماك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا رسالة من طنطا لأحد الأفاضل وفيها يقول بينتم ما يلزم للخطابة ولم تبينوا الخطب المفسدة للأخلاق الجاري العمل بها في بعض جهات الريف. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فمن ذلك خطبة ابن السماك المختلقة على الله سبحانه وتعالى بعد الحمدلة والصلاة على النبي صلى الله عليه وسلم والآية والوعظ يقول الخطيب أيها الناس حكى ان كان في زمن هارون الرشيد واعظ يقال له </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>سابقاً واحد عتقى المرحوم عباس باشا الأول وترك ٦٢٥ فداناً وقف منها مائة لخادمه أحمد وأولاده والبقية لأولاد شكيب باشا كما كتب له جميع متروكاته من نقود وأثاث ما عدا ثيابه فإنها بقيت لدائرة البرنس عبد الحليم باشا وقد رثاه صديقه السيد محمد أفندي التميمي الداري بقصيدة طويلة منها قوله: 
+شعر 
+وساروا حول نعش فيه شمس تحيط به الأكابر كالبدور 
+وفاضت أعين الأمراء تجري بدمع كالسحاب على أمير 
+على من كان للمضطر كنزاً وعوناً للغنيّ وللفقير 
+حسام الدين باشا ذي المعالي أبي الحسنات والخير الكثير 
+ستبكي فضله ضعفآءُ قوم يعانوا في المساءِ وفي البكور 
+وينشد خيره للناس بيتاً به التاريخ كالبدر المنير 
+حسام الدين في جنات عدم هنيءٌ بين ولدان وحور 
+١٠٩ ٩٥ ٩٠ ٤٥٤ ١٢٤ = ٦٥ ٦٢ ٩١ ٢٢٠ سنة ١٣١٠ 
+
+خطبة ابن السماك 
+وردت لنا رسالة من طنطا لأحد الأفاضل وفيها يقول بينتم ما يلزم للخطابة ولم تبينوا الخطب المفسدة للأخلاق الجاري العمل بها في بعض جهات الريف. 
+فمن ذلك خطبة ابن السماك المختلقة على الله سبحانه وتعالى بعد الحمدلة والصلاة على النبي صلى الله عليه وسلم والآية والوعظ يقول الخطيب أيها الناس حكى ان كان في زمن هارون الرشيد واعظ يقال له </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

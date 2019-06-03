@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.545+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.545+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_992.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أين الوفا يا منيتي بالوعود ورقة القلب الرحيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أواه من نار الجفا أوّاه لو يعشق الريم يعذرِ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قد كان لي سعد السعود خدام لما التقينا في الطريق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وقلت بالحاجب أروح قدام وأنت ورايا يا صديق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فصرت انظر للقوام القوام وعادل القد الرشيق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حتى ملكت الروح وأروحاه لو يرجع اليوم ينظرِ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قال المدلَّع عاشقي ما الحال جفني جرح منك الفؤَاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>طم من شجي مثلك سباه الحال حتى غدا خصم الرقاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قلت أرحمو من في التصابي مال عن كل أبواب الرشاد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قال ان ترم مني الوصال وصفاه هات اليمين الأكبر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ثم طلبت منه ان يأتي باليمين من هذا الوزن فوقف فقصدت الحاج إسماعيل فوقف فطلبت من الستة فوقفوا فقال المرحوم شاهين باشا نحسبها لك واحدة ثم قال الشيخ هات غزلاً بمعنى بديع على قد: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اهيف رشقني بقوام مثل المران والوجد عذبني بناره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت له أقول تحميلة وتقولون أخرى من جنسها فقال هات فقلت: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يأهل الصبابا يا عشاق سلوا المشتاق فالعشق مالو غير أهلُه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فوقف الجميع ولم يستطع واحد منهم الدخول معي في هذا المضيق فقلت ومشيت الى آخر الأدوار الآتية: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+أين الوفا يا منيتي بالوعود ورقة القلب الرحيم 
+أواه من نار الجفا أوّاه لو يعشق الريم يعذرِ 
+دور 
+قد كان لي سعد السعود خدام لما التقينا في الطريق 
+وقلت بالحاجب أروح قدام وأنت ورايا يا صديق 
+فصرت انظر للقوام القوام وعادل القد الرشيق 
+حتى ملكت الروح وأروحاه لو يرجع اليوم ينظرِ 
+دور 
+قال المدلَّع عاشقي ما الحال جفني جرح منك الفؤَاد 
+طم من شجي مثلك سباه الحال حتى غدا خصم الرقاد 
+قلت أرحمو من في التصابي مال عن كل أبواب الرشاد 
+قال ان ترم مني الوصال وصفاه هات اليمين الأكبر 
+ثم طلبت منه ان يأتي باليمين من هذا الوزن فوقف فقصدت الحاج إسماعيل فوقف فطلبت من الستة فوقفوا فقال المرحوم شاهين باشا نحسبها لك واحدة ثم قال الشيخ هات غزلاً بمعنى بديع على قد: 
+اهيف رشقني بقوام مثل المران والوجد عذبني بناره 
+فقلت له أقول تحميلة وتقولون أخرى من جنسها فقال هات فقلت: 
+يأهل الصبابا يا عشاق سلوا المشتاق فالعشق مالو غير أهلُه 
+فوقف الجميع ولم يستطع واحد منهم الدخول معي في هذا المضيق فقلت ومشيت الى آخر الأدوار الآتية: </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

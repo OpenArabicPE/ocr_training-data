@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.552+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.552+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_257.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وللفاضل البليغ المنشئ التحرير حامد أفندي ياور رئيس كتاب المحكمة الجزئية بإسكندرية: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أستاذنا الأستاذ وهو نديمنا في كل وقت يقتدى بالأنفس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لاغروان قبل الورى ما قدروى ببشاشة وابتاعه بالأنفس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورد لنا من الفاضل الطنطاوي صاحب الزجل المدرج بالعدد الثالث قصيدة شكر وحمل زجل أيضاً مع حمل آخر في سكران فمن القصيدة قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قوما خليلي نجن الفضل ألوانا فروضة الفضل نهواها وتهوانا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>في جنة العلم اذهب النسيم بها وروح الصب في الأستاذ مجانا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قوما بها نصطبح فالروض مزدهر والطل باكره والأنس وافانا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إلى ان قال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حيث النديم ينادي كي يؤلفنا كونوا جميعاً عباد الله اخوانا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولا تلوما علياً في صبابته إذا غدا من كؤوس الراح نشوانا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>المراد بعلي ذات المنشئ فإنه الشيخ علي محمد سالم وهي أربعة وثلاثون بيتاً كلها غرر ومن زجل الشكر قوله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اللي عطانا الله يعطيه ويملا جيبو بالأموال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وربنا المعطي يرضيه ويحفظه من وقف الحال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>شفت النديم بالمحروسه عمال يألف في رسايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولو خصايل محروسة في الجو ما ترد لسايل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا قلة الحيلة ياني ما حيلتي إلا لساني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وللفاضل البليغ المنشئ التحرير حامد أفندي ياور رئيس كتاب المحكمة الجزئية بإسكندرية: 
+أستاذنا الأستاذ وهو نديمنا في كل وقت يقتدى بالأنفس 
+لاغروان قبل الورى ما قدروى ببشاشة وابتاعه بالأنفس 
+ورد لنا من الفاضل الطنطاوي صاحب الزجل المدرج بالعدد الثالث قصيدة شكر وحمل زجل أيضاً مع حمل آخر في سكران فمن القصيدة قوله: 
+قوما خليلي نجن الفضل ألوانا فروضة الفضل نهواها وتهوانا 
+في جنة العلم اذهب النسيم بها وروح الصب في الأستاذ مجانا 
+قوما بها نصطبح فالروض مزدهر والطل باكره والأنس وافانا 
+إلى ان قال: 
+حيث النديم ينادي كي يؤلفنا كونوا جميعاً عباد الله اخوانا 
+ولا تلوما علياً في صبابته إذا غدا من كؤوس الراح نشوانا 
+المراد بعلي ذات المنشئ فإنه الشيخ علي محمد سالم وهي أربعة وثلاثون بيتاً كلها غرر ومن زجل الشكر قوله: 
+اللي عطانا الله يعطيه ويملا جيبو بالأموال 
+وربنا المعطي يرضيه ويحفظه من وقف الحال 
+شفت النديم بالمحروسه عمال يألف في رسايل 
+ولو خصايل محروسة في الجو ما ترد لسايل 
+يا قلة الحيلة ياني ما حيلتي إلا لساني </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

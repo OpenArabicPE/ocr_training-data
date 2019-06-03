@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:04.724+02:00</Created>
+        <LastChange>2019-06-03T15:23:04.724+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_24-p_566.jpg" imageWidth="713" imageHeight="1088">
+        <TextRegion id="region_1">
+            <Coords points="0,0 713,0 713,1088 0,1088"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>يناديك منه كل ثبت ومخلص على حبكم في مهده قطع السر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فرد الألى خانوا عهودك للفنا وقل للألى والوك يحيا بكم فخر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>ولسنا نرى نقض العهود مع الورى جزافاً ولكن لا يخامرنا الضمر الهذال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>تبري منك الذات عن ظلم أمة ولكن حواليك القليل به عذر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فسن الستاوي واحتكم وأعف واصطبر تر الجثث الموتى يحركها النشر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فعندك من أهل السياسة سادة طبيعتهم حزم وحليتهم حذر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وقد تفعل الأقلام ما لم تصل له مدافع في الهيجاء ويصحبها النصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فرب الأهالي يا أمام بحكمة وعلمهم علماً يطيب به الشكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وعمر بلاداً بانتشار معارف وإصلاح أرض لا يرى أهلها الضر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>ولا تعط شبراً للأجانب واحتفظ فما بعد ذا إلا التنازع والكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وأوقف مسير الالتزام لفتية تراهم رعايا والجميع لهم مكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وبث رجال العمل في كل قرية لتعليم دين عنده يقف الظفر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>ووحد ضروب الحكم بين رعية يؤلفها التوحيد ما بقى العمر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وخر للقضاء والحكم أكفاء وانتقد قضائهم فالترك غايته الهدر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وشدد على أهل الفساد عقابهم وقرب رجال الحق ينتظم الأمر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>وأبعد جميع الأدعياء فإنهم يسيرون في طرق يسر بها الغير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>ولست نصوحاً يا أمام بلهجتي فأنت أبو الإرشاد ديدنك الخبر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>ولكن كليمات تترجم عن نهى جموع لهم في باب سدتكم نقر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 713,0 713,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>فزدنا التفاتاً للخديوي أميرنا نزدك ولاء لا يخالطه نفر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+يناديك منه كل ثبت ومخلص على حبكم في مهده قطع السر 
+فرد الألى خانوا عهودك للفنا وقل للألى والوك يحيا بكم فخر 
+ولسنا نرى نقض العهود مع الورى جزافاً ولكن لا يخامرنا الضمر الهذال 
+تبري منك الذات عن ظلم أمة ولكن حواليك القليل به عذر 
+فسن الستاوي واحتكم وأعف واصطبر تر الجثث الموتى يحركها النشر 
+فعندك من أهل السياسة سادة طبيعتهم حزم وحليتهم حذر 
+وقد تفعل الأقلام ما لم تصل له مدافع في الهيجاء ويصحبها النصر 
+فرب الأهالي يا أمام بحكمة وعلمهم علماً يطيب به الشكر 
+وعمر بلاداً بانتشار معارف وإصلاح أرض لا يرى أهلها الضر 
+ولا تعط شبراً للأجانب واحتفظ فما بعد ذا إلا التنازع والكر 
+وأوقف مسير الالتزام لفتية تراهم رعايا والجميع لهم مكر 
+وبث رجال العمل في كل قرية لتعليم دين عنده يقف الظفر 
+ووحد ضروب الحكم بين رعية يؤلفها التوحيد ما بقى العمر 
+وخر للقضاء والحكم أكفاء وانتقد قضائهم فالترك غايته الهدر 
+وشدد على أهل الفساد عقابهم وقرب رجال الحق ينتظم الأمر 
+وأبعد جميع الأدعياء فإنهم يسيرون في طرق يسر بها الغير 
+ولست نصوحاً يا أمام بلهجتي فأنت أبو الإرشاد ديدنك الخبر 
+ولكن كليمات تترجم عن نهى جموع لهم في باب سدتكم نقر 
+فزدنا التفاتاً للخديوي أميرنا نزدك ولاء لا يخالطه نفر </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

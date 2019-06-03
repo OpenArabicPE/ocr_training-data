@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:06.151+02:00</Created>
+        <LastChange>2019-06-03T15:23:06.151+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_25-p_586.jpg" imageWidth="742" imageHeight="1120">
+        <TextRegion id="region_1">
+            <Coords points="0,0 742,0 742,1120 0,1120"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ومذ دهاها من الأنباء مدخر من العجائب هيلت عند طلعته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>يا سيدا بادرا السادت كلهم إلى التفاضل في أعظام خطته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وما يفندها الى أولو حسد مكابرون تعاموا عن فضيلته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>قد قدر الله إحياء الموات على أيديك ذي الطهر مكفولاً بقدرته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فأنت ذخر لدهر في العباد طغا قد جئت تنقذهم من شر قبضته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>نعوذ بالله من علم بلا عمل وقيمة المرء في استجداء قيمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>جمعت بينهما حزماً ولن يجدا من يجمع الأمر اشتاتاً برمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>شيدت من أحد الآمال ما فرعت عن غور قعدته شماء قنته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لبكر فعلتك الدنيا قد امتقعت فذالها عاشق وذا لخجلته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فيا ملاذا منعياً في الورى علقت خواطر القوم باستمناح صنعته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وأعربت عن خضوع المستكين له قلوب أمته في محض خدمته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>نعم الآباء ونعم العزم ما جبلت عليه حوباء ذي هم بأمرته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وبئس ما أولوا في كنه وجهته وما أفاض وشاة في نتيجته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فما دروا اننا خدام طاعته نستحقر الموت في عظمى محبته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وللفاضل الشيخ أحمد الكناني الأبياري أحد طلبة دار العلوم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>في الحضرة الخديوية أيدها الله تعالى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لك الله من أيد الحق والدنيا ومن غمرات الموت قد جاء يحيينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لك الله يا من أسهر الجفن خدمة لا وطانه في كل ما كان يجدينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 742,0 742,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>شهدنا خلاص بأنك ذو العلى وأعظم مولى قد سعى في ترقينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ومذ دهاها من الأنباء مدخر من العجائب هيلت عند طلعته 
+يا سيدا بادرا السادت كلهم إلى التفاضل في أعظام خطته 
+وما يفندها الى أولو حسد مكابرون تعاموا عن فضيلته 
+قد قدر الله إحياء الموات على أيديك ذي الطهر مكفولاً بقدرته 
+فأنت ذخر لدهر في العباد طغا قد جئت تنقذهم من شر قبضته 
+نعوذ بالله من علم بلا عمل وقيمة المرء في استجداء قيمته 
+جمعت بينهما حزماً ولن يجدا من يجمع الأمر اشتاتاً برمته 
+شيدت من أحد الآمال ما فرعت عن غور قعدته شماء قنته 
+لبكر فعلتك الدنيا قد امتقعت فذالها عاشق وذا لخجلته 
+فيا ملاذا منعياً في الورى علقت خواطر القوم باستمناح صنعته 
+وأعربت عن خضوع المستكين له قلوب أمته في محض خدمته 
+نعم الآباء ونعم العزم ما جبلت عليه حوباء ذي هم بأمرته 
+وبئس ما أولوا في كنه وجهته وما أفاض وشاة في نتيجته 
+فما دروا اننا خدام طاعته نستحقر الموت في عظمى محبته 
+وللفاضل الشيخ أحمد الكناني الأبياري أحد طلبة دار العلوم 
+في الحضرة الخديوية أيدها الله تعالى 
+لك الله من أيد الحق والدنيا ومن غمرات الموت قد جاء يحيينا 
+لك الله يا من أسهر الجفن خدمة لا وطانه في كل ما كان يجدينا 
+شهدنا خلاص بأنك ذو العلى وأعظم مولى قد سعى في ترقينا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

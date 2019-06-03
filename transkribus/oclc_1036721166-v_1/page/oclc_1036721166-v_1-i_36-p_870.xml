@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:28.674+02:00</Created>
+        <LastChange>2019-06-03T15:23:28.674+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_870.jpg" imageWidth="483" imageHeight="736">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,736 0,736"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>لله يوم فيه شرّف ثغرنا وكساه منه النور خير لباس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>وهي تسعة وعشرون بيتاً كلها محاسن وآداب. ومنها قصيدة غراء لحضرة الفاضل الشيخ أحمد أبي علي الأزهري معاون المكتبة البلدية بإسكندرية قال منها: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>شيدت للعليا رفيع معاهد ومنحت أيدي العدل عهد معاهد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>سدت البلاد وشدْتها فلك الهنا من سائد بالمكرمات وشائد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>#وأقمت مُناد الزمان بحكمة صدعت بنيرها فؤاد الجاحد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>#لله در شبيبة لك ناهزت سن المشيب وجاوزت بتصاعد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>#الله أكبر أي عقل راجح يزن الأمور وأي طرف ناقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>#رعت الكهول بنهضة وطنية وشهامة أخذت بعين الحاسد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>يحدوك طبعك للسيادة والعلي والطبع للإنسان أعظم قائد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>لم يلف مرقى في المعالي باذخاً إلا وأنت اليه أول صاعد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>ومنها </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>أعزيز مصر فداك نفسي والورى من أروع ماضي العزيمة ماجد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>لا زلت بدر سمائها في دولة سمحاء باسمة وملك خالد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>إلى ان قال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>يا سعد يوم عدت فيه مشرفاً ثغر الصفاء وأنت أكرم عائد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>تقضى به في الصيف عادتك التي تلقى بعودتها سعود عوائد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>فتبسمت أرجاؤُه وتنسمت وغدت تميس صفا كميس خرائد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,736 0,736"/>
+                <TextEquiv>
+                    <Unicode>وتزينت فرحاً بأحسن زينة وتبينت بمناظر ومشاهد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+لله يوم فيه شرّف ثغرنا وكساه منه النور خير لباس 
+وهي تسعة وعشرون بيتاً كلها محاسن وآداب. ومنها قصيدة غراء لحضرة الفاضل الشيخ أحمد أبي علي الأزهري معاون المكتبة البلدية بإسكندرية قال منها: 
+شيدت للعليا رفيع معاهد ومنحت أيدي العدل عهد معاهد 
+سدت البلاد وشدْتها فلك الهنا من سائد بالمكرمات وشائد 
+#وأقمت مُناد الزمان بحكمة صدعت بنيرها فؤاد الجاحد 
+#لله در شبيبة لك ناهزت سن المشيب وجاوزت بتصاعد 
+#الله أكبر أي عقل راجح يزن الأمور وأي طرف ناقد 
+#رعت الكهول بنهضة وطنية وشهامة أخذت بعين الحاسد 
+يحدوك طبعك للسيادة والعلي والطبع للإنسان أعظم قائد 
+لم يلف مرقى في المعالي باذخاً إلا وأنت اليه أول صاعد 
+ومنها 
+أعزيز مصر فداك نفسي والورى من أروع ماضي العزيمة ماجد 
+لا زلت بدر سمائها في دولة سمحاء باسمة وملك خالد 
+إلى ان قال 
+يا سعد يوم عدت فيه مشرفاً ثغر الصفاء وأنت أكرم عائد 
+تقضى به في الصيف عادتك التي تلقى بعودتها سعود عوائد 
+فتبسمت أرجاؤُه وتنسمت وغدت تميس صفا كميس خرائد 
+وتزينت فرحاً بأحسن زينة وتبينت بمناظر ومشاهد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

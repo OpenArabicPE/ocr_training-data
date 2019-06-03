@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:11.160+02:00</Created>
+        <LastChange>2019-06-03T15:22:11.160+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_2-p_025.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العدد ٢ - بتاريخ: ١٨٩٢ - ٨ - ٣٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الحياة الوطنية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يزعم كثير من الناس أن الحياة الوطنية هي الجَمْهَرة أي تجمع الأمة في مكان متكثّرين متضامّين وليس كذلك. فإن وفرة العدد والتجمع لا يغني شيئاً مع الفراغ مع العلوم والصنائع الموصلين الى توسيع دائرة العمران وحفظ الوطن مع العاديات بما ينشأُ عن العلوم من احتكاك الأفكار وتبادلها في تناول بواعث الاختراع والإتباع وبث النظام الهندسي والتحفظ الصحي والتحصن العسكري والإصلاح الزراعي والضبط الحسابي والإبداع الإنشائي والتعميم التجاري والتسهيل الآلي وحفظ الوحدة الوطنية في الأجناس القاطنة فيما يسمى وطناً بتوحيد القضاء والمعاملة وتمكين الطوائف من إجراء عاداتهم في مجامعهم وأعيادهم كلٌّ بما هو حق في معتقده جميل في عادته بلا حجر ولا تضييق وإطلاق حرية الإنشاء والمطبوعات الى حد لا يبلغ تشويش الأفكار ولا المطاعن الدينية ولا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٢ - بتاريخ: ١٨٩٢ - ٨ - ٣٠ 
+
+الحياة الوطنية 
+يزعم كثير من الناس أن الحياة الوطنية هي الجَمْهَرة أي تجمع الأمة في مكان متكثّرين متضامّين وليس كذلك. فإن وفرة العدد والتجمع لا يغني شيئاً مع الفراغ مع العلوم والصنائع الموصلين الى توسيع دائرة العمران وحفظ الوطن مع العاديات بما ينشأُ عن العلوم من احتكاك الأفكار وتبادلها في تناول بواعث الاختراع والإتباع وبث النظام الهندسي والتحفظ الصحي والتحصن العسكري والإصلاح الزراعي والضبط الحسابي والإبداع الإنشائي والتعميم التجاري والتسهيل الآلي وحفظ الوحدة الوطنية في الأجناس القاطنة فيما يسمى وطناً بتوحيد القضاء والمعاملة وتمكين الطوائف من إجراء عاداتهم في مجامعهم وأعيادهم كلٌّ بما هو حق في معتقده جميل في عادته بلا حجر ولا تضييق وإطلاق حرية الإنشاء والمطبوعات الى حد لا يبلغ تشويش الأفكار ولا المطاعن الدينية ولا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

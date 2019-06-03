@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:21.088+02:00</Created>
+        <LastChange>2019-06-03T15:23:21.088+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_33-p_775.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>بالإسكندرية وقد أخرنا ضيق المقام عن </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أدراجها في هذا العدد فنعتذر لحضرته عن ذلك. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الجوهر النفيس على صلوات ابن أدريس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>تأليف العلامة الفاضل والمحقق الكامل الشيخ محمد خليل الهجرسي كشف به غامض هذه الصلوات الجليلة وبين المعمى من معانيها الدقيقة بعد ان تاه في مشكلاتها كثير من الناس وهو كتاب كأسمه جوهر نفيس يدل على طول باع المؤلف وتمكنه من العلوم الصوفية وغيرها وقد التزم طبعه صديقنا الماجد الحاج أمين أفندي مَدْور في المطبعة الأميرية فجاء كتاباً لطيف الطبع والوضع ينير البصيرة ويصفي السريرة. أما ثمنه فعشرة قروش مصرية. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>مرآة التأمل في الأمور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>رسالة لطيفة لذات العصمة والعفة الفاضلة عائشة هانم التيمورية نددت فيها على كثير من عادات النساء وبعض المصائب التي تحدث من خروجهن وفساد أخلاق الجواري اللاتي تركن وشهواتهن فكانت أكبر عظة من فاضلة لها في الآداب والأخلاق باع طويل وأننا نهنيء عصرنا بوجود مثلها فيه ونرجو ان ينفع الله تعالى بتأليفها ويطيل حياتها الطيبة المباركة. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>بالإسكندرية وقد أخرنا ضيق المقام عن 
+أدراجها في هذا العدد فنعتذر لحضرته عن ذلك. 
+
+الجوهر النفيس على صلوات ابن أدريس 
+تأليف العلامة الفاضل والمحقق الكامل الشيخ محمد خليل الهجرسي كشف به غامض هذه الصلوات الجليلة وبين المعمى من معانيها الدقيقة بعد ان تاه في مشكلاتها كثير من الناس وهو كتاب كأسمه جوهر نفيس يدل على طول باع المؤلف وتمكنه من العلوم الصوفية وغيرها وقد التزم طبعه صديقنا الماجد الحاج أمين أفندي مَدْور في المطبعة الأميرية فجاء كتاباً لطيف الطبع والوضع ينير البصيرة ويصفي السريرة. أما ثمنه فعشرة قروش مصرية. 
+
+مرآة التأمل في الأمور 
+رسالة لطيفة لذات العصمة والعفة الفاضلة عائشة هانم التيمورية نددت فيها على كثير من عادات النساء وبعض المصائب التي تحدث من خروجهن وفساد أخلاق الجواري اللاتي تركن وشهواتهن فكانت أكبر عظة من فاضلة لها في الآداب والأخلاق باع طويل وأننا نهنيء عصرنا بوجود مثلها فيه ونرجو ان ينفع الله تعالى بتأليفها ويطيل حياتها الطيبة المباركة. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

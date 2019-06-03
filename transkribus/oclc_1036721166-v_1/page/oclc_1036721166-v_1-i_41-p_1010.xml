@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:40.572+02:00</Created>
+        <LastChange>2019-06-03T15:23:40.572+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1010.jpg" imageWidth="580" imageHeight="925">
+        <TextRegion id="region_1">
+            <Coords points="0,0 580,0 580,925 0,925"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>مدة الولادة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢١ ٩ ١٩ ١٠٥ ١٢٥ ٥٥ ٦ ربيع الآخرهشام بن عبد الملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٢ ٢ ١ ٢٥ ١٢٦ ٤٢ ٢٨ جمادى الأخرةالوليد بن يزيد ابن عبد الملك قتيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٢ ٥ ٠ ١٢٦ ١٢٦ ٤٢ ذي الحجةيزيد بن الوليد بن عبد الملك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٠ ٢ ٠ ١٢٦ ١٢٧ ٠ إبراهيم بن الوليد بن عبد الملك خلع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>١٠ ٢ ٥ ١٢٧ ١٣٢ ٥٦ ٢٧ ذي الحجةمروان بن محمد قتل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٨ ٤ ١٣٢ ١٣٦ ٣٣ ١٣ ذي الحجةعبد الله السفاح أول خلفاء بني العباس من مدته ثمانية شهور كان يقتل فيها مروان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٦ ١١ ٢١ ١٣٦ ١٥٨ ٦٣ ٦ ذي الحجةأخوهُ أبو جعفر المنصور أبن محمد بن علي بن عبد الله بن العباس بن عبد المطلب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ١ ١٠ ١٥٨ ١٦٨ ٤٣ ٢٢ محرممحمد المهدي ابن المنصور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>مدة الولادة 
+أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء 
+٢١ ٩ ١٩ ١٠٥ ١٢٥ ٥٥ ٦ ربيع الآخرهشام بن عبد الملك 
+٢٢ ٢ ١ ٢٥ ١٢٦ ٤٢ ٢٨ جمادى الأخرةالوليد بن يزيد ابن عبد الملك قتيل 
+١٢ ٥ ٠ ١٢٦ ١٢٦ ٤٢ ذي الحجةيزيد بن الوليد بن عبد الملك 
+١٠ ٢ ٠ ١٢٦ ١٢٧ ٠ إبراهيم بن الوليد بن عبد الملك خلع 
+١٠ ٢ ٥ ١٢٧ ١٣٢ ٥٦ ٢٧ ذي الحجةمروان بن محمد قتل 
+٠ ٨ ٤ ١٣٢ ١٣٦ ٣٣ ١٣ ذي الحجةعبد الله السفاح أول خلفاء بني العباس من مدته ثمانية شهور كان يقتل فيها مروان 
+٦ ١١ ٢١ ١٣٦ ١٥٨ ٦٣ ٦ ذي الحجةأخوهُ أبو جعفر المنصور أبن محمد بن علي بن عبد الله بن العباس بن عبد المطلب 
+٠ ١ ١٠ ١٥٨ ١٦٨ ٤٣ ٢٢ محرممحمد المهدي ابن المنصور </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

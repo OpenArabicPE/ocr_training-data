@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.024+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.024+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_251.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>في عالم الغيب روحي يا حبيبتي اشطري وافتحي عينك وحطي ركك على الكلمتين اللي تسمعيهم من الفقي وربنا يبعد عنك أولاد الحرام ويهنيك بعريش ابن حلال زيك. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إعلان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لا يجوز لأحد طبع كتابنا كان ويكون الجاري طبعة في الأستاذ ذيلاً فإن حقوق الطبع محفوظة لنا لكونه من مؤلفاتنا فلا يطبع مرة أخرى إلا بإذننا ومن طبعة بغير أذن حاكمناه قانوناً وطالبناه بالخسائر التي تترتب على تعطيل مطبوعنا بمطبوعة وليكون ذلك معلوماً للخاص العام بادرنا بهذا الإعلان. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>زجل بقلم الفاضل النحرير محمد حامد أفندي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورد الينا الزجل بقلم الفاضل النحرير محمد حامد أفندي أحد طلبة العلم بالأزهر الشريف قال حفظه الله: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>منى السلام لجنات سيدي شريف ومن نسل الهادي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويوم حضوره كان عيدي انا وكل اهل الوادي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عندي حكاية يا أستاذ تنعنش الفكر الرايق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أحب تنشر في الأستاذ ويكون لك الفضل الفابق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الشمس طلعت صح النوم والساعة بالعربي عشرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والله عجب يا جيل اليوم يللي على سنجة عشرة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حقاً أزمن ده زمن عايب يصيح السيد مملوك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والندل ديما فيه غالب والحر ضاع حنب الصعلوك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>في عالم الغيب روحي يا حبيبتي اشطري وافتحي عينك وحطي ركك على الكلمتين اللي تسمعيهم من الفقي وربنا يبعد عنك أولاد الحرام ويهنيك بعريش ابن حلال زيك. 
+
+إعلان 
+لا يجوز لأحد طبع كتابنا كان ويكون الجاري طبعة في الأستاذ ذيلاً فإن حقوق الطبع محفوظة لنا لكونه من مؤلفاتنا فلا يطبع مرة أخرى إلا بإذننا ومن طبعة بغير أذن حاكمناه قانوناً وطالبناه بالخسائر التي تترتب على تعطيل مطبوعنا بمطبوعة وليكون ذلك معلوماً للخاص العام بادرنا بهذا الإعلان. 
+
+زجل بقلم الفاضل النحرير محمد حامد أفندي 
+ورد الينا الزجل بقلم الفاضل النحرير محمد حامد أفندي أحد طلبة العلم بالأزهر الشريف قال حفظه الله: 
+منى السلام لجنات سيدي شريف ومن نسل الهادي 
+ويوم حضوره كان عيدي انا وكل اهل الوادي 
+عندي حكاية يا أستاذ تنعنش الفكر الرايق 
+أحب تنشر في الأستاذ ويكون لك الفضل الفابق 
+الشمس طلعت صح النوم والساعة بالعربي عشرة 
+والله عجب يا جيل اليوم يللي على سنجة عشرة 
+حقاً أزمن ده زمن عايب يصيح السيد مملوك 
+والندل ديما فيه غالب والحر ضاع حنب الصعلوك </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

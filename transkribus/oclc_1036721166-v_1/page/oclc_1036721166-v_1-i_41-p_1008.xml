@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:40.408+02:00</Created>
+        <LastChange>2019-06-03T15:23:40.408+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1008.jpg" imageWidth="580" imageHeight="925">
+        <TextRegion id="region_1">
+            <Coords points="0,0 580,0 580,925 0,925"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>سؤال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>هل يتيسر للأستاذ وضع جدول يتضمن أسماء الخلفاء ومددهم وأسنانهم ووفاتهم من سيدنا أبي بكر الصديق رضي الله تعالى عنه الى آخر خيفة عباسي كان يمصر فإن أمكن ذلك فليتفضل بنشره وله الفضل محمود محمد بإسكندرية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>الجواب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>نعم أن ذلك متيسر على ما حرره المؤرخون فقد اعتنوا بشأن الخلافة والقائمين بها نم العرب الى أن أفرغت الى العائلة العثمانية التركية القائمة بأمر الأمة الآن ومن تحريرهم أخذ الجدول الآتي وفيه الجواب بأحسن بيان. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>مدة الولاية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٣ ٢ ١١ ١٣ ٦٣ ٢٢ جمادى الأخرةأبو بكر الصديق رضي الله عنه أول الخلفاء قيل مسموم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٥ ٦ ١٠ ١٣ ٢٣ ٦٣ ٢٧ ذي الحجةعمر بن الخطاب رضي الله عنه شهيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٢ ١١ ١١ ٢٣ ٣٥ ٨٠ ١٥ ذي الحجةعثمان بن عفان رضي الله عنه شهيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٠ ٩ ٤ ٣٥ ٤٠ ٦٣ رمضانعلي بن أبي طالب رضي الله عنه شهيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 580,0 580,925 0,925"/>
+                <TextEquiv>
+                    <Unicode>٢٧ ٥ ٠ ٤٠ ٥٠ ٤٧ الحسن بن علي رضي الله عنه مسموم بعد تنازله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+سؤال 
+هل يتيسر للأستاذ وضع جدول يتضمن أسماء الخلفاء ومددهم وأسنانهم ووفاتهم من سيدنا أبي بكر الصديق رضي الله تعالى عنه الى آخر خيفة عباسي كان يمصر فإن أمكن ذلك فليتفضل بنشره وله الفضل محمود محمد بإسكندرية 
+الجواب 
+نعم أن ذلك متيسر على ما حرره المؤرخون فقد اعتنوا بشأن الخلافة والقائمين بها نم العرب الى أن أفرغت الى العائلة العثمانية التركية القائمة بأمر الأمة الآن ومن تحريرهم أخذ الجدول الآتي وفيه الجواب بأحسن بيان. 
+مدة الولاية 
+أيامشهورأعوامسنة الولايةسنة الوفاةالسناسم الشهرأسماء الخلفاء 
+٠ ٣ ٢ ١١ ١٣ ٦٣ ٢٢ جمادى الأخرةأبو بكر الصديق رضي الله عنه أول الخلفاء قيل مسموم 
+٥ ٦ ١٠ ١٣ ٢٣ ٦٣ ٢٧ ذي الحجةعمر بن الخطاب رضي الله عنه شهيد 
+٢٢ ١١ ١١ ٢٣ ٣٥ ٨٠ ١٥ ذي الحجةعثمان بن عفان رضي الله عنه شهيد 
+٠ ٩ ٤ ٣٥ ٤٠ ٦٣ رمضانعلي بن أبي طالب رضي الله عنه شهيد 
+٢٧ ٥ ٠ ٤٠ ٥٠ ٤٧ الحسن بن علي رضي الله عنه مسموم بعد تنازله </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

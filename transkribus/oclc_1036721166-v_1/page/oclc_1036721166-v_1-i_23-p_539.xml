@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:00.516+02:00</Created>
+        <LastChange>2019-06-03T15:23:00.516+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_23-p_539.jpg" imageWidth="748" imageHeight="1088">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1088 0,1088"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>العدد ٢٣ - بتاريخ: ١٨٩٣ - ١ - ٢٤ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>الحقوق المقدسة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1088 0,1088"/>
+                <TextEquiv>
+                    <Unicode>الحقوق الملكية تنقسم قسمين خاصة وعامة فالخاصة هي الحقوق الواجبة للراعي بحسب مركزه واستحقاقه والواجبة له على رعيته. والواجبة له بحسب المركز والاستحقاق هي التي استحقها بطريق الفتح والاستقلال بذاته أقره الغير عليها أم لا بطريق الوراثة عن مؤسس مستقل منفرد بالسلطة أو عن مؤسس ممتاز تابع لمقرر له مؤيد لمركزه ومن هذا الأخير حقوق الحضرة الخديوية الفخيمة فإنها ثابتة له من طريق الوراثة عن أبيه وجده وجد جده مؤيدة بالفرمانات الشاهانية المميزة لحكومته باستقلاله بإدارة أحكامها من سائر وجوه الإدارة والحكم وقد كفلت الفرامين رعاية هذه الحقوق وتقديسها ونصت على استحقاق القائم من هذه العائلة الشريفة لتولي الإمارة المصرية وتخويله حق العزل والتنصيب والعفو والعقوبة ومبادلة المخابرات مع دول أوروبا في العزائم والرخص التي منحتها له تلك الفرامين. وما زالت هذه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٢٣ - بتاريخ: ١٨٩٣ - ١ - ٢٤ 
+
+الحقوق المقدسة 
+الحقوق الملكية تنقسم قسمين خاصة وعامة فالخاصة هي الحقوق الواجبة للراعي بحسب مركزه واستحقاقه والواجبة له على رعيته. والواجبة له بحسب المركز والاستحقاق هي التي استحقها بطريق الفتح والاستقلال بذاته أقره الغير عليها أم لا بطريق الوراثة عن مؤسس مستقل منفرد بالسلطة أو عن مؤسس ممتاز تابع لمقرر له مؤيد لمركزه ومن هذا الأخير حقوق الحضرة الخديوية الفخيمة فإنها ثابتة له من طريق الوراثة عن أبيه وجده وجد جده مؤيدة بالفرمانات الشاهانية المميزة لحكومته باستقلاله بإدارة أحكامها من سائر وجوه الإدارة والحكم وقد كفلت الفرامين رعاية هذه الحقوق وتقديسها ونصت على استحقاق القائم من هذه العائلة الشريفة لتولي الإمارة المصرية وتخويله حق العزل والتنصيب والعفو والعقوبة ومبادلة المخابرات مع دول أوروبا في العزائم والرخص التي منحتها له تلك الفرامين. وما زالت هذه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

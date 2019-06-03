@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:51.787+02:00</Created>
+        <LastChange>2019-06-03T15:22:51.787+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_19-p_434.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولاح بدر الأماني وهو يخطر في ثوب الكمال وشمس المجد قد طلعت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قم وأطلب السعد فالأيام باسمة والعز أعلامه في مصر قد نشرت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لله عام علمنا من بشائره نيل المراد وأوقات الصفا حضرت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وكيف لا ومليك العصر سيدنا عباس باشا به أيامنا سعدت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ساس الأنام بعدل جل واهبة هذي العلوم التي آياتها بهرت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الدهر طوع له والسعد خادمه أخلاق أجداده الغرا اليه سرت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إلى ان قال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وطالع السعد لما أرخه عام منيرٌ وشمس بالصفَّا تبعت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وهي طويلة اقتصرنا على المختار منها وأنا مع عجزنا عن الدخول في زمرة الهنئين نسأل الله تعالى ان يجعل أعياه متتالية وأيامنا بطول حياته الطيبة مزينة زاهية وأن يمتعنا بتوجهاته العلية وحسن رعايته. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الأفراح الرياضية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما شاء الله كان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بسم الله ذي الجلال الحي القيوم احصن ساحة عز اشرقت فيها شموي انس وطلعت عليها أقمار أفراح وأمطرتها سماءُ الصفا طرباً وسرور افناسبت رياض المجد والشرف بما فيها من الأنس والابتهاج وما ثلت انوارُها وضؤها الكهربائي وزينتها البديعة أثمار انشراح وحبور على ذوات الوافدين فغنهم أغصان عز وسعادة تسقى بماء محبة نمبر الفضل وطالع السعد عنوان الكمال وأمام محراب أمراء العصر من تفخر به </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ولاح بدر الأماني وهو يخطر في ثوب الكمال وشمس المجد قد طلعت 
+قم وأطلب السعد فالأيام باسمة والعز أعلامه في مصر قد نشرت 
+لله عام علمنا من بشائره نيل المراد وأوقات الصفا حضرت 
+وكيف لا ومليك العصر سيدنا عباس باشا به أيامنا سعدت 
+ساس الأنام بعدل جل واهبة هذي العلوم التي آياتها بهرت 
+الدهر طوع له والسعد خادمه أخلاق أجداده الغرا اليه سرت 
+إلى ان قال 
+وطالع السعد لما أرخه عام منيرٌ وشمس بالصفَّا تبعت 
+وهي طويلة اقتصرنا على المختار منها وأنا مع عجزنا عن الدخول في زمرة الهنئين نسأل الله تعالى ان يجعل أعياه متتالية وأيامنا بطول حياته الطيبة مزينة زاهية وأن يمتعنا بتوجهاته العلية وحسن رعايته. 
+
+الأفراح الرياضية 
+ما شاء الله كان 
+بسم الله ذي الجلال الحي القيوم احصن ساحة عز اشرقت فيها شموي انس وطلعت عليها أقمار أفراح وأمطرتها سماءُ الصفا طرباً وسرور افناسبت رياض المجد والشرف بما فيها من الأنس والابتهاج وما ثلت انوارُها وضؤها الكهربائي وزينتها البديعة أثمار انشراح وحبور على ذوات الوافدين فغنهم أغصان عز وسعادة تسقى بماء محبة نمبر الفضل وطالع السعد عنوان الكمال وأمام محراب أمراء العصر من تفخر به </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

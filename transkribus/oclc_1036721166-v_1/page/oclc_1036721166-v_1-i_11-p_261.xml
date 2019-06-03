@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.868+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.868+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_261.jpg" imageWidth="755" imageHeight="1083">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1083 0,1083"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>بديع المعاني من تحلى بمنطق وأشهى بيان في المقال هو الشهد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>كريم السجايا رب كل فضيلة ومنقبة حسناء لم يحصها عد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>لقد كان بحراً للفضائل صافياً حلا منه للظمآن من قومنا الورد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>هو العالم المفضال والشاعر الذي قصائده في جيد دهر العلا عقد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>له خير شعر هامت الشعرا به ونثر به ورق الحمائم كم تشدو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>وكان إماماً في البلاغة ماهراً وفي كل فن بالدليل له اليد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>لقد طاب حقاً سيرة وسريرة واصلاً وفصلاً فاح من نشره الند </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>وقد عاش بين الناس خير مؤانس بألطف آداب يضاحبها الجد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>فمن ضاق صدراً كان عنه مفرجاً بحسن فكاهات برقته تبدو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>وكان جليساً للذوات محبباً إلى الناس يحلو منه عندهم الود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>فيا لهفي قد أصبح اليوم نازحاً عن الأهل والخلان ليس له عود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>لقد راح من دار الفنا متزوداًَ بصالح أعمال لدار البغا يغدو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>وأصبح في دار النعيم ممتعاً بحور وولدان صفاتهم ملد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>وحاز من الرحمن أطيب رحمة ومغفرة منه وتم له السعد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>فلا زال مغموراً بغفران ربه ومنه الرضا طول الدوام له يبدو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1083 0,1083"/>
+                <TextEquiv>
+                    <Unicode>بيد المقبول والابتهاج استلمنا الجزئين الأول والثاني من كتاب مختصر تاريخ الأمم الشرقية القديم تأليف الفاضل الكامل الأستاذ حسين أفندي ذكي مدرس اللغة الفرنساوية في المدارس الإميرية فالجزء الأول ٤٤ صحيفة يشتمل على ملخص تاريخ مصر والثاني ٣٠ صحيفة يشتمل على </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+بديع المعاني من تحلى بمنطق وأشهى بيان في المقال هو الشهد 
+كريم السجايا رب كل فضيلة ومنقبة حسناء لم يحصها عد 
+لقد كان بحراً للفضائل صافياً حلا منه للظمآن من قومنا الورد 
+هو العالم المفضال والشاعر الذي قصائده في جيد دهر العلا عقد 
+له خير شعر هامت الشعرا به ونثر به ورق الحمائم كم تشدو 
+وكان إماماً في البلاغة ماهراً وفي كل فن بالدليل له اليد 
+لقد طاب حقاً سيرة وسريرة واصلاً وفصلاً فاح من نشره الند 
+وقد عاش بين الناس خير مؤانس بألطف آداب يضاحبها الجد 
+فمن ضاق صدراً كان عنه مفرجاً بحسن فكاهات برقته تبدو 
+وكان جليساً للذوات محبباً إلى الناس يحلو منه عندهم الود 
+فيا لهفي قد أصبح اليوم نازحاً عن الأهل والخلان ليس له عود 
+لقد راح من دار الفنا متزوداًَ بصالح أعمال لدار البغا يغدو 
+وأصبح في دار النعيم ممتعاً بحور وولدان صفاتهم ملد 
+وحاز من الرحمن أطيب رحمة ومغفرة منه وتم له السعد 
+فلا زال مغموراً بغفران ربه ومنه الرضا طول الدوام له يبدو 
+بيد المقبول والابتهاج استلمنا الجزئين الأول والثاني من كتاب مختصر تاريخ الأمم الشرقية القديم تأليف الفاضل الكامل الأستاذ حسين أفندي ذكي مدرس اللغة الفرنساوية في المدارس الإميرية فالجزء الأول ٤٤ صحيفة يشتمل على ملخص تاريخ مصر والثاني ٣٠ صحيفة يشتمل على </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

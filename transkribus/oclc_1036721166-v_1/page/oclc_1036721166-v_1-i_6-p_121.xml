@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:22.398+02:00</Created>
+        <LastChange>2019-06-03T15:22:22.398+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_121.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العدد ٦ - بتاريخ: ١٨٩٢ - ٩ - ٢٧ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دستور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العفو يا سادتي فإني أريد أن أقدم إليكم هذا العدد السادس خالياً من المقالات مشحوناً بالأدبيات من أزجال وقصايد وبلديات ترويحاً لأفكاركم المنيرة وترويجاً لبضاعة الأدباء وليس هذا من التقصير أو العجز عن الكلام فإنكم تعلمون أن مطالبنا التي نكتب فيها وسيعة طويلة عريضة ولكني التزمت توزيع المطالب وتنويع الأعداد ليكون الشوق الى المطالعة وألذ في الأذواق الطاهرة. على أني انتظر سوانح الأخبار لعلي أسمع أن بعض أهل الغيرة الوطنية تحركت هممهم للسعي خلف مقصد من مقاصد الأستاذ التي أرشد إليها لإحياء صناعة أو رواج بضاعة أو تحسين زراعة. فتفضلوا بقبول هذا العدد فكله شقانق ومقانق وتحف ورقائق تسوق الجد في معرض الهزل فهي من باب المضحك المبكي وذق طعم الكلام تعرف ما قصده الإعلام. وليس ما فيه موجهاً لأهل المعارف والكمال والآداب والتهذيب وإنما هي عصى تقرع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٦ - بتاريخ: ١٨٩٢ - ٩ - ٢٧ 
+
+دستور 
+العفو يا سادتي فإني أريد أن أقدم إليكم هذا العدد السادس خالياً من المقالات مشحوناً بالأدبيات من أزجال وقصايد وبلديات ترويحاً لأفكاركم المنيرة وترويجاً لبضاعة الأدباء وليس هذا من التقصير أو العجز عن الكلام فإنكم تعلمون أن مطالبنا التي نكتب فيها وسيعة طويلة عريضة ولكني التزمت توزيع المطالب وتنويع الأعداد ليكون الشوق الى المطالعة وألذ في الأذواق الطاهرة. على أني انتظر سوانح الأخبار لعلي أسمع أن بعض أهل الغيرة الوطنية تحركت هممهم للسعي خلف مقصد من مقاصد الأستاذ التي أرشد إليها لإحياء صناعة أو رواج بضاعة أو تحسين زراعة. فتفضلوا بقبول هذا العدد فكله شقانق ومقانق وتحف ورقائق تسوق الجد في معرض الهزل فهي من باب المضحك المبكي وذق طعم الكلام تعرف ما قصده الإعلام. وليس ما فيه موجهاً لأهل المعارف والكمال والآداب والتهذيب وإنما هي عصى تقرع </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

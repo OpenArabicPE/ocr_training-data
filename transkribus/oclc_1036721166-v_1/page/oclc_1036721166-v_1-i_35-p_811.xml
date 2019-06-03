@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:23.491+02:00</Created>
+        <LastChange>2019-06-03T15:23:23.491+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_35-p_811.jpg" imageWidth="486" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 486,0 486,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>قلائد التهاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لسمو عباس مصر الثاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>عيد فوز به الخديوي تهلل في مقام به الفخار تجمل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>٨٤ ٩٣ ٧ ٦٦١ ٤٦٥ سنة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ساحة تدهش النواظر مجداً كل ذي عزة لديها تذلل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>صدرت بالجلال لولا جمال ما دري وصفها أريب تمثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كل راء رأي بقدر قواه هكذا الناس فاضل ثم أفضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يا رعى الله يوم عيد حبانا صفوه المجد منعماً وتطول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأرانا من ازدشير مليكاً لا يرى الدهر غيره منه أعدل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>سيد ساد والزمان كبحر زاخر بالفخار في كل محفل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ترقب الناس يره في مدار وهو دارٍ بسيره اذ تجوّل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ساسة العصر تجتليه بعين قد رأى نفسه بها وهو أمثل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وإذا ما رأى العظيم علاه طاب نفساً اذا علا أو تنزل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>هل دري الشيب ما أفاد شباب من يساوي وللشبيبة منهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وهل الدوح في الذبول يحاكي ناضر الغصن بالثمار تهدل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أن ترم شاهد الفروق فهذا مجد عباسنا العزيز المبجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الخديوي الذي به مصر نالت صفو عيش نعيمه لا يحول </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ذو السجايا الحسان خلقاً وخُلقاً مظهر الحلم والثناء المرتل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 486,0 486,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>إن تزره تزر كريماً عطوفاً عالماً صارماً يقول ويفعل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+قلائد التهاني 
+لسمو عباس مصر الثاني 
+عيد فوز به الخديوي تهلل في مقام به الفخار تجمل 
+٨٤ ٩٣ ٧ ٦٦١ ٤٦٥ سنة 
+ساحة تدهش النواظر مجداً كل ذي عزة لديها تذلل 
+صدرت بالجلال لولا جمال ما دري وصفها أريب تمثل 
+كل راء رأي بقدر قواه هكذا الناس فاضل ثم أفضل 
+يا رعى الله يوم عيد حبانا صفوه المجد منعماً وتطول 
+وأرانا من ازدشير مليكاً لا يرى الدهر غيره منه أعدل 
+سيد ساد والزمان كبحر زاخر بالفخار في كل محفل 
+ترقب الناس يره في مدار وهو دارٍ بسيره اذ تجوّل 
+ساسة العصر تجتليه بعين قد رأى نفسه بها وهو أمثل 
+وإذا ما رأى العظيم علاه طاب نفساً اذا علا أو تنزل 
+هل دري الشيب ما أفاد شباب من يساوي وللشبيبة منهل 
+وهل الدوح في الذبول يحاكي ناضر الغصن بالثمار تهدل 
+أن ترم شاهد الفروق فهذا مجد عباسنا العزيز المبجل 
+الخديوي الذي به مصر نالت صفو عيش نعيمه لا يحول 
+ذو السجايا الحسان خلقاً وخُلقاً مظهر الحلم والثناء المرتل 
+إن تزره تزر كريماً عطوفاً عالماً صارماً يقول ويفعل </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

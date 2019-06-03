@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:49.541+02:00</Created>
+        <LastChange>2019-06-03T15:22:49.541+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_17-p_401.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وكأس الضنى جرعته غير جازع وإن كان انكي من سموم العقارب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وطأطأت رأسي للعنا متجلداً على حمله حتى تسنم غاربي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لي الله ما أقوى فؤادي على لأسى وأصبره عند اشتداد النوائب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وما بي نفسي غير ان وراءها صغاراً أصابتهم سهام المعاطب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>دهتهم أمورٌ فادحات غدوا بها حيارى بهم ضاقت رحاب المذاهب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يسائلهم عني الورى أين واصف أحي وهل يرجى له عود غائب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وما من مجيب غير تصعيد أدمع له زفرات في الحشا والترائب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يرون الردى في حفظ ماء وجوههم حياة وقصد الماس كبرى المصائب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فحببهم في الموت عُسرة حالهم واسلمهم لليأُس من الأقارب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ثم تخلص الى المديح مفيضاً من بحر هذه الغرائب عفا الله تعالى عنه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ورد لنا هذا الزجل من أحد مشتركي جريدتنا في الرقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بعد السلام يا مولايا يا صاحب الأصل الطيب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اسمع حكاية ويايا لكن بقا اقرا واكتب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خلي الحبايب تتفرج واللي بيسرق يتأدب </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إلا الزمان دا صار عايب يا رب بعبادك الطف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا عم انا مالي ومالك يا اللي ما تسأل على حالك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بدك حنيفه ولطيفة شوف انت صالح جرنالك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا خي دي الأيام اكتر إن كنت مستكتر مالك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إن قلت لك جرنالي ضاع عدل تصدق وغلا احلف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وكأس الضنى جرعته غير جازع وإن كان انكي من سموم العقارب 
+وطأطأت رأسي للعنا متجلداً على حمله حتى تسنم غاربي 
+لي الله ما أقوى فؤادي على لأسى وأصبره عند اشتداد النوائب 
+وما بي نفسي غير ان وراءها صغاراً أصابتهم سهام المعاطب 
+دهتهم أمورٌ فادحات غدوا بها حيارى بهم ضاقت رحاب المذاهب 
+يسائلهم عني الورى أين واصف أحي وهل يرجى له عود غائب 
+وما من مجيب غير تصعيد أدمع له زفرات في الحشا والترائب 
+يرون الردى في حفظ ماء وجوههم حياة وقصد الماس كبرى المصائب 
+فحببهم في الموت عُسرة حالهم واسلمهم لليأُس من الأقارب 
+ثم تخلص الى المديح مفيضاً من بحر هذه الغرائب عفا الله تعالى عنه 
+ورد لنا هذا الزجل من أحد مشتركي جريدتنا في الرقة 
+بعد السلام يا مولايا يا صاحب الأصل الطيب 
+اسمع حكاية ويايا لكن بقا اقرا واكتب 
+خلي الحبايب تتفرج واللي بيسرق يتأدب 
+إلا الزمان دا صار عايب يا رب بعبادك الطف 
+يا عم انا مالي ومالك يا اللي ما تسأل على حالك 
+بدك حنيفه ولطيفة شوف انت صالح جرنالك 
+يا خي دي الأيام اكتر إن كنت مستكتر مالك 
+إن قلت لك جرنالي ضاع عدل تصدق وغلا احلف </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:24.139+02:00</Created>
+        <LastChange>2019-06-03T15:22:24.139+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_141.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يا للرجال لغادة لعبت بنا لعب الهواء بلين الأغضان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خطرت بدرع الحرب وهي تغزنا من كيدها ببراقع المسوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>بنت يسفه رايها أحلامنا وتطير في الأحشاء والأذهان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تبدي لنا بشر المشوق وقلبها من شدة الأحقاد في غليان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>من أطلق الهيفاء بعد جناية وقضاه شيخ العصر سجن قناني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إن زرتها في الدن قبل وصالها أبدت الكرام وخشية الخجلان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فغذا رشفت رضابها من كأسها فتحت عليك معامع الشجعان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تعجبوا من فعلها فهي التي في خدرها شبت على النيران </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>صبحت رجال الدير دهرا وانثنت تسبي النهي بمخايل الكيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تهوى الوثوب وفعل أرباب الصبا فتحسن الطيران للنشوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تأتيك في تيه العذارى خدعةً وتريك عند الوصل فعل الجان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>عجباً لها مع ضعفها لا تتقي بطش الملوك وصولة الفرسان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تأتيهم والجند من حول الحمى تحت السلاح ولا تخاف الجاني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وتسير دون تهيب في خفة تحت اللثام على أكف غواني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فإذا رمت ذلك اللثام وزغردت جذبتهم للرقص كالغلمان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإذا استجاشت زمرة الأعضا رمت ليث الحروب على بساط هوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأباحت الخدّام عند ملوكهم وقت الصفا حرية الصبيان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ذلت لسطوة حكمها دول الورى من غير ما حرب ولا أعوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>خفت فطارت بالعقول وخلفت تلك الجسوم بحالة الحيران </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+يا للرجال لغادة لعبت بنا لعب الهواء بلين الأغضان 
+خطرت بدرع الحرب وهي تغزنا من كيدها ببراقع المسوان 
+بنت يسفه رايها أحلامنا وتطير في الأحشاء والأذهان 
+تبدي لنا بشر المشوق وقلبها من شدة الأحقاد في غليان 
+من أطلق الهيفاء بعد جناية وقضاه شيخ العصر سجن قناني 
+إن زرتها في الدن قبل وصالها أبدت الكرام وخشية الخجلان 
+فغذا رشفت رضابها من كأسها فتحت عليك معامع الشجعان 
+لا تعجبوا من فعلها فهي التي في خدرها شبت على النيران 
+صبحت رجال الدير دهرا وانثنت تسبي النهي بمخايل الكيان 
+تهوى الوثوب وفعل أرباب الصبا فتحسن الطيران للنشوان 
+تأتيك في تيه العذارى خدعةً وتريك عند الوصل فعل الجان 
+عجباً لها مع ضعفها لا تتقي بطش الملوك وصولة الفرسان 
+تأتيهم والجند من حول الحمى تحت السلاح ولا تخاف الجاني 
+وتسير دون تهيب في خفة تحت اللثام على أكف غواني 
+فإذا رمت ذلك اللثام وزغردت جذبتهم للرقص كالغلمان 
+وإذا استجاشت زمرة الأعضا رمت ليث الحروب على بساط هوان 
+وأباحت الخدّام عند ملوكهم وقت الصفا حرية الصبيان 
+ذلت لسطوة حكمها دول الورى من غير ما حرب ولا أعوان 
+خفت فطارت بالعقول وخلفت تلك الجسوم بحالة الحيران </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

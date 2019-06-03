@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.945+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.945+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_985.jpg" imageWidth="755" imageHeight="1109">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1109 0,1109"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1109 0,1109"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1109 0,1109"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1109 0,1109"/>
+                <TextEquiv>
+                    <Unicode>العدد ٤١ - بتاريخ: ١٨٩٣ - ٨ - ٣ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1109 0,1109"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1109 0,1109"/>
+                <TextEquiv>
+                    <Unicode>محمدةٌ عُدت مذمة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1109 0,1109"/>
+                <TextEquiv>
+                    <Unicode>لا يخفى على أهل العلم ان الزجل من أبواب الشعر كالدوبيت والقوما وكان وكان والموشح موقد تناظر به كثير من الشعراء وافتخر بأحكامه بعض الأدباء حتى عدت صناعته أصعب من قرض الشعر إذا كان مشتملاً على المعاني الغريبة مسبوكاً في قوالب لطيفة فالتفنن فيه من محامد الشعراء لا من مذامّهم وقد كنت أحاول نظم شيء منه في الأيام الخالية فيتعاصى لعدم الباعث ثم اتفق لي اني كنت بمولد سيدي أحمد البدوي رضي الله تعالى عنه سنة ١٢٩٤ هجرية وكان معي السيد علي أبو النصر والشيخ رمضان حلاوة والسيد محمد قاسم والشيخ أحمد أبو الفرج الدمنهوري فجلسنا على قهوة الصباغ نتفرّج على أديب وقف يناظر آخر فلما فطن أحدهما لانتقادنا عليهما استأنف أخاه إلينا وخصانا بالكلام فأخذا يمدحاننا واحداً فواحداً الى أن جاء دورهم إليَّ فقال أحدهما يخاطبني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٤١ - بتاريخ: ١٨٩٣ - ٨ - ٣ 
+
+محمدةٌ عُدت مذمة 
+لا يخفى على أهل العلم ان الزجل من أبواب الشعر كالدوبيت والقوما وكان وكان والموشح موقد تناظر به كثير من الشعراء وافتخر بأحكامه بعض الأدباء حتى عدت صناعته أصعب من قرض الشعر إذا كان مشتملاً على المعاني الغريبة مسبوكاً في قوالب لطيفة فالتفنن فيه من محامد الشعراء لا من مذامّهم وقد كنت أحاول نظم شيء منه في الأيام الخالية فيتعاصى لعدم الباعث ثم اتفق لي اني كنت بمولد سيدي أحمد البدوي رضي الله تعالى عنه سنة ١٢٩٤ هجرية وكان معي السيد علي أبو النصر والشيخ رمضان حلاوة والسيد محمد قاسم والشيخ أحمد أبو الفرج الدمنهوري فجلسنا على قهوة الصباغ نتفرّج على أديب وقف يناظر آخر فلما فطن أحدهما لانتقادنا عليهما استأنف أخاه إلينا وخصانا بالكلام فأخذا يمدحاننا واحداً فواحداً الى أن جاء دورهم إليَّ فقال أحدهما يخاطبني </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

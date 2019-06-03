@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:36.496+02:00</Created>
+        <LastChange>2019-06-03T15:22:36.496+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_12-p_280.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وخرب بيوت لابل سريات بالعز كانت مشحونة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واللي كسب يني جرجي عايشين بحاله مامونة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وابن الوطن أصبح في حال اسود مزفِّت ومسخمْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>آدي التمدن والموضة=واللطف والظرف الجاري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وادي الخلاعة والخفه=عند الجماعة الطيارى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وعندهم موضة جديدة اللي يخاف هيبة الباري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وماشي حشمة ميخبصشي=قالوا عليه راجل أبكم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وأخر كلامي أهديك تسليم والفين تحية عال العال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وادعي الكريم ربي القادر يصلح اليك كل الأحوال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويكون معينك على قصدك وتهذيب الدون والجهال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وابن الوطن من ارشادك يعود لمجده ويتنعَّمْ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واللي ما يسمعش نصحك ومن القبيح ما يتلوَّم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يصح فيه قول القائل (الضرب في الميت يحرم) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رسالة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا هذه الرسالة من أسيوط بقلم أحد المصريين والزمنا ان ندرجها فاتباعاً لارشادته نشرناها بعد اختصارها وهي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قد وجب على الوطن العزيز وكل أبنائه ان يرمقوك يا أستاذ الإرشاد ومدرس التهذيب بعيون الاعتبار والاستحسان ويعيروا نصائحك آذااً واعية وقلوباً مبتهجة ونفوساً تقدر تلك الجمل قدرها. إذ لم يظهر الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وخرب بيوت لابل سريات بالعز كانت مشحونة 
+واللي كسب يني جرجي عايشين بحاله مامونة 
+وابن الوطن أصبح في حال اسود مزفِّت ومسخمْ 
+آدي التمدن والموضة=واللطف والظرف الجاري 
+وادي الخلاعة والخفه=عند الجماعة الطيارى 
+وعندهم موضة جديدة اللي يخاف هيبة الباري 
+وماشي حشمة ميخبصشي=قالوا عليه راجل أبكم 
+وأخر كلامي أهديك تسليم والفين تحية عال العال 
+وادعي الكريم ربي القادر يصلح اليك كل الأحوال 
+ويكون معينك على قصدك وتهذيب الدون والجهال 
+وابن الوطن من ارشادك يعود لمجده ويتنعَّمْ 
+واللي ما يسمعش نصحك ومن القبيح ما يتلوَّم 
+يصح فيه قول القائل (الضرب في الميت يحرم) 
+
+رسالة 
+وردت لنا هذه الرسالة من أسيوط بقلم أحد المصريين والزمنا ان ندرجها فاتباعاً لارشادته نشرناها بعد اختصارها وهي 
+قد وجب على الوطن العزيز وكل أبنائه ان يرمقوك يا أستاذ الإرشاد ومدرس التهذيب بعيون الاعتبار والاستحسان ويعيروا نصائحك آذااً واعية وقلوباً مبتهجة ونفوساً تقدر تلك الجمل قدرها. إذ لم يظهر الأستاذ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

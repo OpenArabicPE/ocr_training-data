@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:23.141+02:00</Created>
+        <LastChange>2019-06-03T15:22:23.141+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_6-p_129.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكل واحد بيوافق ان كان شاب والا كاهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياسي نديم ادى الحاه وفيه كلام محنش اده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أرجوك ياسيدي متعبش على الكلام اللي تشاهده </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأنا كلامي على ادي مني اقبله ولاّ ردّه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واعمل جميل وارميه البحر يعوم ويرجع في الساحل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>دور </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اهو الكلام أول وآخر هوَّ زجل لكن حكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومشربو يوافق الأستاذ ما هش كلام من ضلدرمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>من غير مواخذه لو كان دون اسحب كلامي ان كان قابل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واللي بيحكي ان كان مجنون لا بد سامعوا يكون عاقل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>زجل الشيخ عبد الجواد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ورد لنا هذا الرجل من الشيخ عبد الجواد علي من أفاضل شباس الشهدا ضمّن فيه زجل الشيخ محمد يالم الطنطاوي وتلطف وتظرف في طلب النسخة المجانية وقد اجبنا طلبه ونص عبارته. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياسيدي كلو فاني * واللي خلقني ما ينساني * ما تسمعوا لي يا اخواني (قصدت واحد ما لو تاني) * فيضه عميم جوده اسبق * من بالمكارم احياني (رب العباد) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أمال ياعين ليه بتنوحي * والله الأدب ما مات روحي * ظرف النديم سلب الروح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وكل واحد بيوافق ان كان شاب والا كاهل 
+دور 
+ياسي نديم ادى الحاه وفيه كلام محنش اده 
+أرجوك ياسيدي متعبش على الكلام اللي تشاهده 
+وأنا كلامي على ادي مني اقبله ولاّ ردّه 
+واعمل جميل وارميه البحر يعوم ويرجع في الساحل 
+دور 
+اهو الكلام أول وآخر هوَّ زجل لكن حكمه 
+ومشربو يوافق الأستاذ ما هش كلام من ضلدرمه 
+من غير مواخذه لو كان دون اسحب كلامي ان كان قابل 
+واللي بيحكي ان كان مجنون لا بد سامعوا يكون عاقل 
+
+زجل الشيخ عبد الجواد 
+ورد لنا هذا الرجل من الشيخ عبد الجواد علي من أفاضل شباس الشهدا ضمّن فيه زجل الشيخ محمد يالم الطنطاوي وتلطف وتظرف في طلب النسخة المجانية وقد اجبنا طلبه ونص عبارته. 
+ياسيدي كلو فاني * واللي خلقني ما ينساني * ما تسمعوا لي يا اخواني (قصدت واحد ما لو تاني) * فيضه عميم جوده اسبق * من بالمكارم احياني (رب العباد) 
+أمال ياعين ليه بتنوحي * والله الأدب ما مات روحي * ظرف النديم سلب الروح </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

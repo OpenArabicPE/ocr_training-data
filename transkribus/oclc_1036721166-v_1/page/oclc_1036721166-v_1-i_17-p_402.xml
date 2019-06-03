@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:49.589+02:00</Created>
+        <LastChange>2019-06-03T15:22:49.589+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_17-p_402.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>نسخه تجيني ونسخه تضيع أما شريكي فيه عادل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والمسألة قاسمة نصين بالحق انك تستاهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تبعت حلاوة في البوسطة وما تخفش لحسن تتاكل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أما عجايب من شغلك هي العيال حاتخاف تخطف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تشحن كتابك بالانكات وتشيعولي في البوسطة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لما يشوف نفسه موضه ماهوش يدور يضرب بولطه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يشطح ويرمح على كيفه وإن قام رسي لو في محطه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أخاف اقول لك عالباقي شايف كلامي ده معجرف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يعني أما قول لك عالجاري ستين سنة ايه راح يجري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قرب يا سيدي واسمع لي خليها ضحكة بالمرَّة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يقع في أيد صاحب المكتب يقراه ويرميه من بره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اجي اسأله عنه يقول لي ما جاش هنا سكتر بره </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هي الأمانة يا ربي مش قلت عنها في المصحف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تفضل تنبه كام مرة أما غريبة دي حقه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تقصر كلامك عالخمرة مافيش شوية عا السرقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>موش المحافظة في الموسكي وايش راح يوديها الرقة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإن كنت مش راح تنصفلي الاقي مين غيرك ينصف </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اللي معاك اسعف وابديه وادين حكيت لك عالوقع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وعرضحالي أوعى تنفيه إن كان كلامك موش نافع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ودي بقت خامس مره عسى الله ياخدلوا راجع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+نسخه تجيني ونسخه تضيع أما شريكي فيه عادل 
+والمسألة قاسمة نصين بالحق انك تستاهل 
+تبعت حلاوة في البوسطة وما تخفش لحسن تتاكل 
+أما عجايب من شغلك هي العيال حاتخاف تخطف 
+تشحن كتابك بالانكات وتشيعولي في البوسطة 
+لما يشوف نفسه موضه ماهوش يدور يضرب بولطه 
+يشطح ويرمح على كيفه وإن قام رسي لو في محطه 
+أخاف اقول لك عالباقي شايف كلامي ده معجرف 
+يعني أما قول لك عالجاري ستين سنة ايه راح يجري 
+قرب يا سيدي واسمع لي خليها ضحكة بالمرَّة 
+يقع في أيد صاحب المكتب يقراه ويرميه من بره 
+اجي اسأله عنه يقول لي ما جاش هنا سكتر بره 
+هي الأمانة يا ربي مش قلت عنها في المصحف 
+تفضل تنبه كام مرة أما غريبة دي حقه 
+تقصر كلامك عالخمرة مافيش شوية عا السرقة 
+موش المحافظة في الموسكي وايش راح يوديها الرقة 
+وإن كنت مش راح تنصفلي الاقي مين غيرك ينصف 
+اللي معاك اسعف وابديه وادين حكيت لك عالوقع 
+وعرضحالي أوعى تنفيه إن كان كلامك موش نافع 
+ودي بقت خامس مره عسى الله ياخدلوا راجع </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

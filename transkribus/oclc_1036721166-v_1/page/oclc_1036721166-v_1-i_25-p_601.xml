@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:07.140+02:00</Created>
+        <LastChange>2019-06-03T15:23:07.140+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_25-p_601.jpg" imageWidth="748" imageHeight="1120">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1120 0,1120"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فمن للعوافي تاتلي حين يممت يميناً لقد فاضت يمينك باليسري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولا غرو فهو البحر يقذف بالمنى إذا اليمن في يمناه واليسر في اليسرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>عزيز علينا ان نراك أبا الضيا وأضلع تلك الأرض تحويك مزورا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>عزيز علينا ان غربت وطالما أظل طويل الليل يملاؤه شكرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>يبيت يجافي جنبه عن فراشه ويطوى ضلوع الليل منه على العبرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>يرقرق دمعاً ساقه الخوف والتقى تحدرفوق الخد والشيبة الغرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وما غره ان كان من آل أحمد أيمتنا والطاهرين بني الزهرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولهفي على من كان كهفاً لأهله تسايره الدنيا الى أختها الأخرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>فلله مدعو الى الله راحل إليه بكته الأرض والظلة الخضرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ووجه وضيء في الدياجي معفر بمسجده لما تقلب في الغبرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وقلب شجي طال عهد الوفا به تململه التقوى وتقلقه الذكرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>له الله من شيخ بكاء وحرقة فمن مقلة رياً ومن كبد حرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>لئن صدعت أيدي الحوادث شمله فذانكم النجلان قد جبرا الكسرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وأن عبثت أيدي النوائب بالعلا فعين العلا قرت بمن أعلنا السرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ومن نشرا فينا المعارف جملة ومن علما الآداب فهي اذن تتري </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>أعزيكما نجليه فيه وكل من تعزز بالإسلام فانشرحوا صدرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>ولم يقض من فرعاه طالا مهابة وعزا وإجلالاً وطابا وقد برا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>وقاما بتهذيب الخلائق والنهي قيام أمرىء لم يأل جهداولا نصرا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 748,0 748,1120 0,1120"/>
+                <TextEquiv>
+                    <Unicode>طلابا لأمر ما جهلت مكانه ومن الدين حتي الحقا الحق بالشعرى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+فمن للعوافي تاتلي حين يممت يميناً لقد فاضت يمينك باليسري 
+ولا غرو فهو البحر يقذف بالمنى إذا اليمن في يمناه واليسر في اليسرى 
+عزيز علينا ان نراك أبا الضيا وأضلع تلك الأرض تحويك مزورا 
+عزيز علينا ان غربت وطالما أظل طويل الليل يملاؤه شكرا 
+يبيت يجافي جنبه عن فراشه ويطوى ضلوع الليل منه على العبرا 
+يرقرق دمعاً ساقه الخوف والتقى تحدرفوق الخد والشيبة الغرا 
+وما غره ان كان من آل أحمد أيمتنا والطاهرين بني الزهرا 
+ولهفي على من كان كهفاً لأهله تسايره الدنيا الى أختها الأخرى 
+فلله مدعو الى الله راحل إليه بكته الأرض والظلة الخضرا 
+ووجه وضيء في الدياجي معفر بمسجده لما تقلب في الغبرا 
+وقلب شجي طال عهد الوفا به تململه التقوى وتقلقه الذكرى 
+له الله من شيخ بكاء وحرقة فمن مقلة رياً ومن كبد حرى 
+لئن صدعت أيدي الحوادث شمله فذانكم النجلان قد جبرا الكسرا 
+وأن عبثت أيدي النوائب بالعلا فعين العلا قرت بمن أعلنا السرا 
+ومن نشرا فينا المعارف جملة ومن علما الآداب فهي اذن تتري 
+أعزيكما نجليه فيه وكل من تعزز بالإسلام فانشرحوا صدرا 
+ولم يقض من فرعاه طالا مهابة وعزا وإجلالاً وطابا وقد برا 
+وقاما بتهذيب الخلائق والنهي قيام أمرىء لم يأل جهداولا نصرا 
+طلابا لأمر ما جهلت مكانه ومن الدين حتي الحقا الحق بالشعرى </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

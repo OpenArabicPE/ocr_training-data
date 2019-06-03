@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.444+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.444+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_256.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فاسلك به نهج حمد * وذدده عن نهج لوم * وانح العلاء وارخ * أستاذ آداب علم. سنة ١٣١٠ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وللسيد الماجد الآخذ من المعارف بالحظ الأوفر الشيخ عبد الرحيم افندي القصبي نزيل اسكندرية الآن وأحد معلمي العلوم العربية فيها: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خل الجرائد واغن بالأستاذ هذا النديم محرر الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أهدى الورى تحفاً تلألأ نورها يدعونها بجريدة الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تلك التي تروي أحاديث العلي فكأنها عن جابر أستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لله فينا سيد حاز التقى وكسا المقال بحكمة الأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا صاح قم فأرشف جميل سلافها هيا بنا هيا بنا أستاذي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>علل النفوس تبددت لما رأت حِكن النديم الفاضل الاستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لا زال يرقى في الأنام مهناءً بجريدة الأستاذ والأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>الأستاذ الأول أراد به النديم والثاني الجريدة. والثالث الماهر علماً للجريدة. والرابع الكيماوي المشهور. والخامس شيخنا الأكبر وملاذنا الأطهر والده الجليل سيدي ومولاي السيد شحاتة القصبي نفعنا الله به. والسادس معلمه. والسابع وصف للنديم بعد ان جعل الأول علماً. والثامن عني به نفس النديم أو شقيقه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وللحسيب النسيب الشاعر المنشئ أفضل الفضلاء صديقنا السيد محمد أفندي شكري المكي القادري الحسني: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أيمن بابهج غرة لاحت لنا بجريدة الأستاذ والأستاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أستاذ كل مهذب وأمام كل ل مؤدب وملاذ كل ملاذ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فاسلك به نهج حمد * وذدده عن نهج لوم * وانح العلاء وارخ * أستاذ آداب علم. سنة ١٣١٠ 
+وللسيد الماجد الآخذ من المعارف بالحظ الأوفر الشيخ عبد الرحيم افندي القصبي نزيل اسكندرية الآن وأحد معلمي العلوم العربية فيها: 
+خل الجرائد واغن بالأستاذ هذا النديم محرر الأستاذ 
+أهدى الورى تحفاً تلألأ نورها يدعونها بجريدة الأستاذ 
+تلك التي تروي أحاديث العلي فكأنها عن جابر أستاذ 
+لله فينا سيد حاز التقى وكسا المقال بحكمة الأستاذ 
+يا صاح قم فأرشف جميل سلافها هيا بنا هيا بنا أستاذي 
+علل النفوس تبددت لما رأت حِكن النديم الفاضل الاستاذ 
+لا زال يرقى في الأنام مهناءً بجريدة الأستاذ والأستاذ 
+الأستاذ الأول أراد به النديم والثاني الجريدة. والثالث الماهر علماً للجريدة. والرابع الكيماوي المشهور. والخامس شيخنا الأكبر وملاذنا الأطهر والده الجليل سيدي ومولاي السيد شحاتة القصبي نفعنا الله به. والسادس معلمه. والسابع وصف للنديم بعد ان جعل الأول علماً. والثامن عني به نفس النديم أو شقيقه. 
+وللحسيب النسيب الشاعر المنشئ أفضل الفضلاء صديقنا السيد محمد أفندي شكري المكي القادري الحسني: 
+أيمن بابهج غرة لاحت لنا بجريدة الأستاذ والأستاذ 
+أستاذ كل مهذب وأمام كل ل مؤدب وملاذ كل ملاذ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

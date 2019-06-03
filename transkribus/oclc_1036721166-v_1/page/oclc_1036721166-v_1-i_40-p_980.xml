@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.477+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.477+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_40-p_980.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لابد ما يلقى عقبه وأن مشى لازم يعتر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يحب الله لازم يطيع ولا يفعل منكر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ويكون على التقوى ملازم أن كان بيرجاه في القابل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>البحر واسع بيموج وللي على شطُّه عايم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي بيمشي ويتعوج عن الزمان غفلان نايم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي مالوش في الناس حرفه وفي طريقه السوء هايم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أدي الحرامي بالوصفه ولو يسج يا دايم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تبقى تشوفه في اللمه غراب على الرمه حايم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومكسبه وقت الوخمه عمال يعربد في الداخل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوعى من الشيخ الكذاب الي يدوّر عَ الفته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي بيذكر بالأحباب أنا انا انتا انته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يقول أصل الشرعه تهذيب يراه أهل النكته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يدور حول البدعه ويدور على الناس في لفته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومقصده الذهب الرنان يجمع الوفو في سكته </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ومذهبه هتك العرفان ويقول انا الله دي الجاهل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوعى تصدق للكاذب ولو يكون من بيت عالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>تسمع كلامه كلام عادب تملي شايل في العالي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+لابد ما يلقى عقبه وأن مشى لازم يعتر 
+وللي يحب الله لازم يطيع ولا يفعل منكر 
+ويكون على التقوى ملازم أن كان بيرجاه في القابل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+البحر واسع بيموج وللي على شطُّه عايم 
+وللي بيمشي ويتعوج عن الزمان غفلان نايم 
+وللي مالوش في الناس حرفه وفي طريقه السوء هايم 
+أدي الحرامي بالوصفه ولو يسج يا دايم 
+تبقى تشوفه في اللمه غراب على الرمه حايم 
+ومكسبه وقت الوخمه عمال يعربد في الداخل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+أوعى من الشيخ الكذاب الي يدوّر عَ الفته 
+وللي بيذكر بالأحباب أنا انا انتا انته 
+وللي يقول أصل الشرعه تهذيب يراه أهل النكته 
+وللي يدور حول البدعه ويدور على الناس في لفته 
+ومقصده الذهب الرنان يجمع الوفو في سكته 
+ومذهبه هتك العرفان ويقول انا الله دي الجاهل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+أوعى تصدق للكاذب ولو يكون من بيت عالي 
+تسمع كلامه كلام عادب تملي شايل في العالي </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

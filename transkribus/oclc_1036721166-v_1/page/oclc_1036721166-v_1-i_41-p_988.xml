@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:38.206+02:00</Created>
+        <LastChange>2019-06-03T15:23:38.206+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_988.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحاضرين أهل نجابه وينقدوا قول الإنسان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اترك بقي شرب الغابه وأنشد نسمع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كان تغني بربابه تطرب مجمع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>حسن الكلام مثل سحابه تمطر على شجر البستان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقال </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>القصد منك يانديمنا تعمل زجل هِيله بِيله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إلا انت دلوقت غريمنا قصدي أحدفك بالفلفيله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كنت تجهل تقريمنا اسأل عنا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوعا تعيب في تكليمنا وأحذر منا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أحسن أوديك لعظيمنا يشيّلك الفين شيله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فقلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أننا صغرا له نُونُو وفي الزجل منتش مجدع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اتبع نديم تلقى فنونو تأتيك من المعنى الابدع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أما عظيمك وجنونو يأكل نفسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كان يعارض بمجونو يطلب عكسه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لأن فني وشجونو لكل متعنطظ يردع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبعد ان دار الكلام بيني وبينه في كثير من هذا الوزن قام الشيخ داود وقال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>قصدي أقولُ كلاماًيحكي لضمات الزهورهات أشجنا بنظام </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>من فن كان وكان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ادخل بنا لمعانكالبكر من خلف الستورفي قلب متحلٍّ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+والحاضرين أهل نجابه وينقدوا قول الإنسان 
+اترك بقي شرب الغابه وأنشد نسمع 
+وإن كان تغني بربابه تطرب مجمع 
+حسن الكلام مثل سحابه تمطر على شجر البستان 
+فقال 
+القصد منك يانديمنا تعمل زجل هِيله بِيله 
+إلا انت دلوقت غريمنا قصدي أحدفك بالفلفيله 
+وإن كنت تجهل تقريمنا اسأل عنا 
+أوعا تعيب في تكليمنا وأحذر منا 
+أحسن أوديك لعظيمنا يشيّلك الفين شيله 
+فقلت 
+أننا صغرا له نُونُو وفي الزجل منتش مجدع 
+اتبع نديم تلقى فنونو تأتيك من المعنى الابدع 
+أما عظيمك وجنونو يأكل نفسه 
+وإن كان يعارض بمجونو يطلب عكسه 
+لأن فني وشجونو لكل متعنطظ يردع 
+وبعد ان دار الكلام بيني وبينه في كثير من هذا الوزن قام الشيخ داود وقال: 
+قصدي أقولُ كلاماًيحكي لضمات الزهورهات أشجنا بنظام 
+من فن كان وكان 
+ادخل بنا لمعانكالبكر من خلف الستورفي قلب متحلٍّ </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

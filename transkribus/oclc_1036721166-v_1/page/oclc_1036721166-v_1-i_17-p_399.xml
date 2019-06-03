@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:49.341+02:00</Created>
+        <LastChange>2019-06-03T15:22:49.341+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_17-p_399.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما بقيت اطلع من باب دارنا انا كنت باحسب ان الواحدة ينوبها ثواب في العمايل د التوبة من دي النوبة يا رب ما تقدر عليَّ بقى الطلوع لمشايخ إلا إذا كنت ويا جوزي. س. الله يتوب عليك يا بنتي الدين طيب يا ستي بهية هوا فيه احسن من الست اللي ما حد يشوف لها طول مشايخ ايه يا بنتي هما يحبوا قلة القيمة دي والأمور البطالة ولا والنبي إلا يكرهوا النسوان اللي يروحوا لهم ويبقى بدهم يحنقوهم دول احباب الله ولا يحبوش إلا اللي ماشيين على شرع الله وفين اللي ماشي على الشرع دلوقت ربنا يلطف. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>باب الأدبيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>من نظم الفاضل محمود افندي وصف حبيس سجن اسكندرية الآن ما قاله تاريخاً لورود الفرمان السلطاني مرفوعاً لأعتاب الحضرة الفخيمة الخديوية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا أيها الملك السهيد عش بالغل العمر المديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فبشائر الإقبال قد وافتك بالملك الوطيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وأتاك يسعى السعد من دار السعادة في البريد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والعز ينشد ظله والمجد يطرب بالنشيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فجلست والعليا تخدم والسعود من العبيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والدهر مرتجف الجوا نح خيفة البطش الشديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>صفحاً فقد وافاك يخلس توبة الجاني الطريد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ويكون اطوع من تريد من العبيد لما تريد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>عباس يا ابن محمد بجلوسك اقترب البعيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ما بقيت اطلع من باب دارنا انا كنت باحسب ان الواحدة ينوبها ثواب في العمايل د التوبة من دي النوبة يا رب ما تقدر عليَّ بقى الطلوع لمشايخ إلا إذا كنت ويا جوزي. س. الله يتوب عليك يا بنتي الدين طيب يا ستي بهية هوا فيه احسن من الست اللي ما حد يشوف لها طول مشايخ ايه يا بنتي هما يحبوا قلة القيمة دي والأمور البطالة ولا والنبي إلا يكرهوا النسوان اللي يروحوا لهم ويبقى بدهم يحنقوهم دول احباب الله ولا يحبوش إلا اللي ماشيين على شرع الله وفين اللي ماشي على الشرع دلوقت ربنا يلطف. 
+
+باب الأدبيات 
+من نظم الفاضل محمود افندي وصف حبيس سجن اسكندرية الآن ما قاله تاريخاً لورود الفرمان السلطاني مرفوعاً لأعتاب الحضرة الفخيمة الخديوية 
+يا أيها الملك السهيد عش بالغل العمر المديد 
+فبشائر الإقبال قد وافتك بالملك الوطيد 
+وأتاك يسعى السعد من دار السعادة في البريد 
+والعز ينشد ظله والمجد يطرب بالنشيد 
+فجلست والعليا تخدم والسعود من العبيد 
+والدهر مرتجف الجوا نح خيفة البطش الشديد 
+صفحاً فقد وافاك يخلس توبة الجاني الطريد 
+ويكون اطوع من تريد من العبيد لما تريد 
+عباس يا ابن محمد بجلوسك اقترب البعيد </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

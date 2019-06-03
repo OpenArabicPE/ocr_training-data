@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:30.425+02:00</Created>
+        <LastChange>2019-06-03T15:23:30.425+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_37-p_890.jpg" imageWidth="483" imageHeight="722">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,722 0,722"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>وكلما زادونا أرجافاً وسعاية زدناهم إعراضاً وإهداراً ووقفنا أمامهم وقوف الجبل في مهب الرياح ولنا في مثل هذا المقام قصيدة قلناها في الاحتفاء وقد أحاطت بنا الجواسيس وتواترت أخبار الأراجيف ففترت همم الإخوان وداخلهم الخوف والرعب وثبتنا أمام تلك المزعجات وأخذنا ننشدها محاربة للنوائب وإظهاراً لما في الطوية من الصبر والثبات وإذا كان لساننا ذلك في حالة الشدة أفيرى المرجف انه يحرك منا ساكناً بإرجافه في وقت الرخاء ونحن بين يدي أمير حكيم خبير بأحوال رعيته ووزير خطير هو أدق الناس في اختبار الناس ومعرفة ما هم عليه ولنورد بعض القصيدة هنا ترويحاً للنفس وتذكيراً بأيام التجلد للمحن والنوائب وقد انشدناها توسلاً بالجد الأعظم صلى الله عليه وسلم وهي: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>أتحسبنا اذا قلنا بُلينا بَلينا أو يروم القلب لينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>نعم للمجد نقتحم الدواهي فيحسب خامل ان دهينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>تناوشنا فنقهرها خطوب ترى ليث العرين لها قرينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>سواءٌ حربها والسلم انا أناس قبل هدنتها هدينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>سُررنا بالصلى والبشر بادٍ وكيُّ السر يستديع إلا نينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>ومرضعنا تغذينا بصبر مرِير حين مازجنا حلينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>فطمنا بالظماء على ثبات فصمنا عن شراب الجازعينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>إذا ما الدهر صافانا مرضنا فإن عدنا الى خطب شفينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>لنا جلد على جَلَد يقينا فإن زاد البلاد زدنا يقينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,722 0,722"/>
+                <TextEquiv>
+                    <Unicode>ألفنا كلّ مكروه تفدّى له فرسانه بالرّاجلينا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وكلما زادونا أرجافاً وسعاية زدناهم إعراضاً وإهداراً ووقفنا أمامهم وقوف الجبل في مهب الرياح ولنا في مثل هذا المقام قصيدة قلناها في الاحتفاء وقد أحاطت بنا الجواسيس وتواترت أخبار الأراجيف ففترت همم الإخوان وداخلهم الخوف والرعب وثبتنا أمام تلك المزعجات وأخذنا ننشدها محاربة للنوائب وإظهاراً لما في الطوية من الصبر والثبات وإذا كان لساننا ذلك في حالة الشدة أفيرى المرجف انه يحرك منا ساكناً بإرجافه في وقت الرخاء ونحن بين يدي أمير حكيم خبير بأحوال رعيته ووزير خطير هو أدق الناس في اختبار الناس ومعرفة ما هم عليه ولنورد بعض القصيدة هنا ترويحاً للنفس وتذكيراً بأيام التجلد للمحن والنوائب وقد انشدناها توسلاً بالجد الأعظم صلى الله عليه وسلم وهي: 
+أتحسبنا اذا قلنا بُلينا بَلينا أو يروم القلب لينا 
+نعم للمجد نقتحم الدواهي فيحسب خامل ان دهينا 
+تناوشنا فنقهرها خطوب ترى ليث العرين لها قرينا 
+سواءٌ حربها والسلم انا أناس قبل هدنتها هدينا 
+سُررنا بالصلى والبشر بادٍ وكيُّ السر يستديع إلا نينا 
+ومرضعنا تغذينا بصبر مرِير حين مازجنا حلينا 
+فطمنا بالظماء على ثبات فصمنا عن شراب الجازعينا 
+إذا ما الدهر صافانا مرضنا فإن عدنا الى خطب شفينا 
+لنا جلد على جَلَد يقينا فإن زاد البلاد زدنا يقينا 
+ألفنا كلّ مكروه تفدّى له فرسانه بالرّاجلينا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

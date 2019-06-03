@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:16.203+02:00</Created>
+        <LastChange>2019-06-03T15:22:16.203+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_4-p_073.jpg" imageWidth="724" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 724,0 724,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>العدد ٤ - بتاريخ: ١٨٩٢ - ٩ - ١٣ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>الجامعة الوطنية والاختلاط العمراني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>لا تعمر البلدان إلا ان رأت مجموع من في أرضها انسانا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 724,0 724,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وقد كانت الأقطار الشرقية قبل الإسلام في تخاذل وتنافر بعارض ديني أو طمع ملكي يلجئُ الحاكم الى ترك معتقده بالقوة والإلزام أو بالقهر والإذلال سعياً في توحيد كلمة المحكومين وسيرهم تحت قانون ملكي وحكم ديني يقضي على المجموع بالتضّام والتعاضد وربط القلوب بداعية لا يختلف فيها اثنان. وكان ذلك معدوداً من حزم الملوك وحسن تبصرهم بالعواقب. فلما جاء الإسلام قبل من الناس أحد أمرين الإسلام أو الانقياد لطاعة القائم بأمر الأمة فدخل في ذمة المسلمين ملايين من المسيحيين والموسويين والمجوس على اختلاف مذاهبهم وأجناسهم وشملهم القانون العادل وحكم بأنهم مثلنا في الحقوق الوطنية لهم ما لنا وعليهم ما علينا ثم استعان بهم الخلفاء والسلاطين على قطع العقبات السياسية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٤ - بتاريخ: ١٨٩٢ - ٩ - ١٣ 
+
+الجامعة الوطنية والاختلاط العمراني 
+لا تعمر البلدان إلا ان رأت مجموع من في أرضها انسانا 
+وقد كانت الأقطار الشرقية قبل الإسلام في تخاذل وتنافر بعارض ديني أو طمع ملكي يلجئُ الحاكم الى ترك معتقده بالقوة والإلزام أو بالقهر والإذلال سعياً في توحيد كلمة المحكومين وسيرهم تحت قانون ملكي وحكم ديني يقضي على المجموع بالتضّام والتعاضد وربط القلوب بداعية لا يختلف فيها اثنان. وكان ذلك معدوداً من حزم الملوك وحسن تبصرهم بالعواقب. فلما جاء الإسلام قبل من الناس أحد أمرين الإسلام أو الانقياد لطاعة القائم بأمر الأمة فدخل في ذمة المسلمين ملايين من المسيحيين والموسويين والمجوس على اختلاف مذاهبهم وأجناسهم وشملهم القانون العادل وحكم بأنهم مثلنا في الحقوق الوطنية لهم ما لنا وعليهم ما علينا ثم استعان بهم الخلفاء والسلاطين على قطع العقبات السياسية </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

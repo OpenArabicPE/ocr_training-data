@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:25.654+02:00</Created>
+        <LastChange>2019-06-03T15:23:25.654+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_35-p_846.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أن لا يتأخروا حتى يسبقهن ربات الحجال في مضمارٍ هم أحق بالركض فيه. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>رثاء </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>قدمنا في العدد الماضي خبر وفاة المرحوم حسن باشا الشريعي عين أعيان مديرية المنيا وقد تفضل مولانا الخديوي المعظم بتوجيه عنايته الى أنجاله الكرام وآل بيت الشريعي العظام فأرسل يعزيهم ويسليهم تعطفاً من جانبه السامي ورعاية لبيت من كبار البيوت المصرية وقد حضر ولداه وشقيقه الأماجد لتقديم واجب الشكر للحضرة العباسية أدامها الله تعالى ووفد الناس على بيتهم بمصر معزين لما للمرحوم من المنزلة الكبرى عند كل مصري وقد رثاه أفضل الفضلاء الأستاذ الشيخ علي الليثي فقال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>أبكي وجودي أم أبكي لمفقود=أودى وغادرني في حال مفؤُد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لم يعص دمعي عيني اذ دها أذني=صوت النعيّ بترجيع وترديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وقد ذهلت وصار اللب مندهشا=من هول خطب رمى جفني بتسهيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>نقد تخير فيه كل معدود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ليت المنية لما انشبت قرنت=نفساً براها الأسى وجدا بملحود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>ذب يا فؤادي أسى وأترك شجاك على=غير الفقيد ولا تجزع لتجديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>فبعد ذا الرزء لا تبك العيون دما=وأين منه سواء عند تعديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الماجد الأصل فياض الندى أبدا=مستحكم العقل في أمن وتهديد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>جليل بيت الشريعي الأُلى ورثوا=عز المكارم من شيب ومولد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>لا ينظر الطرف منهم غير مطرف=بالصدق والسبق في وعد وموعود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>أن لا يتأخروا حتى يسبقهن ربات الحجال في مضمارٍ هم أحق بالركض فيه. 
+
+رثاء 
+قدمنا في العدد الماضي خبر وفاة المرحوم حسن باشا الشريعي عين أعيان مديرية المنيا وقد تفضل مولانا الخديوي المعظم بتوجيه عنايته الى أنجاله الكرام وآل بيت الشريعي العظام فأرسل يعزيهم ويسليهم تعطفاً من جانبه السامي ورعاية لبيت من كبار البيوت المصرية وقد حضر ولداه وشقيقه الأماجد لتقديم واجب الشكر للحضرة العباسية أدامها الله تعالى ووفد الناس على بيتهم بمصر معزين لما للمرحوم من المنزلة الكبرى عند كل مصري وقد رثاه أفضل الفضلاء الأستاذ الشيخ علي الليثي فقال: 
+أبكي وجودي أم أبكي لمفقود=أودى وغادرني في حال مفؤُد 
+لم يعص دمعي عيني اذ دها أذني=صوت النعيّ بترجيع وترديد 
+وقد ذهلت وصار اللب مندهشا=من هول خطب رمى جفني بتسهيد 
+نقد تخير فيه كل معدود 
+ليت المنية لما انشبت قرنت=نفساً براها الأسى وجدا بملحود 
+ذب يا فؤادي أسى وأترك شجاك على=غير الفقيد ولا تجزع لتجديد 
+فبعد ذا الرزء لا تبك العيون دما=وأين منه سواء عند تعديد 
+الماجد الأصل فياض الندى أبدا=مستحكم العقل في أمن وتهديد 
+جليل بيت الشريعي الأُلى ورثوا=عز المكارم من شيب ومولد 
+لا ينظر الطرف منهم غير مطرف=بالصدق والسبق في وعد وموعود </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

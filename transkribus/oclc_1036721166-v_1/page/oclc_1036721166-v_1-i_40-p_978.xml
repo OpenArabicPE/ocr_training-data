@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:37.356+02:00</Created>
+        <LastChange>2019-06-03T15:23:37.356+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_40-p_978.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياللي بتنقد في العالم ما يعجبك كبر العمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ولا التخين في الناس ما لم يكون جليل عالم عامل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي أدعى ما لم يدري بالامتحان تكشف حاله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يتقيّ من بدري قبل الجميع يجمع ماله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي يزكي بمعاده في البحر يحفظ أمواله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وللي تساعده أوعاده في الناس تكتر عماله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يبقى مشرف ومسيد والدهر جي في إقباله </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والناس تقول هذا مسعد حقيقة انه فاضل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنيه وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>يللي بتعصى للمولى والله ذنبك على جنبك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وربنا العالي الأعلى بكره يواخذك على ذنبك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أمشي صحيح وأمسك صابعك في كل شيء ترضي ربك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وأرعى الجميل واحفظ تابعك وَوْعى تبيح بعيوب صاحبك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن كنت في كربه منه دار ربنا يخفف كربك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وكل شاطر في فنه يقرأ العواقب في الآجل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والحق له ناس بالعنية وله طريق لله واصل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أوعى الجماعة اللي ابتاعوا علوم ولكن بالتدليس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ياما من التزوير جمعوا اهوا رووها عن إبليس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وإن رأوا واحد حشاش سرح مراته دي الخرسيس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+ياللي بتنقد في العالم ما يعجبك كبر العمه 
+ولا التخين في الناس ما لم يكون جليل عالم عامل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+وللي أدعى ما لم يدري بالامتحان تكشف حاله 
+وللي يتقيّ من بدري قبل الجميع يجمع ماله 
+وللي يزكي بمعاده في البحر يحفظ أمواله 
+وللي تساعده أوعاده في الناس تكتر عماله 
+يبقى مشرف ومسيد والدهر جي في إقباله 
+والناس تقول هذا مسعد حقيقة انه فاضل 
+والحق له ناس بالعنيه وله طريق لله واصل 
+يللي بتعصى للمولى والله ذنبك على جنبك 
+وربنا العالي الأعلى بكره يواخذك على ذنبك 
+أمشي صحيح وأمسك صابعك في كل شيء ترضي ربك 
+وأرعى الجميل واحفظ تابعك وَوْعى تبيح بعيوب صاحبك 
+وإن كنت في كربه منه دار ربنا يخفف كربك 
+وكل شاطر في فنه يقرأ العواقب في الآجل 
+والحق له ناس بالعنية وله طريق لله واصل 
+أوعى الجماعة اللي ابتاعوا علوم ولكن بالتدليس 
+ياما من التزوير جمعوا اهوا رووها عن إبليس 
+وإن رأوا واحد حشاش سرح مراته دي الخرسيس </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

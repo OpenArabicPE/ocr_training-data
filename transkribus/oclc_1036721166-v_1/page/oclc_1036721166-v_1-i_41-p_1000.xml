@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:39.511+02:00</Created>
+        <LastChange>2019-06-03T15:23:39.511+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_41-p_1000.jpg" imageWidth="755" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أحسن الى الاعداء تجذب قلبهم واصفح عن الزلات تعرف بالسماح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أن رمت ان تدري الوجود وما به جبُه بحسن قراءة التاريخ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أيام سعدك فرصة فاجعل لها شكر الإله وسيلة تتجدد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إن كنت تدعى سيداً في معشر كن للجميع من الخطوب معاذا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اسأل عن الأحساب قبل الإصطفا واستفت فعل المرء تظفر بالخبر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أقبل على الملهوف بالوجه الذي ترضاه ان كنت اللهيف المعُوِزا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>اصبر على صرف الزمان فإنه أمر يدور على جميع الناس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أكرم ذوي الهيئات عند سقوطهم وأرفعهمُ عن خطة الأوباش </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أشرب كؤُس الصبر ان رمت النجاة من الغصص </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أترك جميع الناس ان كنت الذي يخشى المرض </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أيام دهرك كلها تأتي على هذا النمط </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أدبار يوم واحد يُنسى النعيم وكلّ حظ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أسأك من والى عدوك لحظة وسرك من زار الصديق بلا وجع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أجرت اذا كنت الدليل لخائف يريد مجيراً عاقه الخصم أو بلغ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أجب لم تسُد بالعلم أو أصل عزة أو الجود أو عقل فأنت رقيق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أُصول مجدك لا تُعليك مرتبة وكل فعلك بين الناس متروك </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>إذا كتبت فأوجز مظهرا غرضاً وأجعل كتابك رأساً ما له ذيل </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أذاقك الفضل من أولاك مكرمة فكن شكوراً تحرك هِزّة الكَرَم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أجد جوابك في وقت الجدال تسُد فجوهر اللفظ للألباب عنوان </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+أحسن الى الاعداء تجذب قلبهم واصفح عن الزلات تعرف بالسماح 
+أن رمت ان تدري الوجود وما به جبُه بحسن قراءة التاريخ 
+أيام سعدك فرصة فاجعل لها شكر الإله وسيلة تتجدد 
+إن كنت تدعى سيداً في معشر كن للجميع من الخطوب معاذا 
+اسأل عن الأحساب قبل الإصطفا واستفت فعل المرء تظفر بالخبر 
+أقبل على الملهوف بالوجه الذي ترضاه ان كنت اللهيف المعُوِزا 
+اصبر على صرف الزمان فإنه أمر يدور على جميع الناس 
+أكرم ذوي الهيئات عند سقوطهم وأرفعهمُ عن خطة الأوباش 
+أشرب كؤُس الصبر ان رمت النجاة من الغصص 
+أترك جميع الناس ان كنت الذي يخشى المرض 
+أيام دهرك كلها تأتي على هذا النمط 
+أدبار يوم واحد يُنسى النعيم وكلّ حظ 
+أسأك من والى عدوك لحظة وسرك من زار الصديق بلا وجع 
+أجرت اذا كنت الدليل لخائف يريد مجيراً عاقه الخصم أو بلغ 
+أجب لم تسُد بالعلم أو أصل عزة أو الجود أو عقل فأنت رقيق 
+أُصول مجدك لا تُعليك مرتبة وكل فعلك بين الناس متروك 
+إذا كتبت فأوجز مظهرا غرضاً وأجعل كتابك رأساً ما له ذيل 
+أذاقك الفضل من أولاك مكرمة فكن شكوراً تحرك هِزّة الكَرَم 
+أجد جوابك في وقت الجدال تسُد فجوهر اللفظ للألباب عنوان </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

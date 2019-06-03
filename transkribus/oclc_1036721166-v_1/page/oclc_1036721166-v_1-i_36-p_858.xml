@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:27.232+02:00</Created>
+        <LastChange>2019-06-03T15:23:27.232+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_858.jpg" imageWidth="483" imageHeight="742">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,742 0,742"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>النشأة المصرية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>الحمد لله الرحمن رب الأكوان مرسل رسوله بالرحمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>مولى له فضل وإحسان عم العبدان وكل شيء منوُّ نعمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>حاشا العَبَث يدخل فعله أو كون فضله بل كل شيء كان لحكمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>كل العباد صنعه وخلقه تطلب رزقه أو صرف غمه أو نقمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>يعطي ويمنع من يسأل ما شاء يفعل والكل مستور في حلمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>من رحمته أهدى للناس نور العباس حتى انجلت تلك الظلمة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>نبه بعزموا أهل النوم خوف اللوم فسار ثباتو في قومه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>عتق البلاد من رق الغير صرف الضير عن كل من ذاق الأزمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>صبحت بلادنا بوجوده تحكي سعوده نِفِدت وفرت مِن الغمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>انظر الى بلد الأخيار مصر الأمصار تلقى الجميع عرف الصدمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وانتبهت كل الأفكار من دي الأسرار والخير قد عم الأمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>تقول وجوده شمس النور فوق الدور وما بقي في الاكون عتمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>انظر الى جمع الأمرا ويّا الوزرا تلقى فريق عالي الهمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وانظر الى العلما الأعلام أهل الأحكام تعرف بهم حسن اللمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وارجع الى أهل الأقلام ويّا الأقسام تلقى المجدين في الخدمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وانظر الى مفتي وقاضي تلقى الراضيعن حسن ترتيبنا ونظمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>وأدخل مجامع أعيانه مع شبانه تلقى الجميع قام من نومه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 483,0 483,742 0,742"/>
+                <TextEquiv>
+                    <Unicode>دارت دواليب الأفكار حول الإنكار على فعال أهل التهمه </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+النشأة المصرية 
+الحمد لله الرحمن رب الأكوان مرسل رسوله بالرحمه 
+مولى له فضل وإحسان عم العبدان وكل شيء منوُّ نعمه 
+حاشا العَبَث يدخل فعله أو كون فضله بل كل شيء كان لحكمه 
+كل العباد صنعه وخلقه تطلب رزقه أو صرف غمه أو نقمه 
+يعطي ويمنع من يسأل ما شاء يفعل والكل مستور في حلمه 
+من رحمته أهدى للناس نور العباس حتى انجلت تلك الظلمة 
+نبه بعزموا أهل النوم خوف اللوم فسار ثباتو في قومه 
+عتق البلاد من رق الغير صرف الضير عن كل من ذاق الأزمه 
+صبحت بلادنا بوجوده تحكي سعوده نِفِدت وفرت مِن الغمه 
+انظر الى بلد الأخيار مصر الأمصار تلقى الجميع عرف الصدمه 
+وانتبهت كل الأفكار من دي الأسرار والخير قد عم الأمه 
+تقول وجوده شمس النور فوق الدور وما بقي في الاكون عتمه 
+انظر الى جمع الأمرا ويّا الوزرا تلقى فريق عالي الهمه 
+وانظر الى العلما الأعلام أهل الأحكام تعرف بهم حسن اللمه 
+وارجع الى أهل الأقلام ويّا الأقسام تلقى المجدين في الخدمه 
+وانظر الى مفتي وقاضي تلقى الراضيعن حسن ترتيبنا ونظمه 
+وأدخل مجامع أعيانه مع شبانه تلقى الجميع قام من نومه 
+دارت دواليب الأفكار حول الإنكار على فعال أهل التهمه </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:36.206+02:00</Created>
+        <LastChange>2019-06-03T15:22:36.206+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_12-p_276.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٥ هجرنا الكرى طوعاً ومن ذا الذي يرى ٥ هجوعاً وللأفراح اقبل عيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>١٠ يسير بنا وفد المسرة مسرعاً ١٠ يؤم حمّى سارت اليهِ وفود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٤٠ معاليه في صفو التهاني تفردت ٤٠ محاسنها حيث الكمال يريد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٨٠ ففيه نرى أغصان نور تتوجت ٣٠٠ شموساً لها أفق السعود وجود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٣٠ لعبن بألباب الورى فصفت لها ٤٠ موارد آمال وطاب ورود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>١٠ يسير بنا في روض بهجة نورها ٦٠ سرور به صفوا الوجود يجود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٥ هدانا لمغنى حسنها بدر عزة ٦٠ سمت لوفاه بالعهود وعود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٥٠ وعود الأغاني إ حكى لك غمة ١ أعيدت لاسحاق النديم عهود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>١ إذا حركته للتغني أصابع ٧٠ عليك بقصر حل فيه سعود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٤ دَرَاك التهاني يا بليغ فإنها دلائل إقبال عليك تعود </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٢٠ كتبت لها رقى وقلت مؤَرخاً ٠ سعت للتهاني بالزواج قصيد </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>سنة ١٣١٠ سنة ٥٣٠ ٥٢٦ ٥٠ ٢٠٤ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وله قصيدة أخرىنشرها في العدد الآتي ونحن نشاركه في التهنئة والدعوات الخيرية </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رسالة </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وردت هذه الرسالة من بعض الأفاضل من خدمة البوسطة وهي من الأدب بمكان قال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>رأيت تحت (تنبيه) في الاستاذ الأغر عدد ١٠ تنبيهاً لمكاتب البوسطة التي فقدت فيها أعداد الأستاذ قلتم في أثناء كلامه (وهذا غريب من مصلحة أمينة على الذهب والجواهر وكيف تضيع فيها الأوراق) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+٥ هجرنا الكرى طوعاً ومن ذا الذي يرى ٥ هجوعاً وللأفراح اقبل عيد 
+١٠ يسير بنا وفد المسرة مسرعاً ١٠ يؤم حمّى سارت اليهِ وفود 
+٤٠ معاليه في صفو التهاني تفردت ٤٠ محاسنها حيث الكمال يريد 
+٨٠ ففيه نرى أغصان نور تتوجت ٣٠٠ شموساً لها أفق السعود وجود 
+٣٠ لعبن بألباب الورى فصفت لها ٤٠ موارد آمال وطاب ورود 
+١٠ يسير بنا في روض بهجة نورها ٦٠ سرور به صفوا الوجود يجود 
+٥ هدانا لمغنى حسنها بدر عزة ٦٠ سمت لوفاه بالعهود وعود 
+٥٠ وعود الأغاني إ حكى لك غمة ١ أعيدت لاسحاق النديم عهود 
+١ إذا حركته للتغني أصابع ٧٠ عليك بقصر حل فيه سعود 
+٤ دَرَاك التهاني يا بليغ فإنها دلائل إقبال عليك تعود 
+٢٠ كتبت لها رقى وقلت مؤَرخاً ٠ سعت للتهاني بالزواج قصيد 
+سنة ١٣١٠ سنة ٥٣٠ ٥٢٦ ٥٠ ٢٠٤ 
+وله قصيدة أخرىنشرها في العدد الآتي ونحن نشاركه في التهنئة والدعوات الخيرية 
+
+رسالة 
+وردت هذه الرسالة من بعض الأفاضل من خدمة البوسطة وهي من الأدب بمكان قال: 
+رأيت تحت (تنبيه) في الاستاذ الأغر عدد ١٠ تنبيهاً لمكاتب البوسطة التي فقدت فيها أعداد الأستاذ قلتم في أثناء كلامه (وهذا غريب من مصلحة أمينة على الذهب والجواهر وكيف تضيع فيها الأوراق) </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:26.452+02:00</Created>
+        <LastChange>2019-06-03T15:23:26.452+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_36-p_852.jpg" imageWidth="483" imageHeight="731">
+        <TextRegion id="region_1">
+            <Coords points="0,0 483,0 483,731 0,731"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>وردت لنا هذه القصيدة الغراء على لسان نهر النيل المبارك من انشاد الألمعي الفاضل الشيخ طه محمود الدمياطي من مصححي المطبعة الميرية ولرقتها وتشخيص حالة النيليين بلسان الوعظ والنصيحة نشرناها برمتها قال حفظه الله تعالى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>يا قوم ادُّوا لنهر النيل ما وجبا ألم ترَوا كلّ قلب نحوهُ وجبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>ألم تروا كلّ عين نحوه طمحت كأنه الشمس للعباد مرتقبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>مالي أراكم نياماً عنه وهو لكم مستيقظ في هواكم يسرع الطلبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>كم قام فيكم خطيباً لا يشق له عند البيان غبارا أفصحُ الخطبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>يقول يا أيها الناس اسمعوا عظة من مشفق قد حباكم خيره وجبى </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>يا هؤُلاء اقتدوا بين انَّ لي شيماً بيضا بها قد تحلى السادة النجبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>أخلاق صدق عليها قد جبلتُ ولم أجد لها بينكم صهراً ولا نسبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>لم أستفدها بتعليم ولا كتب وكم حمار رأينا يحمل الكتبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>ألستُ يا قوم قد لبيت دعوتكم يوم الكريهة أجلو عنكم الكربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>ومن مكان بعيد قد سعيت لكم سعى الرؤُم التي لا تشتكي تعبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>كم جبت قفراً الى مرضاتكم عجلا وهمت في كل وادٍ لأن أو صلبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>وكل دار أواسيها وأضحكها فهل سمعتم بمثلي مضحكا دعبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>سيّان عندي في محض الوداد أخو قرب وبعد ومن أثرى ومن تربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>وكم أروح وأغدو سائلاً لكم أعطى الجزيل وأحبوكم مزيد حبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>فأكرموا السائل المعطي فما حسنٌ أن تنهروا سائلاً نلتم به الإربا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 483,0 483,731 0,731"/>
+                <TextEquiv>
+                    <Unicode>ألست نيلا وفي قلبي لعيشكم لين غدوت به أُما لكم وأبا </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>وردت لنا هذه القصيدة الغراء على لسان نهر النيل المبارك من انشاد الألمعي الفاضل الشيخ طه محمود الدمياطي من مصححي المطبعة الميرية ولرقتها وتشخيص حالة النيليين بلسان الوعظ والنصيحة نشرناها برمتها قال حفظه الله تعالى 
+يا قوم ادُّوا لنهر النيل ما وجبا ألم ترَوا كلّ قلب نحوهُ وجبا 
+ألم تروا كلّ عين نحوه طمحت كأنه الشمس للعباد مرتقبا 
+مالي أراكم نياماً عنه وهو لكم مستيقظ في هواكم يسرع الطلبا 
+كم قام فيكم خطيباً لا يشق له عند البيان غبارا أفصحُ الخطبا 
+يقول يا أيها الناس اسمعوا عظة من مشفق قد حباكم خيره وجبى 
+يا هؤُلاء اقتدوا بين انَّ لي شيماً بيضا بها قد تحلى السادة النجبا 
+أخلاق صدق عليها قد جبلتُ ولم أجد لها بينكم صهراً ولا نسبا 
+لم أستفدها بتعليم ولا كتب وكم حمار رأينا يحمل الكتبا 
+ألستُ يا قوم قد لبيت دعوتكم يوم الكريهة أجلو عنكم الكربا 
+ومن مكان بعيد قد سعيت لكم سعى الرؤُم التي لا تشتكي تعبا 
+كم جبت قفراً الى مرضاتكم عجلا وهمت في كل وادٍ لأن أو صلبا 
+وكل دار أواسيها وأضحكها فهل سمعتم بمثلي مضحكا دعبا 
+سيّان عندي في محض الوداد أخو قرب وبعد ومن أثرى ومن تربا 
+وكم أروح وأغدو سائلاً لكم أعطى الجزيل وأحبوكم مزيد حبا 
+فأكرموا السائل المعطي فما حسنٌ أن تنهروا سائلاً نلتم به الإربا 
+ألست نيلا وفي قلبي لعيشكم لين غدوت به أُما لكم وأبا </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

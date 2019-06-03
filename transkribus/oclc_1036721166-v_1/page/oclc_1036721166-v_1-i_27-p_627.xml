@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:23:09.046+02:00</Created>
+        <LastChange>2019-06-03T15:23:09.046+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_27-p_627.jpg" imageWidth="499" imageHeight="748">
+        <TextRegion id="region_1">
+            <Coords points="0,0 499,0 499,748 0,748"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>العدد ٢٧ - بتاريخ: ١٨٩٣ - ٢ - ٢١ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>الزراعة في مصر </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 499,0 499,748 0,748"/>
+                <TextEquiv>
+                    <Unicode>لا يخفى على كل وطني أو مجتاز أن البلاد المصرية بلاد زراعية لاستواء أرضها وعدم وجود أراض جبلية أو صخرية فيها ولمرور النيل على كل نقطة فيها بالسيح أو بالآلات وقد اعتنى أهلها بفن الزراعة حتى اتقنوه وعرفه الخاص والعام بل لا يخفى على نساء الريف لكثرة مزاولة الرجال للفلاحة ومشاركة الأولاد والنساء لهم في كل أعمالهم فصار علم الزراعة مقرراً راسخاً في أذهانهم فترى كل فلاح يعرف وما يحفظ الزرع غالباً وهذا أمر كالفطري عندهم ولكن لهذا الفن كتب فيها كثير من الفوائد التي لا يهتدي اليها الفلاح الجاهل فإن العالم الزراعي يمكنه أن يحلل المادة الطينية والماء والنبات ويعرف العلل الوجبة لفساد الزرع والأسباب الحافظة له والأمراض التي تعتري الأشجار والنابت الذي يضر الشجر والحشرات المهلكة للزروع </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+العدد ٢٧ - بتاريخ: ١٨٩٣ - ٢ - ٢١ 
+
+الزراعة في مصر 
+لا يخفى على كل وطني أو مجتاز أن البلاد المصرية بلاد زراعية لاستواء أرضها وعدم وجود أراض جبلية أو صخرية فيها ولمرور النيل على كل نقطة فيها بالسيح أو بالآلات وقد اعتنى أهلها بفن الزراعة حتى اتقنوه وعرفه الخاص والعام بل لا يخفى على نساء الريف لكثرة مزاولة الرجال للفلاحة ومشاركة الأولاد والنساء لهم في كل أعمالهم فصار علم الزراعة مقرراً راسخاً في أذهانهم فترى كل فلاح يعرف وما يحفظ الزرع غالباً وهذا أمر كالفطري عندهم ولكن لهذا الفن كتب فيها كثير من الفوائد التي لا يهتدي اليها الفلاح الجاهل فإن العالم الزراعي يمكنه أن يحلل المادة الطينية والماء والنبات ويعرف العلل الوجبة لفساد الزرع والأسباب الحافظة له والأمراض التي تعتري الأشجار والنابت الذي يضر الشجر والحشرات المهلكة للزروع </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:17.983+02:00</Created>
+        <LastChange>2019-06-03T15:22:17.983+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_4-p_087.jpg" imageWidth="748" imageHeight="1113">
+        <TextRegion id="region_1">
+            <Coords points="0,0 748,0 748,1113 0,1113"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>فإجابة لطلبه أقدم صدور مختارات القصائد مع بعض المقطعات فإن حسنت في أعين العموم والينا النشر. فمن ذلك صدر قصيدة حسنية وابتدأت بها لكوني حسني النسب من جهة الأب انتهي اليه من طريق سيدي ومولاي إدريس الأكبر بن سيدي عبد الله المحض الملقب بالكامل أيضاً ابن سيدي الحسن المثنى بن سيدي ومولاي الحسن البسط بن إمام المؤمنين سيدي ومولاي علي بن أبي طالب رضي الله تعالى عنهم. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>واسم هذه القصيدة شكوى النديم الى جده العظيم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>ملك الحسن دولة العشاق بعد حرق القلوب بالأشواق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أرسل التيهُ للتصبر جنداً أنزل الدمع من حصون المآق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>صال بالقد والعيون رماةٌ ترسل السهم في كمين الصفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>والهوى صارع الفؤاد فلما غزَّه جرَّه من الأطواق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وفريق الدلال لما تبدى كسر القلب واستباح البواقي </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>وبديع الحمال لما تولَّى وضع العقل في شديد الوثاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>مال للظلم فاتك كان يدعى عادلاً في صفا زمان الوفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كان قلبي لكل عضو رئيساً صار طوع العيون والأحداق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كلما لاح في الوجود مليح قدمته لحبه بالخناق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>أظهرت عفة وأخفت هواها في اختلاس يرود لثم العناق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>كاتبت أختها فدمعي مداد وخدودي صحائف الأوراق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>سودتها بأثمد الجفن لما بيَّضت عارضي من الإشفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 748,0 748,1113 0,1113"/>
+                <TextEquiv>
+                    <Unicode>سالمت دولة المحاسن لما سلمت قلبها لدى الإخفاق </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>فإجابة لطلبه أقدم صدور مختارات القصائد مع بعض المقطعات فإن حسنت في أعين العموم والينا النشر. فمن ذلك صدر قصيدة حسنية وابتدأت بها لكوني حسني النسب من جهة الأب انتهي اليه من طريق سيدي ومولاي إدريس الأكبر بن سيدي عبد الله المحض الملقب بالكامل أيضاً ابن سيدي الحسن المثنى بن سيدي ومولاي الحسن البسط بن إمام المؤمنين سيدي ومولاي علي بن أبي طالب رضي الله تعالى عنهم. 
+واسم هذه القصيدة شكوى النديم الى جده العظيم 
+ملك الحسن دولة العشاق بعد حرق القلوب بالأشواق 
+أرسل التيهُ للتصبر جنداً أنزل الدمع من حصون المآق 
+صال بالقد والعيون رماةٌ ترسل السهم في كمين الصفاق 
+والهوى صارع الفؤاد فلما غزَّه جرَّه من الأطواق 
+وفريق الدلال لما تبدى كسر القلب واستباح البواقي 
+وبديع الحمال لما تولَّى وضع العقل في شديد الوثاق 
+مال للظلم فاتك كان يدعى عادلاً في صفا زمان الوفاق 
+كان قلبي لكل عضو رئيساً صار طوع العيون والأحداق 
+كلما لاح في الوجود مليح قدمته لحبه بالخناق 
+أظهرت عفة وأخفت هواها في اختلاس يرود لثم العناق 
+كاتبت أختها فدمعي مداد وخدودي صحائف الأوراق 
+سودتها بأثمد الجفن لما بيَّضت عارضي من الإشفاق 
+سالمت دولة المحاسن لما سلمت قلبها لدى الإخفاق </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

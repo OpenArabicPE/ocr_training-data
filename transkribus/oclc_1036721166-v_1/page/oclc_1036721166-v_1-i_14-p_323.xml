@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:40.650+02:00</Created>
+        <LastChange>2019-06-03T15:22:40.650+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_14-p_323.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وسنان لكن جفنه يسطو على بيت الضمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ثمل بصرف الحسن لا خمر يكوّنها العصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بسَّام ثغر خلته للوصل من وجدي بشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واللحفظ قال لمهجتي لا تفرحي اني نذير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بالقد صال غزيّلي فوقعت من جبني أسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لكنني من فرحتي في جو آمالي اطير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إذ صرت عبداً خادماً في حضرة الملك الخطير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ادنو فانظر جنةً في وجهه الزاهي النضير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وارى لظى في خده فابيت في نار السعير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>اذنبت يوماً فانثنى بالكف يضربني الغرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فغدوت اذنب دائماً_ليجور لي مس الحرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يدنو فالثم رجله واشم مسكيَّ العبير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>تمت محاسنه التي لطفيف وفرتها اشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالشعر فوق بهائه صحب على الاهوا تسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والحاجبان الشرقا=ن وطرة فلك الأثير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والأنف قطب والعيون ن الفرقدان بلا نكير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والوجنتان النيرا ن وحسنه الفلك المدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_19">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والخال نحل تجتني شهداً من الورد الشهير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_20">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو انه (البالون) في آفات بهجته يطير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_21">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>أو انه عبد على بستان سيده خفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_22">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>مرآة نور لو بدت لرأى بها الكون البصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_23">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وأشعة من ضوئها قرأ المكاتيب الضرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_24">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بدر محاسنه سمت وتنزعن مستعير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_25">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فكأنها في لطفها مدحي محمداً الأمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_26">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بالجد مصباح الهدى بلغ الفخار بلا نظير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_27">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وبمجد ادري رقى من سلم العليا الكثير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+وسنان لكن جفنه يسطو على بيت الضمير 
+ثمل بصرف الحسن لا خمر يكوّنها العصير 
+بسَّام ثغر خلته للوصل من وجدي بشير 
+واللحفظ قال لمهجتي لا تفرحي اني نذير 
+بالقد صال غزيّلي فوقعت من جبني أسير 
+لكنني من فرحتي في جو آمالي اطير 
+إذ صرت عبداً خادماً في حضرة الملك الخطير 
+ادنو فانظر جنةً في وجهه الزاهي النضير 
+وارى لظى في خده فابيت في نار السعير 
+اذنبت يوماً فانثنى بالكف يضربني الغرير 
+فغدوت اذنب دائماً_ليجور لي مس الحرير 
+يدنو فالثم رجله واشم مسكيَّ العبير 
+تمت محاسنه التي لطفيف وفرتها اشير 
+فالشعر فوق بهائه صحب على الاهوا تسير 
+والحاجبان الشرقا=ن وطرة فلك الأثير 
+والأنف قطب والعيون ن الفرقدان بلا نكير 
+والوجنتان النيرا ن وحسنه الفلك المدير 
+والخال نحل تجتني شهداً من الورد الشهير 
+أو انه (البالون) في آفات بهجته يطير 
+أو انه عبد على بستان سيده خفير 
+مرآة نور لو بدت لرأى بها الكون البصير 
+وأشعة من ضوئها قرأ المكاتيب الضرير 
+بدر محاسنه سمت وتنزعن مستعير 
+فكأنها في لطفها مدحي محمداً الأمير 
+بالجد مصباح الهدى بلغ الفخار بلا نظير 
+وبمجد ادري رقى من سلم العليا الكثير </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:34.259+02:00</Created>
+        <LastChange>2019-06-03T15:22:34.259+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_11-p_254.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>باب الأدبيات </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إفراح الأرواح </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هي أفراح صاحب السعادة والمجد الهمام الكامل أحمد فريد باشا ناظر الدائرة السنية أعدها ساعدته العناية لتأهيل نجله الكريم إبراهيم بك في ظل الحضرة الخديوية الفخيمة وجعلها ١٥ ليلة كلها مجامع آداب ومحافل انس وطرب يزينها اجتماع الذوات الفخام والعلماء الأعلام والوجهاء والأعيان والأدباء والنبهاء وناهيك بليال تتداولها تخوت الآلات الموجودة بمصر على اختلاف أصحابها وفي سماء كل تخت تشرق انوار قمري الموسيقي اللذين أعادا ذكر معبد واسحق وجددا من هذا الفن ما حسن في الإسماع وبعث في الأرواح طرباً وانتعاشاً الوحيد عبده أفندي الحمولي والفريد الشيخ يوسف خفاجة وقد أرخ هذه الأفراح الفاضل الكامل العلامة الشيخ سليمان العبد فقال: </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>بنادي السعد أفراح وعرس وأنس فائق يتلوه انس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وروض البشر يبسم عن هناء يدور على الأحبة منه كأس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وأصبح حسن هذا اليوم يزهو فيحسده لهذا الحسن أمس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لإبراهيم قد سعت المعالي لتلبسه الحلى فخراً وتكسو </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فأصبح للعلا فرعاً عريقاً يطيب به بروض العز غرس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>إلا يا فرع إباء كرام حماه في الورى حرم وقدس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>قرانك في الهنا قرت وطابت من الدنيا به عين ونفس </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+باب الأدبيات 
+إفراح الأرواح 
+هي أفراح صاحب السعادة والمجد الهمام الكامل أحمد فريد باشا ناظر الدائرة السنية أعدها ساعدته العناية لتأهيل نجله الكريم إبراهيم بك في ظل الحضرة الخديوية الفخيمة وجعلها ١٥ ليلة كلها مجامع آداب ومحافل انس وطرب يزينها اجتماع الذوات الفخام والعلماء الأعلام والوجهاء والأعيان والأدباء والنبهاء وناهيك بليال تتداولها تخوت الآلات الموجودة بمصر على اختلاف أصحابها وفي سماء كل تخت تشرق انوار قمري الموسيقي اللذين أعادا ذكر معبد واسحق وجددا من هذا الفن ما حسن في الإسماع وبعث في الأرواح طرباً وانتعاشاً الوحيد عبده أفندي الحمولي والفريد الشيخ يوسف خفاجة وقد أرخ هذه الأفراح الفاضل الكامل العلامة الشيخ سليمان العبد فقال: 
+بنادي السعد أفراح وعرس وأنس فائق يتلوه انس 
+وروض البشر يبسم عن هناء يدور على الأحبة منه كأس 
+وأصبح حسن هذا اليوم يزهو فيحسده لهذا الحسن أمس 
+لإبراهيم قد سعت المعالي لتلبسه الحلى فخراً وتكسو 
+فأصبح للعلا فرعاً عريقاً يطيب به بروض العز غرس 
+إلا يا فرع إباء كرام حماه في الورى حرم وقدس 
+قرانك في الهنا قرت وطابت من الدنيا به عين ونفس </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

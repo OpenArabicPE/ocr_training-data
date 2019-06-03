@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:41.368+02:00</Created>
+        <LastChange>2019-06-03T15:22:41.368+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_14-p_326.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>من جاد فضلاً فهو ذا ك ومن ابى فانا العذير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ما فاض نهر الضيق عن جسمي ولا سمعوا الخرير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لو ان نار مصيبتي في الغير اصلاه الزفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لكنها في ساة من فوقها جو مطير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هو صدق ايماني وصبرـ ري للقضاء بلا نكير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ووقوف جيش عزيمتي في باب مولاي البصير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خذها اخي عربية قد بينت ما في الضمير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يفنى معاصرها وتبقـ ى في العصور على المسير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالشعر تاريخ الكرام م مخلد مهما استدير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>خدمتك خدمة مخلص_فاصرف لها اجر الأجير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>واحفظ محاسنها عن الـ اوباش والنذل المكير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وإذا فضضت ختامها ضع سترها كيلا تطير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالقول ينقله الورى كالترب يذروها العفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>والسر لو يبدو يرى بعد القرار على شفير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>لا زلت توقى دائماً فوق الفريق بل المشير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حتى اراك مع الصفا تدعى بعنوان الوزير </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>كتيه من لا ينكر. وان لم يذكر. وحرره بلا مسودّة. مع صروف الشده. فان وجد خلل فالعذر شهير. أو تقصير فالمقام خطير. وحد المشوق ولوعه. وجهد المقل دموعه. وما مثلك من يطرق له الحصى. أو تقرع له العصا. فإني لم انبه نائماً. ولا دعوت صائماً. وإنما ظمئ الفصيل فرأم الضرع. ولأمرماَّ لبس الكميُّ الدرع. ولولا الهدف ما تكسرت السهام. ولو ترك القطا ليلاً لنام. فقد استنَّت الفصال حتى القرعا. وندَّت الابل لقفر المرعى. وتربت اكف أبناء العبا. وبلغ السيل الزُبى. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+من جاد فضلاً فهو ذا ك ومن ابى فانا العذير 
+ما فاض نهر الضيق عن جسمي ولا سمعوا الخرير 
+لو ان نار مصيبتي في الغير اصلاه الزفير 
+لكنها في ساة من فوقها جو مطير 
+هو صدق ايماني وصبرـ ري للقضاء بلا نكير 
+ووقوف جيش عزيمتي في باب مولاي البصير 
+خذها اخي عربية قد بينت ما في الضمير 
+يفنى معاصرها وتبقـ ى في العصور على المسير 
+فالشعر تاريخ الكرام م مخلد مهما استدير 
+خدمتك خدمة مخلص_فاصرف لها اجر الأجير 
+واحفظ محاسنها عن الـ اوباش والنذل المكير 
+وإذا فضضت ختامها ضع سترها كيلا تطير 
+فالقول ينقله الورى كالترب يذروها العفير 
+والسر لو يبدو يرى بعد القرار على شفير 
+لا زلت توقى دائماً فوق الفريق بل المشير 
+حتى اراك مع الصفا تدعى بعنوان الوزير 
+كتيه من لا ينكر. وان لم يذكر. وحرره بلا مسودّة. مع صروف الشده. فان وجد خلل فالعذر شهير. أو تقصير فالمقام خطير. وحد المشوق ولوعه. وجهد المقل دموعه. وما مثلك من يطرق له الحصى. أو تقرع له العصا. فإني لم انبه نائماً. ولا دعوت صائماً. وإنما ظمئ الفصيل فرأم الضرع. ولأمرماَّ لبس الكميُّ الدرع. ولولا الهدف ما تكسرت السهام. ولو ترك القطا ليلاً لنام. فقد استنَّت الفصال حتى القرعا. وندَّت الابل لقفر المرعى. وتربت اكف أبناء العبا. وبلغ السيل الزُبى. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

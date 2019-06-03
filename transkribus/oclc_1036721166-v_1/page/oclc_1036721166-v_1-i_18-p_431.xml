@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-06-03T15:22:51.578+02:00</Created>
+        <LastChange>2019-06-03T15:22:51.578+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_1036721166-v_1-i_18-p_431.jpg" imageWidth="755" imageHeight="1094">
+        <TextRegion id="region_1">
+            <Coords points="0,0 755,0 755,1094 0,1094"/>
+            <TextLine id="line_1">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_2">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يعبرها من شريف الطبع رقته لطفاً ويرعي معانيها اذا نشدت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_3">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>يا ظالماً كانت الآمال ترقبه والمهد هالته والنفس قد أَنست </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_4">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>حتى بلغنا الذي كنا نؤمله_لما ترعرع والعليا له عشقت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_5">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وصار بدراً سماء المكرمات به قد زُينت مثل أفراح به ازدهرت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_6">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فالحمد لله اذا صفو السرور رقى إلى الخدور وبوران به حظيت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_7">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فلتهن بالند ذات السعد اذقرنت_بزهرة من رياض المجد قد شرفت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_8">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>على الرفا والبنين القادمين وعش تلق الأهلة في ساحاتكم طلعت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_9">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>صار الشتاء ربيعاً في معاهدكم ونوره النور والأيام قد صلحت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_10">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>وقد رجونا بأن الصيف يشمله حسن البهار ونجري بهجة سلفت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_11">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ننعم العين في عرس الحسين كما بالشهم محمود باشا الصنو قد نعمت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_12">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هذا وإني عن التأخير معتذر وفي اللقاء أرى الأعذار قد قبلت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_13">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>ولا أصرح بالداعي ولي أمل يشيده من حُلى أوصافه كملت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_14">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>فاهنأُ فهذا القرآن السعد أرخه شم البهاءُ بمحمود الصفا اقترنت </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_15">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>٤٠٠ ٣٩ ١٠٠ ٢٠٢ ١١٥١ سنة ١٨٩٢ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_16">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_17">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>المولد الحسيني </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_18">
+                <Coords points="0,0 755,0 755,1094 0,1094"/>
+                <TextEquiv>
+                    <Unicode>هو مولد سيدنا الحسين بن سيدنا علي بن أبي طالب ثم ابن سيدة نساء العالمين فاطمة الزهراء البتول بنت سيد الكائنات سيدنا ومولانا محمد صلى الله تعالى عليه وعلى آله وصحبه وسلم وقد وفد اليه الناس من جميع الأقاليم المصرية وقام أهل مصر بإعداد مواد الزينة وتلقي الوافدين عليهم من أحبابهم </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+يعبرها من شريف الطبع رقته لطفاً ويرعي معانيها اذا نشدت 
+يا ظالماً كانت الآمال ترقبه والمهد هالته والنفس قد أَنست 
+حتى بلغنا الذي كنا نؤمله_لما ترعرع والعليا له عشقت 
+وصار بدراً سماء المكرمات به قد زُينت مثل أفراح به ازدهرت 
+فالحمد لله اذا صفو السرور رقى إلى الخدور وبوران به حظيت 
+فلتهن بالند ذات السعد اذقرنت_بزهرة من رياض المجد قد شرفت 
+على الرفا والبنين القادمين وعش تلق الأهلة في ساحاتكم طلعت 
+صار الشتاء ربيعاً في معاهدكم ونوره النور والأيام قد صلحت 
+وقد رجونا بأن الصيف يشمله حسن البهار ونجري بهجة سلفت 
+ننعم العين في عرس الحسين كما بالشهم محمود باشا الصنو قد نعمت 
+هذا وإني عن التأخير معتذر وفي اللقاء أرى الأعذار قد قبلت 
+ولا أصرح بالداعي ولي أمل يشيده من حُلى أوصافه كملت 
+فاهنأُ فهذا القرآن السعد أرخه شم البهاءُ بمحمود الصفا اقترنت 
+٤٠٠ ٣٩ ١٠٠ ٢٠٢ ١١٥١ سنة ١٨٩٢ 
+
+المولد الحسيني 
+هو مولد سيدنا الحسين بن سيدنا علي بن أبي طالب ثم ابن سيدة نساء العالمين فاطمة الزهراء البتول بنت سيد الكائنات سيدنا ومولانا محمد صلى الله تعالى عليه وعلى آله وصحبه وسلم وقد وفد اليه الناس من جميع الأقاليم المصرية وقام أهل مصر بإعداد مواد الزينة وتلقي الوافدين عليهم من أحبابهم </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
