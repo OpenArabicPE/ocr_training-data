@@ -154,6 +154,7 @@
         <folder name="Editions">
             <folder path="../digital-haqaiq/"/>
             <folder path="../digital-muqtabas/"/>
+            <folder path="../journal_al-ustadh/"/>
         </folder>
         <folder path="../convert_tei-to-markdown/"/>
         <folder path="."/>
