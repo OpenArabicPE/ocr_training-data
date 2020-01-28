@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="19.1">
+<project version="21.0">
     <meta>
         <filters directoryPatterns="" filePatterns="OpenArabicPE_OCR.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="19.1" xml:space="preserve">
+            <serialized version="21.0" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
                         <String>scenario.associations</String>
@@ -154,6 +154,7 @@
         <folder name="Editions">
             <folder path="../digital-haqaiq/"/>
             <folder path="../digital-muqtabas/"/>
+            <folder path="../journal_al-hasna/"/>
             <folder path="../journal_al-ustadh/"/>
         </folder>
         <folder path="../convert_tei-to-markdown/"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-07-12T14:46:23.329+02:00</Created>
+        <LastChange>2019-07-12T14:46:23.329+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="oclc_792756327-v_1-i_1-p_026.jpg" imageWidth="1000" imageHeight="1532"/>
+</PcGts>
